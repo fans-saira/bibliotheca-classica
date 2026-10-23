@@ -1,0 +1,14 @@
+# Arquivos gerados e temporários
+/tmp/
+/output/
+/livros/*/output/*
+!/livros/*/output/pdf/
+/livros/*/output/pdf/*
+!/livros/*/output/pdf/*-integral.pdf
+*.log
+*.tuc
+*.tuo
+*.synctex
+*.synctex.gz
+__pycache__/
+*.pyc

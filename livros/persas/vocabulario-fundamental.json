@@ -1,0 +1,865 @@
+{
+  "fonte": "https://dcc.dickinson.edu/greek-core-list",
+  "criterio": "Recorte editorial inicial: 150 posições mais frequentes do DCC, complementadas por 25 lemas elementares. Frequência é referência, não prova automática de facilidade.",
+  "lemas": [
+    {
+      "lema": "ὁ",
+      "rank": 1,
+      "origem": "DCC"
+    },
+    {
+      "lema": "αὐτός",
+      "rank": 2,
+      "origem": "DCC"
+    },
+    {
+      "lema": "καί",
+      "rank": 3,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δέ",
+      "rank": 4,
+      "origem": "DCC"
+    },
+    {
+      "lema": "τίς",
+      "rank": 5,
+      "origem": "DCC"
+    },
+    {
+      "lema": "εἰμί",
+      "rank": 6,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οὗτος",
+      "rank": 7,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἤ",
+      "rank": 8,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐν",
+      "rank": 9,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μέν",
+      "rank": 10,
+      "origem": "DCC"
+    },
+    {
+      "lema": "τις",
+      "rank": 11,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅς",
+      "rank": 12,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γάρ",
+      "rank": 13,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οὐ",
+      "rank": 14,
+      "origem": "DCC"
+    },
+    {
+      "lema": "λέγω",
+      "rank": 15,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὡς",
+      "rank": 16,
+      "origem": "DCC"
+    },
+    {
+      "lema": "τε",
+      "rank": 17,
+      "origem": "DCC"
+    },
+    {
+      "lema": "εἰς",
+      "rank": 18,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐπί",
+      "rank": 19,
+      "origem": "DCC"
+    },
+    {
+      "lema": "κατά",
+      "rank": 20,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐγώ",
+      "rank": 21,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πρός",
+      "rank": 22,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γίγνομαι",
+      "rank": 23,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐάν",
+      "rank": 24,
+      "origem": "DCC"
+    },
+    {
+      "lema": "διά",
+      "rank": 25,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἀλλά",
+      "rank": 26,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πᾶς",
+      "rank": 27,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἔχω",
+      "rank": 28,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐκ",
+      "rank": 29,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πολύς",
+      "rank": 30,
+      "origem": "DCC"
+    },
+    {
+      "lema": "περί",
+      "rank": 31,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μή",
+      "rank": 32,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅστις",
+      "rank": 33,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἄν",
+      "rank": 34,
+      "origem": "DCC"
+    },
+    {
+      "lema": "σύ",
+      "rank": 35,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἀνά",
+      "rank": 36,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅτι",
+      "rank": 37,
+      "origem": "DCC"
+    },
+    {
+      "lema": "εἰ",
+      "rank": 38,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἄλλος",
+      "rank": 39,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἀπό",
+      "rank": 40,
+      "origem": "DCC"
+    },
+    {
+      "lema": "φημί",
+      "rank": 41,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὑπό",
+      "rank": 42,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ποιέω",
+      "rank": 43,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οὖν",
+      "rank": 44,
+      "origem": "DCC"
+    },
+    {
+      "lema": "λόγος",
+      "rank": 45,
+      "origem": "DCC"
+    },
+    {
+      "lema": "παρά",
+      "rank": 46,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οὕτως",
+      "rank": 47,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πρότερος",
+      "rank": 48,
+      "origem": "DCC"
+    },
+    {
+      "lema": "θεός",
+      "rank": 49,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μετά",
+      "rank": 50,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἑαυτοῦ",
+      "rank": 51,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μέγας",
+      "rank": 52,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οὐδέ",
+      "rank": 53,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐκεῖνος",
+      "rank": 54,
+      "origem": "DCC"
+    },
+    {
+      "lema": "τοιοῦτος",
+      "rank": 55,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οὐδείς",
+      "rank": 56,
+      "origem": "DCC"
+    },
+    {
+      "lema": "εἶπον",
+      "rank": 57,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἀγαθός",
+      "rank": 58,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γε",
+      "rank": 59,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δή",
+      "rank": 60,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πόλις",
+      "rank": 61,
+      "origem": "DCC"
+    },
+    {
+      "lema": "εἷς",
+      "rank": 62,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἵημι",
+      "rank": 63,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δέω",
+      "rank": 64,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἄνθρωπος",
+      "rank": 65,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὁράω",
+      "rank": 66,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μόνος",
+      "rank": 67,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οὔτε",
+      "rank": 68,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οἷος",
+      "rank": 69,
+      "origem": "DCC"
+    },
+    {
+      "lema": "λαμβάνω",
+      "rank": 70,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δοκέω",
+      "rank": 71,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἕτερος",
+      "rank": 72,
+      "origem": "DCC"
+    },
+    {
+      "lema": "κακός",
+      "rank": 73,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἀνήρ",
+      "rank": 74,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐπεί",
+      "rank": 75,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅσος",
+      "rank": 76,
+      "origem": "DCC"
+    },
+    {
+      "lema": "καλέω",
+      "rank": 77,
+      "origem": "DCC"
+    },
+    {
+      "lema": "σῶμα",
+      "rank": 78,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δεῖ",
+      "rank": 79,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὥσπερ",
+      "rank": 80,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δίδωμι",
+      "rank": 81,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἔτι",
+      "rank": 82,
+      "origem": "DCC"
+    },
+    {
+      "lema": "φύσις",
+      "rank": 83,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μικρός",
+      "rank": 84,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δύναμαι",
+      "rank": 85,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὥστε",
+      "rank": 86,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἀρχή",
+      "rank": 87,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἕκαστος",
+      "rank": 88,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἡμέρα",
+      "rank": 89,
+      "origem": "DCC"
+    },
+    {
+      "lema": "φύω",
+      "rank": 90,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἅπας",
+      "rank": 91,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅμοιος",
+      "rank": 92,
+      "origem": "DCC"
+    },
+    {
+      "lema": "νῦν",
+      "rank": 93,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γῆ",
+      "rank": 94,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δύναμις",
+      "rank": 95,
+      "origem": "DCC"
+    },
+    {
+      "lema": "καλός",
+      "rank": 96,
+      "origem": "DCC"
+    },
+    {
+      "lema": "κύριος",
+      "rank": 97,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μᾶλλον",
+      "rank": 98,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅδε",
+      "rank": 99,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅλος",
+      "rank": 100,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μέρος",
+      "rank": 101,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἄρα",
+      "rank": 102,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἐμός",
+      "rank": 103,
+      "origem": "DCC"
+    },
+    {
+      "lema": "χράομαι",
+      "rank": 104,
+      "origem": "DCC"
+    },
+    {
+      "lema": "δύο",
+      "rank": 105,
+      "origem": "DCC"
+    },
+    {
+      "lema": "χρόνος",
+      "rank": 106,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἴσος",
+      "rank": 107,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὅταν",
+      "rank": 108,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μόνον",
+      "rank": 109,
+      "origem": "DCC"
+    },
+    {
+      "lema": "οἶδα",
+      "rank": 110,
+      "origem": "DCC"
+    },
+    {
+      "lema": "βασιλεύς",
+      "rank": 111,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὦ",
+      "rank": 112,
+      "origem": "DCC"
+    },
+    {
+      "lema": "βούλομαι",
+      "rank": 113,
+      "origem": "DCC"
+    },
+    {
+      "lema": "φαίνω",
+      "rank": 114,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γράφω",
+      "rank": 115,
+      "origem": "DCC"
+    },
+    {
+      "lema": "φέρω",
+      "rank": 116,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ψυχή",
+      "rank": 117,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μηδείς",
+      "rank": 118,
+      "origem": "DCC"
+    },
+    {
+      "lema": "αἴτιος",
+      "rank": 119,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πάλιν",
+      "rank": 120,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μάλιστα",
+      "rank": 121,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὑπάρχω",
+      "rank": 122,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἄρχω",
+      "rank": 123,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γυνή",
+      "rank": 124,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ποτε",
+      "rank": 125,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἵνα",
+      "rank": 126,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὄνομα",
+      "rank": 127,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὑπέρ",
+      "rank": 128,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἤδη",
+      "rank": 129,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πατήρ",
+      "rank": 130,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἀκούω",
+      "rank": 131,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γένος",
+      "rank": 132,
+      "origem": "DCC"
+    },
+    {
+      "lema": "τόπος",
+      "rank": 133,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πράσσω",
+      "rank": 134,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πρῶτος",
+      "rank": 135,
+      "origem": "DCC"
+    },
+    {
+      "lema": "εὑρίσκω",
+      "rank": 136,
+      "origem": "DCC"
+    },
+    {
+      "lema": "παῖς",
+      "rank": 137,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἔρχομαι",
+      "rank": 138,
+      "origem": "DCC"
+    },
+    {
+      "lema": "υἱός",
+      "rank": 139,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ὕδωρ",
+      "rank": 140,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἴδιος",
+      "rank": 141,
+      "origem": "DCC"
+    },
+    {
+      "lema": "σός",
+      "rank": 142,
+      "origem": "DCC"
+    },
+    {
+      "lema": "γιγνώσκω",
+      "rank": 143,
+      "origem": "DCC"
+    },
+    {
+      "lema": "τυγχάνω",
+      "rank": 144,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἵστημι",
+      "rank": 145,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἅμα",
+      "rank": 146,
+      "origem": "DCC"
+    },
+    {
+      "lema": "ἄγω",
+      "rank": 147,
+      "origem": "DCC"
+    },
+    {
+      "lema": "τρόπος",
+      "rank": 148,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μήτε",
+      "rank": 149,
+      "origem": "DCC"
+    },
+    {
+      "lema": "μέσος",
+      "rank": 150,
+      "origem": "DCC"
+    },
+    {
+      "lema": "πόλεμος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "θάνατος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "ζωή",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "φίλος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "ἀδελφός",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "ἀδελφή",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "μάχη",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "ὁδός",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "οἶκος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "οἰκία",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "ἵππος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "κεφαλή",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "χείρ",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "πούς",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "ὀφθαλμός",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "θάλασσα",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "πῦρ",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "σοφός",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "νέος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "πλούσιος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "κοινός",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "ἱερός",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "νῆσος",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "χώρα",
+      "origem": "seleção editorial fundamental"
+    },
+    {
+      "lema": "πέμπω",
+      "origem": "seleção editorial fundamental"
+    }
+  ],
+  "excecoes": "Manter crases, variantes poéticas, regências contextuais e formas verbais ou graus adjetivais difíceis, sem repetir o sentido básico.",
+  "explicitas_exclusoes": [
+    "πόλεμος",
+    "μέγας"
+  ],
+  "manter_vocabulário": [
+    "ἄστυ",
+    "αἶα"
+  ]
+}

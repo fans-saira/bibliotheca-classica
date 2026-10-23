@@ -1,0 +1,10007 @@
+[
+  {
+    "lema": "ὁ",
+    "homonym_headword": "ὁ",
+    "rank": 1
+  },
+  {
+    "lema": "καί",
+    "homonym_headword": "καί",
+    "rank": 2
+  },
+  {
+    "lema": "δέ",
+    "homonym_headword": "δέ",
+    "rank": 3
+  },
+  {
+    "lema": "εἰμί",
+    "homonym_headword": "εἰμί",
+    "rank": 4
+  },
+  {
+    "lema": "αὐτός",
+    "homonym_headword": "αὐτός",
+    "rank": 5
+  },
+  {
+    "lema": "οὗτος",
+    "homonym_headword": "οὗτος",
+    "rank": 6
+  },
+  {
+    "lema": "μέν",
+    "homonym_headword": "μέν",
+    "rank": 7
+  },
+  {
+    "lema": "οὐ",
+    "homonym_headword": "οὐ",
+    "rank": 8
+  },
+  {
+    "lema": "ὅς",
+    "homonym_headword": "ὅς",
+    "rank": 9
+  },
+  {
+    "lema": "γάρ",
+    "homonym_headword": "γάρ",
+    "rank": 10
+  },
+  {
+    "lema": "τε",
+    "homonym_headword": "τε",
+    "rank": 11
+  },
+  {
+    "lema": "ἐν",
+    "homonym_headword": "ἐν",
+    "rank": 12
+  },
+  {
+    "lema": "εἰς",
+    "homonym_headword": "εἰς",
+    "rank": 13
+  },
+  {
+    "lema": "τις",
+    "homonym_headword": "τις",
+    "rank": 14
+  },
+  {
+    "lema": "λέγω",
+    "homonym_headword": "λέγω",
+    "rank": 15
+  },
+  {
+    "lema": "πρός",
+    "homonym_headword": "πρός",
+    "rank": 16
+  },
+  {
+    "lema": "ἐγώ",
+    "homonym_headword": "ἐγώ",
+    "rank": 17
+  },
+  {
+    "lema": "ὡς",
+    "homonym_headword": "ὡς",
+    "rank": 18
+  },
+  {
+    "lema": "ἐπί",
+    "homonym_headword": "ἐπί",
+    "rank": 19
+  },
+  {
+    "lema": "ἀλλά",
+    "homonym_headword": "ἀλλά",
+    "rank": 20
+  },
+  {
+    "lema": "πολύς",
+    "homonym_headword": "πολύς",
+    "rank": 21
+  },
+  {
+    "lema": "ἤ",
+    "homonym_headword": "ἤ",
+    "rank": 22
+  },
+  {
+    "lema": "πᾶς",
+    "homonym_headword": "πᾶς",
+    "rank": 23
+  },
+  {
+    "lema": "ἔχω",
+    "homonym_headword": "ἔχω",
+    "rank": 24
+  },
+  {
+    "lema": "ἄν",
+    "homonym_headword": "ἄν",
+    "rank": 25
+  },
+  {
+    "lema": "κατά",
+    "homonym_headword": "κατά",
+    "rank": 26
+  },
+  {
+    "lema": "γίγνομαι",
+    "homonym_headword": "γίγνομαι",
+    "rank": 27
+  },
+  {
+    "lema": "μή",
+    "homonym_headword": "μή",
+    "rank": 28
+  },
+  {
+    "lema": "περί",
+    "homonym_headword": "περί",
+    "rank": 29
+  },
+  {
+    "lema": "ἐκ",
+    "homonym_headword": "ἐκ",
+    "rank": 30
+  },
+  {
+    "lema": "ἄλλος",
+    "homonym_headword": "ἄλλος",
+    "rank": 31
+  },
+  {
+    "lema": "σύ",
+    "homonym_headword": "σύ",
+    "rank": 32
+  },
+  {
+    "lema": "εἰ",
+    "homonym_headword": "εἰ",
+    "rank": 33
+  },
+  {
+    "lema": "διά",
+    "homonym_headword": "διά",
+    "rank": 34
+  },
+  {
+    "lema": "ποιέω",
+    "homonym_headword": "ποιέω",
+    "rank": 35
+  },
+  {
+    "lema": "φημί",
+    "homonym_headword": "φημί",
+    "rank": 36
+  },
+  {
+    "lema": "οὖν",
+    "homonym_headword": "οὖν",
+    "rank": 37
+  },
+  {
+    "lema": "ὅτι",
+    "homonym_headword": "ὅτι2",
+    "rank": 38
+  },
+  {
+    "lema": "ὑπό",
+    "homonym_headword": "ὑπό",
+    "rank": 39
+  },
+  {
+    "lema": "πόλις",
+    "homonym_headword": "πόλις",
+    "rank": 40
+  },
+  {
+    "lema": "παρά",
+    "homonym_headword": "παρά",
+    "rank": 41
+  },
+  {
+    "lema": "δή",
+    "homonym_headword": "δή",
+    "rank": 42
+  },
+  {
+    "lema": "ἀπό",
+    "homonym_headword": "ἀπό",
+    "rank": 43
+  },
+  {
+    "lema": "τίς",
+    "homonym_headword": "τίς",
+    "rank": 44
+  },
+  {
+    "lema": "ἐκεῖνος",
+    "homonym_headword": "ἐκεῖνος",
+    "rank": 45
+  },
+  {
+    "lema": "ἡμεῖς",
+    "homonym_headword": "ἡμεῖς",
+    "rank": 46
+  },
+  {
+    "lema": "ἑαυτοῦ",
+    "homonym_headword": "ἑαυτοῦ",
+    "rank": 47
+  },
+  {
+    "lema": "γε",
+    "homonym_headword": "γε",
+    "rank": 48
+  },
+  {
+    "lema": "μετά",
+    "homonym_headword": "μετά",
+    "rank": 49
+  },
+  {
+    "lema": "οὐδέ",
+    "homonym_headword": "οὐδέ",
+    "rank": 50
+  },
+  {
+    "lema": "μέγας",
+    "homonym_headword": "μέγας",
+    "rank": 51
+  },
+  {
+    "lema": "ὑμεῖς",
+    "homonym_headword": "ὑμεῖς",
+    "rank": 52
+  },
+  {
+    "lema": "ἀνήρ",
+    "homonym_headword": "ἀνήρ",
+    "rank": 53
+  },
+  {
+    "lema": "οὐδείς",
+    "homonym_headword": "οὐδείς",
+    "rank": 54
+  },
+  {
+    "lema": "ὦ",
+    "homonym_headword": "ὦ",
+    "rank": 55
+  },
+  {
+    "lema": "οὕτως",
+    "homonym_headword": "οὕτως",
+    "rank": 56
+  },
+  {
+    "lema": "λόγος",
+    "homonym_headword": "λόγος",
+    "rank": 57
+  },
+  {
+    "lema": "ἐάν",
+    "homonym_headword": "ἐάν",
+    "rank": 58
+  },
+  {
+    "lema": "θεός",
+    "homonym_headword": "θεός",
+    "rank": 59
+  },
+  {
+    "lema": "ὁράω",
+    "homonym_headword": "ὁράω",
+    "rank": 60
+  },
+  {
+    "lema": "ὅδε",
+    "homonym_headword": "ὅδε",
+    "rank": 61
+  },
+  {
+    "lema": "δοκέω",
+    "homonym_headword": "δοκέω",
+    "rank": 62
+  },
+  {
+    "lema": "ἐπεί",
+    "homonym_headword": "ἐπεί",
+    "rank": 63
+  },
+  {
+    "lema": "τοιοῦτος",
+    "homonym_headword": "τοιοῦτος",
+    "rank": 64
+  },
+  {
+    "lema": "νῦν",
+    "homonym_headword": "νῦν",
+    "rank": 65
+  },
+  {
+    "lema": "οὔτε",
+    "homonym_headword": "οὔτε",
+    "rank": 66
+  },
+  {
+    "lema": "δεῖ",
+    "homonym_headword": "δεῖ",
+    "rank": 67
+  },
+  {
+    "lema": "πρῶτος",
+    "homonym_headword": "πρῶτος",
+    "rank": 68
+  },
+  {
+    "lema": "λαμβάνω",
+    "homonym_headword": "λαμβάνω",
+    "rank": 69
+  },
+  {
+    "lema": "ἄρα",
+    "homonym_headword": "ἄρα",
+    "rank": 70
+  },
+  {
+    "lema": "καλός",
+    "homonym_headword": "καλός",
+    "rank": 71
+  },
+  {
+    "lema": "εἷς",
+    "homonym_headword": "εἷς",
+    "rank": 72
+  },
+  {
+    "lema": "μόνος",
+    "homonym_headword": "μόνος",
+    "rank": 73
+  },
+  {
+    "lema": "βασιλεύς",
+    "homonym_headword": "βασιλεύς",
+    "rank": 74
+  },
+  {
+    "lema": "ἄνθρωπος",
+    "homonym_headword": "ἄνθρωπος",
+    "rank": 75
+  },
+  {
+    "lema": "ἔτι",
+    "homonym_headword": "ἔτι",
+    "rank": 76
+  },
+  {
+    "lema": "ὅσος",
+    "homonym_headword": "ὅσος",
+    "rank": 77
+  },
+  {
+    "lema": "δίδωμι",
+    "homonym_headword": "δίδωμι",
+    "rank": 78
+  },
+  {
+    "lema": "οἶδα",
+    "homonym_headword": "οἶδα",
+    "rank": 79
+  },
+  {
+    "lema": "βούλομαι",
+    "homonym_headword": "βούλομαι",
+    "rank": 80
+  },
+  {
+    "lema": "ὥστε",
+    "homonym_headword": "ὥστε",
+    "rank": 81
+  },
+  {
+    "lema": "ἅπας",
+    "homonym_headword": "ἅπας",
+    "rank": 82
+  },
+  {
+    "lema": "ἕτερος",
+    "homonym_headword": "ἕτερος",
+    "rank": 83
+  },
+  {
+    "lema": "κακός",
+    "homonym_headword": "κακός",
+    "rank": 84
+  },
+  {
+    "lema": "οἷος",
+    "homonym_headword": "οἷος",
+    "rank": 85
+  },
+  {
+    "lema": "ἕκαστος",
+    "homonym_headword": "ἕκαστος",
+    "rank": 86
+  },
+  {
+    "lema": "παῖς",
+    "homonym_headword": "παῖς",
+    "rank": 87
+  },
+  {
+    "lema": "φίλος",
+    "homonym_headword": "φίλος",
+    "rank": 88
+  },
+  {
+    "lema": "μᾶλλον",
+    "homonym_headword": "μᾶλλον",
+    "rank": 89
+  },
+  {
+    "lema": "ἤδη",
+    "homonym_headword": "ἤδη",
+    "rank": 90
+  },
+  {
+    "lema": "ἴσος",
+    "homonym_headword": "ἴσος",
+    "rank": 91
+  },
+  {
+    "lema": "δύναμαι",
+    "homonym_headword": "δύναμαι",
+    "rank": 92
+  },
+  {
+    "lema": "ἀκούω",
+    "homonym_headword": "ἀκούω",
+    "rank": 93
+  },
+  {
+    "lema": "ἀγαθός",
+    "homonym_headword": "ἀγαθός",
+    "rank": 94
+  },
+  {
+    "lema": "πατήρ",
+    "homonym_headword": "πατήρ",
+    "rank": 95
+  },
+  {
+    "lema": "πράσσω",
+    "homonym_headword": "πράσσω",
+    "rank": 96
+  },
+  {
+    "lema": "ἔρχομαι",
+    "homonym_headword": "ἔρχομαι",
+    "rank": 97
+  },
+  {
+    "lema": "ἀρχή",
+    "homonym_headword": "ἀρχή",
+    "rank": 98
+  },
+  {
+    "lema": "ὥσπερ",
+    "homonym_headword": "ὥσπερ",
+    "rank": 99
+  },
+  {
+    "lema": "καλέω",
+    "homonym_headword": "καλέω",
+    "rank": 100
+  },
+  {
+    "lema": "Ἀθηναῖος",
+    "homonym_headword": "Ἀθηναῖος",
+    "rank": 101
+  },
+  {
+    "lema": "νόμος",
+    "homonym_headword": "νόμος",
+    "rank": 102
+  },
+  {
+    "lema": "ὑπέρ",
+    "homonym_headword": "ὑπέρ",
+    "rank": 103
+  },
+  {
+    "lema": "γυνή",
+    "homonym_headword": "γυνή",
+    "rank": 104
+  },
+  {
+    "lema": "γῆ",
+    "homonym_headword": "γῆ",
+    "rank": 105
+  },
+  {
+    "lema": "μηδείς",
+    "homonym_headword": "μηδείς",
+    "rank": 106
+  },
+  {
+    "lema": "οἴομαι",
+    "homonym_headword": "οἴομαι",
+    "rank": 107
+  },
+  {
+    "lema": "ναῦς",
+    "homonym_headword": "ναῦς",
+    "rank": 108
+  },
+  {
+    "lema": "τότε",
+    "homonym_headword": "τότε",
+    "rank": 109
+  },
+  {
+    "lema": "μάλιστα",
+    "homonym_headword": "μάλιστα",
+    "rank": 110
+  },
+  {
+    "lema": "φέρω",
+    "homonym_headword": "φέρω",
+    "rank": 111
+  },
+  {
+    "lema": "χρόνος",
+    "homonym_headword": "χρόνος",
+    "rank": 112
+  },
+  {
+    "lema": "ποτε",
+    "homonym_headword": "ποτε",
+    "rank": 113
+  },
+  {
+    "lema": "δύναμις",
+    "homonym_headword": "δύναμις",
+    "rank": 114
+  },
+  {
+    "lema": "πόλεμος",
+    "homonym_headword": "πόλεμος",
+    "rank": 115
+  },
+  {
+    "lema": "δύο",
+    "homonym_headword": "δύο",
+    "rank": 116
+  },
+  {
+    "lema": "ἄγω",
+    "homonym_headword": "ἄγω",
+    "rank": 117
+  },
+  {
+    "lema": "ἡμέρα",
+    "homonym_headword": "ἡμέρα",
+    "rank": 118
+  },
+  {
+    "lema": "δίκαιος",
+    "homonym_headword": "δίκαιος",
+    "rank": 119
+  },
+  {
+    "lema": "χράομαι",
+    "homonym_headword": "χράομαι",
+    "rank": 120
+  },
+  {
+    "lema": "ἄρχω",
+    "homonym_headword": "ἄρχω",
+    "rank": 121
+  },
+  {
+    "lema": "ἔργον",
+    "homonym_headword": "ἔργον",
+    "rank": 122
+  },
+  {
+    "lema": "φαίνω",
+    "homonym_headword": "φαίνω",
+    "rank": 123
+  },
+  {
+    "lema": "Ζεύς",
+    "homonym_headword": "Ζεύς",
+    "rank": 124
+  },
+  {
+    "lema": "ἵνα",
+    "homonym_headword": "ἵνα",
+    "rank": 125
+  },
+  {
+    "lema": "ἅμα",
+    "homonym_headword": "ἅμα",
+    "rank": 126
+  },
+  {
+    "lema": "πρᾶγμα",
+    "homonym_headword": "πρᾶγμα",
+    "rank": 127
+  },
+  {
+    "lema": "πάρειμι",
+    "homonym_headword": "πάρειμι",
+    "rank": 128
+  },
+  {
+    "lema": "πρότερος",
+    "homonym_headword": "πρότερος",
+    "rank": 129
+  },
+  {
+    "lema": "πείθω",
+    "homonym_headword": "πείθω",
+    "rank": 130
+  },
+  {
+    "lema": "πῶς",
+    "homonym_headword": "πῶς",
+    "rank": 131
+  },
+  {
+    "lema": "ἐθέλω",
+    "homonym_headword": "ἐθέλω",
+    "rank": 132
+  },
+  {
+    "lema": "τυγχάνω",
+    "homonym_headword": "τυγχάνω",
+    "rank": 133
+  },
+  {
+    "lema": "μέρος",
+    "homonym_headword": "μέρος",
+    "rank": 134
+  },
+  {
+    "lema": "ἐμός",
+    "homonym_headword": "ἐμός",
+    "rank": 135
+  },
+  {
+    "lema": "ὅμοιος",
+    "homonym_headword": "ὅμοιος",
+    "rank": 136
+  },
+  {
+    "lema": "ἀλλήλων",
+    "homonym_headword": "ἀλλήλων",
+    "rank": 137
+  },
+  {
+    "lema": "μηδέ",
+    "homonym_headword": "μηδέ",
+    "rank": 138
+  },
+  {
+    "lema": "ὅλος",
+    "homonym_headword": "ὅλος",
+    "rank": 139
+  },
+  {
+    "lema": "ἀποθνῄσκω",
+    "homonym_headword": "ἀποθνῄσκω",
+    "rank": 140
+  },
+  {
+    "lema": "σῶμα",
+    "homonym_headword": "σῶμα",
+    "rank": 141
+  },
+  {
+    "lema": "μήν",
+    "homonym_headword": "μήν",
+    "rank": 142
+  },
+  {
+    "lema": "χείρ",
+    "homonym_headword": "χείρ",
+    "rank": 143
+  },
+  {
+    "lema": "χώρα",
+    "homonym_headword": "χώρα",
+    "rank": 144
+  },
+  {
+    "lema": "μήτε",
+    "homonym_headword": "μήτε",
+    "rank": 145
+  },
+  {
+    "lema": "ἀεί",
+    "homonym_headword": "ἀεί",
+    "rank": 146
+  },
+  {
+    "lema": "Ῥωμαῖος",
+    "homonym_headword": "Ῥωμαῖος",
+    "rank": 147
+  },
+  {
+    "lema": "πάλιν",
+    "homonym_headword": "πάλιν",
+    "rank": 148
+  },
+  {
+    "lema": "μέλλω",
+    "homonym_headword": "μέλλω",
+    "rank": 149
+  },
+  {
+    "lema": "πολέμιος",
+    "homonym_headword": "πολέμιος",
+    "rank": 150
+  },
+  {
+    "lema": "χρή",
+    "homonym_headword": "χρή",
+    "rank": 151
+  },
+  {
+    "lema": "σφεῖς",
+    "homonym_headword": "σφεῖς",
+    "rank": 152
+  },
+  {
+    "lema": "πλῆθος",
+    "homonym_headword": "πλῆθος",
+    "rank": 153
+  },
+  {
+    "lema": "τίθημι",
+    "homonym_headword": "τίθημι",
+    "rank": 154
+  },
+  {
+    "lema": "τοσοῦτος",
+    "homonym_headword": "τοσοῦτος",
+    "rank": 155
+  },
+  {
+    "lema": "κελεύω",
+    "homonym_headword": "κελεύω",
+    "rank": 156
+  },
+  {
+    "lema": "γιγνώσκω",
+    "homonym_headword": "γιγνώσκω",
+    "rank": 157
+  },
+  {
+    "lema": "μικρός",
+    "homonym_headword": "μικρός",
+    "rank": 158
+  },
+  {
+    "lema": "φύσις",
+    "homonym_headword": "φύσις",
+    "rank": 159
+  },
+  {
+    "lema": "ὅπως",
+    "homonym_headword": "ὅπως",
+    "rank": 160
+  },
+  {
+    "lema": "ἡγέομαι",
+    "homonym_headword": "ἡγέομαι",
+    "rank": 161
+  },
+  {
+    "lema": "νομίζω",
+    "homonym_headword": "νομίζω",
+    "rank": 162
+  },
+  {
+    "lema": "πάσχω",
+    "homonym_headword": "πάσχω",
+    "rank": 163
+  },
+  {
+    "lema": "εὐθύς",
+    "homonym_headword": "εὐθύς",
+    "rank": 164
+  },
+  {
+    "lema": "Ἕλλην",
+    "homonym_headword": "Ἕλλην",
+    "rank": 165
+  },
+  {
+    "lema": "ὅστις",
+    "homonym_headword": "ὅστις",
+    "rank": 166
+  },
+  {
+    "lema": "ὀλίγος",
+    "homonym_headword": "ὀλίγος",
+    "rank": 167
+  },
+  {
+    "lema": "ὅταν",
+    "homonym_headword": "ὅταν",
+    "rank": 168
+  },
+  {
+    "lema": "χρῆμα",
+    "homonym_headword": "χρῆμα",
+    "rank": 169
+  },
+  {
+    "lema": "σύν",
+    "homonym_headword": "σύν",
+    "rank": 170
+  },
+  {
+    "lema": "ὄνομα",
+    "homonym_headword": "ὄνομα",
+    "rank": 171
+  },
+  {
+    "lema": "τρόπος",
+    "homonym_headword": "τρόπος",
+    "rank": 172
+  },
+  {
+    "lema": "συμβαίνω",
+    "homonym_headword": "συμβαίνω",
+    "rank": 173
+  },
+  {
+    "lema": "αἱρέω",
+    "homonym_headword": "αἱρέω",
+    "rank": 174
+  },
+  {
+    "lema": "θάλασσα",
+    "homonym_headword": "θάλασσα",
+    "rank": 175
+  },
+  {
+    "lema": "πέμπω",
+    "homonym_headword": "πέμπω",
+    "rank": 176
+  },
+  {
+    "lema": "ἀληθής",
+    "homonym_headword": "ἀληθής",
+    "rank": 177
+  },
+  {
+    "lema": "ἴδιος",
+    "homonym_headword": "ἴδιος",
+    "rank": 178
+  },
+  {
+    "lema": "υἱός",
+    "homonym_headword": "υἱός",
+    "rank": 179
+  },
+  {
+    "lema": "γράφω",
+    "homonym_headword": "γράφω",
+    "rank": 180
+  },
+  {
+    "lema": "ψυχή",
+    "homonym_headword": "ψυχή",
+    "rank": 180
+  },
+  {
+    "lema": "κοινός",
+    "homonym_headword": "κοινός",
+    "rank": 182
+  },
+  {
+    "lema": "εὖ",
+    "homonym_headword": "εὖ",
+    "rank": 183
+  },
+  {
+    "lema": "λοιπός",
+    "homonym_headword": "λοιπός",
+    "rank": 184
+  },
+  {
+    "lema": "ὀρθός",
+    "homonym_headword": "ὀρθός",
+    "rank": 185
+  },
+  {
+    "lema": "μέχρι",
+    "homonym_headword": "μέχρι",
+    "rank": 186
+  },
+  {
+    "lema": "εὑρίσκω",
+    "homonym_headword": "εὑρίσκω",
+    "rank": 187
+  },
+  {
+    "lema": "ἐναντίος",
+    "homonym_headword": "ἐναντίος",
+    "rank": 188
+  },
+  {
+    "lema": "ὅτε",
+    "homonym_headword": "ὅτε",
+    "rank": 189
+  },
+  {
+    "lema": "παρέχω",
+    "homonym_headword": "παρέχω",
+    "rank": 190
+  },
+  {
+    "lema": "μέσος",
+    "homonym_headword": "μέσος",
+    "rank": 191
+  },
+  {
+    "lema": "δεινός",
+    "homonym_headword": "δεινός",
+    "rank": 192
+  },
+  {
+    "lema": "καθίστημι",
+    "homonym_headword": "καθίστημι",
+    "rank": 193
+  },
+  {
+    "lema": "ἀρετή",
+    "homonym_headword": "ἀρετή",
+    "rank": 194
+  },
+  {
+    "lema": "τοίνυν",
+    "homonym_headword": "τοίνυν",
+    "rank": 195
+  },
+  {
+    "lema": "φεύγω",
+    "homonym_headword": "φεύγω",
+    "rank": 196
+  },
+  {
+    "lema": "τόπος",
+    "homonym_headword": "τόπος",
+    "rank": 197
+  },
+  {
+    "lema": "βίος",
+    "homonym_headword": "βίος",
+    "rank": 198
+  },
+  {
+    "lema": "δέω",
+    "homonym_headword": "δέω2",
+    "rank": 199
+  },
+  {
+    "lema": "ἥκω",
+    "homonym_headword": "ἥκω",
+    "rank": 200
+  },
+  {
+    "lema": "Λακεδαιμόνιος",
+    "homonym_headword": "Λακεδαιμόνιος",
+    "rank": 201
+  },
+  {
+    "lema": "ἄξιος",
+    "homonym_headword": "ἄξιος",
+    "rank": 202
+  },
+  {
+    "lema": "ταχύς",
+    "homonym_headword": "ταχύς",
+    "rank": 203
+  },
+  {
+    "lema": "δῆμος",
+    "homonym_headword": "δῆμος",
+    "rank": 204
+  },
+  {
+    "lema": "καιρός",
+    "homonym_headword": "καιρός",
+    "rank": 205
+  },
+  {
+    "lema": "εἶτα",
+    "homonym_headword": "εἶτα",
+    "rank": 206
+  },
+  {
+    "lema": "σός",
+    "homonym_headword": "σός",
+    "rank": 206
+  },
+  {
+    "lema": "ἔπειτα",
+    "homonym_headword": "ἔπειτα",
+    "rank": 208
+  },
+  {
+    "lema": "ζήω",
+    "homonym_headword": "ζήω",
+    "rank": 209
+  },
+  {
+    "lema": "στρατηγός",
+    "homonym_headword": "στρατηγός",
+    "rank": 210
+  },
+  {
+    "lema": "ὑπάρχω",
+    "homonym_headword": "ὑπάρχω",
+    "rank": 211
+  },
+  {
+    "lema": "γένος",
+    "homonym_headword": "γένος",
+    "rank": 212
+  },
+  {
+    "lema": "δίκη",
+    "homonym_headword": "δίκη",
+    "rank": 213
+  },
+  {
+    "lema": "μάχη",
+    "homonym_headword": "μάχη",
+    "rank": 214
+  },
+  {
+    "lema": "ἀξιόω",
+    "homonym_headword": "ἀξιόω",
+    "rank": 215
+  },
+  {
+    "lema": "πάνυ",
+    "homonym_headword": "πάνυ",
+    "rank": 216
+  },
+  {
+    "lema": "ἵππος",
+    "homonym_headword": "ἵππος",
+    "rank": 217
+  },
+  {
+    "lema": "ποταμός",
+    "homonym_headword": "ποταμός",
+    "rank": 218
+  },
+  {
+    "lema": "εἶμι",
+    "homonym_headword": "εἶμι",
+    "rank": 219
+  },
+  {
+    "lema": "μανθάνω",
+    "homonym_headword": "μανθάνω",
+    "rank": 219
+  },
+  {
+    "lema": "μήτηρ",
+    "homonym_headword": "μήτηρ",
+    "rank": 221
+  },
+  {
+    "lema": "μέντοι",
+    "homonym_headword": "μέντοι",
+    "rank": 222
+  },
+  {
+    "lema": "ἀνάγκη",
+    "homonym_headword": "ἀνάγκη",
+    "rank": 223
+  },
+  {
+    "lema": "ἵστημι",
+    "homonym_headword": "ἵστημι",
+    "rank": 224
+  },
+  {
+    "lema": "ἀδικέω",
+    "homonym_headword": "ἀδικέω",
+    "rank": 225
+  },
+  {
+    "lema": "ἀπόλλυμι",
+    "homonym_headword": "ἀπόλλυμι",
+    "rank": 226
+  },
+  {
+    "lema": "ἀφικνέομαι",
+    "homonym_headword": "ἀφικνέομαι",
+    "rank": 227
+  },
+  {
+    "lema": "αὖ",
+    "homonym_headword": "αὖ",
+    "rank": 228
+  },
+  {
+    "lema": "νέος",
+    "homonym_headword": "νέος",
+    "rank": 229
+  },
+  {
+    "lema": "ἔτος",
+    "homonym_headword": "ἔτος",
+    "rank": 230
+  },
+  {
+    "lema": "ἀδελφός",
+    "homonym_headword": "ἀδελφός",
+    "rank": 231
+  },
+  {
+    "lema": "τρεῖς",
+    "homonym_headword": "τρεῖς",
+    "rank": 232
+  },
+  {
+    "lema": "ἱερός",
+    "homonym_headword": "ἱερός",
+    "rank": 233
+  },
+  {
+    "lema": "ὕστερος",
+    "homonym_headword": "ὕστερος",
+    "rank": 234
+  },
+  {
+    "lema": "πρό",
+    "homonym_headword": "πρό",
+    "rank": 235
+  },
+  {
+    "lema": "τεῖχος",
+    "homonym_headword": "τεῖχος",
+    "rank": 236
+  },
+  {
+    "lema": "οὗ",
+    "homonym_headword": "οὗ2",
+    "rank": 237
+  },
+  {
+    "lema": "τέλος",
+    "homonym_headword": "τέλος",
+    "rank": 238
+  },
+  {
+    "lema": "ἕνεκα",
+    "homonym_headword": "ἕνεκα",
+    "rank": 239
+  },
+  {
+    "lema": "ἀμφότερος",
+    "homonym_headword": "ἀμφότερος",
+    "rank": 240
+  },
+  {
+    "lema": "αἰτία",
+    "homonym_headword": "αἰτία",
+    "rank": 241
+  },
+  {
+    "lema": "νύξ",
+    "homonym_headword": "νύξ",
+    "rank": 242
+  },
+  {
+    "lema": "δείκνυμι",
+    "homonym_headword": "δείκνυμι",
+    "rank": 243
+  },
+  {
+    "lema": "σκοπέω",
+    "homonym_headword": "σκοπέω",
+    "rank": 244
+  },
+  {
+    "lema": "που",
+    "homonym_headword": "που",
+    "rank": 245
+  },
+  {
+    "lema": "κεῖμαι",
+    "homonym_headword": "κεῖμαι",
+    "rank": 246
+  },
+  {
+    "lema": "Σωκράτης",
+    "homonym_headword": "Σωκράτης",
+    "rank": 247
+  },
+  {
+    "lema": "ἄριστος",
+    "homonym_headword": "ἄριστος",
+    "rank": 248
+  },
+  {
+    "lema": "ἑκάτερος",
+    "homonym_headword": "ἑκάτερος",
+    "rank": 249
+  },
+  {
+    "lema": "ἔοικα",
+    "homonym_headword": "ἔοικα",
+    "rank": 250
+  },
+  {
+    "lema": "ῥᾴδιος",
+    "homonym_headword": "ῥᾴδιος",
+    "rank": 251
+  },
+  {
+    "lema": "σύμμαχος",
+    "homonym_headword": "σύμμαχος",
+    "rank": 252
+  },
+  {
+    "lema": "εἰκός",
+    "homonym_headword": "εἰκός",
+    "rank": 253
+  },
+  {
+    "lema": "γνώμη",
+    "homonym_headword": "γνώμη",
+    "rank": 254
+  },
+  {
+    "lema": "ἱκανός",
+    "homonym_headword": "ἱκανός",
+    "rank": 255
+  },
+  {
+    "lema": "δόξα",
+    "homonym_headword": "δόξα",
+    "rank": 256
+  },
+  {
+    "lema": "κρατέω",
+    "homonym_headword": "κρατέω",
+    "rank": 257
+  },
+  {
+    "lema": "καθά",
+    "homonym_headword": "καθά",
+    "rank": 258
+  },
+  {
+    "lema": "μένω",
+    "homonym_headword": "μένω",
+    "rank": 259
+  },
+  {
+    "lema": "σῴζω",
+    "homonym_headword": "σῴζω",
+    "rank": 260
+  },
+  {
+    "lema": "κρίνω",
+    "homonym_headword": "κρίνω",
+    "rank": 261
+  },
+  {
+    "lema": "ὁμολογέω",
+    "homonym_headword": "ὁμολογέω",
+    "rank": 262
+  },
+  {
+    "lema": "οἰκεῖος",
+    "homonym_headword": "οἰκεῖος",
+    "rank": 263
+  },
+  {
+    "lema": "ἀριθμός",
+    "homonym_headword": "ἀριθμός",
+    "rank": 264
+  },
+  {
+    "lema": "πρέσβυς",
+    "homonym_headword": "πρέσβυς",
+    "rank": 265
+  },
+  {
+    "lema": "βελτίων",
+    "homonym_headword": "βελτίων",
+    "rank": 266
+  },
+  {
+    "lema": "ἱππεύς",
+    "homonym_headword": "ἱππεύς",
+    "rank": 266
+  },
+  {
+    "lema": "πυνθάνομαι",
+    "homonym_headword": "πυνθάνομαι",
+    "rank": 268
+  },
+  {
+    "lema": "θάνατος",
+    "homonym_headword": "θάνατος",
+    "rank": 269
+  },
+  {
+    "lema": "πρίν",
+    "homonym_headword": "πρίν",
+    "rank": 270
+  },
+  {
+    "lema": "ἀποδίδωμι",
+    "homonym_headword": "ἀποδίδωμι",
+    "rank": 270
+  },
+  {
+    "lema": "διαφέρω",
+    "homonym_headword": "διαφέρω",
+    "rank": 272
+  },
+  {
+    "lema": "διό",
+    "homonym_headword": "διό",
+    "rank": 272
+  },
+  {
+    "lema": "ὁδός",
+    "homonym_headword": "ὁδός",
+    "rank": 274
+  },
+  {
+    "lema": "καταλείπω",
+    "homonym_headword": "καταλείπω",
+    "rank": 275
+  },
+  {
+    "lema": "ἡδύς",
+    "homonym_headword": "ἡδύς",
+    "rank": 276
+  },
+  {
+    "lema": "ξένος",
+    "homonym_headword": "ξένος",
+    "rank": 277
+  },
+  {
+    "lema": "ἐλάσσων",
+    "homonym_headword": "ἐλάσσων",
+    "rank": 278
+  },
+  {
+    "lema": "δέχομαι",
+    "homonym_headword": "δέχομαι",
+    "rank": 279
+  },
+  {
+    "lema": "εἴτε",
+    "homonym_headword": "εἴτε",
+    "rank": 279
+  },
+  {
+    "lema": "νικάω",
+    "homonym_headword": "νικάω",
+    "rank": 281
+  },
+  {
+    "lema": "ἀναιρέω",
+    "homonym_headword": "ἀναιρέω",
+    "rank": 282
+  },
+  {
+    "lema": "Καῖσαρ",
+    "homonym_headword": "Καῖσαρ",
+    "rank": 283
+  },
+  {
+    "lema": "οἶκος",
+    "homonym_headword": "οἶκος",
+    "rank": 283
+  },
+  {
+    "lema": "αὖθις",
+    "homonym_headword": "αὖθις",
+    "rank": 285
+  },
+  {
+    "lema": "χάρις",
+    "homonym_headword": "χάρις",
+    "rank": 286
+  },
+  {
+    "lema": "ὕδωρ",
+    "homonym_headword": "ὕδωρ",
+    "rank": 287
+  },
+  {
+    "lema": "πολίτης",
+    "homonym_headword": "πολίτης",
+    "rank": 288
+  },
+  {
+    "lema": "ἐάω",
+    "homonym_headword": "ἐάω",
+    "rank": 289
+  },
+  {
+    "lema": "τελευτάω",
+    "homonym_headword": "τελευτάω",
+    "rank": 290
+  },
+  {
+    "lema": "βάρβαρος",
+    "homonym_headword": "βάρβαρος",
+    "rank": 291
+  },
+  {
+    "lema": "ἐχθρός",
+    "homonym_headword": "ἐχθρός",
+    "rank": 292
+  },
+  {
+    "lema": "ἐνταῦθα",
+    "homonym_headword": "ἐνταῦθα",
+    "rank": 293
+  },
+  {
+    "lema": "ἀφίημι",
+    "homonym_headword": "ἀφίημι",
+    "rank": 294
+  },
+  {
+    "lema": "ἡδονή",
+    "homonym_headword": "ἡδονή",
+    "rank": 295
+  },
+  {
+    "lema": "τέχνη",
+    "homonym_headword": "τέχνη",
+    "rank": 296
+  },
+  {
+    "lema": "κίνδυνος",
+    "homonym_headword": "κίνδυνος",
+    "rank": 297
+  },
+  {
+    "lema": "παραδίδωμι",
+    "homonym_headword": "παραδίδωμι",
+    "rank": 298
+  },
+  {
+    "lema": "πούς",
+    "homonym_headword": "πούς",
+    "rank": 298
+  },
+  {
+    "lema": "δυνατός",
+    "homonym_headword": "δυνατός",
+    "rank": 300
+  },
+  {
+    "lema": "Ἀλέξανδρος",
+    "homonym_headword": "Ἀλέξανδρος",
+    "rank": 301
+  },
+  {
+    "lema": "καταλαμβάνω",
+    "homonym_headword": "καταλαμβάνω",
+    "rank": 302
+  },
+  {
+    "lema": "δῆλος",
+    "homonym_headword": "δῆλος",
+    "rank": 303
+  },
+  {
+    "lema": "ὄρος",
+    "homonym_headword": "ὄρος",
+    "rank": 304
+  },
+  {
+    "lema": "ἀντί",
+    "homonym_headword": "ἀντί",
+    "rank": 305
+  },
+  {
+    "lema": "προσήκω",
+    "homonym_headword": "προσήκω",
+    "rank": 306
+  },
+  {
+    "lema": "φυλάσσω",
+    "homonym_headword": "φυλάσσω",
+    "rank": 307
+  },
+  {
+    "lema": "ὅπλον",
+    "homonym_headword": "ὅπλον",
+    "rank": 307
+  },
+  {
+    "lema": "Πέρσης",
+    "homonym_headword": "Πέρσης",
+    "rank": 309
+  },
+  {
+    "lema": "Φίλιππος",
+    "homonym_headword": "Φίλιππος",
+    "rank": 310
+  },
+  {
+    "lema": "ζητέω",
+    "homonym_headword": "ζητέω",
+    "rank": 311
+  },
+  {
+    "lema": "πολλάκις",
+    "homonym_headword": "πολλάκις",
+    "rank": 312
+  },
+  {
+    "lema": "χαίρω",
+    "homonym_headword": "χαίρω",
+    "rank": 313
+  },
+  {
+    "lema": "ἀφαιρέω",
+    "homonym_headword": "ἀφαιρέω",
+    "rank": 314
+  },
+  {
+    "lema": "ἔνθα",
+    "homonym_headword": "ἔνθα",
+    "rank": 315
+  },
+  {
+    "lema": "δεύτερος",
+    "homonym_headword": "δεύτερος",
+    "rank": 316
+  },
+  {
+    "lema": "πλήν",
+    "homonym_headword": "πλήν",
+    "rank": 317
+  },
+  {
+    "lema": "μάλα",
+    "homonym_headword": "μάλα",
+    "rank": 318
+  },
+  {
+    "lema": "φανερός",
+    "homonym_headword": "φανερός",
+    "rank": 319
+  },
+  {
+    "lema": "πειράω",
+    "homonym_headword": "πειράω",
+    "rank": 320
+  },
+  {
+    "lema": "τύχη",
+    "homonym_headword": "τύχη",
+    "rank": 321
+  },
+  {
+    "lema": "πολιτεία",
+    "homonym_headword": "πολιτεία",
+    "rank": 322
+  },
+  {
+    "lema": "δείδω",
+    "homonym_headword": "δείδω",
+    "rank": 323
+  },
+  {
+    "lema": "πιστεύω",
+    "homonym_headword": "πιστεύω",
+    "rank": 324
+  },
+  {
+    "lema": "πῦρ",
+    "homonym_headword": "πῦρ",
+    "rank": 325
+  },
+  {
+    "lema": "στρατιώτης",
+    "homonym_headword": "στρατιώτης",
+    "rank": 326
+  },
+  {
+    "lema": "στάδιον",
+    "homonym_headword": "στάδιον",
+    "rank": 327
+  },
+  {
+    "lema": "ὅμως",
+    "homonym_headword": "ὅμως",
+    "rank": 328
+  },
+  {
+    "lema": "κεφαλή",
+    "homonym_headword": "κεφαλή",
+    "rank": 329
+  },
+  {
+    "lema": "βουλεύω",
+    "homonym_headword": "βουλεύω",
+    "rank": 330
+  },
+  {
+    "lema": "τιμή",
+    "homonym_headword": "τιμή",
+    "rank": 331
+  },
+  {
+    "lema": "χαλεπός",
+    "homonym_headword": "χαλεπός",
+    "rank": 332
+  },
+  {
+    "lema": "πρᾶξις",
+    "homonym_headword": "πρᾶξις",
+    "rank": 333
+  },
+  {
+    "lema": "ἔθνος",
+    "homonym_headword": "ἔθνος",
+    "rank": 334
+  },
+  {
+    "lema": "κατέχω",
+    "homonym_headword": "κατέχω",
+    "rank": 335
+  },
+  {
+    "lema": "αἴτιος",
+    "homonym_headword": "αἴτιος",
+    "rank": 336
+  },
+  {
+    "lema": "οἰκέω",
+    "homonym_headword": "οἰκέω",
+    "rank": 336
+  },
+  {
+    "lema": "οὐκοῦν",
+    "homonym_headword": "οὐκοῦν",
+    "rank": 338
+  },
+  {
+    "lema": "ἀποκτείνω",
+    "homonym_headword": "ἀποκτείνω",
+    "rank": 339
+  },
+  {
+    "lema": "συμφέρω",
+    "homonym_headword": "συμφέρω",
+    "rank": 340
+  },
+  {
+    "lema": "τέκνον",
+    "homonym_headword": "τέκνον",
+    "rank": 340
+  },
+  {
+    "lema": "χωρίον",
+    "homonym_headword": "χωρίον",
+    "rank": 342
+  },
+  {
+    "lema": "θυγάτηρ",
+    "homonym_headword": "θυγάτηρ",
+    "rank": 343
+  },
+  {
+    "lema": "τρίτος",
+    "homonym_headword": "τρίτος",
+    "rank": 344
+  },
+  {
+    "lema": "ἐλπίς",
+    "homonym_headword": "ἐλπίς",
+    "rank": 345
+  },
+  {
+    "lema": "πατρίς",
+    "homonym_headword": "πατρίς",
+    "rank": 346
+  },
+  {
+    "lema": "ἀτάρ",
+    "homonym_headword": "ἀτάρ",
+    "rank": 347
+  },
+  {
+    "lema": "οἰκία",
+    "homonym_headword": "οἰκία",
+    "rank": 348
+  },
+  {
+    "lema": "βάλλω",
+    "homonym_headword": "βάλλω",
+    "rank": 349
+  },
+  {
+    "lema": "λανθάνω",
+    "homonym_headword": "λανθάνω",
+    "rank": 349
+  },
+  {
+    "lema": "ἐπαινέω",
+    "homonym_headword": "ἐπαινέω",
+    "rank": 351
+  },
+  {
+    "lema": "Ἀχαιός",
+    "homonym_headword": "Ἀχαιός",
+    "rank": 352
+  },
+  {
+    "lema": "διαφθείρω",
+    "homonym_headword": "διαφθείρω",
+    "rank": 353
+  },
+  {
+    "lema": "προαγορεύω",
+    "homonym_headword": "προαγορεύω",
+    "rank": 354
+  },
+  {
+    "lema": "νῆσος",
+    "homonym_headword": "νῆσος",
+    "rank": 355
+  },
+  {
+    "lema": "θαυμάζω",
+    "homonym_headword": "θαυμάζω",
+    "rank": 356
+  },
+  {
+    "lema": "ποῖος",
+    "homonym_headword": "ποῖος",
+    "rank": 357
+  },
+  {
+    "lema": "εἶδος",
+    "homonym_headword": "εἶδος",
+    "rank": 358
+  },
+  {
+    "lema": "δράω",
+    "homonym_headword": "δράω",
+    "rank": 359
+  },
+  {
+    "lema": "ἥσσων",
+    "homonym_headword": "ἥσσων",
+    "rank": 359
+  },
+  {
+    "lema": "νόος",
+    "homonym_headword": "νόος",
+    "rank": 361
+  },
+  {
+    "lema": "σοφός",
+    "homonym_headword": "σοφός",
+    "rank": 362
+  },
+  {
+    "lema": "βασιλεία",
+    "homonym_headword": "βασιλεία",
+    "rank": 363
+  },
+  {
+    "lema": "οὐσία",
+    "homonym_headword": "οὐσία",
+    "rank": 364
+  },
+  {
+    "lema": "ἀναγκαῖος",
+    "homonym_headword": "ἀναγκαῖος",
+    "rank": 364
+  },
+  {
+    "lema": "βουλή",
+    "homonym_headword": "βουλή",
+    "rank": 366
+  },
+  {
+    "lema": "παρασκευάζω",
+    "homonym_headword": "παρασκευάζω",
+    "rank": 367
+  },
+  {
+    "lema": "κύριος",
+    "homonym_headword": "κύριος",
+    "rank": 368
+  },
+  {
+    "lema": "παύω",
+    "homonym_headword": "παύω",
+    "rank": 369
+  },
+  {
+    "lema": "ἆρα",
+    "homonym_headword": "ἆρα",
+    "rank": 370
+  },
+  {
+    "lema": "ἀμφί",
+    "homonym_headword": "ἀμφί",
+    "rank": 371
+  },
+  {
+    "lema": "στρατός",
+    "homonym_headword": "στρατός",
+    "rank": 372
+  },
+  {
+    "lema": "ὁπόσος",
+    "homonym_headword": "ὁπόσος",
+    "rank": 373
+  },
+  {
+    "lema": "πολεμέω",
+    "homonym_headword": "πολεμέω",
+    "rank": 374
+  },
+  {
+    "lema": "θυμός",
+    "homonym_headword": "θυμός",
+    "rank": 375
+  },
+  {
+    "lema": "καίτοι",
+    "homonym_headword": "καίτοι",
+    "rank": 376
+  },
+  {
+    "lema": "γοῦν",
+    "homonym_headword": "γοῦν",
+    "rank": 377
+  },
+  {
+    "lema": "φύω",
+    "homonym_headword": "φύω",
+    "rank": 377
+  },
+  {
+    "lema": "κομίζω",
+    "homonym_headword": "κομίζω",
+    "rank": 379
+  },
+  {
+    "lema": "τιμάω",
+    "homonym_headword": "τιμάω",
+    "rank": 380
+  },
+  {
+    "lema": "ὧδε",
+    "homonym_headword": "ὧδε",
+    "rank": 380
+  },
+  {
+    "lema": "κτάομαι",
+    "homonym_headword": "κτάομαι",
+    "rank": 382
+  },
+  {
+    "lema": "μέγεθος",
+    "homonym_headword": "μέγεθος",
+    "rank": 383
+  },
+  {
+    "lema": "ἡμέτερος",
+    "homonym_headword": "ἡμέτερος",
+    "rank": 383
+  },
+  {
+    "lema": "ἀναγκάζω",
+    "homonym_headword": "ἀναγκάζω",
+    "rank": 385
+  },
+  {
+    "lema": "κύκλος",
+    "homonym_headword": "κύκλος",
+    "rank": 386
+  },
+  {
+    "lema": "μιμνήσκω",
+    "homonym_headword": "μιμνήσκω",
+    "rank": 387
+  },
+  {
+    "lema": "πίπτω",
+    "homonym_headword": "πίπτω",
+    "rank": 388
+  },
+  {
+    "lema": "Κῦρος",
+    "homonym_headword": "Κῦρος",
+    "rank": 389
+  },
+  {
+    "lema": "αἰσχρός",
+    "homonym_headword": "αἰσχρός",
+    "rank": 389
+  },
+  {
+    "lema": "στρατιά",
+    "homonym_headword": "στρατιά",
+    "rank": 391
+  },
+  {
+    "lema": "παρακαλέω",
+    "homonym_headword": "παρακαλέω",
+    "rank": 392
+  },
+  {
+    "lema": "παραγίγνομαι",
+    "homonym_headword": "παραγίγνομαι",
+    "rank": 393
+  },
+  {
+    "lema": "τοιόσδε",
+    "homonym_headword": "τοιόσδε",
+    "rank": 394
+  },
+  {
+    "lema": "ἥλιος",
+    "homonym_headword": "ἥλιος",
+    "rank": 395
+  },
+  {
+    "lema": "μάχομαι",
+    "homonym_headword": "μάχομαι",
+    "rank": 396
+  },
+  {
+    "lema": "ὁρμάω",
+    "homonym_headword": "ὁρμάω",
+    "rank": 397
+  },
+  {
+    "lema": "ἠμί",
+    "homonym_headword": "ἠμί",
+    "rank": 398
+  },
+  {
+    "lema": "πλέω",
+    "homonym_headword": "πλέω",
+    "rank": 399
+  },
+  {
+    "lema": "διδάσκω",
+    "homonym_headword": "διδάσκω",
+    "rank": 400
+  },
+  {
+    "lema": "ἦ",
+    "homonym_headword": "ἦ",
+    "rank": 401
+  },
+  {
+    "lema": "δηλόω",
+    "homonym_headword": "δηλόω",
+    "rank": 402
+  },
+  {
+    "lema": "σημεῖον",
+    "homonym_headword": "σημεῖον",
+    "rank": 403
+  },
+  {
+    "lema": "ἕως",
+    "homonym_headword": "ἕως",
+    "rank": 404
+  },
+  {
+    "lema": "ἀποκρίνω",
+    "homonym_headword": "ἀποκρίνω",
+    "rank": 405
+  },
+  {
+    "lema": "Ἑλλάς",
+    "homonym_headword": "Ἑλλάς",
+    "rank": 406
+  },
+  {
+    "lema": "λείπω",
+    "homonym_headword": "λείπω",
+    "rank": 407
+  },
+  {
+    "lema": "πάθος",
+    "homonym_headword": "πάθος",
+    "rank": 408
+  },
+  {
+    "lema": "ἐπίσταμαι",
+    "homonym_headword": "ἐπίσταμαι",
+    "rank": 408
+  },
+  {
+    "lema": "ἀγών",
+    "homonym_headword": "ἀγών",
+    "rank": 410
+  },
+  {
+    "lema": "εἰρήνη",
+    "homonym_headword": "εἰρήνη",
+    "rank": 411
+  },
+  {
+    "lema": "δικαστής",
+    "homonym_headword": "δικαστής",
+    "rank": 412
+  },
+  {
+    "lema": "τρέπω",
+    "homonym_headword": "τρέπω",
+    "rank": 413
+  },
+  {
+    "lema": "βοηθέω",
+    "homonym_headword": "βοηθέω",
+    "rank": 414
+  },
+  {
+    "lema": "φοβέω",
+    "homonym_headword": "φοβέω",
+    "rank": 415
+  },
+  {
+    "lema": "ἕπομαι",
+    "homonym_headword": "ἕπομαι",
+    "rank": 415
+  },
+  {
+    "lema": "οὐκέτι",
+    "homonym_headword": "οὐκέτι",
+    "rank": 417
+  },
+  {
+    "lema": "λύω",
+    "homonym_headword": "λύω",
+    "rank": 418
+  },
+  {
+    "lema": "τάσσω",
+    "homonym_headword": "τάσσω",
+    "rank": 418
+  },
+  {
+    "lema": "στρατόπεδον",
+    "homonym_headword": "στρατόπεδον",
+    "rank": 420
+  },
+  {
+    "lema": "τοι",
+    "homonym_headword": "τοι",
+    "rank": 421
+  },
+  {
+    "lema": "κτείνω",
+    "homonym_headword": "κτείνω",
+    "rank": 422
+  },
+  {
+    "lema": "ἐκεῖ",
+    "homonym_headword": "ἐκεῖ",
+    "rank": 423
+  },
+  {
+    "lema": "Ἰουδαῖος",
+    "homonym_headword": "Ἰουδαῖος",
+    "rank": 423
+  },
+  {
+    "lema": "μακρός",
+    "homonym_headword": "μακρός",
+    "rank": 425
+  },
+  {
+    "lema": "πότερον",
+    "homonym_headword": "πότερον",
+    "rank": 425
+  },
+  {
+    "lema": "προστάσσω",
+    "homonym_headword": "προστάσσω",
+    "rank": 427
+  },
+  {
+    "lema": "ἀφίστημι",
+    "homonym_headword": "ἀφίστημι",
+    "rank": 428
+  },
+  {
+    "lema": "συνίστημι",
+    "homonym_headword": "συνίστημι",
+    "rank": 429
+  },
+  {
+    "lema": "περ",
+    "homonym_headword": "περ",
+    "rank": 430
+  },
+  {
+    "lema": "πόνος",
+    "homonym_headword": "πόνος",
+    "rank": 431
+  },
+  {
+    "lema": "μιν",
+    "homonym_headword": "μιν",
+    "rank": 432
+  },
+  {
+    "lema": "τέσσαρες",
+    "homonym_headword": "τέσσαρες",
+    "rank": 433
+  },
+  {
+    "lema": "ὑπολαμβάνω",
+    "homonym_headword": "ὑπολαμβάνω",
+    "rank": 433
+  },
+  {
+    "lema": "συμφορά",
+    "homonym_headword": "συμφορά",
+    "rank": 435
+  },
+  {
+    "lema": "ἔξω",
+    "homonym_headword": "ἔξω",
+    "rank": 436
+  },
+  {
+    "lema": "σαφής",
+    "homonym_headword": "σαφής",
+    "rank": 437
+  },
+  {
+    "lema": "ἐμαυτοῦ",
+    "homonym_headword": "ἐμαυτοῦ",
+    "rank": 438
+  },
+  {
+    "lema": "παραλαμβάνω",
+    "homonym_headword": "παραλαμβάνω",
+    "rank": 439
+  },
+  {
+    "lema": "τρέφω",
+    "homonym_headword": "τρέφω",
+    "rank": 440
+  },
+  {
+    "lema": "ἡγεμών",
+    "homonym_headword": "ἡγεμών",
+    "rank": 441
+  },
+  {
+    "lema": "στρατεύω",
+    "homonym_headword": "στρατεύω",
+    "rank": 442
+  },
+  {
+    "lema": "Καρχηδόνιος",
+    "homonym_headword": "Καρχηδόνιος",
+    "rank": 443
+  },
+  {
+    "lema": "τολμάω",
+    "homonym_headword": "τολμάω",
+    "rank": 444
+  },
+  {
+    "lema": "ἔξεστι",
+    "homonym_headword": "ἔξεστι",
+    "rank": 445
+  },
+  {
+    "lema": "θεῖος",
+    "homonym_headword": "θεῖος",
+    "rank": 446
+  },
+  {
+    "lema": "φόβος",
+    "homonym_headword": "φόβος",
+    "rank": 447
+  },
+  {
+    "lema": "φρονέω",
+    "homonym_headword": "φρονέω",
+    "rank": 448
+  },
+  {
+    "lema": "πορεύω",
+    "homonym_headword": "πορεύω",
+    "rank": 449
+  },
+  {
+    "lema": "αὐτίκα",
+    "homonym_headword": "αὐτίκα",
+    "rank": 450
+  },
+  {
+    "lema": "ἐρωτάω",
+    "homonym_headword": "ἐρωτάω",
+    "rank": 451
+  },
+  {
+    "lema": "φιλέω",
+    "homonym_headword": "φιλέω",
+    "rank": 452
+  },
+  {
+    "lema": "βραχύς",
+    "homonym_headword": "βραχύς",
+    "rank": 453
+  },
+  {
+    "lema": "δοῦλος",
+    "homonym_headword": "δοῦλος",
+    "rank": 454
+  },
+  {
+    "lema": "ἐργάζομαι",
+    "homonym_headword": "ἐργάζομαι",
+    "rank": 455
+  },
+  {
+    "lema": "αἰσθάνομαι",
+    "homonym_headword": "αἰσθάνομαι",
+    "rank": 456
+  },
+  {
+    "lema": "κωλύω",
+    "homonym_headword": "κωλύω",
+    "rank": 457
+  },
+  {
+    "lema": "διώκω",
+    "homonym_headword": "διώκω",
+    "rank": 458
+  },
+  {
+    "lema": "προσαγορεύω",
+    "homonym_headword": "προσαγορεύω",
+    "rank": 459
+  },
+  {
+    "lema": "ἐγγύς",
+    "homonym_headword": "ἐγγύς",
+    "rank": 460
+  },
+  {
+    "lema": "ἄρχων",
+    "homonym_headword": "ἄρχων",
+    "rank": 461
+  },
+  {
+    "lema": "ἄπειμι",
+    "homonym_headword": "ἄπειμι2",
+    "rank": 462
+  },
+  {
+    "lema": "ἄδικος",
+    "homonym_headword": "ἄδικος",
+    "rank": 463
+  },
+  {
+    "lema": "κινέω",
+    "homonym_headword": "κινέω",
+    "rank": 464
+  },
+  {
+    "lema": "φράζω",
+    "homonym_headword": "φράζω",
+    "rank": 465
+  },
+  {
+    "lema": "ἔπος",
+    "homonym_headword": "ἔπος",
+    "rank": 465
+  },
+  {
+    "lema": "Αἴγυπτος",
+    "homonym_headword": "Αἴγυπτος",
+    "rank": 467
+  },
+  {
+    "lema": "αἷμα",
+    "homonym_headword": "αἷμα",
+    "rank": 468
+  },
+  {
+    "lema": "μεταξύ",
+    "homonym_headword": "μεταξύ",
+    "rank": 469
+  },
+  {
+    "lema": "σεαυτοῦ",
+    "homonym_headword": "σεαυτοῦ",
+    "rank": 470
+  },
+  {
+    "lema": "ὅθεν",
+    "homonym_headword": "ὅθεν",
+    "rank": 471
+  },
+  {
+    "lema": "ἐπιχειρέω",
+    "homonym_headword": "ἐπιχειρέω",
+    "rank": 472
+  },
+  {
+    "lema": "πεζός",
+    "homonym_headword": "πεζός",
+    "rank": 473
+  },
+  {
+    "lema": "ἀλήθεια",
+    "homonym_headword": "ἀλήθεια",
+    "rank": 473
+  },
+  {
+    "lema": "ἔνιοι",
+    "homonym_headword": "ἔνιοι",
+    "rank": 473
+  },
+  {
+    "lema": "πονηρός",
+    "homonym_headword": "πονηρός",
+    "rank": 476
+  },
+  {
+    "lema": "κρείσσων",
+    "homonym_headword": "κρείσσων",
+    "rank": 477
+  },
+  {
+    "lema": "φιλία",
+    "homonym_headword": "φιλία",
+    "rank": 478
+  },
+  {
+    "lema": "νόσος",
+    "homonym_headword": "νόσος",
+    "rank": 479
+  },
+  {
+    "lema": "ἄνευ",
+    "homonym_headword": "ἄνευ",
+    "rank": 480
+  },
+  {
+    "lema": "ἀπαλλάσσω",
+    "homonym_headword": "ἀπαλλάσσω",
+    "rank": 481
+  },
+  {
+    "lema": "σχεδόν",
+    "homonym_headword": "σχεδόν",
+    "rank": 482
+  },
+  {
+    "lema": "Ἀθῆναι",
+    "homonym_headword": "Ἀθῆναι",
+    "rank": 483
+  },
+  {
+    "lema": "ὅπου",
+    "homonym_headword": "ὅπου",
+    "rank": 484
+  },
+  {
+    "lema": "αἰτέω",
+    "homonym_headword": "αἰτέω",
+    "rank": 485
+  },
+  {
+    "lema": "δέκα",
+    "homonym_headword": "δέκα",
+    "rank": 485
+  },
+  {
+    "lema": "κατασκευάζω",
+    "homonym_headword": "κατασκευάζω",
+    "rank": 487
+  },
+  {
+    "lema": "προστίθημι",
+    "homonym_headword": "προστίθημι",
+    "rank": 488
+  },
+  {
+    "lema": "ἀδύνατος",
+    "homonym_headword": "ἀδύνατος",
+    "rank": 488
+  },
+  {
+    "lema": "ὁπότε",
+    "homonym_headword": "ὁπότε",
+    "rank": 490
+  },
+  {
+    "lema": "τύραννος",
+    "homonym_headword": "τύραννος",
+    "rank": 491
+  },
+  {
+    "lema": "ἐμβάλλω",
+    "homonym_headword": "ἐμβάλλω",
+    "rank": 492
+  },
+  {
+    "lema": "μετέχω",
+    "homonym_headword": "μετέχω",
+    "rank": 493
+  },
+  {
+    "lema": "πεδίον",
+    "homonym_headword": "πεδίον",
+    "rank": 494
+  },
+  {
+    "lema": "τροφή",
+    "homonym_headword": "τροφή",
+    "rank": 494
+  },
+  {
+    "lema": "ἐπιδείκνυμι",
+    "homonym_headword": "ἐπιδείκνυμι",
+    "rank": 494
+  },
+  {
+    "lema": "ὀργή",
+    "homonym_headword": "ὀργή",
+    "rank": 497
+  },
+  {
+    "lema": "ζῷον",
+    "homonym_headword": "ζῷον",
+    "rank": 498
+  },
+  {
+    "lema": "διαλέγομαι",
+    "homonym_headword": "διαλέγομαι",
+    "rank": 499
+  },
+  {
+    "lema": "σωτηρία",
+    "homonym_headword": "σωτηρία",
+    "rank": 499
+  },
+  {
+    "lema": "εἴκοσι",
+    "homonym_headword": "εἴκοσι",
+    "rank": 501
+  },
+  {
+    "lema": "πίστις",
+    "homonym_headword": "πίστις",
+    "rank": 502
+  },
+  {
+    "lema": "φωνή",
+    "homonym_headword": "φωνή",
+    "rank": 502
+  },
+  {
+    "lema": "ὀνομάζω",
+    "homonym_headword": "ὀνομάζω",
+    "rank": 502
+  },
+  {
+    "lema": "γωνία",
+    "homonym_headword": "γωνία",
+    "rank": 505
+  },
+  {
+    "lema": "ναί",
+    "homonym_headword": "ναί",
+    "rank": 506
+  },
+  {
+    "lema": "στόμα",
+    "homonym_headword": "στόμα",
+    "rank": 506
+  },
+  {
+    "lema": "ἱερόν",
+    "homonym_headword": "ἱερόν",
+    "rank": 506
+  },
+  {
+    "lema": "ἔρως",
+    "homonym_headword": "ἔρως",
+    "rank": 509
+  },
+  {
+    "lema": "θύω",
+    "homonym_headword": "θύω",
+    "rank": 510
+  },
+  {
+    "lema": "πάλαι",
+    "homonym_headword": "πάλαι",
+    "rank": 511
+  },
+  {
+    "lema": "μῆκος",
+    "homonym_headword": "μῆκος",
+    "rank": 512
+  },
+  {
+    "lema": "ἐλεύθερος",
+    "homonym_headword": "ἐλεύθερος",
+    "rank": 512
+  },
+  {
+    "lema": "διαιρέω",
+    "homonym_headword": "διαιρέω",
+    "rank": 514
+  },
+  {
+    "lema": "εἴπερ",
+    "homonym_headword": "εἴπερ",
+    "rank": 515
+  },
+  {
+    "lema": "πέντε",
+    "homonym_headword": "πέντε",
+    "rank": 516
+  },
+  {
+    "lema": "ἀγνοέω",
+    "homonym_headword": "ἀγνοέω",
+    "rank": 516
+  },
+  {
+    "lema": "Ἀργεῖος",
+    "homonym_headword": "Ἀργεῖος",
+    "rank": 518
+  },
+  {
+    "lema": "θεάομαι",
+    "homonym_headword": "θεάομαι",
+    "rank": 519
+  },
+  {
+    "lema": "ἐπιστήμη",
+    "homonym_headword": "ἐπιστήμη",
+    "rank": 520
+  },
+  {
+    "lema": "ἑταῖρος",
+    "homonym_headword": "ἑταῖρος",
+    "rank": 521
+  },
+  {
+    "lema": "εἰσέρχομαι",
+    "homonym_headword": "εἰσέρχομαι",
+    "rank": 522
+  },
+  {
+    "lema": "νεκρός",
+    "homonym_headword": "νεκρός",
+    "rank": 523
+  },
+  {
+    "lema": "ὥρα",
+    "homonym_headword": "ὥρα2",
+    "rank": 524
+  },
+  {
+    "lema": "ὀφθαλμός",
+    "homonym_headword": "ὀφθαλμός",
+    "rank": 525
+  },
+  {
+    "lema": "ὑμέτερος",
+    "homonym_headword": "ὑμέτερος",
+    "rank": 526
+  },
+  {
+    "lema": "στράτευμα",
+    "homonym_headword": "στράτευμα",
+    "rank": 527
+  },
+  {
+    "lema": "οὐρανός",
+    "homonym_headword": "οὐρανός",
+    "rank": 528
+  },
+  {
+    "lema": "κατηγορέω",
+    "homonym_headword": "κατηγορέω",
+    "rank": 529
+  },
+  {
+    "lema": "θαρσέω",
+    "homonym_headword": "θαρσέω",
+    "rank": 530
+  },
+  {
+    "lema": "Αἰγύπτιος",
+    "homonym_headword": "Αἰγύπτιος",
+    "rank": 531
+  },
+  {
+    "lema": "ἀπέρχομαι",
+    "homonym_headword": "ἀπέρχομαι",
+    "rank": 532
+  },
+  {
+    "lema": "βλέπω",
+    "homonym_headword": "βλέπω",
+    "rank": 533
+  },
+  {
+    "lema": "λίθος",
+    "homonym_headword": "λίθος",
+    "rank": 534
+  },
+  {
+    "lema": "βία",
+    "homonym_headword": "βία",
+    "rank": 535
+  },
+  {
+    "lema": "παλαιός",
+    "homonym_headword": "παλαιός",
+    "rank": 536
+  },
+  {
+    "lema": "ἁλίσκομαι",
+    "homonym_headword": "ἁλίσκομαι",
+    "rank": 536
+  },
+  {
+    "lema": "τάλαντον",
+    "homonym_headword": "τάλαντον",
+    "rank": 538
+  },
+  {
+    "lema": "συνεχής",
+    "homonym_headword": "συνεχής",
+    "rank": 539
+  },
+  {
+    "lema": "ἀποστέλλω",
+    "homonym_headword": "ἀποστέλλω",
+    "rank": 539
+  },
+  {
+    "lema": "πλησίος",
+    "homonym_headword": "πλησίος",
+    "rank": 541
+  },
+  {
+    "lema": "ἀνίστημι",
+    "homonym_headword": "ἀνίστημι",
+    "rank": 542
+  },
+  {
+    "lema": "ἀπολείπω",
+    "homonym_headword": "ἀπολείπω",
+    "rank": 543
+  },
+  {
+    "lema": "Ὀδυσσεύς",
+    "homonym_headword": "Ὀδυσσεύς",
+    "rank": 544
+  },
+  {
+    "lema": "Ῥώμη",
+    "homonym_headword": "Ῥώμη",
+    "rank": 544
+  },
+  {
+    "lema": "μάρτυς",
+    "homonym_headword": "μάρτυς",
+    "rank": 546
+  },
+  {
+    "lema": "τάξις",
+    "homonym_headword": "τάξις",
+    "rank": 546
+  },
+  {
+    "lema": "ἑκατόν",
+    "homonym_headword": "ἑκατόν",
+    "rank": 548
+  },
+  {
+    "lema": "ἐράω",
+    "homonym_headword": "ἐράω",
+    "rank": 549
+  },
+  {
+    "lema": "ὀξύς",
+    "homonym_headword": "ὀξύς2",
+    "rank": 550
+  },
+  {
+    "lema": "γάμος",
+    "homonym_headword": "γάμος",
+    "rank": 551
+  },
+  {
+    "lema": "δεσπότης",
+    "homonym_headword": "δεσπότης",
+    "rank": 551
+  },
+  {
+    "lema": "ἀπέχω",
+    "homonym_headword": "ἀπέχω",
+    "rank": 553
+  },
+  {
+    "lema": "πως",
+    "homonym_headword": "πως",
+    "rank": 554
+  },
+  {
+    "lema": "τριάκοντα",
+    "homonym_headword": "τριάκοντα",
+    "rank": 554
+  },
+  {
+    "lema": "ἀποδείκνυμι",
+    "homonym_headword": "ἀποδείκνυμι",
+    "rank": 554
+  },
+  {
+    "lema": "δόμος",
+    "homonym_headword": "δόμος",
+    "rank": 557
+  },
+  {
+    "lema": "ἅπτω",
+    "homonym_headword": "ἅπτω",
+    "rank": 557
+  },
+  {
+    "lema": "χρύσεος",
+    "homonym_headword": "χρύσεος",
+    "rank": 559
+  },
+  {
+    "lema": "ἐφίστημι",
+    "homonym_headword": "ἐφίστημι",
+    "rank": 560
+  },
+  {
+    "lema": "κινδυνεύω",
+    "homonym_headword": "κινδυνεύω",
+    "rank": 561
+  },
+  {
+    "lema": "χωρίς",
+    "homonym_headword": "χωρίς",
+    "rank": 562
+  },
+  {
+    "lema": "Θηβαῖος",
+    "homonym_headword": "Θηβαῖος",
+    "rank": 563
+  },
+  {
+    "lema": "οὗ",
+    "homonym_headword": "οὗ",
+    "rank": 564
+  },
+  {
+    "lema": "πίνω",
+    "homonym_headword": "πίνω",
+    "rank": 564
+  },
+  {
+    "lema": "ποιητής",
+    "homonym_headword": "ποιητής",
+    "rank": 566
+  },
+  {
+    "lema": "παρέρχομαι",
+    "homonym_headword": "παρέρχομαι",
+    "rank": 567
+  },
+  {
+    "lema": "ἀποφαίνω",
+    "homonym_headword": "ἀποφαίνω",
+    "rank": 568
+  },
+  {
+    "lema": "ναός",
+    "homonym_headword": "ναός",
+    "rank": 569
+  },
+  {
+    "lema": "ἔνειμι",
+    "homonym_headword": "ἔνειμι",
+    "rank": 570
+  },
+  {
+    "lema": "νή",
+    "homonym_headword": "νή",
+    "rank": 571
+  },
+  {
+    "lema": "ἰσχυρός",
+    "homonym_headword": "ἰσχυρός",
+    "rank": 571
+  },
+  {
+    "lema": "ἄκρος",
+    "homonym_headword": "ἄκρος",
+    "rank": 573
+  },
+  {
+    "lema": "ὄψις",
+    "homonym_headword": "ὄψις",
+    "rank": 574
+  },
+  {
+    "lema": "χίλιοι",
+    "homonym_headword": "χίλιοι",
+    "rank": 575
+  },
+  {
+    "lema": "πρόσθεν",
+    "homonym_headword": "πρόσθεν",
+    "rank": 576
+  },
+  {
+    "lema": "φάσκω",
+    "homonym_headword": "φάσκω",
+    "rank": 576
+  },
+  {
+    "lema": "αὐτοκράτωρ",
+    "homonym_headword": "αὐτοκράτωρ",
+    "rank": 578
+  },
+  {
+    "lema": "ἐντεῦθεν",
+    "homonym_headword": "ἐντεῦθεν",
+    "rank": 579
+  },
+  {
+    "lema": "πύλη",
+    "homonym_headword": "πύλη",
+    "rank": 580
+  },
+  {
+    "lema": "ἄνω",
+    "homonym_headword": "ἄνω2",
+    "rank": 580
+  },
+  {
+    "lema": "Ἰησοῦς",
+    "homonym_headword": "Ἰησοῦς",
+    "rank": 582
+  },
+  {
+    "lema": "ἐπιθυμέω",
+    "homonym_headword": "ἐπιθυμέω",
+    "rank": 583
+  },
+  {
+    "lema": "ἐμπίπτω",
+    "homonym_headword": "ἐμπίπτω",
+    "rank": 584
+  },
+  {
+    "lema": "φρήν",
+    "homonym_headword": "φρήν",
+    "rank": 585
+  },
+  {
+    "lema": "χρεία",
+    "homonym_headword": "χρεία",
+    "rank": 586
+  },
+  {
+    "lema": "ἁπλόος",
+    "homonym_headword": "ἁπλόος",
+    "rank": 587
+  },
+  {
+    "lema": "συνάγω",
+    "homonym_headword": "συνάγω",
+    "rank": 588
+  },
+  {
+    "lema": "τετράγωνος",
+    "homonym_headword": "τετράγωνος",
+    "rank": 589
+  },
+  {
+    "lema": "σχῆμα",
+    "homonym_headword": "σχῆμα",
+    "rank": 590
+  },
+  {
+    "lema": "αἴρω",
+    "homonym_headword": "αἴρω",
+    "rank": 591
+  },
+  {
+    "lema": "σφόδρα",
+    "homonym_headword": "σφόδρα",
+    "rank": 591
+  },
+  {
+    "lema": "τίκτω",
+    "homonym_headword": "τίκτω",
+    "rank": 591
+  },
+  {
+    "lema": "ἁμαρτάνω",
+    "homonym_headword": "ἁμαρτάνω",
+    "rank": 594
+  },
+  {
+    "lema": "χρήσιμος",
+    "homonym_headword": "χρήσιμος",
+    "rank": 595
+  },
+  {
+    "lema": "τέμνω",
+    "homonym_headword": "τέμνω",
+    "rank": 596
+  },
+  {
+    "lema": "ἀμείνων",
+    "homonym_headword": "ἀμείνων",
+    "rank": 597
+  },
+  {
+    "lema": "κόσμος",
+    "homonym_headword": "κόσμος",
+    "rank": 598
+  },
+  {
+    "lema": "φαῦλος",
+    "homonym_headword": "φαῦλος",
+    "rank": 599
+  },
+  {
+    "lema": "ἀμύνω",
+    "homonym_headword": "ἀμύνω",
+    "rank": 600
+  },
+  {
+    "lema": "ἐπιτρέπω",
+    "homonym_headword": "ἐπιτρέπω",
+    "rank": 601
+  },
+  {
+    "lema": "ἀγορά",
+    "homonym_headword": "ἀγορά",
+    "rank": 602
+  },
+  {
+    "lema": "ἐπιτίθημι",
+    "homonym_headword": "ἐπιτίθημι",
+    "rank": 603
+  },
+  {
+    "lema": "βοῦς",
+    "homonym_headword": "βοῦς",
+    "rank": 604
+  },
+  {
+    "lema": "ἀσφαλής",
+    "homonym_headword": "ἀσφαλής",
+    "rank": 605
+  },
+  {
+    "lema": "Ἀσία",
+    "homonym_headword": "Ἀσία",
+    "rank": 605
+  },
+  {
+    "lema": "διέρχομαι",
+    "homonym_headword": "διέρχομαι",
+    "rank": 607
+  },
+  {
+    "lema": "φόνος",
+    "homonym_headword": "φόνος",
+    "rank": 607
+  },
+  {
+    "lema": "κόρη",
+    "homonym_headword": "κόρη",
+    "rank": 609
+  },
+  {
+    "lema": "μαρτυρέω",
+    "homonym_headword": "μαρτυρέω",
+    "rank": 610
+  },
+  {
+    "lema": "γράμμα",
+    "homonym_headword": "γράμμα",
+    "rank": 611
+  },
+  {
+    "lema": "λαός",
+    "homonym_headword": "λαός",
+    "rank": 612
+  },
+  {
+    "lema": "πνεῦμα",
+    "homonym_headword": "πνεῦμα",
+    "rank": 612
+  },
+  {
+    "lema": "χωρέω",
+    "homonym_headword": "χωρέω",
+    "rank": 614
+  },
+  {
+    "lema": "ἀναλαμβάνω",
+    "homonym_headword": "ἀναλαμβάνω",
+    "rank": 615
+  },
+  {
+    "lema": "ἠδέ",
+    "homonym_headword": "ἠδέ",
+    "rank": 616
+  },
+  {
+    "lema": "Σικελία",
+    "homonym_headword": "Σικελία",
+    "rank": 617
+  },
+  {
+    "lema": "ἄμφω",
+    "homonym_headword": "ἄμφω",
+    "rank": 617
+  },
+  {
+    "lema": "ἀκριβής",
+    "homonym_headword": "ἀκριβής",
+    "rank": 619
+  },
+  {
+    "lema": "ἀργύριον",
+    "homonym_headword": "ἀργύριον",
+    "rank": 620
+  },
+  {
+    "lema": "συμβουλεύω",
+    "homonym_headword": "συμβουλεύω",
+    "rank": 621
+  },
+  {
+    "lema": "ἑτοῖμος",
+    "homonym_headword": "ἑτοῖμος",
+    "rank": 622
+  },
+  {
+    "lema": "οἶνος",
+    "homonym_headword": "οἶνος",
+    "rank": 623
+  },
+  {
+    "lema": "βαίνω",
+    "homonym_headword": "βαίνω",
+    "rank": 624
+  },
+  {
+    "lema": "μετρέω",
+    "homonym_headword": "μετρέω",
+    "rank": 625
+  },
+  {
+    "lema": "ἀνά",
+    "homonym_headword": "ἀνά",
+    "rank": 625
+  },
+  {
+    "lema": "Ἀπόλλων",
+    "homonym_headword": "Ἀπόλλων",
+    "rank": 627
+  },
+  {
+    "lema": "βασιλεύω",
+    "homonym_headword": "βασιλεύω",
+    "rank": 628
+  },
+  {
+    "lema": "μῦθος",
+    "homonym_headword": "μῦθος",
+    "rank": 628
+  },
+  {
+    "lema": "ἀναγιγνώσκω",
+    "homonym_headword": "ἀναγιγνώσκω",
+    "rank": 628
+  },
+  {
+    "lema": "ἐντός",
+    "homonym_headword": "ἐντός",
+    "rank": 631
+  },
+  {
+    "lema": "ἐπιτήδειος",
+    "homonym_headword": "ἐπιτήδειος",
+    "rank": 632
+  },
+  {
+    "lema": "πλοῦτος",
+    "homonym_headword": "πλοῦτος",
+    "rank": 633
+  },
+  {
+    "lema": "ὑπομένω",
+    "homonym_headword": "ὑπομένω",
+    "rank": 634
+  },
+  {
+    "lema": "σημαίνω",
+    "homonym_headword": "σημαίνω",
+    "rank": 635
+  },
+  {
+    "lema": "Συρακόσιος",
+    "homonym_headword": "Συρακόσιος",
+    "rank": 636
+  },
+  {
+    "lema": "ῥητός",
+    "homonym_headword": "ῥητός",
+    "rank": 637
+  },
+  {
+    "lema": "ἑκών",
+    "homonym_headword": "ἑκών",
+    "rank": 638
+  },
+  {
+    "lema": "ὅρκος",
+    "homonym_headword": "ὅρκος",
+    "rank": 638
+  },
+  {
+    "lema": "συγχωρέω",
+    "homonym_headword": "συγχωρέω",
+    "rank": 640
+  },
+  {
+    "lema": "ἐκβάλλω",
+    "homonym_headword": "ἐκβάλλω",
+    "rank": 640
+  },
+  {
+    "lema": "ἐλαύνω",
+    "homonym_headword": "ἐλαύνω",
+    "rank": 642
+  },
+  {
+    "lema": "Μακεδών",
+    "homonym_headword": "Μακεδών",
+    "rank": 643
+  },
+  {
+    "lema": "ἐξέρχομαι",
+    "homonym_headword": "ἐξέρχομαι",
+    "rank": 643
+  },
+  {
+    "lema": "δεῦρο",
+    "homonym_headword": "δεῦρο",
+    "rank": 645
+  },
+  {
+    "lema": "σπουδή",
+    "homonym_headword": "σπουδή",
+    "rank": 645
+  },
+  {
+    "lema": "μέτριος",
+    "homonym_headword": "μέτριος",
+    "rank": 647
+  },
+  {
+    "lema": "ἔνδον",
+    "homonym_headword": "ἔνδον",
+    "rank": 648
+  },
+  {
+    "lema": "ἐκπέμπω",
+    "homonym_headword": "ἐκπέμπω",
+    "rank": 649
+  },
+  {
+    "lema": "ἡλικία",
+    "homonym_headword": "ἡλικία",
+    "rank": 650
+  },
+  {
+    "lema": "φυλακή",
+    "homonym_headword": "φυλακή",
+    "rank": 651
+  },
+  {
+    "lema": "Ἡρακλῆς",
+    "homonym_headword": "Ἡρακλῆς",
+    "rank": 652
+  },
+  {
+    "lema": "εὔχομαι",
+    "homonym_headword": "εὔχομαι",
+    "rank": 653
+  },
+  {
+    "lema": "συντίθημι",
+    "homonym_headword": "συντίθημι",
+    "rank": 654
+  },
+  {
+    "lema": "ἀλλότριος",
+    "homonym_headword": "ἀλλότριος",
+    "rank": 654
+  },
+  {
+    "lema": "Ἀντώνιος",
+    "homonym_headword": "Ἀντώνιος",
+    "rank": 656
+  },
+  {
+    "lema": "χείρων",
+    "homonym_headword": "χείρων",
+    "rank": 657
+  },
+  {
+    "lema": "νίκη",
+    "homonym_headword": "νίκη",
+    "rank": 658
+  },
+  {
+    "lema": "ἔπειμι",
+    "homonym_headword": "ἔπειμι2",
+    "rank": 658
+  },
+  {
+    "lema": "γέρων",
+    "homonym_headword": "γέρων",
+    "rank": 660
+  },
+  {
+    "lema": "κύων",
+    "homonym_headword": "κύων",
+    "rank": 661
+  },
+  {
+    "lema": "σύμμετρος",
+    "homonym_headword": "σύμμετρος",
+    "rank": 661
+  },
+  {
+    "lema": "βάσις",
+    "homonym_headword": "βάσις",
+    "rank": 663
+  },
+  {
+    "lema": "ἐπιμελέομαι",
+    "homonym_headword": "ἐπιμελέομαι",
+    "rank": 664
+  },
+  {
+    "lema": "ἔρομαι",
+    "homonym_headword": "ἔρομαι",
+    "rank": 664
+  },
+  {
+    "lema": "διότι",
+    "homonym_headword": "διότι",
+    "rank": 666
+  },
+  {
+    "lema": "δόρυ",
+    "homonym_headword": "δόρυ",
+    "rank": 666
+  },
+  {
+    "lema": "εὔνοια",
+    "homonym_headword": "εὔνοια",
+    "rank": 668
+  },
+  {
+    "lema": "προσέχω",
+    "homonym_headword": "προσέχω",
+    "rank": 669
+  },
+  {
+    "lema": "χρηστός",
+    "homonym_headword": "χρηστός",
+    "rank": 670
+  },
+  {
+    "lema": "λιμήν",
+    "homonym_headword": "λιμήν",
+    "rank": 671
+  },
+  {
+    "lema": "βιάζω",
+    "homonym_headword": "βιάζω",
+    "rank": 672
+  },
+  {
+    "lema": "ἐκεῖθεν",
+    "homonym_headword": "ἐκεῖθεν",
+    "rank": 672
+  },
+  {
+    "lema": "Ἰταλία",
+    "homonym_headword": "Ἰταλία",
+    "rank": 672
+  },
+  {
+    "lema": "τέλειος",
+    "homonym_headword": "τέλειος",
+    "rank": 675
+  },
+  {
+    "lema": "μά",
+    "homonym_headword": "μά",
+    "rank": 676
+  },
+  {
+    "lema": "ἀνέχω",
+    "homonym_headword": "ἀνέχω",
+    "rank": 676
+  },
+  {
+    "lema": "νέμω",
+    "homonym_headword": "νέμω",
+    "rank": 678
+  },
+  {
+    "lema": "χαρίζω",
+    "homonym_headword": "χαρίζω",
+    "rank": 678
+  },
+  {
+    "lema": "προσέρχομαι",
+    "homonym_headword": "προσέρχομαι",
+    "rank": 680
+  },
+  {
+    "lema": "οἴχομαι",
+    "homonym_headword": "οἴχομαι",
+    "rank": 681
+  },
+  {
+    "lema": "τριήρης",
+    "homonym_headword": "τριήρης",
+    "rank": 681
+  },
+  {
+    "lema": "παρίστημι",
+    "homonym_headword": "παρίστημι",
+    "rank": 683
+  },
+  {
+    "lema": "τρίγωνον",
+    "homonym_headword": "τρίγωνον",
+    "rank": 684
+  },
+  {
+    "lema": "ὕλη",
+    "homonym_headword": "ὕλη",
+    "rank": 684
+  },
+  {
+    "lema": "προσφέρω",
+    "homonym_headword": "προσφέρω",
+    "rank": 686
+  },
+  {
+    "lema": "συγγενής",
+    "homonym_headword": "συγγενής",
+    "rank": 687
+  },
+  {
+    "lema": "σοφία",
+    "homonym_headword": "σοφία",
+    "rank": 688
+  },
+  {
+    "lema": "πιστός",
+    "homonym_headword": "πιστός2",
+    "rank": 689
+  },
+  {
+    "lema": "συμβάλλω",
+    "homonym_headword": "συμβάλλω",
+    "rank": 690
+  },
+  {
+    "lema": "ἡσσάομαι",
+    "homonym_headword": "ἡσσάομαι",
+    "rank": 690
+  },
+  {
+    "lema": "δῶρον",
+    "homonym_headword": "δῶρον",
+    "rank": 692
+  },
+  {
+    "lema": "φθάνω",
+    "homonym_headword": "φθάνω",
+    "rank": 692
+  },
+  {
+    "lema": "σῖτος",
+    "homonym_headword": "σῖτος",
+    "rank": 694
+  },
+  {
+    "lema": "θυσία",
+    "homonym_headword": "θυσία",
+    "rank": 695
+  },
+  {
+    "lema": "περιέχω",
+    "homonym_headword": "περιέχω",
+    "rank": 695
+  },
+  {
+    "lema": "τάχα",
+    "homonym_headword": "τάχα",
+    "rank": 697
+  },
+  {
+    "lema": "ἑξῆς",
+    "homonym_headword": "ἑξῆς",
+    "rank": 697
+  },
+  {
+    "lema": "δημόσιος",
+    "homonym_headword": "δημόσιος",
+    "rank": 699
+  },
+  {
+    "lema": "πλευρά",
+    "homonym_headword": "πλευρά",
+    "rank": 700
+  },
+  {
+    "lema": "χρυσός",
+    "homonym_headword": "χρυσός",
+    "rank": 701
+  },
+  {
+    "lema": "ἐνθάδε",
+    "homonym_headword": "ἐνθάδε",
+    "rank": 701
+  },
+  {
+    "lema": "δεξιός",
+    "homonym_headword": "δεξιός",
+    "rank": 703
+  },
+  {
+    "lema": "σύνειμι",
+    "homonym_headword": "σύνειμι",
+    "rank": 703
+  },
+  {
+    "lema": "ἑπτά",
+    "homonym_headword": "ἑπτά",
+    "rank": 703
+  },
+  {
+    "lema": "ὀστέον",
+    "homonym_headword": "ὀστέον",
+    "rank": 703
+  },
+  {
+    "lema": "δαίμων",
+    "homonym_headword": "δαίμων",
+    "rank": 707
+  },
+  {
+    "lema": "λαμπρός",
+    "homonym_headword": "λαμπρός",
+    "rank": 708
+  },
+  {
+    "lema": "λευκός",
+    "homonym_headword": "λευκός",
+    "rank": 708
+  },
+  {
+    "lema": "ὠφελέω",
+    "homonym_headword": "ὠφελέω",
+    "rank": 708
+  },
+  {
+    "lema": "σύμπας",
+    "homonym_headword": "σύμπας",
+    "rank": 711
+  },
+  {
+    "lema": "ψηφίζω",
+    "homonym_headword": "ψηφίζω",
+    "rank": 712
+  },
+  {
+    "lema": "ἐλπίζω",
+    "homonym_headword": "ἐλπίζω",
+    "rank": 712
+  },
+  {
+    "lema": "διάνοια",
+    "homonym_headword": "διάνοια",
+    "rank": 714
+  },
+  {
+    "lema": "θηρίον",
+    "homonym_headword": "θηρίον",
+    "rank": 715
+  },
+  {
+    "lema": "ἐπιθυμία",
+    "homonym_headword": "ἐπιθυμία",
+    "rank": 715
+  },
+  {
+    "lema": "ὄμνυμι",
+    "homonym_headword": "ὄμνυμι",
+    "rank": 717
+  },
+  {
+    "lema": "ὑπισχνέομαι",
+    "homonym_headword": "ὑπισχνέομαι",
+    "rank": 717
+  },
+  {
+    "lema": "ἀθάνατος",
+    "homonym_headword": "ἀθάνατος",
+    "rank": 719
+  },
+  {
+    "lema": "ἀναβαίνω",
+    "homonym_headword": "ἀναβαίνω",
+    "rank": 719
+  },
+  {
+    "lema": "φιλόσοφος",
+    "homonym_headword": "φιλόσοφος",
+    "rank": 721
+  },
+  {
+    "lema": "ῥέω",
+    "homonym_headword": "ῥέω",
+    "rank": 722
+  },
+  {
+    "lema": "πολιτικός",
+    "homonym_headword": "πολιτικός",
+    "rank": 723
+  },
+  {
+    "lema": "ἀνάγω",
+    "homonym_headword": "ἀνάγω",
+    "rank": 723
+  },
+  {
+    "lema": "βλάπτω",
+    "homonym_headword": "βλάπτω",
+    "rank": 725
+  },
+  {
+    "lema": "ἐπέρχομαι",
+    "homonym_headword": "ἐπέρχομαι",
+    "rank": 726
+  },
+  {
+    "lema": "ἐκπίπτω",
+    "homonym_headword": "ἐκπίπτω",
+    "rank": 727
+  },
+  {
+    "lema": "μείς",
+    "homonym_headword": "μείς",
+    "rank": 728
+  },
+  {
+    "lema": "ψεύδω",
+    "homonym_headword": "ψεύδω",
+    "rank": 729
+  },
+  {
+    "lema": "θύρα",
+    "homonym_headword": "θύρα",
+    "rank": 730
+  },
+  {
+    "lema": "πλούσιος",
+    "homonym_headword": "πλούσιος",
+    "rank": 730
+  },
+  {
+    "lema": "κρίσις",
+    "homonym_headword": "κρίσις",
+    "rank": 732
+  },
+  {
+    "lema": "ἐκκλησία",
+    "homonym_headword": "ἐκκλησία",
+    "rank": 732
+  },
+  {
+    "lema": "λυπέω",
+    "homonym_headword": "λυπέω",
+    "rank": 734
+  },
+  {
+    "lema": "φυγή",
+    "homonym_headword": "φυγή",
+    "rank": 734
+  },
+  {
+    "lema": "κάτω",
+    "homonym_headword": "κάτω",
+    "rank": 736
+  },
+  {
+    "lema": "Ἀθήνη",
+    "homonym_headword": "Ἀθήνη",
+    "rank": 736
+  },
+  {
+    "lema": "πολιορκέω",
+    "homonym_headword": "πολιορκέω",
+    "rank": 738
+  },
+  {
+    "lema": "ἄρτι",
+    "homonym_headword": "ἄρτι",
+    "rank": 739
+  },
+  {
+    "lema": "ἕλκω",
+    "homonym_headword": "ἕλκω",
+    "rank": 739
+  },
+  {
+    "lema": "ἄστυ",
+    "homonym_headword": "ἄστυ",
+    "rank": 741
+  },
+  {
+    "lema": "γαμέω",
+    "homonym_headword": "γαμέω",
+    "rank": 742
+  },
+  {
+    "lema": "ἀπορέω",
+    "homonym_headword": "ἀπορέω2",
+    "rank": 742
+  },
+  {
+    "lema": "ἠώς",
+    "homonym_headword": "ἠώς",
+    "rank": 744
+  },
+  {
+    "lema": "ὁπλίτης",
+    "homonym_headword": "ὁπλίτης",
+    "rank": 744
+  },
+  {
+    "lema": "τελέω",
+    "homonym_headword": "τελέω",
+    "rank": 746
+  },
+  {
+    "lema": "δέω",
+    "homonym_headword": "δέω",
+    "rank": 747
+  },
+  {
+    "lema": "εὐδαίμων",
+    "homonym_headword": "εὐδαίμων",
+    "rank": 747
+  },
+  {
+    "lema": "ἐπιστολή",
+    "homonym_headword": "ἐπιστολή",
+    "rank": 747
+  },
+  {
+    "lema": "Πομπήιος",
+    "homonym_headword": "Πομπήιος",
+    "rank": 750
+  },
+  {
+    "lema": "ἐλευθερία",
+    "homonym_headword": "ἐλευθερία",
+    "rank": 750
+  },
+  {
+    "lema": "ἐσθίω",
+    "homonym_headword": "ἐσθίω",
+    "rank": 750
+  },
+  {
+    "lema": "χειμών",
+    "homonym_headword": "χειμών",
+    "rank": 753
+  },
+  {
+    "lema": "συμμαχία",
+    "homonym_headword": "συμμαχία",
+    "rank": 754
+  },
+  {
+    "lema": "ψήφισμα",
+    "homonym_headword": "ψήφισμα",
+    "rank": 754
+  },
+  {
+    "lema": "ἀπορία",
+    "homonym_headword": "ἀπορία",
+    "rank": 756
+  },
+  {
+    "lema": "ἀπάγω",
+    "homonym_headword": "ἀπάγω",
+    "rank": 757
+  },
+  {
+    "lema": "Ἡρώδης",
+    "homonym_headword": "Ἡρώδης",
+    "rank": 757
+  },
+  {
+    "lema": "Τρώς",
+    "homonym_headword": "Τρώς",
+    "rank": 759
+  },
+  {
+    "lema": "φάρμακον",
+    "homonym_headword": "φάρμακον",
+    "rank": 760
+  },
+  {
+    "lema": "ἰατρός",
+    "homonym_headword": "ἰατρός",
+    "rank": 761
+  },
+  {
+    "lema": "πλοῖον",
+    "homonym_headword": "πλοῖον",
+    "rank": 762
+  },
+  {
+    "lema": "Ἀχιλλεύς",
+    "homonym_headword": "Ἀχιλλεύς",
+    "rank": 763
+  },
+  {
+    "lema": "ἐρῆμος",
+    "homonym_headword": "ἐρῆμος",
+    "rank": 764
+  },
+  {
+    "lema": "παρασκευή",
+    "homonym_headword": "παρασκευή",
+    "rank": 765
+  },
+  {
+    "lema": "βαρύς",
+    "homonym_headword": "βαρύς",
+    "rank": 766
+  },
+  {
+    "lema": "γενναῖος",
+    "homonym_headword": "γενναῖος",
+    "rank": 767
+  },
+  {
+    "lema": "πρόσωπον",
+    "homonym_headword": "πρόσωπον",
+    "rank": 767
+  },
+  {
+    "lema": "Διονύσιος",
+    "homonym_headword": "Διονύσιος",
+    "rank": 769
+  },
+  {
+    "lema": "τηλικοῦτος",
+    "homonym_headword": "τηλικοῦτος",
+    "rank": 770
+  },
+  {
+    "lema": "ὁστισοῦν",
+    "homonym_headword": "ὁστισοῦν",
+    "rank": 770
+  },
+  {
+    "lema": "Ἀντίοχος",
+    "homonym_headword": "Ἀντίοχος",
+    "rank": 772
+  },
+  {
+    "lema": "ἔσχατος",
+    "homonym_headword": "ἔσχατος",
+    "rank": 772
+  },
+  {
+    "lema": "Δαρεῖος",
+    "homonym_headword": "Δαρεῖος",
+    "rank": 774
+  },
+  {
+    "lema": "κάλλος",
+    "homonym_headword": "κάλλος",
+    "rank": 774
+  },
+  {
+    "lema": "ὕβρις",
+    "homonym_headword": "ὕβρις",
+    "rank": 774
+  },
+  {
+    "lema": "δικαστήριον",
+    "homonym_headword": "δικαστήριον",
+    "rank": 777
+  },
+  {
+    "lema": "πρόσειμι",
+    "homonym_headword": "πρόσειμι2",
+    "rank": 777
+  },
+  {
+    "lema": "παντάπασι",
+    "homonym_headword": "παντάπασι",
+    "rank": 779
+  },
+  {
+    "lema": "πρόθυμος",
+    "homonym_headword": "πρόθυμος",
+    "rank": 779
+  },
+  {
+    "lema": "Ὅμηρος",
+    "homonym_headword": "Ὅμηρος",
+    "rank": 779
+  },
+  {
+    "lema": "θεωρέω",
+    "homonym_headword": "θεωρέω",
+    "rank": 782
+  },
+  {
+    "lema": "τέταρτος",
+    "homonym_headword": "τέταρτος",
+    "rank": 782
+  },
+  {
+    "lema": "ἀπαγγέλλω",
+    "homonym_headword": "ἀπαγγέλλω",
+    "rank": 782
+  },
+  {
+    "lema": "ὁποῖος",
+    "homonym_headword": "ὁποῖος",
+    "rank": 785
+  },
+  {
+    "lema": "ἀπολύω",
+    "homonym_headword": "ἀπολύω",
+    "rank": 786
+  },
+  {
+    "lema": "παραπλήσιος",
+    "homonym_headword": "παραπλήσιος",
+    "rank": 787
+  },
+  {
+    "lema": "χθών",
+    "homonym_headword": "χθών",
+    "rank": 787
+  },
+  {
+    "lema": "θεραπεύω",
+    "homonym_headword": "θεραπεύω",
+    "rank": 789
+  },
+  {
+    "lema": "μέλας",
+    "homonym_headword": "μέλας",
+    "rank": 789
+  },
+  {
+    "lema": "μεταβάλλω",
+    "homonym_headword": "μεταβάλλω",
+    "rank": 789
+  },
+  {
+    "lema": "καταλύω",
+    "homonym_headword": "καταλύω",
+    "rank": 792
+  },
+  {
+    "lema": "μισέω",
+    "homonym_headword": "μισέω",
+    "rank": 793
+  },
+  {
+    "lema": "μισθός",
+    "homonym_headword": "μισθός",
+    "rank": 793
+  },
+  {
+    "lema": "κολάζω",
+    "homonym_headword": "κολάζω",
+    "rank": 795
+  },
+  {
+    "lema": "σπουδάζω",
+    "homonym_headword": "σπουδάζω",
+    "rank": 795
+  },
+  {
+    "lema": "τιμωρία",
+    "homonym_headword": "τιμωρία",
+    "rank": 795
+  },
+  {
+    "lema": "ἔθος",
+    "homonym_headword": "ἔθος",
+    "rank": 795
+  },
+  {
+    "lema": "πεντήκοντα",
+    "homonym_headword": "πεντήκοντα",
+    "rank": 799
+  },
+  {
+    "lema": "ποῦ",
+    "homonym_headword": "ποῦ",
+    "rank": 800
+  },
+  {
+    "lema": "Σκύθης",
+    "homonym_headword": "Σκύθης",
+    "rank": 801
+  },
+  {
+    "lema": "βασιλικός",
+    "homonym_headword": "βασιλικός",
+    "rank": 801
+  },
+  {
+    "lema": "ἐξουσία",
+    "homonym_headword": "ἐξουσία",
+    "rank": 803
+  },
+  {
+    "lema": "εἴσω",
+    "homonym_headword": "εἴσω",
+    "rank": 804
+  },
+  {
+    "lema": "οὔπω",
+    "homonym_headword": "οὔπω",
+    "rank": 804
+  },
+  {
+    "lema": "ἄναξ",
+    "homonym_headword": "ἄναξ",
+    "rank": 804
+  },
+  {
+    "lema": "κόλπος",
+    "homonym_headword": "κόλπος",
+    "rank": 807
+  },
+  {
+    "lema": "ὕπνος",
+    "homonym_headword": "ὕπνος",
+    "rank": 807
+  },
+  {
+    "lema": "διαλύω",
+    "homonym_headword": "διαλύω",
+    "rank": 809
+  },
+  {
+    "lema": "ψευδής",
+    "homonym_headword": "ψευδής",
+    "rank": 809
+  },
+  {
+    "lema": "ἀρχαῖος",
+    "homonym_headword": "ἀρχαῖος",
+    "rank": 811
+  },
+  {
+    "lema": "σπεύδω",
+    "homonym_headword": "σπεύδω",
+    "rank": 812
+  },
+  {
+    "lema": "μοῖρα",
+    "homonym_headword": "μοῖρα",
+    "rank": 813
+  },
+  {
+    "lema": "ὀφείλω",
+    "homonym_headword": "ὀφείλω",
+    "rank": 813
+  },
+  {
+    "lema": "πρέπω",
+    "homonym_headword": "πρέπω",
+    "rank": 815
+  },
+  {
+    "lema": "δῆτα",
+    "homonym_headword": "δῆτα",
+    "rank": 816
+  },
+  {
+    "lema": "γεννάω",
+    "homonym_headword": "γεννάω",
+    "rank": 817
+  },
+  {
+    "lema": "λύπη",
+    "homonym_headword": "λύπη",
+    "rank": 817
+  },
+  {
+    "lema": "λίμνη",
+    "homonym_headword": "λίμνη",
+    "rank": 819
+  },
+  {
+    "lema": "πέτρα",
+    "homonym_headword": "πέτρα",
+    "rank": 820
+  },
+  {
+    "lema": "αὐξάνω",
+    "homonym_headword": "αὐξάνω",
+    "rank": 821
+  },
+  {
+    "lema": "δῶμα",
+    "homonym_headword": "δῶμα",
+    "rank": 821
+  },
+  {
+    "lema": "ὁμοῦ",
+    "homonym_headword": "ὁμοῦ",
+    "rank": 821
+  },
+  {
+    "lema": "στάσις",
+    "homonym_headword": "στάσις",
+    "rank": 824
+  },
+  {
+    "lema": "δήπου",
+    "homonym_headword": "δήπου",
+    "rank": 825
+  },
+  {
+    "lema": "ὄχλος",
+    "homonym_headword": "ὄχλος",
+    "rank": 826
+  },
+  {
+    "lema": "μέλω",
+    "homonym_headword": "μέλω",
+    "rank": 827
+  },
+  {
+    "lema": "συνθήκη",
+    "homonym_headword": "συνθήκη",
+    "rank": 828
+  },
+  {
+    "lema": "ἀγωνίζομαι",
+    "homonym_headword": "ἀγωνίζομαι",
+    "rank": 829
+  },
+  {
+    "lema": "καταφρονέω",
+    "homonym_headword": "καταφρονέω",
+    "rank": 830
+  },
+  {
+    "lema": "ἐκτός",
+    "homonym_headword": "ἐκτός",
+    "rank": 830
+  },
+  {
+    "lema": "ἦθος",
+    "homonym_headword": "ἦθος",
+    "rank": 832
+  },
+  {
+    "lema": "ἐντυγχάνω",
+    "homonym_headword": "ἐντυγχάνω",
+    "rank": 833
+  },
+  {
+    "lema": "θαυμαστός",
+    "homonym_headword": "θαυμαστός",
+    "rank": 834
+  },
+  {
+    "lema": "προσπίπτω",
+    "homonym_headword": "προσπίπτω",
+    "rank": 834
+  },
+  {
+    "lema": "μεταβολή",
+    "homonym_headword": "μεταβολή",
+    "rank": 836
+  },
+  {
+    "lema": "φιλοσοφία",
+    "homonym_headword": "φιλοσοφία",
+    "rank": 836
+  },
+  {
+    "lema": "βωμός",
+    "homonym_headword": "βωμός",
+    "rank": 838
+  },
+  {
+    "lema": "δικαιοσύνη",
+    "homonym_headword": "δικαιοσύνη",
+    "rank": 839
+  },
+  {
+    "lema": "καθαρός",
+    "homonym_headword": "καθαρός",
+    "rank": 839
+  },
+  {
+    "lema": "ὅρος",
+    "homonym_headword": "ὅρος",
+    "rank": 839
+  },
+  {
+    "lema": "πληρόω",
+    "homonym_headword": "πληρόω",
+    "rank": 842
+  },
+  {
+    "lema": "συλλαμβάνω",
+    "homonym_headword": "συλλαμβάνω",
+    "rank": 843
+  },
+  {
+    "lema": "ἀδελφή",
+    "homonym_headword": "ἀδελφή",
+    "rank": 844
+  },
+  {
+    "lema": "ὁρμή",
+    "homonym_headword": "ὁρμή",
+    "rank": 845
+  },
+  {
+    "lema": "διατίθημι",
+    "homonym_headword": "διατίθημι",
+    "rank": 846
+  },
+  {
+    "lema": "γλῶσσα",
+    "homonym_headword": "γλῶσσα",
+    "rank": 847
+  },
+  {
+    "lema": "ἀείδω",
+    "homonym_headword": "ἀείδω",
+    "rank": 847
+  },
+  {
+    "lema": "κώμη",
+    "homonym_headword": "κώμη",
+    "rank": 849
+  },
+  {
+    "lema": "λογίζομαι",
+    "homonym_headword": "λογίζομαι",
+    "rank": 849
+  },
+  {
+    "lema": "πρόφασις",
+    "homonym_headword": "πρόφασις",
+    "rank": 849
+  },
+  {
+    "lema": "δικάζω",
+    "homonym_headword": "δικάζω",
+    "rank": 852
+  },
+  {
+    "lema": "παιδίον",
+    "homonym_headword": "παιδίον",
+    "rank": 853
+  },
+  {
+    "lema": "διάκειμαι",
+    "homonym_headword": "διάκειμαι",
+    "rank": 854
+  },
+  {
+    "lema": "κάθημαι",
+    "homonym_headword": "κάθημαι",
+    "rank": 854
+  },
+  {
+    "lema": "φάος",
+    "homonym_headword": "φάος",
+    "rank": 856
+  },
+  {
+    "lema": "ἡγεμονία",
+    "homonym_headword": "ἡγεμονία",
+    "rank": 857
+  },
+  {
+    "lema": "δωρεά",
+    "homonym_headword": "δωρεά",
+    "rank": 858
+  },
+  {
+    "lema": "Πελοπόννησος",
+    "homonym_headword": "Πελοπόννησος",
+    "rank": 859
+  },
+  {
+    "lema": "τελευταῖος",
+    "homonym_headword": "τελευταῖος",
+    "rank": 859
+  },
+  {
+    "lema": "νυνί",
+    "homonym_headword": "νυνί",
+    "rank": 861
+  },
+  {
+    "lema": "προάγω",
+    "homonym_headword": "προάγω",
+    "rank": 861
+  },
+  {
+    "lema": "γραφή",
+    "homonym_headword": "γραφή",
+    "rank": 863
+  },
+  {
+    "lema": "εἴωθα",
+    "homonym_headword": "εἴωθα",
+    "rank": 863
+  },
+  {
+    "lema": "σώφρων",
+    "homonym_headword": "σώφρων",
+    "rank": 863
+  },
+  {
+    "lema": "λαγχάνω",
+    "homonym_headword": "λαγχάνω",
+    "rank": 866
+  },
+  {
+    "lema": "συνάπτω",
+    "homonym_headword": "συνάπτω",
+    "rank": 866
+  },
+  {
+    "lema": "ἐξαπατάω",
+    "homonym_headword": "ἐξαπατάω",
+    "rank": 866
+  },
+  {
+    "lema": "ἥκιστος",
+    "homonym_headword": "ἥκιστος",
+    "rank": 866
+  },
+  {
+    "lema": "νοέω",
+    "homonym_headword": "νοέω",
+    "rank": 870
+  },
+  {
+    "lema": "πρόσω",
+    "homonym_headword": "πρόσω",
+    "rank": 871
+  },
+  {
+    "lema": "εἰσάγω",
+    "homonym_headword": "εἰσάγω",
+    "rank": 872
+  },
+  {
+    "lema": "οἰκέτης",
+    "homonym_headword": "οἰκέτης",
+    "rank": 873
+  },
+  {
+    "lema": "αἰχμάλωτος",
+    "homonym_headword": "αἰχμάλωτος",
+    "rank": 874
+  },
+  {
+    "lema": "θερμός",
+    "homonym_headword": "θερμός",
+    "rank": 874
+  },
+  {
+    "lema": "πρόγονος",
+    "homonym_headword": "πρόγονος",
+    "rank": 876
+  },
+  {
+    "lema": "ἐπάγω",
+    "homonym_headword": "ἐπάγω",
+    "rank": 876
+  },
+  {
+    "lema": "ὁρίζω",
+    "homonym_headword": "ὁρίζω",
+    "rank": 878
+  },
+  {
+    "lema": "δάκρυον",
+    "homonym_headword": "δάκρυον",
+    "rank": 879
+  },
+  {
+    "lema": "παιδεύω",
+    "homonym_headword": "παιδεύω",
+    "rank": 880
+  },
+  {
+    "lema": "συνέρχομαι",
+    "homonym_headword": "συνέρχομαι",
+    "rank": 880
+  },
+  {
+    "lema": "τεσσαράκοντα",
+    "homonym_headword": "τεσσαράκοντα",
+    "rank": 880
+  },
+  {
+    "lema": "Ἱεροσόλυμα",
+    "homonym_headword": "Ἱεροσόλυμα",
+    "rank": 880
+  },
+  {
+    "lema": "ἀκολουθέω",
+    "homonym_headword": "ἀκολουθέω",
+    "rank": 884
+  },
+  {
+    "lema": "βροτός",
+    "homonym_headword": "βροτός",
+    "rank": 885
+  },
+  {
+    "lema": "ὑβρίζω",
+    "homonym_headword": "ὑβρίζω",
+    "rank": 885
+  },
+  {
+    "lema": "εὐθεῖα",
+    "homonym_headword": "εὐθεῖα",
+    "rank": 887
+  },
+  {
+    "lema": "ἀθρόος",
+    "homonym_headword": "ἀθρόος",
+    "rank": 887
+  },
+  {
+    "lema": "τριακόσιοι",
+    "homonym_headword": "τριακόσιοι",
+    "rank": 889
+  },
+  {
+    "lema": "διανοέομαι",
+    "homonym_headword": "διανοέομαι",
+    "rank": 890
+  },
+  {
+    "lema": "ἀναχωρέω",
+    "homonym_headword": "ἀναχωρέω",
+    "rank": 890
+  },
+  {
+    "lema": "ἰδιώτης",
+    "homonym_headword": "ἰδιώτης",
+    "rank": 890
+  },
+  {
+    "lema": "ἀντιλέγω",
+    "homonym_headword": "ἀντιλέγω",
+    "rank": 893
+  },
+  {
+    "lema": "ἐνιαυτός",
+    "homonym_headword": "ἐνιαυτός",
+    "rank": 894
+  },
+  {
+    "lema": "καρπός",
+    "homonym_headword": "καρπός",
+    "rank": 895
+  },
+  {
+    "lema": "κύριος",
+    "homonym_headword": "κύριος2",
+    "rank": 895
+  },
+  {
+    "lema": "ἔμπροσθεν",
+    "homonym_headword": "ἔμπροσθεν",
+    "rank": 895
+  },
+  {
+    "lema": "ἱκνέομαι",
+    "homonym_headword": "ἱκνέομαι",
+    "rank": 895
+  },
+  {
+    "lema": "ξύλον",
+    "homonym_headword": "ξύλον",
+    "rank": 899
+  },
+  {
+    "lema": "ἄπειρος",
+    "homonym_headword": "ἄπειρος",
+    "rank": 899
+  },
+  {
+    "lema": "προαίρεσις",
+    "homonym_headword": "προαίρεσις",
+    "rank": 901
+  },
+  {
+    "lema": "βέλος",
+    "homonym_headword": "βέλος",
+    "rank": 902
+  },
+  {
+    "lema": "διαβαίνω",
+    "homonym_headword": "διαβαίνω",
+    "rank": 902
+  },
+  {
+    "lema": "διαφορά",
+    "homonym_headword": "διαφορά",
+    "rank": 902
+  },
+  {
+    "lema": "ἐνδέχομαι",
+    "homonym_headword": "ἐνδέχομαι",
+    "rank": 905
+  },
+  {
+    "lema": "Λιβύη",
+    "homonym_headword": "Λιβύη",
+    "rank": 906
+  },
+  {
+    "lema": "ἄνεμος",
+    "homonym_headword": "ἄνεμος",
+    "rank": 907
+  },
+  {
+    "lema": "ἀνδρεία",
+    "homonym_headword": "ἀνδρεία",
+    "rank": 908
+  },
+  {
+    "lema": "ἄγγελος",
+    "homonym_headword": "ἄγγελος",
+    "rank": 908
+  },
+  {
+    "lema": "γένεσις",
+    "homonym_headword": "γένεσις",
+    "rank": 910
+  },
+  {
+    "lema": "Ἀννίβας",
+    "homonym_headword": "Ἀννίβας",
+    "rank": 911
+  },
+  {
+    "lema": "Ἕκτωρ",
+    "homonym_headword": "Ἕκτωρ",
+    "rank": 911
+  },
+  {
+    "lema": "ὄμμα",
+    "homonym_headword": "ὄμμα",
+    "rank": 911
+  },
+  {
+    "lema": "θεά",
+    "homonym_headword": "θεά",
+    "rank": 914
+  },
+  {
+    "lema": "πάτριος",
+    "homonym_headword": "πάτριος",
+    "rank": 915
+  },
+  {
+    "lema": "ἐπέχω",
+    "homonym_headword": "ἐπέχω",
+    "rank": 915
+  },
+  {
+    "lema": "ὕπατος",
+    "homonym_headword": "ὕπατος",
+    "rank": 915
+  },
+  {
+    "lema": "Συρία",
+    "homonym_headword": "Συρία",
+    "rank": 918
+  },
+  {
+    "lema": "μυριάς",
+    "homonym_headword": "μυριάς",
+    "rank": 918
+  },
+  {
+    "lema": "ἀγαπάω",
+    "homonym_headword": "ἀγαπάω",
+    "rank": 918
+  },
+  {
+    "lema": "στρατεία",
+    "homonym_headword": "στρατεία",
+    "rank": 921
+  },
+  {
+    "lema": "μύριοι",
+    "homonym_headword": "μύριοι",
+    "rank": 922
+  },
+  {
+    "lema": "ἐπιβουλεύω",
+    "homonym_headword": "ἐπιβουλεύω",
+    "rank": 922
+  },
+  {
+    "lema": "διαφεύγω",
+    "homonym_headword": "διαφεύγω",
+    "rank": 924
+  },
+  {
+    "lema": "στόλος",
+    "homonym_headword": "στόλος",
+    "rank": 924
+  },
+  {
+    "lema": "ἀπολαμβάνω",
+    "homonym_headword": "ἀπολαμβάνω",
+    "rank": 924
+  },
+  {
+    "lema": "διατρίβω",
+    "homonym_headword": "διατρίβω",
+    "rank": 927
+  },
+  {
+    "lema": "κοινωνέω",
+    "homonym_headword": "κοινωνέω",
+    "rank": 927
+  },
+  {
+    "lema": "διαβάλλω",
+    "homonym_headword": "διαβάλλω",
+    "rank": 929
+  },
+  {
+    "lema": "ἡσυχία",
+    "homonym_headword": "ἡσυχία",
+    "rank": 929
+  },
+  {
+    "lema": "μαρτυρία",
+    "homonym_headword": "μαρτυρία",
+    "rank": 931
+  },
+  {
+    "lema": "πατρῷος",
+    "homonym_headword": "πατρῷος",
+    "rank": 932
+  },
+  {
+    "lema": "τυραννίς",
+    "homonym_headword": "τυραννίς",
+    "rank": 933
+  },
+  {
+    "lema": "κατοικέω",
+    "homonym_headword": "κατοικέω",
+    "rank": 934
+  },
+  {
+    "lema": "προσάγω",
+    "homonym_headword": "προσάγω",
+    "rank": 934
+  },
+  {
+    "lema": "κίνησις",
+    "homonym_headword": "κίνησις",
+    "rank": 936
+  },
+  {
+    "lema": "πώποτε",
+    "homonym_headword": "πώποτε",
+    "rank": 936
+  },
+  {
+    "lema": "ἐπίπεδος",
+    "homonym_headword": "ἐπίπεδος",
+    "rank": 938
+  },
+  {
+    "lema": "Βοιωτός",
+    "homonym_headword": "Βοιωτός",
+    "rank": 939
+  },
+  {
+    "lema": "παρθένος",
+    "homonym_headword": "παρθένος",
+    "rank": 939
+  },
+  {
+    "lema": "ἅτε",
+    "homonym_headword": "ἅτε",
+    "rank": 941
+  },
+  {
+    "lema": "ὑπερβολή",
+    "homonym_headword": "ὑπερβολή",
+    "rank": 941
+  },
+  {
+    "lema": "βέβαιος",
+    "homonym_headword": "βέβαιος",
+    "rank": 943
+  },
+  {
+    "lema": "μέτρον",
+    "homonym_headword": "μέτρον",
+    "rank": 943
+  },
+  {
+    "lema": "ξίφος",
+    "homonym_headword": "ξίφος",
+    "rank": 943
+  },
+  {
+    "lema": "κάμνω",
+    "homonym_headword": "κάμνω",
+    "rank": 946
+  },
+  {
+    "lema": "ναυτικός",
+    "homonym_headword": "ναυτικός",
+    "rank": 946
+  },
+  {
+    "lema": "Αἰτωλός",
+    "homonym_headword": "Αἰτωλός",
+    "rank": 948
+  },
+  {
+    "lema": "πέλαγος",
+    "homonym_headword": "πέλαγος",
+    "rank": 948
+  },
+  {
+    "lema": "ἀπαντάω",
+    "homonym_headword": "ἀπαντάω",
+    "rank": 948
+  },
+  {
+    "lema": "ἐπιμέλεια",
+    "homonym_headword": "ἐπιμέλεια",
+    "rank": 948
+  },
+  {
+    "lema": "παραγγέλλω",
+    "homonym_headword": "παραγγέλλω",
+    "rank": 952
+  },
+  {
+    "lema": "ἄκων",
+    "homonym_headword": "ἄκων2",
+    "rank": 952
+  },
+  {
+    "lema": "αἰσχύνω",
+    "homonym_headword": "αἰσχύνω",
+    "rank": 954
+  },
+  {
+    "lema": "εἴσειμι",
+    "homonym_headword": "εἴσειμι",
+    "rank": 954
+  },
+  {
+    "lema": "παραχρῆμα",
+    "homonym_headword": "παραχρῆμα",
+    "rank": 954
+  },
+  {
+    "lema": "καταβαίνω",
+    "homonym_headword": "καταβαίνω",
+    "rank": 957
+  },
+  {
+    "lema": "ἀήρ",
+    "homonym_headword": "ἀήρ",
+    "rank": 957
+  },
+  {
+    "lema": "διηγέομαι",
+    "homonym_headword": "διηγέομαι",
+    "rank": 959
+  },
+  {
+    "lema": "αʹ",
+    "homonym_headword": "αʹ",
+    "rank": 960
+  },
+  {
+    "lema": "συλλέγω",
+    "homonym_headword": "συλλέγω",
+    "rank": 960
+  },
+  {
+    "lema": "πύργος",
+    "homonym_headword": "πύργος",
+    "rank": 962
+  },
+  {
+    "lema": "ὄλλυμι",
+    "homonym_headword": "ὄλλυμι",
+    "rank": 962
+  },
+  {
+    "lema": "ᾍδης",
+    "homonym_headword": "ᾍδης",
+    "rank": 962
+  },
+  {
+    "lema": "τιμωρέω",
+    "homonym_headword": "τιμωρέω",
+    "rank": 965
+  },
+  {
+    "lema": "ὑπερβάλλω",
+    "homonym_headword": "ὑπερβάλλω",
+    "rank": 965
+  },
+  {
+    "lema": "δίς",
+    "homonym_headword": "δίς",
+    "rank": 967
+  },
+  {
+    "lema": "κοσμέω",
+    "homonym_headword": "κοσμέω",
+    "rank": 967
+  },
+  {
+    "lema": "ἐπανέρχομαι",
+    "homonym_headword": "ἐπανέρχομαι",
+    "rank": 967
+  },
+  {
+    "lema": "ἵημι",
+    "homonym_headword": "ἵημι",
+    "rank": 967
+  },
+  {
+    "lema": "θάπτω",
+    "homonym_headword": "θάπτω",
+    "rank": 971
+  },
+  {
+    "lema": "θνητός",
+    "homonym_headword": "θνητός",
+    "rank": 972
+  },
+  {
+    "lema": "πληγή",
+    "homonym_headword": "πληγή",
+    "rank": 973
+  },
+  {
+    "lema": "ἀνατίθημι",
+    "homonym_headword": "ἀνατίθημι",
+    "rank": 973
+  },
+  {
+    "lema": "ἥδομαι",
+    "homonym_headword": "ἥδομαι",
+    "rank": 973
+  },
+  {
+    "lema": "συνίημι",
+    "homonym_headword": "συνίημι",
+    "rank": 976
+  },
+  {
+    "lema": "βαδίζω",
+    "homonym_headword": "βαδίζω",
+    "rank": 977
+  },
+  {
+    "lema": "τηρέω",
+    "homonym_headword": "τηρέω",
+    "rank": 978
+  },
+  {
+    "lema": "ἀμφισβητέω",
+    "homonym_headword": "ἀμφισβητέω",
+    "rank": 978
+  },
+  {
+    "lema": "ἀρκέω",
+    "homonym_headword": "ἀρκέω",
+    "rank": 978
+  },
+  {
+    "lema": "ἐγείρω",
+    "homonym_headword": "ἐγείρω",
+    "rank": 978
+  },
+  {
+    "lema": "ἀθροίζω",
+    "homonym_headword": "ἀθροίζω",
+    "rank": 982
+  },
+  {
+    "lema": "πεντακόσιοι",
+    "homonym_headword": "πεντακόσιοι",
+    "rank": 983
+  },
+  {
+    "lema": "ἐλέγχω",
+    "homonym_headword": "ἐλέγχω",
+    "rank": 983
+  },
+  {
+    "lema": "ἀσθενής",
+    "homonym_headword": "ἀσθενής",
+    "rank": 985
+  },
+  {
+    "lema": "ἐπείγω",
+    "homonym_headword": "ἐπείγω",
+    "rank": 986
+  },
+  {
+    "lema": "ἱστορία",
+    "homonym_headword": "ἱστορία",
+    "rank": 986
+  },
+  {
+    "lema": "Ἀλκιβιάδης",
+    "homonym_headword": "Ἀλκιβιάδης",
+    "rank": 988
+  },
+  {
+    "lema": "Κορίνθιος",
+    "homonym_headword": "Κορίνθιος",
+    "rank": 989
+  },
+  {
+    "lema": "πω",
+    "homonym_headword": "πω",
+    "rank": 989
+  },
+  {
+    "lema": "στερεός",
+    "homonym_headword": "στερεός",
+    "rank": 989
+  },
+  {
+    "lema": "κέρας",
+    "homonym_headword": "κέρας",
+    "rank": 992
+  },
+  {
+    "lema": "μιμέομαι",
+    "homonym_headword": "μιμέομαι",
+    "rank": 992
+  },
+  {
+    "lema": "ἀνίημι",
+    "homonym_headword": "ἀνίημι",
+    "rank": 992
+  },
+  {
+    "lema": "ἐπιβάλλω",
+    "homonym_headword": "ἐπιβάλλω",
+    "rank": 992
+  },
+  {
+    "lema": "δημοκρατία",
+    "homonym_headword": "δημοκρατία",
+    "rank": 996
+  },
+  {
+    "lema": "διακόσιοι",
+    "homonym_headword": "διακόσιοι",
+    "rank": 996
+  },
+  {
+    "lema": "σάρξ",
+    "homonym_headword": "σάρξ",
+    "rank": 996
+  },
+  {
+    "lema": "ἐκλείπω",
+    "homonym_headword": "ἐκλείπω",
+    "rank": 999
+  },
+  {
+    "lema": "ἱερεύς",
+    "homonym_headword": "ἱερεύς",
+    "rank": 1000
+  },
+  {
+    "lema": "νομοθέτης",
+    "homonym_headword": "νομοθέτης",
+    "rank": 1001
+  },
+  {
+    "lema": "προτίθημι",
+    "homonym_headword": "προτίθημι",
+    "rank": 1001
+  },
+  {
+    "lema": "πολιορκία",
+    "homonym_headword": "πολιορκία",
+    "rank": 1003
+  },
+  {
+    "lema": "τάφος",
+    "homonym_headword": "τάφος",
+    "rank": 1004
+  },
+  {
+    "lema": "ὑγρός",
+    "homonym_headword": "ὑγρός",
+    "rank": 1004
+  },
+  {
+    "lema": "ὑψηλός",
+    "homonym_headword": "ὑψηλός",
+    "rank": 1006
+  },
+  {
+    "lema": "καρδία",
+    "homonym_headword": "καρδία",
+    "rank": 1007
+  },
+  {
+    "lema": "κράτος",
+    "homonym_headword": "κράτος",
+    "rank": 1007
+  },
+  {
+    "lema": "ἐσθής",
+    "homonym_headword": "ἐσθής",
+    "rank": 1007
+  },
+  {
+    "lema": "Πτολεμαῖος",
+    "homonym_headword": "Πτολεμαῖος",
+    "rank": 1010
+  },
+  {
+    "lema": "ἀσπίς",
+    "homonym_headword": "ἀσπίς",
+    "rank": 1011
+  },
+  {
+    "lema": "κῆρυξ",
+    "homonym_headword": "κῆρυξ",
+    "rank": 1012
+  },
+  {
+    "lema": "μεταπέμπω",
+    "homonym_headword": "μεταπέμπω",
+    "rank": 1012
+  },
+  {
+    "lema": "μνήμη",
+    "homonym_headword": "μνήμη",
+    "rank": 1014
+  },
+  {
+    "lema": "αἴσθησις",
+    "homonym_headword": "αἴσθησις",
+    "rank": 1015
+  },
+  {
+    "lema": "φροντίζω",
+    "homonym_headword": "φροντίζω",
+    "rank": 1015
+  },
+  {
+    "lema": "ψῆφος",
+    "homonym_headword": "ψῆφος",
+    "rank": 1017
+  },
+  {
+    "lema": "ἀμελέω",
+    "homonym_headword": "ἀμελέω",
+    "rank": 1017
+  },
+  {
+    "lema": "ἥμισυς",
+    "homonym_headword": "ἥμισυς",
+    "rank": 1017
+  },
+  {
+    "lema": "Ἑρμῆς",
+    "homonym_headword": "Ἑρμῆς",
+    "rank": 1020
+  },
+  {
+    "lema": "ὑπόκειμαι",
+    "homonym_headword": "ὑπόκειμαι",
+    "rank": 1020
+  },
+  {
+    "lema": "καθόλου",
+    "homonym_headword": "καθόλου",
+    "rank": 1022
+  },
+  {
+    "lema": "λίαν",
+    "homonym_headword": "λίαν",
+    "rank": 1023
+  },
+  {
+    "lema": "πόθεν",
+    "homonym_headword": "πόθεν",
+    "rank": 1023
+  },
+  {
+    "lema": "φύλαξ",
+    "homonym_headword": "φύλαξ",
+    "rank": 1023
+  },
+  {
+    "lema": "ἀγανακτέω",
+    "homonym_headword": "ἀγανακτέω",
+    "rank": 1023
+  },
+  {
+    "lema": "εἰσφέρω",
+    "homonym_headword": "εἰσφέρω",
+    "rank": 1027
+  },
+  {
+    "lema": "Ἄργος",
+    "homonym_headword": "Ἄργος",
+    "rank": 1027
+  },
+  {
+    "lema": "ἐξάγω",
+    "homonym_headword": "ἐξάγω",
+    "rank": 1027
+  },
+  {
+    "lema": "προαιρέω",
+    "homonym_headword": "προαιρέω",
+    "rank": 1030
+  },
+  {
+    "lema": "ἁρμόζω",
+    "homonym_headword": "ἁρμόζω",
+    "rank": 1030
+  },
+  {
+    "lema": "ἔξειμι",
+    "homonym_headword": "ἔξειμι",
+    "rank": 1030
+  },
+  {
+    "lema": "ἤπειρος",
+    "homonym_headword": "ἤπειρος",
+    "rank": 1033
+  },
+  {
+    "lema": "δυώδεκα",
+    "homonym_headword": "δυώδεκα",
+    "rank": 1034
+  },
+  {
+    "lema": "στέφανος",
+    "homonym_headword": "στέφανος",
+    "rank": 1034
+  },
+  {
+    "lema": "διαπράσσω",
+    "homonym_headword": "διαπράσσω",
+    "rank": 1036
+  },
+  {
+    "lema": "Δημοσθένης",
+    "homonym_headword": "Δημοσθένης",
+    "rank": 1037
+  },
+  {
+    "lema": "σφέτερος",
+    "homonym_headword": "σφέτερος",
+    "rank": 1037
+  },
+  {
+    "lema": "τελευτή",
+    "homonym_headword": "τελευτή",
+    "rank": 1037
+  },
+  {
+    "lema": "ἐπαγγέλλω",
+    "homonym_headword": "ἐπαγγέλλω",
+    "rank": 1037
+  },
+  {
+    "lema": "νοσέω",
+    "homonym_headword": "νοσέω",
+    "rank": 1041
+  },
+  {
+    "lema": "καίπερ",
+    "homonym_headword": "καίπερ",
+    "rank": 1042
+  },
+  {
+    "lema": "καινός",
+    "homonym_headword": "καινός",
+    "rank": 1042
+  },
+  {
+    "lema": "οὐδαμῶς",
+    "homonym_headword": "οὐδαμῶς",
+    "rank": 1042
+  },
+  {
+    "lema": "ἔπαινος",
+    "homonym_headword": "ἔπαινος",
+    "rank": 1042
+  },
+  {
+    "lema": "δεῖπνον",
+    "homonym_headword": "δεῖπνον",
+    "rank": 1046
+  },
+  {
+    "lema": "ἐξαιρέω",
+    "homonym_headword": "ἐξαιρέω",
+    "rank": 1046
+  },
+  {
+    "lema": "ἐπισκοπέω",
+    "homonym_headword": "ἐπισκοπέω",
+    "rank": 1046
+  },
+  {
+    "lema": "δεσμός",
+    "homonym_headword": "δεσμός",
+    "rank": 1049
+  },
+  {
+    "lema": "αἰτιάομαι",
+    "homonym_headword": "αἰτιάομαι",
+    "rank": 1050
+  },
+  {
+    "lema": "ἐκφέρω",
+    "homonym_headword": "ἐκφέρω",
+    "rank": 1050
+  },
+  {
+    "lema": "προδίδωμι",
+    "homonym_headword": "προδίδωμι",
+    "rank": 1052
+  },
+  {
+    "lema": "ἄτοπος",
+    "homonym_headword": "ἄτοπος",
+    "rank": 1052
+  },
+  {
+    "lema": "σπονδή",
+    "homonym_headword": "σπονδή",
+    "rank": 1054
+  },
+  {
+    "lema": "εὐδαιμονία",
+    "homonym_headword": "εὐδαιμονία",
+    "rank": 1055
+  },
+  {
+    "lema": "πόσος",
+    "homonym_headword": "πόσος",
+    "rank": 1055
+  },
+  {
+    "lema": "ὀργίζω",
+    "homonym_headword": "ὀργίζω",
+    "rank": 1055
+  },
+  {
+    "lema": "λογισμός",
+    "homonym_headword": "λογισμός",
+    "rank": 1058
+  },
+  {
+    "lema": "ποικίλος",
+    "homonym_headword": "ποικίλος",
+    "rank": 1058
+  },
+  {
+    "lema": "ἐπιβαίνω",
+    "homonym_headword": "ἐπιβαίνω",
+    "rank": 1058
+  },
+  {
+    "lema": "ἐπιφέρω",
+    "homonym_headword": "ἐπιφέρω",
+    "rank": 1058
+  },
+  {
+    "lema": "προσδοκάω",
+    "homonym_headword": "προσδοκάω",
+    "rank": 1062
+  },
+  {
+    "lema": "σκηνή",
+    "homonym_headword": "σκηνή",
+    "rank": 1062
+  },
+  {
+    "lema": "πονέω",
+    "homonym_headword": "πονέω",
+    "rank": 1064
+  },
+  {
+    "lema": "ῥίπτω",
+    "homonym_headword": "ῥίπτω",
+    "rank": 1064
+  },
+  {
+    "lema": "Θῆβαι",
+    "homonym_headword": "Θῆβαι",
+    "rank": 1066
+  },
+  {
+    "lema": "μείγνυμι",
+    "homonym_headword": "μείγνυμι",
+    "rank": 1066
+  },
+  {
+    "lema": "πρόκειμαι",
+    "homonym_headword": "πρόκειμαι",
+    "rank": 1068
+  },
+  {
+    "lema": "παιδεία",
+    "homonym_headword": "παιδεία",
+    "rank": 1069
+  },
+  {
+    "lema": "πρεσβευτής",
+    "homonym_headword": "πρεσβευτής",
+    "rank": 1069
+  },
+  {
+    "lema": "νιν",
+    "homonym_headword": "νιν",
+    "rank": 1071
+  },
+  {
+    "lema": "ἀσύμμετρος",
+    "homonym_headword": "ἀσύμμετρος",
+    "rank": 1071
+  },
+  {
+    "lema": "λεπτός",
+    "homonym_headword": "λεπτός",
+    "rank": 1073
+  },
+  {
+    "lema": "μαθητής",
+    "homonym_headword": "μαθητής",
+    "rank": 1073
+  },
+  {
+    "lema": "ἰσχύς",
+    "homonym_headword": "ἰσχύς",
+    "rank": 1073
+  },
+  {
+    "lema": "ψυχρός",
+    "homonym_headword": "ψυχρός",
+    "rank": 1076
+  },
+  {
+    "lema": "προέρχομαι",
+    "homonym_headword": "προέρχομαι",
+    "rank": 1077
+  },
+  {
+    "lema": "Γάϊος",
+    "homonym_headword": "Γάϊος",
+    "rank": 1078
+  },
+  {
+    "lema": "ἔξωθεν",
+    "homonym_headword": "ἔξωθεν",
+    "rank": 1078
+  },
+  {
+    "lema": "ταράσσω",
+    "homonym_headword": "ταράσσω",
+    "rank": 1080
+  },
+  {
+    "lema": "Ἰνδός",
+    "homonym_headword": "Ἰνδός",
+    "rank": 1080
+  },
+  {
+    "lema": "κατάγω",
+    "homonym_headword": "κατάγω",
+    "rank": 1082
+  },
+  {
+    "lema": "ἀμείβω",
+    "homonym_headword": "ἀμείβω",
+    "rank": 1082
+  },
+  {
+    "lema": "ὕψος",
+    "homonym_headword": "ὕψος",
+    "rank": 1082
+  },
+  {
+    "lema": "νόμιμος",
+    "homonym_headword": "νόμιμος",
+    "rank": 1085
+  },
+  {
+    "lema": "πλόος",
+    "homonym_headword": "πλόος",
+    "rank": 1085
+  },
+  {
+    "lema": "ἱδρύω",
+    "homonym_headword": "ἱδρύω",
+    "rank": 1085
+  },
+  {
+    "lema": "Μενέλαος",
+    "homonym_headword": "Μενέλαος",
+    "rank": 1088
+  },
+  {
+    "lema": "παράδοξος",
+    "homonym_headword": "παράδοξος",
+    "rank": 1088
+  },
+  {
+    "lema": "σωφροσύνη",
+    "homonym_headword": "σωφροσύνη",
+    "rank": 1088
+  },
+  {
+    "lema": "καταπλήσσω",
+    "homonym_headword": "καταπλήσσω",
+    "rank": 1091
+  },
+  {
+    "lema": "ἅρμα",
+    "homonym_headword": "ἅρμα",
+    "rank": 1091
+  },
+  {
+    "lema": "ἀνθρώπινος",
+    "homonym_headword": "ἀνθρώπινος",
+    "rank": 1093
+  },
+  {
+    "lema": "ἀνοίγνυμι",
+    "homonym_headword": "ἀνοίγνυμι",
+    "rank": 1093
+  },
+  {
+    "lema": "ῥήτωρ",
+    "homonym_headword": "ῥήτωρ",
+    "rank": 1093
+  },
+  {
+    "lema": "πολιτεύω",
+    "homonym_headword": "πολιτεύω",
+    "rank": 1096
+  },
+  {
+    "lema": "προσλαμβάνω",
+    "homonym_headword": "προσλαμβάνω",
+    "rank": 1096
+  },
+  {
+    "lema": "ἐκδίδωμι",
+    "homonym_headword": "ἐκδίδωμι",
+    "rank": 1098
+  },
+  {
+    "lema": "Σκιπίων",
+    "homonym_headword": "Σκιπίων",
+    "rank": 1099
+  },
+  {
+    "lema": "βοάω",
+    "homonym_headword": "βοάω",
+    "rank": 1099
+  },
+  {
+    "lema": "καθοράω",
+    "homonym_headword": "καθοράω",
+    "rank": 1099
+  },
+  {
+    "lema": "λαλέω",
+    "homonym_headword": "λαλέω",
+    "rank": 1099
+  },
+  {
+    "lema": "νεανίσκος",
+    "homonym_headword": "νεανίσκος",
+    "rank": 1099
+  },
+  {
+    "lema": "περισσός",
+    "homonym_headword": "περισσός",
+    "rank": 1099
+  },
+  {
+    "lema": "χαλκός",
+    "homonym_headword": "χαλκός",
+    "rank": 1099
+  },
+  {
+    "lema": "ἀρχιερεύς",
+    "homonym_headword": "ἀρχιερεύς",
+    "rank": 1099
+  },
+  {
+    "lema": "Ἄρης",
+    "homonym_headword": "Ἄρης",
+    "rank": 1099
+  },
+  {
+    "lema": "ἐπιγίγνομαι",
+    "homonym_headword": "ἐπιγίγνομαι",
+    "rank": 1099
+  },
+  {
+    "lema": "φοβερός",
+    "homonym_headword": "φοβερός",
+    "rank": 1109
+  },
+  {
+    "lema": "φυλή",
+    "homonym_headword": "φυλή",
+    "rank": 1109
+  },
+  {
+    "lema": "ἐλάχιστος",
+    "homonym_headword": "ἐλάχιστος",
+    "rank": 1109
+  },
+  {
+    "lema": "Ἥρα",
+    "homonym_headword": "Ἥρα",
+    "rank": 1109
+  },
+  {
+    "lema": "προφήτης",
+    "homonym_headword": "προφήτης",
+    "rank": 1113
+  },
+  {
+    "lema": "πυκνός",
+    "homonym_headword": "πυκνός",
+    "rank": 1114
+  },
+  {
+    "lema": "τεκμήριον",
+    "homonym_headword": "τεκμήριον",
+    "rank": 1114
+  },
+  {
+    "lema": "πρόνοια",
+    "homonym_headword": "πρόνοια",
+    "rank": 1116
+  },
+  {
+    "lema": "ἕξ",
+    "homonym_headword": "ἕξ",
+    "rank": 1116
+  },
+  {
+    "lema": "ὄφρα",
+    "homonym_headword": "ὄφρα",
+    "rank": 1116
+  },
+  {
+    "lema": "ὡσαύτως",
+    "homonym_headword": "ὡσαύτως",
+    "rank": 1116
+  },
+  {
+    "lema": "ἀνάλογος",
+    "homonym_headword": "ἀνάλογος",
+    "rank": 1120
+  },
+  {
+    "lema": "ἀναφέρω",
+    "homonym_headword": "ἀναφέρω",
+    "rank": 1120
+  },
+  {
+    "lema": "ἀπαγορεύω",
+    "homonym_headword": "ἀπαγορεύω",
+    "rank": 1120
+  },
+  {
+    "lema": "Κελτός",
+    "homonym_headword": "Κελτός",
+    "rank": 1123
+  },
+  {
+    "lema": "ἀσφάλεια",
+    "homonym_headword": "ἀσφάλεια",
+    "rank": 1123
+  },
+  {
+    "lema": "συνήθης",
+    "homonym_headword": "συνήθης",
+    "rank": 1125
+  },
+  {
+    "lema": "ἀπολογέομαι",
+    "homonym_headword": "ἀπολογέομαι",
+    "rank": 1126
+  },
+  {
+    "lema": "ἁρπάζω",
+    "homonym_headword": "ἁρπάζω",
+    "rank": 1126
+  },
+  {
+    "lema": "Ποσειδῶν",
+    "homonym_headword": "Ποσειδῶν",
+    "rank": 1128
+  },
+  {
+    "lema": "στενός",
+    "homonym_headword": "στενός",
+    "rank": 1129
+  },
+  {
+    "lema": "διατελέω",
+    "homonym_headword": "διατελέω",
+    "rank": 1130
+  },
+  {
+    "lema": "κλαίω",
+    "homonym_headword": "κλαίω",
+    "rank": 1131
+  },
+  {
+    "lema": "κλῆρος",
+    "homonym_headword": "κλῆρος",
+    "rank": 1131
+  },
+  {
+    "lema": "μέλος",
+    "homonym_headword": "μέλος",
+    "rank": 1131
+  },
+  {
+    "lema": "περιβάλλω",
+    "homonym_headword": "περιβάλλω",
+    "rank": 1131
+  },
+  {
+    "lema": "Πελοποννήσιος",
+    "homonym_headword": "Πελοποννήσιος",
+    "rank": 1135
+  },
+  {
+    "lema": "κλύω",
+    "homonym_headword": "κλύω",
+    "rank": 1135
+  },
+  {
+    "lema": "τάχος",
+    "homonym_headword": "τάχος",
+    "rank": 1135
+  },
+  {
+    "lema": "ἐνθυμέομαι",
+    "homonym_headword": "ἐνθυμέομαι",
+    "rank": 1135
+  },
+  {
+    "lema": "γαστήρ",
+    "homonym_headword": "γαστήρ",
+    "rank": 1139
+  },
+  {
+    "lema": "συντάσσω",
+    "homonym_headword": "συντάσσω",
+    "rank": 1139
+  },
+  {
+    "lema": "Δημήτριος",
+    "homonym_headword": "Δημήτριος",
+    "rank": 1141
+  },
+  {
+    "lema": "Ἀπολλώνιος",
+    "homonym_headword": "Ἀπολλώνιος",
+    "rank": 1141
+  },
+  {
+    "lema": "διοικέω",
+    "homonym_headword": "διοικέω",
+    "rank": 1143
+  },
+  {
+    "lema": "δῖος",
+    "homonym_headword": "δῖος",
+    "rank": 1143
+  },
+  {
+    "lema": "μηκέτι",
+    "homonym_headword": "μηκέτι",
+    "rank": 1143
+  },
+  {
+    "lema": "ἄλογος",
+    "homonym_headword": "ἄλογος",
+    "rank": 1143
+  },
+  {
+    "lema": "αὖτε",
+    "homonym_headword": "αὖτε",
+    "rank": 1147
+  },
+  {
+    "lema": "πικρός",
+    "homonym_headword": "πικρός",
+    "rank": 1147
+  },
+  {
+    "lema": "δέος",
+    "homonym_headword": "δέος",
+    "rank": 1149
+  },
+  {
+    "lema": "τάλας",
+    "homonym_headword": "τάλας",
+    "rank": 1149
+  },
+  {
+    "lema": "μειράκιον",
+    "homonym_headword": "μειράκιον",
+    "rank": 1151
+  },
+  {
+    "lema": "προσδέχομαι",
+    "homonym_headword": "προσδέχομαι",
+    "rank": 1152
+  },
+  {
+    "lema": "πρόειμι",
+    "homonym_headword": "πρόειμι",
+    "rank": 1152
+  },
+  {
+    "lema": "ἔνθεν",
+    "homonym_headword": "ἔνθεν",
+    "rank": 1152
+  },
+  {
+    "lema": "Μακεδονία",
+    "homonym_headword": "Μακεδονία",
+    "rank": 1155
+  },
+  {
+    "lema": "γνώριμος",
+    "homonym_headword": "γνώριμος",
+    "rank": 1156
+  },
+  {
+    "lema": "ἀναλίσκω",
+    "homonym_headword": "ἀναλίσκω",
+    "rank": 1156
+  },
+  {
+    "lema": "ἀνδρεῖος",
+    "homonym_headword": "ἀνδρεῖος",
+    "rank": 1156
+  },
+  {
+    "lema": "ἀποβαίνω",
+    "homonym_headword": "ἀποβαίνω",
+    "rank": 1159
+  },
+  {
+    "lema": "Μιθραδάτης",
+    "homonym_headword": "Μιθραδάτης",
+    "rank": 1160
+  },
+  {
+    "lema": "κατατίθημι",
+    "homonym_headword": "κατατίθημι",
+    "rank": 1160
+  },
+  {
+    "lema": "μυρίος",
+    "homonym_headword": "μυρίος",
+    "rank": 1160
+  },
+  {
+    "lema": "ὅσιος",
+    "homonym_headword": "ὅσιος",
+    "rank": 1160
+  },
+  {
+    "lema": "διδάσκαλος",
+    "homonym_headword": "διδάσκαλος",
+    "rank": 1164
+  },
+  {
+    "lema": "κακία",
+    "homonym_headword": "κακία",
+    "rank": 1164
+  },
+  {
+    "lema": "συμπίπτω",
+    "homonym_headword": "συμπίπτω",
+    "rank": 1164
+  },
+  {
+    "lema": "βοήθεια",
+    "homonym_headword": "βοήθεια",
+    "rank": 1167
+  },
+  {
+    "lema": "γόνυ",
+    "homonym_headword": "γόνυ",
+    "rank": 1167
+  },
+  {
+    "lema": "δόγμα",
+    "homonym_headword": "δόγμα",
+    "rank": 1167
+  },
+  {
+    "lema": "κενός",
+    "homonym_headword": "κενός",
+    "rank": 1167
+  },
+  {
+    "lema": "μόριον",
+    "homonym_headword": "μόριον",
+    "rank": 1167
+  },
+  {
+    "lema": "τόλμα",
+    "homonym_headword": "τόλμα",
+    "rank": 1167
+  },
+  {
+    "lema": "Ξέρξης",
+    "homonym_headword": "Ξέρξης",
+    "rank": 1173
+  },
+  {
+    "lema": "δισχίλιοι",
+    "homonym_headword": "δισχίλιοι",
+    "rank": 1173
+  },
+  {
+    "lema": "Μῆδος",
+    "homonym_headword": "Μῆδος",
+    "rank": 1175
+  },
+  {
+    "lema": "Πλάτων",
+    "homonym_headword": "Πλάτων",
+    "rank": 1175
+  },
+  {
+    "lema": "βοή",
+    "homonym_headword": "βοή",
+    "rank": 1175
+  },
+  {
+    "lema": "ἀποπέμπω",
+    "homonym_headword": "ἀποπέμπω",
+    "rank": 1175
+  },
+  {
+    "lema": "ἀποστερέω",
+    "homonym_headword": "ἀποστερέω",
+    "rank": 1175
+  },
+  {
+    "lema": "ἑσπέρα",
+    "homonym_headword": "ἑσπέρα",
+    "rank": 1175
+  },
+  {
+    "lema": "πολεμικός",
+    "homonym_headword": "πολεμικός",
+    "rank": 1181
+  },
+  {
+    "lema": "σεμνός",
+    "homonym_headword": "σεμνός",
+    "rank": 1181
+  },
+  {
+    "lema": "κοιλία",
+    "homonym_headword": "κοιλία",
+    "rank": 1183
+  },
+  {
+    "lema": "δίαιτα",
+    "homonym_headword": "δίαιτα",
+    "rank": 1184
+  },
+  {
+    "lema": "κράτιστος",
+    "homonym_headword": "κράτιστος",
+    "rank": 1184
+  },
+  {
+    "lema": "μνᾶ",
+    "homonym_headword": "μνᾶ",
+    "rank": 1184
+  },
+  {
+    "lema": "οὖς",
+    "homonym_headword": "οὖς",
+    "rank": 1184
+  },
+  {
+    "lema": "τοσόσδε",
+    "homonym_headword": "τοσόσδε",
+    "rank": 1184
+  },
+  {
+    "lema": "εἰκάζω",
+    "homonym_headword": "εἰκάζω",
+    "rank": 1189
+  },
+  {
+    "lema": "κρύπτω",
+    "homonym_headword": "κρύπτω",
+    "rank": 1189
+  },
+  {
+    "lema": "προσβάλλω",
+    "homonym_headword": "προσβάλλω",
+    "rank": 1189
+  },
+  {
+    "lema": "ἐπιφανής",
+    "homonym_headword": "ἐπιφανής",
+    "rank": 1189
+  },
+  {
+    "lema": "λῃστής",
+    "homonym_headword": "λῃστής",
+    "rank": 1193
+  },
+  {
+    "lema": "χάλκεος",
+    "homonym_headword": "χάλκεος",
+    "rank": 1193
+  },
+  {
+    "lema": "εἰκών",
+    "homonym_headword": "εἰκών",
+    "rank": 1195
+  },
+  {
+    "lema": "λόφος",
+    "homonym_headword": "λόφος",
+    "rank": 1195
+  },
+  {
+    "lema": "φάλαγξ",
+    "homonym_headword": "φάλαγξ",
+    "rank": 1195
+  },
+  {
+    "lema": "φρόνησις",
+    "homonym_headword": "φρόνησις",
+    "rank": 1195
+  },
+  {
+    "lema": "ἀγρός",
+    "homonym_headword": "ἀγρός",
+    "rank": 1199
+  },
+  {
+    "lema": "ὑποτίθημι",
+    "homonym_headword": "ὑποτίθημι",
+    "rank": 1199
+  },
+  {
+    "lema": "παραινέω",
+    "homonym_headword": "παραινέω",
+    "rank": 1201
+  },
+  {
+    "lema": "καίω",
+    "homonym_headword": "καίω",
+    "rank": 1202
+  },
+  {
+    "lema": "λιμός",
+    "homonym_headword": "λιμός",
+    "rank": 1202
+  },
+  {
+    "lema": "μόλις",
+    "homonym_headword": "μόλις",
+    "rank": 1202
+  },
+  {
+    "lema": "βιβλίον",
+    "homonym_headword": "βιβλίον",
+    "rank": 1205
+  },
+  {
+    "lema": "μηχανή",
+    "homonym_headword": "μηχανή",
+    "rank": 1205
+  },
+  {
+    "lema": "σπουδαῖος",
+    "homonym_headword": "σπουδαῖος",
+    "rank": 1205
+  },
+  {
+    "lema": "ἑορτή",
+    "homonym_headword": "ἑορτή",
+    "rank": 1205
+  },
+  {
+    "lema": "πόντος",
+    "homonym_headword": "πόντος",
+    "rank": 1209
+  },
+  {
+    "lema": "ἐφίημι",
+    "homonym_headword": "ἐφίημι",
+    "rank": 1209
+  },
+  {
+    "lema": "Θρᾷξ",
+    "homonym_headword": "Θρᾷξ",
+    "rank": 1211
+  },
+  {
+    "lema": "βιόω",
+    "homonym_headword": "βιόω",
+    "rank": 1212
+  },
+  {
+    "lema": "διάγω",
+    "homonym_headword": "διάγω",
+    "rank": 1212
+  },
+  {
+    "lema": "ἥρως",
+    "homonym_headword": "ἥρως",
+    "rank": 1212
+  },
+  {
+    "lema": "παράλιος",
+    "homonym_headword": "παράλιος",
+    "rank": 1215
+  },
+  {
+    "lema": "νύμφη",
+    "homonym_headword": "νύμφη",
+    "rank": 1216
+  },
+  {
+    "lema": "ἑξήκοντα",
+    "homonym_headword": "ἑξήκοντα",
+    "rank": 1216
+  },
+  {
+    "lema": "σύγκειμαι",
+    "homonym_headword": "σύγκειμαι",
+    "rank": 1218
+  },
+  {
+    "lema": "Ἀφροδίτη",
+    "homonym_headword": "Ἀφροδίτη",
+    "rank": 1218
+  },
+  {
+    "lema": "Τροία",
+    "homonym_headword": "Τροία",
+    "rank": 1220
+  },
+  {
+    "lema": "γελάω",
+    "homonym_headword": "γελάω",
+    "rank": 1220
+  },
+  {
+    "lema": "ἀποδέχομαι",
+    "homonym_headword": "ἀποδέχομαι",
+    "rank": 1220
+  },
+  {
+    "lema": "μηνύω",
+    "homonym_headword": "μηνύω",
+    "rank": 1223
+  },
+  {
+    "lema": "χρυσίον",
+    "homonym_headword": "χρυσίον",
+    "rank": 1223
+  },
+  {
+    "lema": "Ἀγαμέμνων",
+    "homonym_headword": "Ἀγαμέμνων",
+    "rank": 1223
+  },
+  {
+    "lema": "ὑπακούω",
+    "homonym_headword": "ὑπακούω",
+    "rank": 1223
+  },
+  {
+    "lema": "ἐξελαύνω",
+    "homonym_headword": "ἐξελαύνω",
+    "rank": 1227
+  },
+  {
+    "lema": "ἐξετάζω",
+    "homonym_headword": "ἐξετάζω",
+    "rank": 1227
+  },
+  {
+    "lema": "ἐπιεικής",
+    "homonym_headword": "ἐπιεικής",
+    "rank": 1227
+  },
+  {
+    "lema": "ὑπερέχω",
+    "homonym_headword": "ὑπερέχω",
+    "rank": 1227
+  },
+  {
+    "lema": "ὦμος",
+    "homonym_headword": "ὦμος",
+    "rank": 1227
+  },
+  {
+    "lema": "ναυμαχία",
+    "homonym_headword": "ναυμαχία",
+    "rank": 1232
+  },
+  {
+    "lema": "ἰδέα",
+    "homonym_headword": "ἰδέα",
+    "rank": 1232
+  },
+  {
+    "lema": "πρεσβεύω",
+    "homonym_headword": "πρεσβεύω",
+    "rank": 1234
+  },
+  {
+    "lema": "θέρος",
+    "homonym_headword": "θέρος",
+    "rank": 1235
+  },
+  {
+    "lema": "Ῥόδιος",
+    "homonym_headword": "Ῥόδιος",
+    "rank": 1235
+  },
+  {
+    "lema": "γῆρας",
+    "homonym_headword": "γῆρας",
+    "rank": 1237
+  },
+  {
+    "lema": "δραχμή",
+    "homonym_headword": "δραχμή",
+    "rank": 1237
+  },
+  {
+    "lema": "πλάτος",
+    "homonym_headword": "πλάτος",
+    "rank": 1237
+  },
+  {
+    "lema": "βαθύς",
+    "homonym_headword": "βαθύς",
+    "rank": 1240
+  },
+  {
+    "lema": "κέρδος",
+    "homonym_headword": "κέρδος",
+    "rank": 1240
+  },
+  {
+    "lema": "ἀρέσκω",
+    "homonym_headword": "ἀρέσκω",
+    "rank": 1240
+  },
+  {
+    "lema": "δουλεύω",
+    "homonym_headword": "δουλεύω",
+    "rank": 1243
+  },
+  {
+    "lema": "τράπεζα",
+    "homonym_headword": "τράπεζα",
+    "rank": 1244
+  },
+  {
+    "lema": "φυγάς",
+    "homonym_headword": "φυγάς",
+    "rank": 1244
+  },
+  {
+    "lema": "μαίνομαι",
+    "homonym_headword": "μαίνομαι",
+    "rank": 1246
+  },
+  {
+    "lema": "περιίστημι",
+    "homonym_headword": "περιίστημι",
+    "rank": 1247
+  },
+  {
+    "lema": "ἐλεέω",
+    "homonym_headword": "ἐλεέω",
+    "rank": 1247
+  },
+  {
+    "lema": "ἱμάτιον",
+    "homonym_headword": "ἱμάτιον",
+    "rank": 1247
+  },
+  {
+    "lema": "εἰσοράω",
+    "homonym_headword": "εἰσοράω",
+    "rank": 1250
+  },
+  {
+    "lema": "πεῖρα",
+    "homonym_headword": "πεῖρα",
+    "rank": 1250
+  },
+  {
+    "lema": "φρούριον",
+    "homonym_headword": "φρούριον",
+    "rank": 1250
+  },
+  {
+    "lema": "ἐγκαλέω",
+    "homonym_headword": "ἐγκαλέω",
+    "rank": 1250
+  },
+  {
+    "lema": "Λακεδαίμων",
+    "homonym_headword": "Λακεδαίμων",
+    "rank": 1254
+  },
+  {
+    "lema": "ἐπιβολή",
+    "homonym_headword": "ἐπιβολή",
+    "rank": 1255
+  },
+  {
+    "lema": "κοῖλος",
+    "homonym_headword": "κοῖλος",
+    "rank": 1256
+  },
+  {
+    "lema": "καταγιγνώσκω",
+    "homonym_headword": "καταγιγνώσκω",
+    "rank": 1257
+  },
+  {
+    "lema": "προΐημι",
+    "homonym_headword": "προΐημι",
+    "rank": 1258
+  },
+  {
+    "lema": "Ἀττικός",
+    "homonym_headword": "Ἀττικός",
+    "rank": 1258
+  },
+  {
+    "lema": "κτῆμα",
+    "homonym_headword": "κτῆμα",
+    "rank": 1260
+  },
+  {
+    "lema": "παράλληλος",
+    "homonym_headword": "παράλληλος",
+    "rank": 1260
+  },
+  {
+    "lema": "περιοράω",
+    "homonym_headword": "περιοράω",
+    "rank": 1260
+  },
+  {
+    "lema": "προΐστημι",
+    "homonym_headword": "προΐστημι",
+    "rank": 1260
+  },
+  {
+    "lema": "τόξον",
+    "homonym_headword": "τόξον",
+    "rank": 1260
+  },
+  {
+    "lema": "ἀπιστέω",
+    "homonym_headword": "ἀπιστέω",
+    "rank": 1260
+  },
+  {
+    "lema": "ἐκπλήσσω",
+    "homonym_headword": "ἐκπλήσσω",
+    "rank": 1260
+  },
+  {
+    "lema": "ἐξελέγχω",
+    "homonym_headword": "ἐξελέγχω",
+    "rank": 1260
+  },
+  {
+    "lema": "ὀκτώ",
+    "homonym_headword": "ὀκτώ",
+    "rank": 1260
+  },
+  {
+    "lema": "Δελφοί",
+    "homonym_headword": "Δελφοί",
+    "rank": 1269
+  },
+  {
+    "lema": "ὀπίσω",
+    "homonym_headword": "ὀπίσω",
+    "rank": 1269
+  },
+  {
+    "lema": "Μοῦσα",
+    "homonym_headword": "Μοῦσα",
+    "rank": 1271
+  },
+  {
+    "lema": "θεραπεία",
+    "homonym_headword": "θεραπεία",
+    "rank": 1271
+  },
+  {
+    "lema": "λέων",
+    "homonym_headword": "λέων",
+    "rank": 1271
+  },
+  {
+    "lema": "ἐννοέω",
+    "homonym_headword": "ἐννοέω",
+    "rank": 1271
+  },
+  {
+    "lema": "ἐπιτάσσω",
+    "homonym_headword": "ἐπιτάσσω",
+    "rank": 1271
+  },
+  {
+    "lema": "συγγνώμη",
+    "homonym_headword": "συγγνώμη",
+    "rank": 1276
+  },
+  {
+    "lema": "Φωκεύς",
+    "homonym_headword": "Φωκεύς",
+    "rank": 1277
+  },
+  {
+    "lema": "δρόμος",
+    "homonym_headword": "δρόμος",
+    "rank": 1277
+  },
+  {
+    "lema": "καταφεύγω",
+    "homonym_headword": "καταφεύγω",
+    "rank": 1277
+  },
+  {
+    "lema": "ἴσχω",
+    "homonym_headword": "ἴσχω",
+    "rank": 1277
+  },
+  {
+    "lema": "πέμπτος",
+    "homonym_headword": "πέμπτος",
+    "rank": 1281
+  },
+  {
+    "lema": "ἄθλιος",
+    "homonym_headword": "ἄθλιος",
+    "rank": 1281
+  },
+  {
+    "lema": "ὄπισθεν",
+    "homonym_headword": "ὄπισθεν",
+    "rank": 1281
+  },
+  {
+    "lema": "γλυκύς",
+    "homonym_headword": "γλυκύς",
+    "rank": 1284
+  },
+  {
+    "lema": "δεξιά",
+    "homonym_headword": "δεξιά",
+    "rank": 1284
+  },
+  {
+    "lema": "διαβολή",
+    "homonym_headword": "διαβολή",
+    "rank": 1286
+  },
+  {
+    "lema": "ὄρνις",
+    "homonym_headword": "ὄρνις",
+    "rank": 1286
+  },
+  {
+    "lema": "δίχα",
+    "homonym_headword": "δίχα",
+    "rank": 1288
+  },
+  {
+    "lema": "παράδειγμα",
+    "homonym_headword": "παράδειγμα",
+    "rank": 1288
+  },
+  {
+    "lema": "φθόνος",
+    "homonym_headword": "φθόνος",
+    "rank": 1288
+  },
+  {
+    "lema": "ἀσπάζομαι",
+    "homonym_headword": "ἀσπάζομαι",
+    "rank": 1288
+  },
+  {
+    "lema": "μεθίστημι",
+    "homonym_headword": "μεθίστημι",
+    "rank": 1292
+  },
+  {
+    "lema": "ἐπαίρω",
+    "homonym_headword": "ἐπαίρω",
+    "rank": 1292
+  },
+  {
+    "lema": "διορίζω",
+    "homonym_headword": "διορίζω",
+    "rank": 1294
+  },
+  {
+    "lema": "πυρετός",
+    "homonym_headword": "πυρετός",
+    "rank": 1295
+  },
+  {
+    "lema": "σχολή",
+    "homonym_headword": "σχολή",
+    "rank": 1295
+  },
+  {
+    "lema": "ἀναμιμνήσκω",
+    "homonym_headword": "ἀναμιμνήσκω",
+    "rank": 1295
+  },
+  {
+    "lema": "παραλείπω",
+    "homonym_headword": "παραλείπω",
+    "rank": 1298
+  },
+  {
+    "lema": "ἦμαρ",
+    "homonym_headword": "ἦμαρ",
+    "rank": 1298
+  },
+  {
+    "lema": "καταστρέφω",
+    "homonym_headword": "καταστρέφω",
+    "rank": 1300
+  },
+  {
+    "lema": "ἀντέχω",
+    "homonym_headword": "ἀντέχω",
+    "rank": 1300
+  },
+  {
+    "lema": "ἄγριος",
+    "homonym_headword": "ἄγριος",
+    "rank": 1300
+  },
+  {
+    "lema": "καθαιρέω",
+    "homonym_headword": "καθαιρέω",
+    "rank": 1303
+  },
+  {
+    "lema": "μεστός",
+    "homonym_headword": "μεστός",
+    "rank": 1303
+  },
+  {
+    "lema": "οὐδέποτε",
+    "homonym_headword": "οὐδέποτε",
+    "rank": 1303
+  },
+  {
+    "lema": "φιλοσοφέω",
+    "homonym_headword": "φιλοσοφέω",
+    "rank": 1303
+  },
+  {
+    "lema": "ἡνίκα",
+    "homonym_headword": "ἡνίκα",
+    "rank": 1303
+  },
+  {
+    "lema": "πηγή",
+    "homonym_headword": "πηγή",
+    "rank": 1308
+  },
+  {
+    "lema": "πορεία",
+    "homonym_headword": "πορεία",
+    "rank": 1308
+  },
+  {
+    "lema": "ἀδίκημα",
+    "homonym_headword": "ἀδίκημα",
+    "rank": 1308
+  },
+  {
+    "lema": "ἄχρι",
+    "homonym_headword": "ἄχρι",
+    "rank": 1308
+  },
+  {
+    "lema": "ἐμπίμπρημι",
+    "homonym_headword": "ἐμπίμπρημι",
+    "rank": 1308
+  },
+  {
+    "lema": "αἵρεσις",
+    "homonym_headword": "αἵρεσις",
+    "rank": 1313
+  },
+  {
+    "lema": "ἔχθρα",
+    "homonym_headword": "ἔχθρα",
+    "rank": 1313
+  },
+  {
+    "lema": "στρατηγέω",
+    "homonym_headword": "στρατηγέω",
+    "rank": 1315
+  },
+  {
+    "lema": "σύνοιδα",
+    "homonym_headword": "σύνοιδα",
+    "rank": 1315
+  },
+  {
+    "lema": "φρουρά",
+    "homonym_headword": "φρουρά",
+    "rank": 1315
+  },
+  {
+    "lema": "ἀδικία",
+    "homonym_headword": "ἀδικία",
+    "rank": 1315
+  },
+  {
+    "lema": "Ἀντίπατρος",
+    "homonym_headword": "Ἀντίπατρος",
+    "rank": 1319
+  },
+  {
+    "lema": "Ἑλληνικός",
+    "homonym_headword": "Ἑλληνικός",
+    "rank": 1319
+  },
+  {
+    "lema": "κτῆσις",
+    "homonym_headword": "κτῆσις",
+    "rank": 1321
+  },
+  {
+    "lema": "ἐπικαλέω",
+    "homonym_headword": "ἐπικαλέω",
+    "rank": 1321
+  },
+  {
+    "lema": "Ἰβηρία",
+    "homonym_headword": "Ἰβηρία",
+    "rank": 1321
+  },
+  {
+    "lema": "γυμνός",
+    "homonym_headword": "γυμνός",
+    "rank": 1324
+  },
+  {
+    "lema": "πένης",
+    "homonym_headword": "πένης",
+    "rank": 1325
+  },
+  {
+    "lema": "στεφανόω",
+    "homonym_headword": "στεφανόω",
+    "rank": 1325
+  },
+  {
+    "lema": "Διόνυσος",
+    "homonym_headword": "Διόνυσος",
+    "rank": 1327
+  },
+  {
+    "lema": "ἀποβάλλω",
+    "homonym_headword": "ἀποβάλλω",
+    "rank": 1327
+  },
+  {
+    "lema": "ὀλιγαρχία",
+    "homonym_headword": "ὀλιγαρχία",
+    "rank": 1327
+  },
+  {
+    "lema": "ἐνίστημι",
+    "homonym_headword": "ἐνίστημι",
+    "rank": 1330
+  },
+  {
+    "lema": "δένδρον",
+    "homonym_headword": "δένδρον",
+    "rank": 1331
+  },
+  {
+    "lema": "σύγκλητος",
+    "homonym_headword": "σύγκλητος",
+    "rank": 1331
+  },
+  {
+    "lema": "τρισχίλιοι",
+    "homonym_headword": "τρισχίλιοι",
+    "rank": 1331
+  },
+  {
+    "lema": "ἐπιστρέφω",
+    "homonym_headword": "ἐπιστρέφω",
+    "rank": 1331
+  },
+  {
+    "lema": "ἐνέργεια",
+    "homonym_headword": "ἐνέργεια",
+    "rank": 1335
+  },
+  {
+    "lema": "λοιδορέω",
+    "homonym_headword": "λοιδορέω",
+    "rank": 1336
+  },
+  {
+    "lema": "οἴκαδε",
+    "homonym_headword": "οἴκαδε",
+    "rank": 1336
+  },
+  {
+    "lema": "κῦμα",
+    "homonym_headword": "κῦμα",
+    "rank": 1338
+  },
+  {
+    "lema": "βλώσκω",
+    "homonym_headword": "βλώσκω",
+    "rank": 1339
+  },
+  {
+    "lema": "προθυμία",
+    "homonym_headword": "προθυμία",
+    "rank": 1340
+  },
+  {
+    "lema": "στήλη",
+    "homonym_headword": "στήλη",
+    "rank": 1340
+  },
+  {
+    "lema": "μισθοφόρος",
+    "homonym_headword": "μισθοφόρος",
+    "rank": 1342
+  },
+  {
+    "lema": "ἀκρόπολις",
+    "homonym_headword": "ἀκρόπολις",
+    "rank": 1342
+  },
+  {
+    "lema": "ὑποδέχομαι",
+    "homonym_headword": "ὑποδέχομαι",
+    "rank": 1342
+  },
+  {
+    "lema": "κτίζω",
+    "homonym_headword": "κτίζω",
+    "rank": 1345
+  },
+  {
+    "lema": "τύπτω",
+    "homonym_headword": "τύπτω",
+    "rank": 1345
+  },
+  {
+    "lema": "ἕλκος",
+    "homonym_headword": "ἕλκος",
+    "rank": 1345
+  },
+  {
+    "lema": "Θεσσαλός",
+    "homonym_headword": "Θεσσαλός",
+    "rank": 1348
+  },
+  {
+    "lema": "μάντις",
+    "homonym_headword": "μάντις",
+    "rank": 1349
+  },
+  {
+    "lema": "ἱστορέω",
+    "homonym_headword": "ἱστορέω",
+    "rank": 1349
+  },
+  {
+    "lema": "ἱκετεύω",
+    "homonym_headword": "ἱκετεύω",
+    "rank": 1351
+  },
+  {
+    "lema": "Σόλων",
+    "homonym_headword": "Σόλων",
+    "rank": 1352
+  },
+  {
+    "lema": "καρτερός",
+    "homonym_headword": "καρτερός",
+    "rank": 1352
+  },
+  {
+    "lema": "μέμφομαι",
+    "homonym_headword": "μέμφομαι",
+    "rank": 1352
+  },
+  {
+    "lema": "ταραχή",
+    "homonym_headword": "ταραχή",
+    "rank": 1352
+  },
+  {
+    "lema": "ἐθίζω",
+    "homonym_headword": "ἐθίζω",
+    "rank": 1352
+  },
+  {
+    "lema": "ἐμπίμπλημι",
+    "homonym_headword": "ἐμπίμπλημι",
+    "rank": 1352
+  },
+  {
+    "lema": "Σπάρτη",
+    "homonym_headword": "Σπάρτη",
+    "rank": 1358
+  },
+  {
+    "lema": "γονεύς",
+    "homonym_headword": "γονεύς",
+    "rank": 1358
+  },
+  {
+    "lema": "μονάς",
+    "homonym_headword": "μονάς",
+    "rank": 1358
+  },
+  {
+    "lema": "τραῦμα",
+    "homonym_headword": "τραῦμα",
+    "rank": 1358
+  },
+  {
+    "lema": "Ἠλεῖος",
+    "homonym_headword": "Ἠλεῖος",
+    "rank": 1358
+  },
+  {
+    "lema": "γνωρίζω",
+    "homonym_headword": "γνωρίζω",
+    "rank": 1363
+  },
+  {
+    "lema": "ζημία",
+    "homonym_headword": "ζημία",
+    "rank": 1363
+  },
+  {
+    "lema": "ἄρσην",
+    "homonym_headword": "ἄρσην",
+    "rank": 1365
+  },
+  {
+    "lema": "ἐσθλός",
+    "homonym_headword": "ἐσθλός",
+    "rank": 1365
+  },
+  {
+    "lema": "ὀρέγω",
+    "homonym_headword": "ὀρέγω",
+    "rank": 1365
+  },
+  {
+    "lema": "κατασκευή",
+    "homonym_headword": "κατασκευή",
+    "rank": 1368
+  },
+  {
+    "lema": "ὠφέλεια",
+    "homonym_headword": "ὠφέλεια",
+    "rank": 1368
+  },
+  {
+    "lema": "παραβάλλω",
+    "homonym_headword": "παραβάλλω",
+    "rank": 1370
+  },
+  {
+    "lema": "ἄγνοια",
+    "homonym_headword": "ἄγνοια",
+    "rank": 1370
+  },
+  {
+    "lema": "ἕξις",
+    "homonym_headword": "ἕξις",
+    "rank": 1370
+  },
+  {
+    "lema": "διασῴζω",
+    "homonym_headword": "διασῴζω",
+    "rank": 1373
+  },
+  {
+    "lema": "καταβάλλω",
+    "homonym_headword": "καταβάλλω",
+    "rank": 1373
+  },
+  {
+    "lema": "ἄχθομαι",
+    "homonym_headword": "ἄχθομαι",
+    "rank": 1373
+  },
+  {
+    "lema": "ἅπαξ",
+    "homonym_headword": "ἅπαξ",
+    "rank": 1373
+  },
+  {
+    "lema": "ἐπινοέω",
+    "homonym_headword": "ἐπινοέω",
+    "rank": 1373
+  },
+  {
+    "lema": "διάφορος",
+    "homonym_headword": "διάφορος",
+    "rank": 1378
+  },
+  {
+    "lema": "οἰκοδομέω",
+    "homonym_headword": "οἰκοδομέω",
+    "rank": 1378
+  },
+  {
+    "lema": "παροξύνω",
+    "homonym_headword": "παροξύνω",
+    "rank": 1380
+  },
+  {
+    "lema": "ἀξιόλογος",
+    "homonym_headword": "ἀξιόλογος",
+    "rank": 1380
+  },
+  {
+    "lema": "ἀσκέω",
+    "homonym_headword": "ἀσκέω",
+    "rank": 1380
+  },
+  {
+    "lema": "διέξειμι",
+    "homonym_headword": "διέξειμι",
+    "rank": 1383
+  },
+  {
+    "lema": "μακάριος",
+    "homonym_headword": "μακάριος",
+    "rank": 1383
+  },
+  {
+    "lema": "φυσικός",
+    "homonym_headword": "φυσικός",
+    "rank": 1383
+  },
+  {
+    "lema": "ὄργανον",
+    "homonym_headword": "ὄργανον",
+    "rank": 1383
+  },
+  {
+    "lema": "περιγίγνομαι",
+    "homonym_headword": "περιγίγνομαι",
+    "rank": 1387
+  },
+  {
+    "lema": "στρατοπεδεύω",
+    "homonym_headword": "στρατοπεδεύω",
+    "rank": 1388
+  },
+  {
+    "lema": "Σπαρτιάτης",
+    "homonym_headword": "Σπαρτιάτης",
+    "rank": 1389
+  },
+  {
+    "lema": "φθέγγομαι",
+    "homonym_headword": "φθέγγομαι",
+    "rank": 1389
+  },
+  {
+    "lema": "ἅγιος",
+    "homonym_headword": "ἅγιος",
+    "rank": 1389
+  },
+  {
+    "lema": "ὑπόθεσις",
+    "homonym_headword": "ὑπόθεσις",
+    "rank": 1389
+  },
+  {
+    "lema": "σκέλος",
+    "homonym_headword": "σκέλος",
+    "rank": 1393
+  },
+  {
+    "lema": "δοξάζω",
+    "homonym_headword": "δοξάζω",
+    "rank": 1394
+  },
+  {
+    "lema": "φρόνιμος",
+    "homonym_headword": "φρόνιμος",
+    "rank": 1394
+  },
+  {
+    "lema": "ἔργω",
+    "homonym_headword": "ἔργω",
+    "rank": 1394
+  },
+  {
+    "lema": "ὑφίστημι",
+    "homonym_headword": "ὑφίστημι",
+    "rank": 1394
+  },
+  {
+    "lema": "τιτρώσκω",
+    "homonym_headword": "τιτρώσκω",
+    "rank": 1398
+  },
+  {
+    "lema": "ἄνωθεν",
+    "homonym_headword": "ἄνωθεν",
+    "rank": 1398
+  },
+  {
+    "lema": "ὅς",
+    "homonym_headword": "ὅς2",
+    "rank": 1398
+  },
+  {
+    "lema": "παντοῖος",
+    "homonym_headword": "παντοῖος",
+    "rank": 1401
+  },
+  {
+    "lema": "φθονέω",
+    "homonym_headword": "φθονέω",
+    "rank": 1401
+  },
+  {
+    "lema": "βίαιος",
+    "homonym_headword": "βίαιος",
+    "rank": 1403
+  },
+  {
+    "lema": "μεθίημι",
+    "homonym_headword": "μεθίημι",
+    "rank": 1403
+  },
+  {
+    "lema": "σωφρονέω",
+    "homonym_headword": "σωφρονέω",
+    "rank": 1403
+  },
+  {
+    "lema": "γενεά",
+    "homonym_headword": "γενεά",
+    "rank": 1406
+  },
+  {
+    "lema": "κορυφή",
+    "homonym_headword": "κορυφή",
+    "rank": 1406
+  },
+  {
+    "lema": "ἁμαρτία",
+    "homonym_headword": "ἁμαρτία",
+    "rank": 1406
+  },
+  {
+    "lema": "ἐγγίγνομαι",
+    "homonym_headword": "ἐγγίγνομαι",
+    "rank": 1406
+  },
+  {
+    "lema": "συμμείγνυμι",
+    "homonym_headword": "συμμείγνυμι",
+    "rank": 1410
+  },
+  {
+    "lema": "ἔφοδος",
+    "homonym_headword": "ἔφοδος3",
+    "rank": 1410
+  },
+  {
+    "lema": "Ἰωάννης",
+    "homonym_headword": "Ἰωάννης",
+    "rank": 1410
+  },
+  {
+    "lema": "αἰδώς",
+    "homonym_headword": "αἰδώς",
+    "rank": 1413
+  },
+  {
+    "lema": "ἀφανίζω",
+    "homonym_headword": "ἀφανίζω",
+    "rank": 1413
+  },
+  {
+    "lema": "ἐλέφας",
+    "homonym_headword": "ἐλέφας",
+    "rank": 1413
+  },
+  {
+    "lema": "Φοῖνιξ",
+    "homonym_headword": "Φοῖνιξ",
+    "rank": 1416
+  },
+  {
+    "lema": "διαθήκη",
+    "homonym_headword": "διαθήκη",
+    "rank": 1416
+  },
+  {
+    "lema": "καθίζω",
+    "homonym_headword": "καθίζω",
+    "rank": 1416
+  },
+  {
+    "lema": "παντελής",
+    "homonym_headword": "παντελής",
+    "rank": 1416
+  },
+  {
+    "lema": "ἀναστρέφω",
+    "homonym_headword": "ἀναστρέφω",
+    "rank": 1416
+  },
+  {
+    "lema": "ἐπιστέλλω",
+    "homonym_headword": "ἐπιστέλλω",
+    "rank": 1416
+  },
+  {
+    "lema": "ῥῆμα",
+    "homonym_headword": "ῥῆμα",
+    "rank": 1416
+  },
+  {
+    "lema": "πλήσσω",
+    "homonym_headword": "πλήσσω",
+    "rank": 1423
+  },
+  {
+    "lema": "φθείρω",
+    "homonym_headword": "φθείρω",
+    "rank": 1423
+  },
+  {
+    "lema": "φόρος",
+    "homonym_headword": "φόρος",
+    "rank": 1423
+  },
+  {
+    "lema": "μνημονεύω",
+    "homonym_headword": "μνημονεύω",
+    "rank": 1426
+  },
+  {
+    "lema": "σίδηρος",
+    "homonym_headword": "σίδηρος",
+    "rank": 1426
+  },
+  {
+    "lema": "τετρακόσιοι",
+    "homonym_headword": "τετρακόσιοι",
+    "rank": 1426
+  },
+  {
+    "lema": "Μωυσῆς",
+    "homonym_headword": "Μωυσῆς",
+    "rank": 1429
+  },
+  {
+    "lema": "διαγιγνώσκω",
+    "homonym_headword": "διαγιγνώσκω",
+    "rank": 1429
+  },
+  {
+    "lema": "μέγαρον",
+    "homonym_headword": "μέγαρον",
+    "rank": 1429
+  },
+  {
+    "lema": "χορός",
+    "homonym_headword": "χορός",
+    "rank": 1429
+  },
+  {
+    "lema": "διάστημα",
+    "homonym_headword": "διάστημα",
+    "rank": 1433
+  },
+  {
+    "lema": "κατηγορία",
+    "homonym_headword": "κατηγορία",
+    "rank": 1433
+  },
+  {
+    "lema": "περιπίπτω",
+    "homonym_headword": "περιπίπτω",
+    "rank": 1433
+  },
+  {
+    "lema": "πορθέω",
+    "homonym_headword": "πορθέω",
+    "rank": 1433
+  },
+  {
+    "lema": "ἐπιτήδευμα",
+    "homonym_headword": "ἐπιτήδευμα",
+    "rank": 1433
+  },
+  {
+    "lema": "ζωή",
+    "homonym_headword": "ζωή",
+    "rank": 1438
+  },
+  {
+    "lema": "ὑγιής",
+    "homonym_headword": "ὑγιής",
+    "rank": 1438
+  },
+  {
+    "lema": "ὠφέλιμος",
+    "homonym_headword": "ὠφέλιμος",
+    "rank": 1438
+  },
+  {
+    "lema": "Λεύκιος",
+    "homonym_headword": "Λεύκιος",
+    "rank": 1441
+  },
+  {
+    "lema": "Χριστός",
+    "homonym_headword": "Χριστός",
+    "rank": 1441
+  },
+  {
+    "lema": "γέλοιος",
+    "homonym_headword": "γέλοιος",
+    "rank": 1443
+  },
+  {
+    "lema": "διπλόος",
+    "homonym_headword": "διπλόος",
+    "rank": 1443
+  },
+  {
+    "lema": "κατορθόω",
+    "homonym_headword": "κατορθόω",
+    "rank": 1443
+  },
+  {
+    "lema": "χράω",
+    "homonym_headword": "χράω2",
+    "rank": 1443
+  },
+  {
+    "lema": "ἐνδίδωμι",
+    "homonym_headword": "ἐνδίδωμι",
+    "rank": 1443
+  },
+  {
+    "lema": "Αἴας",
+    "homonym_headword": "Αἴας",
+    "rank": 1448
+  },
+  {
+    "lema": "Θρᾴκη",
+    "homonym_headword": "Θρᾴκη",
+    "rank": 1448
+  },
+  {
+    "lema": "εὐτυχέω",
+    "homonym_headword": "εὐτυχέω",
+    "rank": 1448
+  },
+  {
+    "lema": "νόσημα",
+    "homonym_headword": "νόσημα",
+    "rank": 1448
+  },
+  {
+    "lema": "Ἄρτεμις",
+    "homonym_headword": "Ἄρτεμις",
+    "rank": 1448
+  },
+  {
+    "lema": "Χαιρέας",
+    "homonym_headword": "Χαιρέας",
+    "rank": 1453
+  },
+  {
+    "lema": "φείδομαι",
+    "homonym_headword": "φείδομαι",
+    "rank": 1453
+  },
+  {
+    "lema": "αἰδέομαι",
+    "homonym_headword": "αἰδέομαι",
+    "rank": 1455
+  },
+  {
+    "lema": "ἐγγράφω",
+    "homonym_headword": "ἐγγράφω",
+    "rank": 1455
+  },
+  {
+    "lema": "Εὐρώπη",
+    "homonym_headword": "Εὐρώπη",
+    "rank": 1457
+  },
+  {
+    "lema": "θρόνος",
+    "homonym_headword": "θρόνος",
+    "rank": 1457
+  },
+  {
+    "lema": "παρίημι",
+    "homonym_headword": "παρίημι",
+    "rank": 1457
+  },
+  {
+    "lema": "σελήνη",
+    "homonym_headword": "σελήνη",
+    "rank": 1457
+  },
+  {
+    "lema": "χρησμός",
+    "homonym_headword": "χρησμός",
+    "rank": 1457
+  },
+  {
+    "lema": "ψεῦδος",
+    "homonym_headword": "ψεῦδος",
+    "rank": 1457
+  },
+  {
+    "lema": "ὄρνυμι",
+    "homonym_headword": "ὄρνυμι",
+    "rank": 1457
+  },
+  {
+    "lema": "Βαβυλών",
+    "homonym_headword": "Βαβυλών",
+    "rank": 1464
+  },
+  {
+    "lema": "προσκυνέω",
+    "homonym_headword": "προσκυνέω",
+    "rank": 1464
+  },
+  {
+    "lema": "ἄπορος",
+    "homonym_headword": "ἄπορος",
+    "rank": 1464
+  },
+  {
+    "lema": "ὠνέομαι",
+    "homonym_headword": "ὠνέομαι",
+    "rank": 1464
+  },
+  {
+    "lema": "θεράπων",
+    "homonym_headword": "θεράπων",
+    "rank": 1468
+  },
+  {
+    "lema": "θόρυβος",
+    "homonym_headword": "θόρυβος",
+    "rank": 1468
+  },
+  {
+    "lema": "μεταλαμβάνω",
+    "homonym_headword": "μεταλαμβάνω",
+    "rank": 1468
+  },
+  {
+    "lema": "οὔκουν",
+    "homonym_headword": "οὔκουν",
+    "rank": 1468
+  },
+  {
+    "lema": "τραχύς",
+    "homonym_headword": "τραχύς",
+    "rank": 1468
+  },
+  {
+    "lema": "ἰσθμός",
+    "homonym_headword": "ἰσθμός",
+    "rank": 1468
+  },
+  {
+    "lema": "πορίζω",
+    "homonym_headword": "πορίζω",
+    "rank": 1474
+  },
+  {
+    "lema": "ἄπιστος",
+    "homonym_headword": "ἄπιστος",
+    "rank": 1474
+  },
+  {
+    "lema": "Κόρινθος",
+    "homonym_headword": "Κόρινθος",
+    "rank": 1476
+  },
+  {
+    "lema": "φοιτάω",
+    "homonym_headword": "φοιτάω",
+    "rank": 1476
+  },
+  {
+    "lema": "ἀποπλέω",
+    "homonym_headword": "ἀποπλέω",
+    "rank": 1476
+  },
+  {
+    "lema": "Ἑλένη",
+    "homonym_headword": "Ἑλένη",
+    "rank": 1476
+  },
+  {
+    "lema": "Νεῖλος",
+    "homonym_headword": "Νεῖλος",
+    "rank": 1480
+  },
+  {
+    "lema": "εὔνοος",
+    "homonym_headword": "εὔνοος",
+    "rank": 1480
+  },
+  {
+    "lema": "πλήρης",
+    "homonym_headword": "πλήρης",
+    "rank": 1480
+  },
+  {
+    "lema": "ἀπειλέω",
+    "homonym_headword": "ἀπειλέω2",
+    "rank": 1480
+  },
+  {
+    "lema": "Ἀντίγονος",
+    "homonym_headword": "Ἀντίγονος",
+    "rank": 1480
+  },
+  {
+    "lema": "ὀκνέω",
+    "homonym_headword": "ὀκνέω",
+    "rank": 1480
+  },
+  {
+    "lema": "παραβαίνω",
+    "homonym_headword": "παραβαίνω",
+    "rank": 1486
+  },
+  {
+    "lema": "ἰχθύς",
+    "homonym_headword": "ἰχθύς",
+    "rank": 1486
+  },
+  {
+    "lema": "Ἴωνες",
+    "homonym_headword": "Ἴωνες",
+    "rank": 1486
+  },
+  {
+    "lema": "θρασύς",
+    "homonym_headword": "θρασύς",
+    "rank": 1489
+  },
+  {
+    "lema": "τηνικαῦτα",
+    "homonym_headword": "τηνικαῦτα",
+    "rank": 1489
+  },
+  {
+    "lema": "ἀξίωμα",
+    "homonym_headword": "ἀξίωμα",
+    "rank": 1489
+  },
+  {
+    "lema": "διπλάσιος",
+    "homonym_headword": "διπλάσιος",
+    "rank": 1492
+  },
+  {
+    "lema": "τοιγάρ",
+    "homonym_headword": "τοιγάρ",
+    "rank": 1492
+  },
+  {
+    "lema": "σιωπάω",
+    "homonym_headword": "σιωπάω",
+    "rank": 1494
+  },
+  {
+    "lema": "φρόνημα",
+    "homonym_headword": "φρόνημα",
+    "rank": 1494
+  },
+  {
+    "lema": "ἀγγέλλω",
+    "homonym_headword": "ἀγγέλλω",
+    "rank": 1494
+  },
+  {
+    "lema": "ἰώ",
+    "homonym_headword": "ἰώ",
+    "rank": 1494
+  },
+  {
+    "lema": "πλησιάζω",
+    "homonym_headword": "πλησιάζω",
+    "rank": 1498
+  },
+  {
+    "lema": "ἔγκλημα",
+    "homonym_headword": "ἔγκλημα",
+    "rank": 1498
+  },
+  {
+    "lema": "κοινωνία",
+    "homonym_headword": "κοινωνία",
+    "rank": 1500
+  },
+  {
+    "lema": "μηχανάομαι",
+    "homonym_headword": "μηχανάομαι",
+    "rank": 1500
+  },
+  {
+    "lema": "πόρος",
+    "homonym_headword": "πόρος",
+    "rank": 1500
+  },
+  {
+    "lema": "στοιχεῖον",
+    "homonym_headword": "στοιχεῖον",
+    "rank": 1500
+  },
+  {
+    "lema": "κέντρον",
+    "homonym_headword": "κέντρον",
+    "rank": 1504
+  },
+  {
+    "lema": "περίειμι",
+    "homonym_headword": "περίειμι",
+    "rank": 1504
+  },
+  {
+    "lema": "πῆχυς",
+    "homonym_headword": "πῆχυς",
+    "rank": 1504
+  },
+  {
+    "lema": "ἀποβλέπω",
+    "homonym_headword": "ἀποβλέπω",
+    "rank": 1504
+  },
+  {
+    "lema": "ἐπιβουλή",
+    "homonym_headword": "ἐπιβουλή",
+    "rank": 1504
+  },
+  {
+    "lema": "εὐδοκιμέω",
+    "homonym_headword": "εὐδοκιμέω",
+    "rank": 1509
+  },
+  {
+    "lema": "πέρας",
+    "homonym_headword": "πέρας",
+    "rank": 1509
+  },
+  {
+    "lema": "Πόντος",
+    "homonym_headword": "Πόντος",
+    "rank": 1511
+  },
+  {
+    "lema": "πρόσειμι",
+    "homonym_headword": "πρόσειμι",
+    "rank": 1511
+  },
+  {
+    "lema": "Θεμιστοκλῆς",
+    "homonym_headword": "Θεμιστοκλῆς",
+    "rank": 1513
+  },
+  {
+    "lema": "καταπλέω",
+    "homonym_headword": "καταπλέω",
+    "rank": 1513
+  },
+  {
+    "lema": "πολυτελής",
+    "homonym_headword": "πολυτελής",
+    "rank": 1515
+  },
+  {
+    "lema": "προκαλέω",
+    "homonym_headword": "προκαλέω",
+    "rank": 1515
+  },
+  {
+    "lema": "ἀναγράφω",
+    "homonym_headword": "ἀναγράφω",
+    "rank": 1515
+  },
+  {
+    "lema": "ἁμάρτημα",
+    "homonym_headword": "ἁμάρτημα",
+    "rank": 1515
+  },
+  {
+    "lema": "φονεύω",
+    "homonym_headword": "φονεύω",
+    "rank": 1519
+  },
+  {
+    "lema": "στῆθος",
+    "homonym_headword": "στῆθος",
+    "rank": 1520
+  },
+  {
+    "lema": "ἐξαμαρτάνω",
+    "homonym_headword": "ἐξαμαρτάνω",
+    "rank": 1520
+  },
+  {
+    "lema": "θῆλυς",
+    "homonym_headword": "θῆλυς",
+    "rank": 1522
+  },
+  {
+    "lema": "περιμένω",
+    "homonym_headword": "περιμένω",
+    "rank": 1522
+  },
+  {
+    "lema": "ἐπιτελέω",
+    "homonym_headword": "ἐπιτελέω",
+    "rank": 1522
+  },
+  {
+    "lema": "προσποιέω",
+    "homonym_headword": "προσποιέω",
+    "rank": 1525
+  },
+  {
+    "lema": "ἀφορμή",
+    "homonym_headword": "ἀφορμή",
+    "rank": 1525
+  },
+  {
+    "lema": "οἴμοι",
+    "homonym_headword": "οἴμοι",
+    "rank": 1527
+  },
+  {
+    "lema": "ἀριστερός",
+    "homonym_headword": "ἀριστερός",
+    "rank": 1527
+  },
+  {
+    "lema": "Πειραιεύς",
+    "homonym_headword": "Πειραιεύς",
+    "rank": 1529
+  },
+  {
+    "lema": "καθεύδω",
+    "homonym_headword": "καθεύδω",
+    "rank": 1529
+  },
+  {
+    "lema": "παίω",
+    "homonym_headword": "παίω",
+    "rank": 1529
+  },
+  {
+    "lema": "ἀπεργάζομαι",
+    "homonym_headword": "ἀπεργάζομαι",
+    "rank": 1529
+  },
+  {
+    "lema": "Ἀγησίλαος",
+    "homonym_headword": "Ἀγησίλαος",
+    "rank": 1529
+  },
+  {
+    "lema": "ἐκεῖσε",
+    "homonym_headword": "ἐκεῖσε",
+    "rank": 1529
+  },
+  {
+    "lema": "ἐπίκειμαι",
+    "homonym_headword": "ἐπίκειμαι",
+    "rank": 1529
+  },
+  {
+    "lema": "ἐπιδίδωμι",
+    "homonym_headword": "ἐπιδίδωμι",
+    "rank": 1529
+  },
+  {
+    "lema": "ὑπολείπω",
+    "homonym_headword": "ὑπολείπω",
+    "rank": 1537
+  },
+  {
+    "lema": "δειλός",
+    "homonym_headword": "δειλός",
+    "rank": 1538
+  },
+  {
+    "lema": "ὁμιλέω",
+    "homonym_headword": "ὁμιλέω",
+    "rank": 1538
+  },
+  {
+    "lema": "τοῖος",
+    "homonym_headword": "τοῖος",
+    "rank": 1540
+  },
+  {
+    "lema": "ἐνδείκνυμι",
+    "homonym_headword": "ἐνδείκνυμι",
+    "rank": 1540
+  },
+  {
+    "lema": "καθήκω",
+    "homonym_headword": "καθήκω",
+    "rank": 1542
+  },
+  {
+    "lema": "ἀφανής",
+    "homonym_headword": "ἀφανής",
+    "rank": 1542
+  },
+  {
+    "lema": "Ἀρκάς",
+    "homonym_headword": "Ἀρκάς",
+    "rank": 1542
+  },
+  {
+    "lema": "Κροῖσος",
+    "homonym_headword": "Κροῖσος",
+    "rank": 1545
+  },
+  {
+    "lema": "κοῦφος",
+    "homonym_headword": "κοῦφος",
+    "rank": 1545
+  },
+  {
+    "lema": "σοφιστής",
+    "homonym_headword": "σοφιστής",
+    "rank": 1547
+  },
+  {
+    "lema": "συνοικέω",
+    "homonym_headword": "συνοικέω",
+    "rank": 1547
+  },
+  {
+    "lema": "συχνός",
+    "homonym_headword": "συχνός",
+    "rank": 1547
+  },
+  {
+    "lema": "ἐπιλαμβάνω",
+    "homonym_headword": "ἐπιλαμβάνω",
+    "rank": 1547
+  },
+  {
+    "lema": "ὑστεραῖος",
+    "homonym_headword": "ὑστεραῖος",
+    "rank": 1547
+  },
+  {
+    "lema": "δυναστεία",
+    "homonym_headword": "δυναστεία",
+    "rank": 1552
+  },
+  {
+    "lema": "στρέφω",
+    "homonym_headword": "στρέφω",
+    "rank": 1552
+  },
+  {
+    "lema": "ἄδηλος",
+    "homonym_headword": "ἄδηλος",
+    "rank": 1552
+  },
+  {
+    "lema": "ἐμπειρία",
+    "homonym_headword": "ἐμπειρία",
+    "rank": 1552
+  },
+  {
+    "lema": "σιτίον",
+    "homonym_headword": "σιτίον",
+    "rank": 1556
+  },
+  {
+    "lema": "τέως",
+    "homonym_headword": "τέως",
+    "rank": 1556
+  },
+  {
+    "lema": "ἄγαλμα",
+    "homonym_headword": "ἄγαλμα",
+    "rank": 1556
+  },
+  {
+    "lema": "ἅλς",
+    "homonym_headword": "ἅλς2",
+    "rank": 1556
+  },
+  {
+    "lema": "ὠκύς",
+    "homonym_headword": "ὠκύς",
+    "rank": 1556
+  },
+  {
+    "lema": "Περικλῆς",
+    "homonym_headword": "Περικλῆς",
+    "rank": 1561
+  },
+  {
+    "lema": "δοκιμάζω",
+    "homonym_headword": "δοκιμάζω",
+    "rank": 1561
+  },
+  {
+    "lema": "δύω",
+    "homonym_headword": "δύω",
+    "rank": 1561
+  },
+  {
+    "lema": "οὐδέτερος",
+    "homonym_headword": "οὐδέτερος",
+    "rank": 1561
+  },
+  {
+    "lema": "παράπαν",
+    "homonym_headword": "παράπαν",
+    "rank": 1561
+  },
+  {
+    "lema": "ἰσχύω",
+    "homonym_headword": "ἰσχύω",
+    "rank": 1561
+  },
+  {
+    "lema": "κηρύσσω",
+    "homonym_headword": "κηρύσσω",
+    "rank": 1567
+  },
+  {
+    "lema": "ἄκρα",
+    "homonym_headword": "ἄκρα",
+    "rank": 1567
+  },
+  {
+    "lema": "ὁμώνυμος",
+    "homonym_headword": "ὁμώνυμος",
+    "rank": 1567
+  },
+  {
+    "lema": "πανταχόθεν",
+    "homonym_headword": "πανταχόθεν",
+    "rank": 1570
+  },
+  {
+    "lema": "τεύχω",
+    "homonym_headword": "τεύχω",
+    "rank": 1570
+  },
+  {
+    "lema": "ἄρτιος",
+    "homonym_headword": "ἄρτιος",
+    "rank": 1570
+  },
+  {
+    "lema": "πήγνυμι",
+    "homonym_headword": "πήγνυμι",
+    "rank": 1573
+  },
+  {
+    "lema": "παρρησία",
+    "homonym_headword": "παρρησία",
+    "rank": 1573
+  },
+  {
+    "lema": "ἐφεξῆς",
+    "homonym_headword": "ἐφεξῆς",
+    "rank": 1573
+  },
+  {
+    "lema": "ὁπότερος",
+    "homonym_headword": "ὁπότερος",
+    "rank": 1573
+  },
+  {
+    "lema": "Δαυίδ",
+    "homonym_headword": "Δαυίδ",
+    "rank": 1577
+  },
+  {
+    "lema": "Μεσσήνιος",
+    "homonym_headword": "Μεσσήνιος",
+    "rank": 1577
+  },
+  {
+    "lema": "παρακελεύομαι",
+    "homonym_headword": "παρακελεύομαι",
+    "rank": 1577
+  },
+  {
+    "lema": "ταπεινός",
+    "homonym_headword": "ταπεινός",
+    "rank": 1577
+  },
+  {
+    "lema": "φωνέω",
+    "homonym_headword": "φωνέω",
+    "rank": 1577
+  },
+  {
+    "lema": "Αἰθίοψ",
+    "homonym_headword": "Αἰθίοψ",
+    "rank": 1582
+  },
+  {
+    "lema": "Σάμος",
+    "homonym_headword": "Σάμος",
+    "rank": 1582
+  },
+  {
+    "lema": "μαλακός",
+    "homonym_headword": "μαλακός",
+    "rank": 1582
+  },
+  {
+    "lema": "πιθανός",
+    "homonym_headword": "πιθανός",
+    "rank": 1582
+  },
+  {
+    "lema": "σιγάω",
+    "homonym_headword": "σιγάω",
+    "rank": 1582
+  },
+  {
+    "lema": "ἀκοή",
+    "homonym_headword": "ἀκοή",
+    "rank": 1582
+  },
+  {
+    "lema": "στασιάζω",
+    "homonym_headword": "στασιάζω",
+    "rank": 1588
+  },
+  {
+    "lema": "εὐρύς",
+    "homonym_headword": "εὐρύς",
+    "rank": 1589
+  },
+  {
+    "lema": "εὐχή",
+    "homonym_headword": "εὐχή",
+    "rank": 1589
+  },
+  {
+    "lema": "κλέπτω",
+    "homonym_headword": "κλέπτω",
+    "rank": 1589
+  },
+  {
+    "lema": "σκεῦος",
+    "homonym_headword": "σκεῦος",
+    "rank": 1589
+  },
+  {
+    "lema": "ἐκπλέω",
+    "homonym_headword": "ἐκπλέω",
+    "rank": 1589
+  },
+  {
+    "lema": "ἐνίοτε",
+    "homonym_headword": "ἐνίοτε",
+    "rank": 1589
+  },
+  {
+    "lema": "ὑγίεια",
+    "homonym_headword": "ὑγίεια",
+    "rank": 1589
+  },
+  {
+    "lema": "Νικίας",
+    "homonym_headword": "Νικίας",
+    "rank": 1596
+  },
+  {
+    "lema": "διάθεσις",
+    "homonym_headword": "διάθεσις",
+    "rank": 1596
+  },
+  {
+    "lema": "παραλληλόγραμμος",
+    "homonym_headword": "παραλληλόγραμμος",
+    "rank": 1596
+  },
+  {
+    "lema": "παρατίθημι",
+    "homonym_headword": "παρατίθημι",
+    "rank": 1596
+  },
+  {
+    "lema": "μουσική",
+    "homonym_headword": "μουσική",
+    "rank": 1600
+  },
+  {
+    "lema": "παχύς",
+    "homonym_headword": "παχύς",
+    "rank": 1600
+  },
+  {
+    "lema": "ὄλεθρος",
+    "homonym_headword": "ὄλεθρος",
+    "rank": 1600
+  },
+  {
+    "lema": "Ξενοφῶν",
+    "homonym_headword": "Ξενοφῶν",
+    "rank": 1603
+  },
+  {
+    "lema": "πυραμίς",
+    "homonym_headword": "πυραμίς",
+    "rank": 1603
+  },
+  {
+    "lema": "φιλοτιμία",
+    "homonym_headword": "φιλοτιμία",
+    "rank": 1603
+  },
+  {
+    "lema": "ἐραστής",
+    "homonym_headword": "ἐραστής",
+    "rank": 1603
+  },
+  {
+    "lema": "Ἑλλήσποντος",
+    "homonym_headword": "Ἑλλήσποντος",
+    "rank": 1603
+  },
+  {
+    "lema": "Συράκουσαι",
+    "homonym_headword": "Συράκουσαι",
+    "rank": 1608
+  },
+  {
+    "lema": "διαρπάζω",
+    "homonym_headword": "διαρπάζω",
+    "rank": 1608
+  },
+  {
+    "lema": "πεντακισχίλιοι",
+    "homonym_headword": "πεντακισχίλιοι",
+    "rank": 1608
+  },
+  {
+    "lema": "πιέζω",
+    "homonym_headword": "πιέζω",
+    "rank": 1608
+  },
+  {
+    "lema": "συντελέω",
+    "homonym_headword": "συντελέω",
+    "rank": 1608
+  },
+  {
+    "lema": "γέλως",
+    "homonym_headword": "γέλως",
+    "rank": 1613
+  },
+  {
+    "lema": "φλέψ",
+    "homonym_headword": "φλέψ",
+    "rank": 1613
+  },
+  {
+    "lema": "χῶρος",
+    "homonym_headword": "χῶρος",
+    "rank": 1613
+  },
+  {
+    "lema": "ἑκούσιος",
+    "homonym_headword": "ἑκούσιος",
+    "rank": 1613
+  },
+  {
+    "lema": "Καλλιρρόη",
+    "homonym_headword": "Καλλιρρόη",
+    "rank": 1617
+  },
+  {
+    "lema": "κατέρχομαι",
+    "homonym_headword": "κατέρχομαι",
+    "rank": 1617
+  },
+  {
+    "lema": "κατανοέω",
+    "homonym_headword": "κατανοέω",
+    "rank": 1617
+  },
+  {
+    "lema": "λήγω",
+    "homonym_headword": "λήγω",
+    "rank": 1617
+  },
+  {
+    "lema": "Τίτος",
+    "homonym_headword": "Τίτος",
+    "rank": 1621
+  },
+  {
+    "lema": "πλανάω",
+    "homonym_headword": "πλανάω",
+    "rank": 1621
+  },
+  {
+    "lema": "πολλαπλάσιος",
+    "homonym_headword": "πολλαπλάσιος",
+    "rank": 1621
+  },
+  {
+    "lema": "πόσις",
+    "homonym_headword": "πόσις",
+    "rank": 1621
+  },
+  {
+    "lema": "σήμερον",
+    "homonym_headword": "σήμερον",
+    "rank": 1621
+  },
+  {
+    "lema": "φορέω",
+    "homonym_headword": "φορέω",
+    "rank": 1621
+  },
+  {
+    "lema": "ἄρκτος",
+    "homonym_headword": "ἄρκτος",
+    "rank": 1621
+  },
+  {
+    "lema": "ἰατρικός",
+    "homonym_headword": "ἰατρικός",
+    "rank": 1621
+  },
+  {
+    "lema": "Σίμων",
+    "homonym_headword": "Σίμων",
+    "rank": 1629
+  },
+  {
+    "lema": "Φοῖβος",
+    "homonym_headword": "Φοῖβος",
+    "rank": 1629
+  },
+  {
+    "lema": "αἰσχύνη",
+    "homonym_headword": "αἰσχύνη",
+    "rank": 1629
+  },
+  {
+    "lema": "συνουσία",
+    "homonym_headword": "συνουσία",
+    "rank": 1629
+  },
+  {
+    "lema": "δακρύω",
+    "homonym_headword": "δακρύω",
+    "rank": 1633
+  },
+  {
+    "lema": "πέλω",
+    "homonym_headword": "πέλω",
+    "rank": 1633
+  },
+  {
+    "lema": "μανία",
+    "homonym_headword": "μανία",
+    "rank": 1635
+  },
+  {
+    "lema": "στέλλω",
+    "homonym_headword": "στέλλω",
+    "rank": 1635
+  },
+  {
+    "lema": "Ἀγρίππας",
+    "homonym_headword": "Ἀγρίππας",
+    "rank": 1635
+  },
+  {
+    "lema": "Ἀρχέλαος",
+    "homonym_headword": "Ἀρχέλαος",
+    "rank": 1635
+  },
+  {
+    "lema": "ἐλευθερόω",
+    "homonym_headword": "ἐλευθερόω",
+    "rank": 1635
+  },
+  {
+    "lema": "Ὠκεανός",
+    "homonym_headword": "Ὠκεανός",
+    "rank": 1635
+  },
+  {
+    "lema": "ζημιόω",
+    "homonym_headword": "ζημιόω",
+    "rank": 1641
+  },
+  {
+    "lema": "πωλέω",
+    "homonym_headword": "πωλέω",
+    "rank": 1641
+  },
+  {
+    "lema": "ἐξαίφνης",
+    "homonym_headword": "ἐξαίφνης",
+    "rank": 1641
+  },
+  {
+    "lema": "ὑγιαίνω",
+    "homonym_headword": "ὑγιαίνω",
+    "rank": 1641
+  },
+  {
+    "lema": "αἰών",
+    "homonym_headword": "αἰών",
+    "rank": 1645
+  },
+  {
+    "lema": "δανείζω",
+    "homonym_headword": "δανείζω",
+    "rank": 1645
+  },
+  {
+    "lema": "διακρίνω",
+    "homonym_headword": "διακρίνω",
+    "rank": 1645
+  },
+  {
+    "lema": "φήμη",
+    "homonym_headword": "φήμη",
+    "rank": 1645
+  },
+  {
+    "lema": "πάρειμι",
+    "homonym_headword": "πάρειμι2",
+    "rank": 1649
+  },
+  {
+    "lema": "ἀπαιτέω",
+    "homonym_headword": "ἀπαιτέω",
+    "rank": 1649
+  },
+  {
+    "lema": "ἐπιλέγω",
+    "homonym_headword": "ἐπιλέγω",
+    "rank": 1649
+  },
+  {
+    "lema": "κρέας",
+    "homonym_headword": "κρέας",
+    "rank": 1652
+  },
+  {
+    "lema": "μελετάω",
+    "homonym_headword": "μελετάω",
+    "rank": 1652
+  },
+  {
+    "lema": "ὅπῃ",
+    "homonym_headword": "ὅπῃ",
+    "rank": 1652
+  },
+  {
+    "lema": "ὑπάγω",
+    "homonym_headword": "ὑπάγω",
+    "rank": 1652
+  },
+  {
+    "lema": "πρόσοδος",
+    "homonym_headword": "πρόσοδος",
+    "rank": 1656
+  },
+  {
+    "lema": "ἐξευρίσκω",
+    "homonym_headword": "ἐξευρίσκω",
+    "rank": 1656
+  },
+  {
+    "lema": "ὀγδοήκοντα",
+    "homonym_headword": "ὀγδοήκοντα",
+    "rank": 1656
+  },
+  {
+    "lema": "εὐνή",
+    "homonym_headword": "εὐνή",
+    "rank": 1659
+  },
+  {
+    "lema": "καταλέγω",
+    "homonym_headword": "καταλέγω",
+    "rank": 1659
+  },
+  {
+    "lema": "ναίω",
+    "homonym_headword": "ναίω",
+    "rank": 1659
+  },
+  {
+    "lema": "ξηρός",
+    "homonym_headword": "ξηρός",
+    "rank": 1659
+  },
+  {
+    "lema": "ἀπολαύω",
+    "homonym_headword": "ἀπολαύω",
+    "rank": 1659
+  },
+  {
+    "lema": "ἄπειμι",
+    "homonym_headword": "ἄπειμι",
+    "rank": 1659
+  },
+  {
+    "lema": "ἐπιχώριος",
+    "homonym_headword": "ἐπιχώριος",
+    "rank": 1659
+  },
+  {
+    "lema": "ἑβδομήκοντα",
+    "homonym_headword": "ἑβδομήκοντα",
+    "rank": 1659
+  },
+  {
+    "lema": "ἱππικός",
+    "homonym_headword": "ἱππικός",
+    "rank": 1659
+  },
+  {
+    "lema": "κόμη",
+    "homonym_headword": "κόμη",
+    "rank": 1668
+  },
+  {
+    "lema": "μῖσος",
+    "homonym_headword": "μῖσος",
+    "rank": 1668
+  },
+  {
+    "lema": "νομοθετέω",
+    "homonym_headword": "νομοθετέω",
+    "rank": 1668
+  },
+  {
+    "lema": "στρατηγία",
+    "homonym_headword": "στρατηγία",
+    "rank": 1668
+  },
+  {
+    "lema": "ἀπολογία",
+    "homonym_headword": "ἀπολογία",
+    "rank": 1668
+  },
+  {
+    "lema": "ὑποστρέφω",
+    "homonym_headword": "ὑποστρέφω",
+    "rank": 1668
+  },
+  {
+    "lema": "κάρτα",
+    "homonym_headword": "κάρτα",
+    "rank": 1674
+  },
+  {
+    "lema": "ἐξαποστέλλω",
+    "homonym_headword": "ἐξαποστέλλω",
+    "rank": 1674
+  },
+  {
+    "lema": "αἴξ",
+    "homonym_headword": "αἴξ",
+    "rank": 1676
+  },
+  {
+    "lema": "διαδέχομαι",
+    "homonym_headword": "διαδέχομαι",
+    "rank": 1676
+  },
+  {
+    "lema": "θέω",
+    "homonym_headword": "θέω",
+    "rank": 1676
+  },
+  {
+    "lema": "τείνω",
+    "homonym_headword": "τείνω",
+    "rank": 1676
+  },
+  {
+    "lema": "χρεών",
+    "homonym_headword": "χρεών",
+    "rank": 1676
+  },
+  {
+    "lema": "ἄσμενος",
+    "homonym_headword": "ἄσμενος",
+    "rank": 1676
+  },
+  {
+    "lema": "ἐλλείπω",
+    "homonym_headword": "ἐλλείπω",
+    "rank": 1676
+  },
+  {
+    "lema": "διατριβή",
+    "homonym_headword": "διατριβή",
+    "rank": 1683
+  },
+  {
+    "lema": "μάτην",
+    "homonym_headword": "μάτην",
+    "rank": 1683
+  },
+  {
+    "lema": "χρώς",
+    "homonym_headword": "χρώς",
+    "rank": 1683
+  },
+  {
+    "lema": "ψιλός",
+    "homonym_headword": "ψιλός",
+    "rank": 1683
+  },
+  {
+    "lema": "ἐγκρατής",
+    "homonym_headword": "ἐγκρατής",
+    "rank": 1683
+  },
+  {
+    "lema": "ὠθέω",
+    "homonym_headword": "ὠθέω",
+    "rank": 1683
+  },
+  {
+    "lema": "βάθος",
+    "homonym_headword": "βάθος",
+    "rank": 1689
+  },
+  {
+    "lema": "συνέχω",
+    "homonym_headword": "συνέχω",
+    "rank": 1689
+  },
+  {
+    "lema": "ἐπιτιμάω",
+    "homonym_headword": "ἐπιτιμάω",
+    "rank": 1689
+  },
+  {
+    "lema": "ὁπλίζω",
+    "homonym_headword": "ὁπλίζω",
+    "rank": 1689
+  },
+  {
+    "lema": "πρεσβεία",
+    "homonym_headword": "πρεσβεία",
+    "rank": 1693
+  },
+  {
+    "lema": "Εὐφράτης",
+    "homonym_headword": "Εὐφράτης",
+    "rank": 1694
+  },
+  {
+    "lema": "παντοδαπός",
+    "homonym_headword": "παντοδαπός",
+    "rank": 1694
+  },
+  {
+    "lema": "προβάλλω",
+    "homonym_headword": "προβάλλω",
+    "rank": 1694
+  },
+  {
+    "lema": "συμμαχέω",
+    "homonym_headword": "συμμαχέω",
+    "rank": 1694
+  },
+  {
+    "lema": "τίμιος",
+    "homonym_headword": "τίμιος",
+    "rank": 1694
+  },
+  {
+    "lema": "Ἰουδαία",
+    "homonym_headword": "Ἰουδαία",
+    "rank": 1694
+  },
+  {
+    "lema": "οὕνεκα",
+    "homonym_headword": "οὕνεκα",
+    "rank": 1700
+  },
+  {
+    "lema": "δάκτυλος",
+    "homonym_headword": "δάκτυλος",
+    "rank": 1701
+  },
+  {
+    "lema": "χωρίζω",
+    "homonym_headword": "χωρίζω",
+    "rank": 1701
+  },
+  {
+    "lema": "ἀπόστασις",
+    "homonym_headword": "ἀπόστασις",
+    "rank": 1701
+  },
+  {
+    "lema": "Ἑβραῖος",
+    "homonym_headword": "Ἑβραῖος",
+    "rank": 1701
+  },
+  {
+    "lema": "βασίλειον",
+    "homonym_headword": "βασίλειον",
+    "rank": 1705
+  },
+  {
+    "lema": "σφάλλω",
+    "homonym_headword": "σφάλλω",
+    "rank": 1705
+  },
+  {
+    "lema": "τόσος",
+    "homonym_headword": "τόσος",
+    "rank": 1705
+  },
+  {
+    "lema": "ὀδύνη",
+    "homonym_headword": "ὀδύνη",
+    "rank": 1705
+  },
+  {
+    "lema": "ἀλκή",
+    "homonym_headword": "ἀλκή",
+    "rank": 1709
+  },
+  {
+    "lema": "ἀποχωρέω",
+    "homonym_headword": "ἀποχωρέω",
+    "rank": 1709
+  },
+  {
+    "lema": "Βαβυλώνιος",
+    "homonym_headword": "Βαβυλώνιος",
+    "rank": 1711
+  },
+  {
+    "lema": "Θεαγένης",
+    "homonym_headword": "Θεαγένης",
+    "rank": 1711
+  },
+  {
+    "lema": "ἕδρα",
+    "homonym_headword": "ἕδρα",
+    "rank": 1711
+  },
+  {
+    "lema": "δουλεία",
+    "homonym_headword": "δουλεία",
+    "rank": 1714
+  },
+  {
+    "lema": "θοός",
+    "homonym_headword": "θοός",
+    "rank": 1714
+  },
+  {
+    "lema": "οὔτις",
+    "homonym_headword": "οὔτις",
+    "rank": 1714
+  },
+  {
+    "lema": "τάφρος",
+    "homonym_headword": "τάφρος",
+    "rank": 1714
+  },
+  {
+    "lema": "Ἀτρείδης",
+    "homonym_headword": "Ἀτρείδης",
+    "rank": 1714
+  },
+  {
+    "lema": "βασίλειος",
+    "homonym_headword": "βασίλειος",
+    "rank": 1719
+  },
+  {
+    "lema": "καθέζομαι",
+    "homonym_headword": "καθέζομαι",
+    "rank": 1719
+  },
+  {
+    "lema": "ἔγχος",
+    "homonym_headword": "ἔγχος",
+    "rank": 1719
+  },
+  {
+    "lema": "Καρχηδών",
+    "homonym_headword": "Καρχηδών",
+    "rank": 1722
+  },
+  {
+    "lema": "βλάβη",
+    "homonym_headword": "βλάβη",
+    "rank": 1722
+  },
+  {
+    "lema": "παρατάσσω",
+    "homonym_headword": "παρατάσσω",
+    "rank": 1722
+  },
+  {
+    "lema": "χέω",
+    "homonym_headword": "χέω",
+    "rank": 1722
+  },
+  {
+    "lema": "ἀγορεύω",
+    "homonym_headword": "ἀγορεύω",
+    "rank": 1722
+  },
+  {
+    "lema": "μετέωρος",
+    "homonym_headword": "μετέωρος",
+    "rank": 1727
+  },
+  {
+    "lema": "πανταχοῦ",
+    "homonym_headword": "πανταχοῦ",
+    "rank": 1727
+  },
+  {
+    "lema": "συγγράφω",
+    "homonym_headword": "συγγράφω",
+    "rank": 1727
+  },
+  {
+    "lema": "ἐκφεύγω",
+    "homonym_headword": "ἐκφεύγω",
+    "rank": 1727
+  },
+  {
+    "lema": "Ὄλυμπος",
+    "homonym_headword": "Ὄλυμπος",
+    "rank": 1727
+  },
+  {
+    "lema": "καθώς",
+    "homonym_headword": "καθώς",
+    "rank": 1732
+  },
+  {
+    "lema": "πονηρία",
+    "homonym_headword": "πονηρία",
+    "rank": 1732
+  },
+  {
+    "lema": "πρᾶος",
+    "homonym_headword": "πρᾶος",
+    "rank": 1732
+  },
+  {
+    "lema": "ταῦρος",
+    "homonym_headword": "ταῦρος",
+    "rank": 1732
+  },
+  {
+    "lema": "ἀποδιδράσκω",
+    "homonym_headword": "ἀποδιδράσκω",
+    "rank": 1732
+  },
+  {
+    "lema": "ἄρτος",
+    "homonym_headword": "ἄρτος",
+    "rank": 1732
+  },
+  {
+    "lema": "Ἰώσηπος",
+    "homonym_headword": "Ἰώσηπος",
+    "rank": 1732
+  },
+  {
+    "lema": "Ὑρκανός",
+    "homonym_headword": "Ὑρκανός",
+    "rank": 1732
+  },
+  {
+    "lema": "σατράπης",
+    "homonym_headword": "σατράπης",
+    "rank": 1740
+  },
+  {
+    "lema": "ὑπεναντίος",
+    "homonym_headword": "ὑπεναντίος",
+    "rank": 1740
+  },
+  {
+    "lema": "ἀνύω",
+    "homonym_headword": "ἀνύω",
+    "rank": 1742
+  },
+  {
+    "lema": "Ἀλεξάνδρεια",
+    "homonym_headword": "Ἀλεξάνδρεια",
+    "rank": 1742
+  },
+  {
+    "lema": "ῥητορικός",
+    "homonym_headword": "ῥητορικός",
+    "rank": 1742
+  },
+  {
+    "lema": "Κύπρος",
+    "homonym_headword": "Κύπρος",
+    "rank": 1745
+  },
+  {
+    "lema": "Σύλλας",
+    "homonym_headword": "Σύλλας",
+    "rank": 1745
+  },
+  {
+    "lema": "μάθημα",
+    "homonym_headword": "μάθημα",
+    "rank": 1745
+  },
+  {
+    "lema": "νῶτον",
+    "homonym_headword": "νῶτον",
+    "rank": 1745
+  },
+  {
+    "lema": "προοράω",
+    "homonym_headword": "προοράω",
+    "rank": 1745
+  },
+  {
+    "lema": "ἀκμή",
+    "homonym_headword": "ἀκμή",
+    "rank": 1745
+  },
+  {
+    "lema": "Ὀλυμπιάς",
+    "homonym_headword": "Ὀλυμπιάς",
+    "rank": 1745
+  },
+  {
+    "lema": "δαιμόνιος",
+    "homonym_headword": "δαιμόνιος",
+    "rank": 1752
+  },
+  {
+    "lema": "διαμένω",
+    "homonym_headword": "διαμένω",
+    "rank": 1752
+  },
+  {
+    "lema": "ἀπογιγνώσκω",
+    "homonym_headword": "ἀπογιγνώσκω",
+    "rank": 1752
+  },
+  {
+    "lema": "Χαρίκλεια",
+    "homonym_headword": "Χαρίκλεια",
+    "rank": 1755
+  },
+  {
+    "lema": "μνηστήρ",
+    "homonym_headword": "μνηστήρ",
+    "rank": 1755
+  },
+  {
+    "lema": "ἀπόκρισις",
+    "homonym_headword": "ἀπόκρισις",
+    "rank": 1755
+  },
+  {
+    "lema": "ἐμμένω",
+    "homonym_headword": "ἐμμένω",
+    "rank": 1755
+  },
+  {
+    "lema": "φαντασία",
+    "homonym_headword": "φαντασία",
+    "rank": 1759
+  },
+  {
+    "lema": "ἑός",
+    "homonym_headword": "ἑός",
+    "rank": 1759
+  },
+  {
+    "lema": "διατάσσω",
+    "homonym_headword": "διατάσσω",
+    "rank": 1761
+  },
+  {
+    "lema": "παίζω",
+    "homonym_headword": "παίζω",
+    "rank": 1761
+  },
+  {
+    "lema": "σύμβουλος",
+    "homonym_headword": "σύμβουλος",
+    "rank": 1761
+  },
+  {
+    "lema": "κοιμάω",
+    "homonym_headword": "κοιμάω",
+    "rank": 1764
+  },
+  {
+    "lema": "σπέρμα",
+    "homonym_headword": "σπέρμα",
+    "rank": 1764
+  },
+  {
+    "lema": "ἄργυρος",
+    "homonym_headword": "ἄργυρος",
+    "rank": 1764
+  },
+  {
+    "lema": "ἐπιγράφω",
+    "homonym_headword": "ἐπιγράφω",
+    "rank": 1764
+  },
+  {
+    "lema": "ἔρις",
+    "homonym_headword": "ἔρις",
+    "rank": 1764
+  },
+  {
+    "lema": "διΐστημι",
+    "homonym_headword": "διΐστημι",
+    "rank": 1769
+  },
+  {
+    "lema": "εὐεργεσία",
+    "homonym_headword": "εὐεργεσία",
+    "rank": 1769
+  },
+  {
+    "lema": "ἀποφέρω",
+    "homonym_headword": "ἀποφέρω",
+    "rank": 1769
+  },
+  {
+    "lema": "πλάσσω",
+    "homonym_headword": "πλάσσω",
+    "rank": 1772
+  },
+  {
+    "lema": "πῃ",
+    "homonym_headword": "πῃ",
+    "rank": 1772
+  },
+  {
+    "lema": "χάριν",
+    "homonym_headword": "χάριν",
+    "rank": 1774
+  },
+  {
+    "lema": "ἐπιζεύγνυμι",
+    "homonym_headword": "ἐπιζεύγνυμι",
+    "rank": 1774
+  },
+  {
+    "lema": "ὀδούς",
+    "homonym_headword": "ὀδούς",
+    "rank": 1774
+  },
+  {
+    "lema": "ὀνειδίζω",
+    "homonym_headword": "ὀνειδίζω",
+    "rank": 1774
+  },
+  {
+    "lema": "γυμνάζω",
+    "homonym_headword": "γυμνάζω",
+    "rank": 1778
+  },
+  {
+    "lema": "χρῄζω",
+    "homonym_headword": "χρῄζω",
+    "rank": 1778
+  },
+  {
+    "lema": "ἀνόητος",
+    "homonym_headword": "ἀνόητος",
+    "rank": 1778
+  },
+  {
+    "lema": "στερέω",
+    "homonym_headword": "στερέω",
+    "rank": 1781
+  },
+  {
+    "lema": "φρουρέω",
+    "homonym_headword": "φρουρέω",
+    "rank": 1781
+  },
+  {
+    "lema": "ἆθλον",
+    "homonym_headword": "ἆθλον",
+    "rank": 1781
+  },
+  {
+    "lema": "Θησεύς",
+    "homonym_headword": "Θησεύς",
+    "rank": 1784
+  },
+  {
+    "lema": "ὄνειρος",
+    "homonym_headword": "ὄνειρος",
+    "rank": 1784
+  },
+  {
+    "lema": "δόλος",
+    "homonym_headword": "δόλος",
+    "rank": 1786
+  },
+  {
+    "lema": "θέα",
+    "homonym_headword": "θέα",
+    "rank": 1786
+  },
+  {
+    "lema": "κατήγορος",
+    "homonym_headword": "κατήγορος",
+    "rank": 1786
+  },
+  {
+    "lema": "μηδέποτε",
+    "homonym_headword": "μηδέποτε",
+    "rank": 1786
+  },
+  {
+    "lema": "χιτών",
+    "homonym_headword": "χιτών",
+    "rank": 1786
+  },
+  {
+    "lema": "ὑπήκοος",
+    "homonym_headword": "ὑπήκοος",
+    "rank": 1786
+  },
+  {
+    "lema": "γνήσιος",
+    "homonym_headword": "γνήσιος",
+    "rank": 1792
+  },
+  {
+    "lema": "περιτίθημι",
+    "homonym_headword": "περιτίθημι",
+    "rank": 1792
+  },
+  {
+    "lema": "ἔξοδος",
+    "homonym_headword": "ἔξοδος",
+    "rank": 1792
+  },
+  {
+    "lema": "μεταδίδωμι",
+    "homonym_headword": "μεταδίδωμι",
+    "rank": 1795
+  },
+  {
+    "lema": "παράκειμαι",
+    "homonym_headword": "παράκειμαι",
+    "rank": 1795
+  },
+  {
+    "lema": "πιπράσκω",
+    "homonym_headword": "πιπράσκω",
+    "rank": 1795
+  },
+  {
+    "lema": "χιλίαρχος",
+    "homonym_headword": "χιλίαρχος",
+    "rank": 1795
+  },
+  {
+    "lema": "Εὔβοια",
+    "homonym_headword": "Εὔβοια",
+    "rank": 1799
+  },
+  {
+    "lema": "δυσχερής",
+    "homonym_headword": "δυσχερής",
+    "rank": 1799
+  },
+  {
+    "lema": "μένος",
+    "homonym_headword": "μένος",
+    "rank": 1799
+  },
+  {
+    "lema": "μηρός",
+    "homonym_headword": "μηρός",
+    "rank": 1799
+  },
+  {
+    "lema": "παρεμβολή",
+    "homonym_headword": "παρεμβολή",
+    "rank": 1799
+  },
+  {
+    "lema": "πρόβατον",
+    "homonym_headword": "πρόβατον",
+    "rank": 1799
+  },
+  {
+    "lema": "τεῦχος",
+    "homonym_headword": "τεῦχος",
+    "rank": 1799
+  },
+  {
+    "lema": "ὁμιλία",
+    "homonym_headword": "ὁμιλία",
+    "rank": 1799
+  },
+  {
+    "lema": "Πρίαμος",
+    "homonym_headword": "Πρίαμος",
+    "rank": 1807
+  },
+  {
+    "lema": "αὐχήν",
+    "homonym_headword": "αὐχήν",
+    "rank": 1807
+  },
+  {
+    "lema": "ποῖ",
+    "homonym_headword": "ποῖ",
+    "rank": 1807
+  },
+  {
+    "lema": "τέρπω",
+    "homonym_headword": "τέρπω",
+    "rank": 1807
+  },
+  {
+    "lema": "ἀντίος",
+    "homonym_headword": "ἀντίος",
+    "rank": 1807
+  },
+  {
+    "lema": "ἐννέα",
+    "homonym_headword": "ἐννέα",
+    "rank": 1807
+  },
+  {
+    "lema": "δαμάζω",
+    "homonym_headword": "δαμάζω",
+    "rank": 1813
+  },
+  {
+    "lema": "φιλάνθρωπος",
+    "homonym_headword": "φιλάνθρωπος",
+    "rank": 1813
+  },
+  {
+    "lema": "εὔλογος",
+    "homonym_headword": "εὔλογος",
+    "rank": 1815
+  },
+  {
+    "lema": "θέατρον",
+    "homonym_headword": "θέατρον",
+    "rank": 1815
+  },
+  {
+    "lema": "καθαίρω",
+    "homonym_headword": "καθαίρω",
+    "rank": 1815
+  },
+  {
+    "lema": "λεία",
+    "homonym_headword": "λεία2",
+    "rank": 1815
+  },
+  {
+    "lema": "ναύτης",
+    "homonym_headword": "ναύτης",
+    "rank": 1815
+  },
+  {
+    "lema": "χειρόω",
+    "homonym_headword": "χειρόω",
+    "rank": 1815
+  },
+  {
+    "lema": "ἐνοχλέω",
+    "homonym_headword": "ἐνοχλέω",
+    "rank": 1815
+  },
+  {
+    "lema": "ἐπάνειμι",
+    "homonym_headword": "ἐπάνειμι",
+    "rank": 1815
+  },
+  {
+    "lema": "Θεσσαλία",
+    "homonym_headword": "Θεσσαλία",
+    "rank": 1823
+  },
+  {
+    "lema": "τοτέ",
+    "homonym_headword": "τοτέ",
+    "rank": 1823
+  },
+  {
+    "lema": "ἐγχειρίζω",
+    "homonym_headword": "ἐγχειρίζω",
+    "rank": 1823
+  },
+  {
+    "lema": "πρίασθαι",
+    "homonym_headword": "πρίασθαι",
+    "rank": 1826
+  },
+  {
+    "lema": "τέμενος",
+    "homonym_headword": "τέμενος",
+    "rank": 1826
+  },
+  {
+    "lema": "ἔλεγχος",
+    "homonym_headword": "ἔλεγχος2",
+    "rank": 1826
+  },
+  {
+    "lema": "ῥεῦμα",
+    "homonym_headword": "ῥεῦμα",
+    "rank": 1826
+  },
+  {
+    "lema": "αἱρετός",
+    "homonym_headword": "αἱρετός",
+    "rank": 1830
+  },
+  {
+    "lema": "λούω",
+    "homonym_headword": "λούω",
+    "rank": 1830
+  },
+  {
+    "lema": "ἐρύω",
+    "homonym_headword": "ἐρύω2",
+    "rank": 1830
+  },
+  {
+    "lema": "Περσεύς",
+    "homonym_headword": "Περσεύς",
+    "rank": 1833
+  },
+  {
+    "lema": "Τηλέμαχος",
+    "homonym_headword": "Τηλέμαχος",
+    "rank": 1833
+  },
+  {
+    "lema": "γείτων",
+    "homonym_headword": "γείτων",
+    "rank": 1833
+  },
+  {
+    "lema": "μισθόω",
+    "homonym_headword": "μισθόω",
+    "rank": 1833
+  },
+  {
+    "lema": "πενία",
+    "homonym_headword": "πενία",
+    "rank": 1833
+  },
+  {
+    "lema": "σκότος",
+    "homonym_headword": "σκότος",
+    "rank": 1833
+  },
+  {
+    "lema": "ὑπέρκειμαι",
+    "homonym_headword": "ὑπέρκειμαι",
+    "rank": 1833
+  },
+  {
+    "lema": "πότερος",
+    "homonym_headword": "πότερος",
+    "rank": 1840
+  },
+  {
+    "lema": "σπένδω",
+    "homonym_headword": "σπένδω",
+    "rank": 1840
+  },
+  {
+    "lema": "ἕβδομος",
+    "homonym_headword": "ἕβδομος",
+    "rank": 1840
+  },
+  {
+    "lema": "δέσποινα",
+    "homonym_headword": "δέσποινα",
+    "rank": 1843
+  },
+  {
+    "lema": "θώραξ",
+    "homonym_headword": "θώραξ",
+    "rank": 1843
+  },
+  {
+    "lema": "κόπτω",
+    "homonym_headword": "κόπτω",
+    "rank": 1843
+  },
+  {
+    "lema": "ἀληθινός",
+    "homonym_headword": "ἀληθινός",
+    "rank": 1843
+  },
+  {
+    "lema": "ἐπιλήθω",
+    "homonym_headword": "ἐπιλήθω",
+    "rank": 1843
+  },
+  {
+    "lema": "ποτόν",
+    "homonym_headword": "ποτόν",
+    "rank": 1848
+  },
+  {
+    "lema": "τειχίζω",
+    "homonym_headword": "τειχίζω",
+    "rank": 1848
+  },
+  {
+    "lema": "ἀναπαύω",
+    "homonym_headword": "ἀναπαύω",
+    "rank": 1848
+  },
+  {
+    "lema": "ἀνατολή",
+    "homonym_headword": "ἀνατολή",
+    "rank": 1848
+  },
+  {
+    "lema": "βασανίζω",
+    "homonym_headword": "βασανίζω",
+    "rank": 1852
+  },
+  {
+    "lema": "πρόσκειμαι",
+    "homonym_headword": "πρόσκειμαι",
+    "rank": 1852
+  },
+  {
+    "lema": "σκοπός",
+    "homonym_headword": "σκοπός",
+    "rank": 1852
+  },
+  {
+    "lema": "ἀπόδειξις",
+    "homonym_headword": "ἀπόδειξις",
+    "rank": 1852
+  },
+  {
+    "lema": "Κρήτη",
+    "homonym_headword": "Κρήτη",
+    "rank": 1856
+  },
+  {
+    "lema": "θαῦμα",
+    "homonym_headword": "θαῦμα",
+    "rank": 1856
+  },
+  {
+    "lema": "καταμανθάνω",
+    "homonym_headword": "καταμανθάνω",
+    "rank": 1856
+  },
+  {
+    "lema": "πέλας",
+    "homonym_headword": "πέλας",
+    "rank": 1856
+  },
+  {
+    "lema": "περίειμι",
+    "homonym_headword": "περίειμι2",
+    "rank": 1856
+  },
+  {
+    "lema": "περιλαμβάνω",
+    "homonym_headword": "περιλαμβάνω",
+    "rank": 1856
+  },
+  {
+    "lema": "ποθέω",
+    "homonym_headword": "ποθέω",
+    "rank": 1856
+  },
+  {
+    "lema": "Μιλήσιος",
+    "homonym_headword": "Μιλήσιος",
+    "rank": 1863
+  },
+  {
+    "lema": "γέρας",
+    "homonym_headword": "γέρας",
+    "rank": 1863
+  },
+  {
+    "lema": "προέχω",
+    "homonym_headword": "προέχω",
+    "rank": 1863
+  },
+  {
+    "lema": "σκάφος",
+    "homonym_headword": "σκάφος2",
+    "rank": 1863
+  },
+  {
+    "lema": "τρίς",
+    "homonym_headword": "τρίς",
+    "rank": 1863
+  },
+  {
+    "lema": "διέχω",
+    "homonym_headword": "διέχω",
+    "rank": 1868
+  },
+  {
+    "lema": "παράγω",
+    "homonym_headword": "παράγω",
+    "rank": 1868
+  },
+  {
+    "lema": "πότε",
+    "homonym_headword": "πότε",
+    "rank": 1868
+  },
+  {
+    "lema": "ἄγαν",
+    "homonym_headword": "ἄγαν",
+    "rank": 1868
+  },
+  {
+    "lema": "ἐκβαίνω",
+    "homonym_headword": "ἐκβαίνω",
+    "rank": 1868
+  },
+  {
+    "lema": "εὐεργέτης",
+    "homonym_headword": "εὐεργέτης",
+    "rank": 1873
+  },
+  {
+    "lema": "εὐτυχία",
+    "homonym_headword": "εὐτυχία",
+    "rank": 1873
+  },
+  {
+    "lema": "παράνομος",
+    "homonym_headword": "παράνομος",
+    "rank": 1873
+  },
+  {
+    "lema": "φορά",
+    "homonym_headword": "φορά",
+    "rank": 1873
+  },
+  {
+    "lema": "ἐνδεής",
+    "homonym_headword": "ἐνδεής",
+    "rank": 1873
+  },
+  {
+    "lema": "αὐλή",
+    "homonym_headword": "αὐλή",
+    "rank": 1878
+  },
+  {
+    "lema": "αὐτόματος",
+    "homonym_headword": "αὐτόματος",
+    "rank": 1878
+  },
+  {
+    "lema": "γραμμή",
+    "homonym_headword": "γραμμή",
+    "rank": 1878
+  },
+  {
+    "lema": "θαυμάσιος",
+    "homonym_headword": "θαυμάσιος",
+    "rank": 1878
+  },
+  {
+    "lema": "παραιτέομαι",
+    "homonym_headword": "παραιτέομαι",
+    "rank": 1878
+  },
+  {
+    "lema": "ποιμήν",
+    "homonym_headword": "ποιμήν",
+    "rank": 1878
+  },
+  {
+    "lema": "σπείρω",
+    "homonym_headword": "σπείρω",
+    "rank": 1878
+  },
+  {
+    "lema": "σταθμός",
+    "homonym_headword": "σταθμός",
+    "rank": 1878
+  },
+  {
+    "lema": "συνέδριον",
+    "homonym_headword": "συνέδριον",
+    "rank": 1878
+  },
+  {
+    "lema": "ἀνάθημα",
+    "homonym_headword": "ἀνάθημα",
+    "rank": 1878
+  },
+  {
+    "lema": "ἀνδράποδον",
+    "homonym_headword": "ἀνδράποδον",
+    "rank": 1878
+  },
+  {
+    "lema": "ἐπικρατέω",
+    "homonym_headword": "ἐπικρατέω",
+    "rank": 1878
+  },
+  {
+    "lema": "θέμις",
+    "homonym_headword": "θέμις",
+    "rank": 1890
+  },
+  {
+    "lema": "καθίημι",
+    "homonym_headword": "καθίημι",
+    "rank": 1890
+  },
+  {
+    "lema": "παιδιά",
+    "homonym_headword": "παιδιά",
+    "rank": 1890
+  },
+  {
+    "lema": "ποιητικός",
+    "homonym_headword": "ποιητικός",
+    "rank": 1890
+  },
+  {
+    "lema": "προνοέω",
+    "homonym_headword": "προνοέω",
+    "rank": 1890
+  },
+  {
+    "lema": "χάραξ",
+    "homonym_headword": "χάραξ",
+    "rank": 1890
+  },
+  {
+    "lema": "ἀνόσιος",
+    "homonym_headword": "ἀνόσιος",
+    "rank": 1890
+  },
+  {
+    "lema": "ὄντως",
+    "homonym_headword": "ὄντως",
+    "rank": 1890
+  },
+  {
+    "lema": "προίξ",
+    "homonym_headword": "προίξ",
+    "rank": 1898
+  },
+  {
+    "lema": "προσγίγνομαι",
+    "homonym_headword": "προσγίγνομαι",
+    "rank": 1898
+  },
+  {
+    "lema": "ἑξακόσιοι",
+    "homonym_headword": "ἑξακόσιοι",
+    "rank": 1898
+  },
+  {
+    "lema": "μακράν",
+    "homonym_headword": "μακράν",
+    "rank": 1901
+  },
+  {
+    "lema": "πάρος",
+    "homonym_headword": "πάρος",
+    "rank": 1901
+  },
+  {
+    "lema": "διαμαρτάνω",
+    "homonym_headword": "διαμαρτάνω",
+    "rank": 1903
+  },
+  {
+    "lema": "διεξέρχομαι",
+    "homonym_headword": "διεξέρχομαι",
+    "rank": 1903
+  },
+  {
+    "lema": "ἀκόλουθος",
+    "homonym_headword": "ἀκόλουθος",
+    "rank": 1903
+  },
+  {
+    "lema": "ἐγχειρέω",
+    "homonym_headword": "ἐγχειρέω",
+    "rank": 1906
+  },
+  {
+    "lema": "βάρος",
+    "homonym_headword": "βάρος",
+    "rank": 1907
+  },
+  {
+    "lema": "καταγελάω",
+    "homonym_headword": "καταγελάω",
+    "rank": 1907
+  },
+  {
+    "lema": "ἀκτή",
+    "homonym_headword": "ἀκτή",
+    "rank": 1907
+  },
+  {
+    "lema": "ἀπόρρητος",
+    "homonym_headword": "ἀπόρρητος",
+    "rank": 1907
+  },
+  {
+    "lema": "Πόπλιος",
+    "homonym_headword": "Πόπλιος",
+    "rank": 1911
+  },
+  {
+    "lema": "δημιουργός",
+    "homonym_headword": "δημιουργός",
+    "rank": 1911
+  },
+  {
+    "lema": "εἰσβάλλω",
+    "homonym_headword": "εἰσβάλλω",
+    "rank": 1911
+  },
+  {
+    "lema": "κάρα",
+    "homonym_headword": "κάρα",
+    "rank": 1911
+  },
+  {
+    "lema": "κυβερνήτης",
+    "homonym_headword": "κυβερνήτης",
+    "rank": 1911
+  },
+  {
+    "lema": "συγγίγνομαι",
+    "homonym_headword": "συγγίγνομαι",
+    "rank": 1911
+  },
+  {
+    "lema": "ἄτιμος",
+    "homonym_headword": "ἄτιμος",
+    "rank": 1911
+  },
+  {
+    "lema": "δωρέω",
+    "homonym_headword": "δωρέω",
+    "rank": 1918
+  },
+  {
+    "lema": "νύκτωρ",
+    "homonym_headword": "νύκτωρ",
+    "rank": 1918
+  },
+  {
+    "lema": "πλουτέω",
+    "homonym_headword": "πλουτέω",
+    "rank": 1918
+  },
+  {
+    "lema": "σφαγή",
+    "homonym_headword": "σφαγή",
+    "rank": 1918
+  },
+  {
+    "lema": "τμῆμα",
+    "homonym_headword": "τμῆμα",
+    "rank": 1918
+  },
+  {
+    "lema": "ἔαρ",
+    "homonym_headword": "ἔαρ",
+    "rank": 1918
+  },
+  {
+    "lema": "ὄνειδος",
+    "homonym_headword": "ὄνειδος",
+    "rank": 1918
+  },
+  {
+    "lema": "Διογένης",
+    "homonym_headword": "Διογένης",
+    "rank": 1925
+  },
+  {
+    "lema": "Πολύβιος",
+    "homonym_headword": "Πολύβιος",
+    "rank": 1925
+  },
+  {
+    "lema": "κλίνω",
+    "homonym_headword": "κλίνω",
+    "rank": 1925
+  },
+  {
+    "lema": "κρατερός",
+    "homonym_headword": "κρατερός",
+    "rank": 1925
+  },
+  {
+    "lema": "πολλαπλασιάζω",
+    "homonym_headword": "πολλαπλασιάζω",
+    "rank": 1925
+  },
+  {
+    "lema": "ἐξηγέομαι",
+    "homonym_headword": "ἐξηγέομαι",
+    "rank": 1925
+  },
+  {
+    "lema": "ὑπέχω",
+    "homonym_headword": "ὑπέχω",
+    "rank": 1925
+  },
+  {
+    "lema": "Λίβυς",
+    "homonym_headword": "Λίβυς",
+    "rank": 1932
+  },
+  {
+    "lema": "δύσις",
+    "homonym_headword": "δύσις",
+    "rank": 1932
+  },
+  {
+    "lema": "θήρα",
+    "homonym_headword": "θήρα",
+    "rank": 1932
+  },
+  {
+    "lema": "πένθος",
+    "homonym_headword": "πένθος",
+    "rank": 1932
+  },
+  {
+    "lema": "περαίνω",
+    "homonym_headword": "περαίνω",
+    "rank": 1932
+  },
+  {
+    "lema": "ἀλγέω",
+    "homonym_headword": "ἀλγέω",
+    "rank": 1932
+  },
+  {
+    "lema": "Ἀριστόβουλος",
+    "homonym_headword": "Ἀριστόβουλος",
+    "rank": 1932
+  },
+  {
+    "lema": "ἐξεργάζομαι",
+    "homonym_headword": "ἐξεργάζομαι",
+    "rank": 1932
+  },
+  {
+    "lema": "ἐρημία",
+    "homonym_headword": "ἐρημία",
+    "rank": 1932
+  },
+  {
+    "lema": "ἔμπειρος",
+    "homonym_headword": "ἔμπειρος",
+    "rank": 1932
+  },
+  {
+    "lema": "Λακωνικός",
+    "homonym_headword": "Λακωνικός",
+    "rank": 1942
+  },
+  {
+    "lema": "εὐπορέω",
+    "homonym_headword": "εὐπορέω",
+    "rank": 1942
+  },
+  {
+    "lema": "οὐδαμοῦ",
+    "homonym_headword": "οὐδαμοῦ",
+    "rank": 1942
+  },
+  {
+    "lema": "προπέμπω",
+    "homonym_headword": "προπέμπω",
+    "rank": 1942
+  },
+  {
+    "lema": "φιλότιμος",
+    "homonym_headword": "φιλότιμος",
+    "rank": 1942
+  },
+  {
+    "lema": "φλόξ",
+    "homonym_headword": "φλόξ",
+    "rank": 1942
+  },
+  {
+    "lema": "χῶμα",
+    "homonym_headword": "χῶμα",
+    "rank": 1942
+  },
+  {
+    "lema": "Κάσσιος",
+    "homonym_headword": "Κάσσιος",
+    "rank": 1949
+  },
+  {
+    "lema": "Λυδός",
+    "homonym_headword": "Λυδός",
+    "rank": 1949
+  },
+  {
+    "lema": "βραδύς",
+    "homonym_headword": "βραδύς",
+    "rank": 1949
+  },
+  {
+    "lema": "δαπάνη",
+    "homonym_headword": "δαπάνη",
+    "rank": 1949
+  },
+  {
+    "lema": "δειπνέω",
+    "homonym_headword": "δειπνέω",
+    "rank": 1949
+  },
+  {
+    "lema": "εὐσέβεια",
+    "homonym_headword": "εὐσέβεια",
+    "rank": 1949
+  },
+  {
+    "lema": "εὔπορος",
+    "homonym_headword": "εὔπορος",
+    "rank": 1949
+  },
+  {
+    "lema": "προβαίνω",
+    "homonym_headword": "προβαίνω",
+    "rank": 1949
+  },
+  {
+    "lema": "τλάω",
+    "homonym_headword": "τλάω",
+    "rank": 1949
+  },
+  {
+    "lema": "φώς",
+    "homonym_headword": "φώς",
+    "rank": 1949
+  },
+  {
+    "lema": "Πάτροκλος",
+    "homonym_headword": "Πάτροκλος",
+    "rank": 1959
+  },
+  {
+    "lema": "δηϊόω",
+    "homonym_headword": "δηϊόω",
+    "rank": 1959
+  },
+  {
+    "lema": "ἀποτελέω",
+    "homonym_headword": "ἀποτελέω",
+    "rank": 1959
+  },
+  {
+    "lema": "ἔλεος",
+    "homonym_headword": "ἔλεος",
+    "rank": 1959
+  },
+  {
+    "lema": "Λύσανδρος",
+    "homonym_headword": "Λύσανδρος",
+    "rank": 1963
+  },
+  {
+    "lema": "θρίξ",
+    "homonym_headword": "θρίξ",
+    "rank": 1963
+  },
+  {
+    "lema": "νεανίας",
+    "homonym_headword": "νεανίας",
+    "rank": 1963
+  },
+  {
+    "lema": "παραμένω",
+    "homonym_headword": "παραμένω",
+    "rank": 1963
+  },
+  {
+    "lema": "παρουσία",
+    "homonym_headword": "παρουσία",
+    "rank": 1963
+  },
+  {
+    "lema": "ποίησις",
+    "homonym_headword": "ποίησις",
+    "rank": 1963
+  },
+  {
+    "lema": "προτρέπω",
+    "homonym_headword": "προτρέπω",
+    "rank": 1963
+  },
+  {
+    "lema": "συγγραφεύς",
+    "homonym_headword": "συγγραφεύς",
+    "rank": 1963
+  },
+  {
+    "lema": "φεῦ",
+    "homonym_headword": "φεῦ",
+    "rank": 1963
+  },
+  {
+    "lema": "ἀποτρέπω",
+    "homonym_headword": "ἀποτρέπω",
+    "rank": 1963
+  },
+  {
+    "lema": "ἁρμονία",
+    "homonym_headword": "ἁρμονία",
+    "rank": 1963
+  },
+  {
+    "lema": "ἄρθρον",
+    "homonym_headword": "ἄρθρον",
+    "rank": 1963
+  },
+  {
+    "lema": "ἐναργής",
+    "homonym_headword": "ἐναργής",
+    "rank": 1963
+  },
+  {
+    "lema": "ἐντολή",
+    "homonym_headword": "ἐντολή",
+    "rank": 1963
+  },
+  {
+    "lema": "ἐπιφαίνω",
+    "homonym_headword": "ἐπιφαίνω",
+    "rank": 1963
+  },
+  {
+    "lema": "μετατίθημι",
+    "homonym_headword": "μετατίθημι",
+    "rank": 1978
+  },
+  {
+    "lema": "ἀποκλείω",
+    "homonym_headword": "ἀποκλείω",
+    "rank": 1978
+  },
+  {
+    "lema": "ἀποτίθημι",
+    "homonym_headword": "ἀποτίθημι",
+    "rank": 1978
+  },
+  {
+    "lema": "ἄλγος",
+    "homonym_headword": "ἄλγος",
+    "rank": 1978
+  },
+  {
+    "lema": "ὑπηρέτης",
+    "homonym_headword": "ὑπηρέτης",
+    "rank": 1978
+  },
+  {
+    "lema": "ῥώμη",
+    "homonym_headword": "ῥώμη",
+    "rank": 1978
+  },
+  {
+    "lema": "διαφυλάσσω",
+    "homonym_headword": "διαφυλάσσω",
+    "rank": 1984
+  },
+  {
+    "lema": "μορφή",
+    "homonym_headword": "μορφή",
+    "rank": 1984
+  },
+  {
+    "lema": "πέραν",
+    "homonym_headword": "πέραν",
+    "rank": 1984
+  },
+  {
+    "lema": "σκληρός",
+    "homonym_headword": "σκληρός",
+    "rank": 1984
+  },
+  {
+    "lema": "συστρατεύω",
+    "homonym_headword": "συστρατεύω",
+    "rank": 1984
+  },
+  {
+    "lema": "ἀπελαύνω",
+    "homonym_headword": "ἀπελαύνω",
+    "rank": 1984
+  },
+  {
+    "lema": "ἐξίστημι",
+    "homonym_headword": "ἐξίστημι",
+    "rank": 1984
+  },
+  {
+    "lema": "Ἴβηρ",
+    "homonym_headword": "Ἴβηρ",
+    "rank": 1984
+  },
+  {
+    "lema": "ὑπηρετέω",
+    "homonym_headword": "ὑπηρετέω",
+    "rank": 1984
+  },
+  {
+    "lema": "Λοκρός",
+    "homonym_headword": "Λοκρός",
+    "rank": 1993
+  },
+  {
+    "lema": "Παυσανίας",
+    "homonym_headword": "Παυσανίας",
+    "rank": 1993
+  },
+  {
+    "lema": "διαλαμβάνω",
+    "homonym_headword": "διαλαμβάνω",
+    "rank": 1993
+  },
+  {
+    "lema": "κατασκάπτω",
+    "homonym_headword": "κατασκάπτω",
+    "rank": 1993
+  },
+  {
+    "lema": "μεσημβρία",
+    "homonym_headword": "μεσημβρία",
+    "rank": 1993
+  },
+  {
+    "lema": "οἶος",
+    "homonym_headword": "οἶος",
+    "rank": 1993
+  },
+  {
+    "lema": "τοξότης",
+    "homonym_headword": "τοξότης",
+    "rank": 1993
+  },
+  {
+    "lema": "ψέγω",
+    "homonym_headword": "ψέγω",
+    "rank": 1993
+  },
+  {
+    "lema": "ἑκάστοτε",
+    "homonym_headword": "ἑκάστοτε",
+    "rank": 1993
+  }
+]

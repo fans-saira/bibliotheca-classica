@@ -1,0 +1,73 @@
+% Compilar com ConTeXt, não com LaTeX.
+\setuppapersize[A4]
+\setuppagenumbering[alternative=doublesided,location=]
+\definecolor[accent][h=7E3F38]
+\definecolor[ornament][h=B48A48]
+\definecolor[filete][h=B9ADA0]
+\setuplayout
+  [backspace=25mm,cutspace=73mm,width=112mm,
+   topspace=18mm,height=259mm,
+   header=8mm,headerdistance=6mm,
+   footer=6mm,footerdistance=8mm,
+   leftmargin=48mm,rightmargin=48mm,
+   leftmargindistance=7mm,rightmargindistance=7mm]
+\definefontfamily[persas][rm][Gentium Plus]
+\setupbodyfont[persas,12pt]
+\setupinterlinespace[line=16pt]
+\setupwhitespace[none]
+\setupindenting[no]
+\setupalign[flushleft]
+% Faixa de 6 mm dentro do bloco: os números nunca cruzam o filete.
+\def\numeroverso#1{\hbox to 6mm{\hss{\switchtobodyfont[8pt]#1}\hskip2mm}}
+\def\notagramatical#1#2#3#4{{\bf\color[accent]{#1}} ← #2 ({\it #3}); #4}
+\def\vocabularioilustrado#1#2{\startalignment[middle]\externalfigure[#1][width=34mm,height=23mm,factor=max]\par\blank[1mm]#2\par\stopalignment}
+\setupmargindata[inouter][style={\switchtobodyfont[9pt]\setupinterlinespace[line=12pt]},align=flushleft]
+\startuseMPgraphic{separador}
+  numeric x, foliox;
+  x := \doifoddpageelse{140.5}{69.5}mm;
+  draw (x,34mm)--(x,265mm) withpen pencircle scaled .3pt withcolor \MPcolor{filete};
+  foliox := \doifoddpageelse{192}{18}mm;
+  \doifoddpageelse{label.lft}{label.rt}
+    (textext("\switchtobodyfont[9pt]\color[accent]{\userpagenumber}"),(foliox,22mm));
+  setbounds currentpicture to unitsquare xscaled 210mm yscaled 297mm;
+\stopuseMPgraphic
+\defineoverlay[separador][\useMPgraphic{separador}]
+\setupbackgrounds[page][background=separador]
+\setupheadertexts[ÉSQUILO · PERSAS][PROVA EDITORIAL · 1–30]
+\setupheader[style={\switchtobodyfont[8pt]},color=black]
+\startuniqueMPgraphic{meandro}
+  for i=0 upto 3:
+    draw ((0,0)--(0,2)--(3,2)--(3,.7)--(1.3,.7)--(1.3,1.3)--(2.2,1.3))
+      scaled 1mm shifted (i*4mm,0)
+      withpen pencircle scaled .45pt withcolor \MPcolor{ornament};
+  endfor;
+\stopuniqueMPgraphic
+\def\titulopersas{
+  {\switchtobodyfont[24pt]\startcolor[accent]Πέρσαι\stopcolor}\par
+  \blank[2mm]\useMPgraphic{meandro}\par
+  \blank[2mm]{\switchtobodyfont[10pt] Χορός · Coro}\par
+  \blank[4mm]}
+
+\starttext
+% A abertura da obra é sempre em página ímpar (recto).
+\page[right]
+\showframe
+\titulopersas
+\input versos-1-30.tex
+\blank[6mm]
+{\switchtobodyfont[8pt] Prova tipográfica: vocabulário e gramática provisórios.\par
+Texto: A. Sidgwick, 1902; First1KGreek / Perseus.\par
+Digitalização sob CC BY-SA 4.0.}\par
+\page
+\setupbackgrounds[top,header,text,footer,bottom][leftedge,leftmargin,text,rightmargin,rightedge][frame=off]
+\setupbackgrounds[page][frame=off,background=separador]
+% Página de comparação, não uma nova abertura da obra.
+{\switchtobodyfont[24pt]Πέρσαι}\par
+\blank[2mm]\useMPgraphic{meandro}\par
+\blank[2mm]{\switchtobodyfont[10pt] Χορός · Coro}\par
+\blank[4mm]
+\input versos-1-30.tex
+\blank[6mm]
+{\switchtobodyfont[8pt] Mesmos versos na página par, para verificar o espelhamento.\par
+Vocabulário e gramática provisórios para testar a composição.}\par
+\stoptext

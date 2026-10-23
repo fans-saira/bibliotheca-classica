@@ -1,0 +1,40 @@
+{
+  "candidate_entries": 1104,
+  "selected_blocks": 607,
+  "selected_entries": 845,
+  "reserve_entries": 259,
+  "highlighted_forms_selected": 28,
+  "highlighted_forms_in_reserve": [
+    {
+      "verse": 8,
+      "word": "ἀμφὶ"
+    },
+    {
+      "verse": 19,
+      "word": "βάδην"
+    },
+    {
+      "verse": 19,
+      "word": "πεζοί"
+    },
+    {
+      "verse": 25,
+      "word": "ἔφοροι"
+    },
+    {
+      "verse": 34,
+      "word": "ἔπεμψεν"
+    },
+    {
+      "verse": 41,
+      "word": "ἕπεται"
+    }
+  ],
+  "font_pt": 14,
+  "leading_pt": 36,
+  "minimum_gap_pt": 4,
+  "criterion": "Weighted interval selection at fixed Greek baselines; marked forms, approved examples and crases prioritized; no added vertical space or verse wrapping.",
+  "original_bank_entries": 1336,
+  "editorially_excluded_entries": 232,
+  "highlighted_forms_editorially_excluded": []
+}

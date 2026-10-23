@@ -1,0 +1,135 @@
+{
+  "files": [
+    {
+      "id": 27831960,
+      "name": "DiorisisCorpus1.51.zip",
+      "size": 163113239,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/27831960",
+      "supplied_md5": "390fc3bb240c612d6e753ae6a289f6d9",
+      "computed_md5": "390fc3bb240c612d6e753ae6a289f6d9",
+      "mimetype": "application/zip"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 5142353,
+      "full_name": "Alessandro Vatri",
+      "first_name": "Alessandro",
+      "last_name": "Vatri",
+      "is_active": true,
+      "url_name": "Alessandro_Vatri",
+      "orcid_id": "0000-0003-3190-5593"
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/The_Diorisis_Ancient_Greek_Corpus_JSON_/12251468",
+  "download_disabled": false,
+  "description": "An updated JSON version of the Diorisis Ancient Greek Corpus optimised for use with the Diorisis Search desktop application (https://www.crs.rm.it/diorisissearch/).<div>Current version: 1.5</div>",
+  "funding": null,
+  "funding_list": [],
+  "version": 6,
+  "status": "public",
+  "size": 163113239,
+  "created_date": "2021-05-01T07:12:43Z",
+  "modified_date": "2023-05-31T10:00:02Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "ancient greek",
+    "corpus",
+    "diorisis search",
+    "lemmatization",
+    "classical greek",
+    "Latin and Classical Greek Literature",
+    "Latin and Classical Greek Languages",
+    "Computational Linguistics"
+  ],
+  "keywords": [
+    "ancient greek",
+    "corpus",
+    "diorisis search",
+    "lemmatization",
+    "classical greek",
+    "Latin and Classical Greek Literature",
+    "Latin and Classical Greek Languages",
+    "Computational Linguistics"
+  ],
+  "categories": [
+    {
+      "id": 29467,
+      "title": "Latin and classical Greek literature",
+      "parent_id": 29428,
+      "path": "/29239/29428/29467",
+      "source_id": "470513",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 29368,
+      "title": "Latin and classical Greek languages",
+      "parent_id": 29320,
+      "path": "/29239/29320/29368",
+      "source_id": "470316",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 29398,
+      "title": "Computational linguistics",
+      "parent_id": 29389,
+      "path": "/29239/29389/29398",
+      "source_id": "470403",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [
+    "https://figshare.com/articles/The_Diorisis_Ancient_Greek_Corpus/6187256"
+  ],
+  "has_linked_file": false,
+  "citation": "Vatri, Alessandro (2020). The Diorisis Ancient Greek Corpus (JSON). figshare. Dataset. https://doi.org/10.6084/m9.figshare.12251468.v6",
+  "related_materials": [
+    {
+      "id": 10248707,
+      "identifier": "https://figshare.com/articles/The_Diorisis_Ancient_Greek_Corpus/6187256",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "https://figshare.com/articles/The_Diorisis_Ancient_Greek_Corpus/6187256"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": "file",
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 12251468,
+  "title": "The Diorisis Ancient Greek Corpus (JSON)",
+  "doi": "10.6084/m9.figshare.12251468.v6",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/12251468",
+  "published_date": "2021-05-01T07:12:43Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/12251468",
+  "url_public_api": "https://api.figshare.com/v2/articles/12251468",
+  "url_private_html": "https://figshare.com/account/articles/12251468",
+  "url_public_html": "https://figshare.com/articles/dataset/The_Diorisis_Ancient_Greek_Corpus_JSON_/12251468",
+  "timeline": {
+    "posted": "2021-05-01T07:12:43",
+    "firstOnline": "2020-05-06"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}

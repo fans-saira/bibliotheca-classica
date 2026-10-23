@@ -1,0 +1,908 @@
+{
+  "glosses_omitted": [
+    {
+      "verse": 13,
+      "form": "ᾤχωκε"
+    },
+    {
+      "verse": 60,
+      "form": "οἴχεται"
+    },
+    {
+      "verse": 89,
+      "form": "ἐχυροῖς"
+    },
+    {
+      "verse": 178,
+      "form": "θέλων"
+    },
+    {
+      "verse": 204,
+      "form": "θέλουσα"
+    },
+    {
+      "verse": 207,
+      "form": "εἰσορῶ"
+    },
+    {
+      "verse": 227,
+      "form": "δόμοις"
+    },
+    {
+      "verse": 230,
+      "form": "μόλωμεν"
+    },
+    {
+      "verse": 230,
+      "form": "θέλω"
+    },
+    {
+      "verse": 239,
+      "form": "τοξουλκὸς"
+    },
+    {
+      "verse": 245,
+      "form": "δεινά"
+    },
+    {
+      "verse": 248,
+      "form": "ἐσθλὸν"
+    },
+    {
+      "verse": 252,
+      "form": "πεσόν"
+    },
+    {
+      "verse": 255,
+      "form": "βαρβάρων"
+    },
+    {
+      "verse": 259,
+      "form": "κλύοντες"
+    },
+    {
+      "verse": 266,
+      "form": "παρών"
+    },
+    {
+      "verse": 267,
+      "form": "φράσαιμ᾽"
+    },
+    {
+      "verse": 287,
+      "form": "μεμνῆσθαί"
+    },
+    {
+      "verse": 289,
+      "form": "ἀνάνδρους"
+    },
+    {
+      "verse": 292,
+      "form": "πάθη"
+    },
+    {
+      "verse": 293,
+      "form": "βροτοῖς"
+    },
+    {
+      "verse": 295,
+      "form": "στένεις"
+    },
+    {
+      "verse": 298,
+      "form": "ἄνανδρον"
+    },
+    {
+      "verse": 298,
+      "form": "θανών"
+    },
+    {
+      "verse": 303,
+      "form": "ἀκτὰς"
+    },
+    {
+      "verse": 313,
+      "form": "πέσον"
+    },
+    {
+      "verse": 317,
+      "form": "ἀμείβων"
+    },
+    {
+      "verse": 322,
+      "form": "παρασχών"
+    },
+    {
+      "verse": 323,
+      "form": "νεῶν"
+    },
+    {
+      "verse": 325,
+      "form": "θανὼν"
+    },
+    {
+      "verse": 329,
+      "form": "ταγῶν"
+    },
+    {
+      "verse": 331,
+      "form": "κλύω"
+    },
+    {
+      "verse": 333,
+      "form": "φράσον"
+    },
+    {
+      "verse": 337,
+      "form": "βάρβαρον"
+    },
+    {
+      "verse": 344,
+      "form": "λειφθῆναι"
+    },
+    {
+      "verse": 345,
+      "form": "κατέφθειρε"
+    },
+    {
+      "verse": 347,
+      "form": "σῴζουσι"
+    },
+    {
+      "verse": 350,
+      "form": "ναυσὶ"
+    },
+    {
+      "verse": 391,
+      "form": "βαρβάροις"
+    },
+    {
+      "verse": 391,
+      "form": "παρῆν"
+    },
+    {
+      "verse": 417,
+      "form": "νῆες"
+    },
+    {
+      "verse": 420,
+      "form": "πλήθουσα"
+    },
+    {
+      "verse": 420,
+      "form": "βροτῶν"
+    },
+    {
+      "verse": 422,
+      "form": "ἀκόσμῳ"
+    },
+    {
+      "verse": 433,
+      "form": "ἔρρωγεν"
+    },
+    {
+      "verse": 444,
+      "form": "τεθνᾶσιν"
+    },
+    {
+      "verse": 446,
+      "form": "ὀλωλέναι"
+    },
+    {
+      "verse": 448,
+      "form": "ναυσίν"
+    },
+    {
+      "verse": 451,
+      "form": "φθαρέντες"
+    },
+    {
+      "verse": 451,
+      "form": "ἐκσῳζοίατο"
+    },
+    {
+      "verse": 461,
+      "form": "προσπίτνοντες"
+    },
+    {
+      "verse": 461,
+      "form": "ὤλλυσαν"
+    },
+    {
+      "verse": 471,
+      "form": "στένειν"
+    },
+    {
+      "verse": 472,
+      "form": "δαῖμον"
+    },
+    {
+      "verse": 477,
+      "form": "πημάτων"
+    },
+    {
+      "verse": 479,
+      "form": "ἔλειπες"
+    },
+    {
+      "verse": 490,
+      "form": "θάνον"
+    },
+    {
+      "verse": 501,
+      "form": "περᾷ"
+    },
+    {
+      "verse": 503,
+      "form": "σεσωσμένος"
+    },
+    {
+      "verse": 506,
+      "form": "πῖπτον"
+    },
+    {
+      "verse": 509,
+      "form": "περάσαντες"
+    },
+    {
+      "verse": 513,
+      "form": "ἐκλείπω"
+    },
+    {
+      "verse": 528,
+      "form": "πιστὰ"
+    },
+    {
+      "verse": 529,
+      "form": "μόλῃ"
+    },
+    {
+      "verse": 534,
+      "form": "ὀλέσας"
+    },
+    {
+      "verse": 540,
+      "form": "τέγγουσ᾽"
+    },
+    {
+      "verse": 546,
+      "form": "οἰχομένων"
+    },
+    {
+      "verse": 548,
+      "form": "στένει"
+    },
+    {
+      "verse": 553,
+      "form": "ποντίαις"
+    },
+    {
+      "verse": 558,
+      "form": "πεζοὺς"
+    },
+    {
+      "verse": 561,
+      "form": "ἀπώλεσαν"
+    },
+    {
+      "verse": 571,
+      "form": "στένε"
+    },
+    {
+      "verse": 583,
+      "form": "κλύουσιν"
+    },
+    {
+      "verse": 590,
+      "form": "διόλωλεν"
+    },
+    {
+      "verse": 591,
+      "form": "βροτοῖσιν"
+    },
+    {
+      "verse": 618,
+      "form": "γαίας"
+    },
+    {
+      "verse": 622,
+      "form": "προπέμψω"
+    },
+    {
+      "verse": 628,
+      "form": "δαίμονες"
+    },
+    {
+      "verse": 635,
+      "form": "βάρβαρ᾽"
+    },
+    {
+      "verse": 639,
+      "form": "κλύει"
+    },
+    {
+      "verse": 643,
+      "form": "ἰόντ᾽"
+    },
+    {
+      "verse": 652,
+      "form": "ἀπώλλυ"
+    },
+    {
+      "verse": 658,
+      "form": "ἴθι"
+    },
+    {
+      "verse": 664,
+      "form": "αἰανῆ"
+    },
+    {
+      "verse": 664,
+      "form": "κλύῃς"
+    },
+    {
+      "verse": 670,
+      "form": "ὄλωλεν"
+    },
+    {
+      "verse": 681,
+      "form": "πιστῶν"
+    },
+    {
+      "verse": 685,
+      "form": "πρευμενὴς"
+    },
+    {
+      "verse": 697,
+      "form": "πεπεισμένος"
+    },
+    {
+      "verse": 699,
+      "form": "μεθείς"
+    },
+    {
+      "verse": 703,
+      "form": "παλαιὸν"
+    },
+    {
+      "verse": 705,
+      "form": "λήξασα"
+    },
+    {
+      "verse": 705,
+      "form": "γόων"
+    },
+    {
+      "verse": 712,
+      "form": "θανόντα"
+    },
+    {
+      "verse": 716,
+      "form": "κατέφθαρται"
+    },
+    {
+      "verse": 719,
+      "form": "πεζὸς"
+    },
+    {
+      "verse": 721,
+      "form": "περᾶν"
+    },
+    {
+      "verse": 724,
+      "form": "δαιμόνων"
+    },
+    {
+      "verse": 724,
+      "form": "ξυνήψατο"
+    },
+    {
+      "verse": 728,
+      "form": "πεζὸν"
+    },
+    {
+      "verse": 728,
+      "form": "ὤλεσε"
+    },
+    {
+      "verse": 731,
+      "form": "κεδνῆς"
+    },
+    {
+      "verse": 737,
+      "form": "σεσῶσθαι"
+    },
+    {
+      "verse": 742,
+      "form": "συνάπτεται"
+    },
+    {
+      "verse": 749,
+      "form": "θνητὸς"
+    },
+    {
+      "verse": 750,
+      "form": "κρατήσειν"
+    },
+    {
+      "verse": 774,
+      "form": "ἦρξεν"
+    },
+    {
+      "verse": 786,
+      "form": "πήματ᾽"
+    },
+    {
+      "verse": 786,
+      "form": "ἔρξαντες"
+    },
+    {
+      "verse": 787,
+      "form": "ἄναξ"
+    },
+    {
+      "verse": 789,
+      "form": "πράσσοιμεν"
+    },
+    {
+      "verse": 792,
+      "form": "πέλει"
+    },
+    {
+      "verse": 797,
+      "form": "κυρήσει"
+    },
+    {
+      "verse": 797,
+      "form": "νοστίμου"
+    },
+    {
+      "verse": 801,
+      "form": "θεσφάτοισιν"
+    },
+    {
+      "verse": 804,
+      "form": "λείπει"
+    },
+    {
+      "verse": 809,
+      "form": "μολόντες"
+    },
+    {
+      "verse": 824,
+      "form": "μέμνησθ᾽"
+    },
+    {
+      "verse": 831,
+      "form": "λῆξαι"
+    },
+    {
+      "verse": 831,
+      "form": "ὑπερκόμπῳ"
+    },
+    {
+      "verse": 842,
+      "form": "θανοῦσι"
+    },
+    {
+      "verse": 843,
+      "form": "παρόντα"
+    },
+    {
+      "verse": 844,
+      "form": "βαρβάροισι"
+    },
+    {
+      "verse": 844,
+      "form": "πήματα"
+    },
+    {
+      "verse": 848,
+      "form": "κλύουσαν"
+    },
+    {
+      "verse": 858,
+      "form": "στρατιὰς"
+    },
+    {
+      "verse": 864,
+      "form": "εἷλε"
+    },
+    {
+      "verse": 866,
+      "form": "συθείς"
+    },
+    {
+      "verse": 872,
+      "form": "ἐληλαμέναι"
+    },
+    {
+      "verse": 885,
+      "form": "συνάπτουσ᾽"
+    },
+    {
+      "verse": 900,
+      "form": "ἐκράτει"
+    },
+    {
+      "verse": 903,
+      "form": "παμμίκτων"
+    },
+    {
+      "verse": 908,
+      "form": "ποντίαισιν"
+    },
+    {
+      "verse": 910,
+      "form": "κυρήσας"
+    },
+    {
+      "verse": 914,
+      "form": "ἐσιδόντ᾽"
+    },
+    {
+      "verse": 928,
+      "form": "κεδνᾶς"
+    },
+    {
+      "verse": 941,
+      "form": "αἰανῆ"
+    },
+    {
+      "verse": 955,
+      "form": "βόα"
+    },
+    {
+      "verse": 961,
+      "form": "λιπών"
+    },
+    {
+      "verse": 964,
+      "form": "ἀκταῖς"
+    },
+    {
+      "verse": 977,
+      "form": "τλάμονες"
+    },
+    {
+      "verse": 979,
+      "form": "πιστὸν"
+    },
+    {
+      "verse": 985,
+      "form": "δᾴων"
+    },
+    {
+      "verse": 1002,
+      "form": "βεβᾶσι"
+    },
+    {
+      "verse": 1003,
+      "form": "βεβᾶσιν"
+    },
+    {
+      "verse": 1006,
+      "form": "ἄελπτον"
+    },
+    {
+      "verse": 1009,
+      "form": "πεπλήγμεθ᾽"
+    },
+    {
+      "verse": 1012,
+      "form": "κύρσαντες"
+    },
+    {
+      "verse": 1015,
+      "form": "πέπληγμαι"
+    },
+    {
+      "verse": 1021,
+      "form": "σεσωσμένον"
+    },
+    {
+      "verse": 1042,
+      "form": "ἴυζε"
+    },
+    {
+      "verse": 1046,
+      "form": "ἔρεσσ᾽"
+    },
+    {
+      "verse": 1049,
+      "form": "πάρεστι"
+    },
+    {
+      "verse": 1054,
+      "form": "ἄρασσε"
+    },
+    {
+      "verse": 1056,
+      "form": "πέρθε"
+    },
+    {
+      "verse": 1059,
+      "form": "ἔρξω"
+    },
+    {
+      "verse": 1065,
+      "form": "τέγγομαί"
+    },
+    {
+      "verse": 1074,
+      "form": "τρισκάλμοισιν"
+    },
+    {
+      "verse": 1075,
+      "form": "βάρισιν"
+    }
+  ],
+  "redundant_entries_removed": [
+    {
+      "verse": 74,
+      "form": "χθόνα",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 84,
+      "form": "ἅρμα",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 177,
+      "form": "στρατὸν",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 214,
+      "form": "χθονός",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 223,
+      "form": "γαίᾳ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 244,
+      "form": "στρατόν",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 250,
+      "form": "αἶα",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 250,
+      "form": "πλούτου",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 313,
+      "form": "ναὸς",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 324,
+      "form": "ταγός",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 335,
+      "form": "στρατεύματι",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 337,
+      "form": "πλήθους",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 349,
+      "form": "ἕρκος",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 352,
+      "form": "πλήθει",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 378,
+      "form": "νὺξ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 379,
+      "form": "ναῦν",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 408,
+      "form": "ναῦς",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 408,
+      "form": "νηὶ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 436,
+      "form": "συμφορὰ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 436,
+      "form": "πάθους",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 439,
+      "form": "συμφορὰν",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 443,
+      "form": "ἄνακτι",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 444,
+      "form": "μόρῳ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 449,
+      "form": "ἀκτῆς",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 482,
+      "form": "χθονὶ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 493,
+      "form": "πόρον",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 501,
+      "form": "στρατός",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 521,
+      "form": "φάτις",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 534,
+      "form": "στρατιὰν",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 549,
+      "form": "γαῖ᾽",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 564,
+      "form": "ἄνακτ᾽",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 579,
+      "form": "δόμος",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 590,
+      "form": "ἰσχύς",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 602,
+      "form": "δαίμον᾽",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 620,
+      "form": "δαίμονα",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 627,
+      "form": "γαίας",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 646,
+      "form": "αἶ᾽",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 689,
+      "form": "χθονὸς",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 755,
+      "form": "πλοῦτον",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 758,
+      "form": "στράτευμ᾽",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 791,
+      "form": "στράτευμα",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 806,
+      "form": "χθονί",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 821,
+      "form": "ὕβρις",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 872,
+      "form": "χέρσον",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 929,
+      "form": "χθών",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 935,
+      "form": "νόστου",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 949,
+      "form": "γόον",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 954,
+      "form": "ἀκτάν",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 966,
+      "form": "ἀκτᾶς",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 977,
+      "form": "χέρσῳ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 1030,
+      "form": "συμφορᾷ",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 1038,
+      "form": "πῆμα",
+      "reason": "repetição nominal sem dificuldade nova"
+    },
+    {
+      "verse": 1047,
+      "form": "δύα",
+      "reason": "repetição nominal sem dificuldade nova"
+    }
+  ],
+  "criterion": "same dictionary lemma and meaning; prepositions also distinguished by case"
+}

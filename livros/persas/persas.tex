@@ -1,0 +1,129 @@
+% ConTeXt LMTX: context --batchmode persas.tex
+\setuppapersize[A4]
+\setuppagenumbering[alternative=doublesided,location=,page=no]
+\setuplayout
+ [backspace=17mm,cutspace=75mm,width=118mm,
+  topspace=18mm,height=259mm,header=8mm,headerdistance=6mm,
+  footer=6mm,footerdistance=8mm,leftmargin=62mm,rightmargin=62mm,
+  leftmargindistance=4mm,rightmargindistance=4mm]
+\definecolor[accent][h=7E3F38]
+\definecolor[ornament][h=B48A48]
+\definecolor[filete][h=B9ADA0]
+\definecolor[pale][h=F5EFEB]
+\definecolor[track][h=EDE8E1]
+\definefontfamily[persas][rm][Gentium Plus]
+\setupbodyfont[persas,14pt]
+\setupinterlinespace[line=36pt]
+\setupwhitespace[none]
+\setupindenting[no]
+\setupalign[flushleft,nothyphenated,verytolerant,stretch]
+\setupinteraction[state=start,title={Persas — Ésquilo},author={Ésquilo}]
+\definemarking[verse]
+\setupmargindata[inouter]
+ [style={\switchtobodyfont[9pt]\setupinterlinespace[line=12pt]},align={inner,nothyphenated,verytolerant,stretch}]
+\def\notagramatical#1#2#3#4{{\bf\color[accent]{#1}} ← #2\doifnotempty{#3}{ ({\it #3})}; #4}
+\def\notagramaticalquebrada#1#2#3#4{{\bf\color[accent]{#1}} ←\crlf #2\doifnotempty{#3}{ ({\it #3})}; #4}
+\def\desdobramento#1#2{{\bf\color[accent]{#1}} ← #2}
+\def\desdobramentoquebrado#1#2{{\bf\color[accent]{#1}} ←\crlf #2}
+\def\preposicaopreposta#1#2#3{{\bf\color[accent]{#1}} {\it + #2} = {\it #3}}
+\def\preposicaoposposta#1#2#3{{\it #2} + {\bf\color[accent]{#1}} = {\it #3}}
+\def\preposicaolemapreposta#1#2#3#4{{\bf\color[accent]{#1}} ← #2 {\it + #3} = {\it #4}}
+\def\numeroverso#1{\hbox to 6mm{\hss{\switchtobodyfont[8pt]#1}\hskip2mm}}
+\def\medirnota#1#2{%
+  \setbox\scratchbox\vbox{\hsize=62mm\switchtobodyfont[9pt]%
+    \setupinterlinespace[line=12pt]\setupalign[flushleft,nothyphenated,verytolerant,stretch]%
+    \noindent#2\par}%
+  \writestatus{NOTEHEIGHT}{#1:\the\dimexpr\ht\scratchbox+\dp\scratchbox\relax}}
+% Each source verse occupies one typographic line, at fixed leading.
+\newif\ifprimeiroverso
+\def\verso#1#2#3{%
+  \ifprimeiroverso\nointerlineskip\fi
+  \vbox{\hsize=\textwidth\hangindent=6mm\hangafter=1
+    \ifprimeiroverso\setupinterlinespace[line=18pt]\fi
+    \noindent\setmarking[verse]{#1}%
+    \doifnotempty{#2}{\medirnota{#1}{#2}\inouter{#2}}%
+    \doifelse{#1}{1}{\numeroverso{#1}}%
+      {\ifnum\numexpr#1-5*(#1/5)\relax=0 \numeroverso{#1}\else\numeroverso{}\fi}%
+    \hbox{#3}\par}\global\primeiroversofalse}
+\def\falante#1{%
+  \testpage[3]\blank[2mm]\nointerlineskip
+  \hbox{\hskip6mm\switchtobodyfont[10pt]\color[accent]{#1}}%
+  \nobreak\kern1.5mm\global\primeiroversotrue}
+\def\pausaestrofe{\blank[2mm]}
+\def\parte#1#2{%
+  \testpage[4]\blank[4mm]\nointerlineskip
+  \hbox{\framed[width=\textwidth,height=6mm,strut=no,
+    align={flushleft,lohi},frame=off,background=color,
+    backgroundcolor=pale,offset=.6mm]
+    {\switchtobodyfont[11pt]\bf\color[accent]{#1}%
+     \switchtobodyfont[9.5pt]\tf\color[accent]{\enspace — versos #2}}}%
+  \nobreak\kern1mm\global\primeiroversotrue}
+\startuniqueMPgraphic{meandro}
+ for i=0 upto 3:
+   draw ((0,0)--(0,2)--(3,2)--(3,.7)--(1.3,.7)--(1.3,1.3)--(2.2,1.3))
+     scaled 1mm shifted (i*4mm,0)
+     withpen pencircle scaled .45pt withcolor \MPcolor{ornament};
+ endfor;
+\stopuniqueMPgraphic
+% First/last verse marks drive the marginal header and progress bar.
+\def\pagefurniture{%
+  \edef\FirstVerse{\fetchmark[verse][first]}%
+  \edef\LastVerse{\fetchmark[verse][last]}%
+  \ifx\FirstVerse\empty\def\FirstVerse{1}\fi
+  \ifx\LastVerse\empty\def\LastVerse{1}\fi
+  \useMPgraphic{furniture}}
+\startuseMPgraphic{furniture}
+ numeric textleft, divider, notecenter, foliox, progress;
+ textleft := \doifoddpageelse{17}{75}mm;
+ divider := \doifoddpageelse{137}{73}mm;
+ notecenter := \doifoddpageelse{170}{40}mm;
+ foliox := \doifoddpageelse{201}{9}mm;
+ progress := min(1,\LastVerse/1076);
+ draw (divider,34mm)--(divider,265mm)
+   withpen pencircle scaled .3pt withcolor \MPcolor{filete};
+ \doifoddpageelse{label.rt}{label.lft}
+   (textext("\switchtobodyfont[8pt]PERSAS"),
+    (\doifoddpageelse{textleft}{textleft+118mm},275mm));
+ \doifoddpageelse{label.lft}{label.rt}
+   (textext("\switchtobodyfont[8pt]ÉSQUILO"),
+    (\doifoddpageelse{textleft+118mm}{textleft},275mm));
+ label(textext("\switchtobodyfont[8pt]\FirstVerse–\LastVerse"),(notecenter,275mm));
+ fill unitsquare xscaled 118mm yscaled .65mm shifted (textleft,21.7mm)
+   withcolor \MPcolor{track};
+ fill unitsquare xscaled (118mm*progress) yscaled .65mm shifted (textleft,21.7mm)
+   withcolor \MPcolor{ornament};
+ \doifoddpageelse{label.lft}{label.rt}
+   (textext("\switchtobodyfont[9pt]\color[accent]{\userpagenumber}"),(foliox,22mm));
+ setbounds currentpicture to unitsquare xscaled 210mm yscaled 297mm;
+\stopuseMPgraphic
+\defineoverlay[furniture][\pagefurniture]
+\startuseMPgraphic{appendixfurniture}
+ numeric textleft, foliox;
+ textleft := \doifoddpageelse{17}{75}mm;
+ foliox := \doifoddpageelse{201}{9}mm;
+ \doifoddpageelse{label.rt}{label.lft}
+   (textext("\switchtobodyfont[8pt]PERSAS"),
+    (\doifoddpageelse{textleft}{textleft+118mm},275mm));
+ \doifoddpageelse{label.lft}{label.rt}
+   (textext("\switchtobodyfont[8pt]ÉSQUILO"),
+    (\doifoddpageelse{textleft+118mm}{textleft},275mm));
+ fill unitsquare xscaled 118mm yscaled .65mm shifted (textleft,21.7mm)
+   withcolor \MPcolor{ornament};
+ \doifoddpageelse{label.lft}{label.rt}
+   (textext("\switchtobodyfont[9pt]\color[accent]{\userpagenumber}"),(foliox,22mm));
+ setbounds currentpicture to unitsquare xscaled 210mm yscaled 297mm;
+\stopuseMPgraphic
+\defineoverlay[appendixfurniture][\useMPgraphic{appendixfurniture}]
+\setupbackgrounds[page][background=furniture]
+\doiffileelse{medicoes-notas.tex}{\input medicoes-notas.tex}{}
+\starttext
+\page[right]
+\vbox{\offinterlineskip
+  \hbox{\switchtobodyfont[24pt]\color[accent]{Πέρσαι}}
+  \kern2mm\hbox{\useMPgraphic{meandro}}}\par\blank[1mm]
+\input texto-integral.tex
+% Créditos e fontes conservados no README. Resultado conservador no gráfico final.
+\page
+\setupbackgrounds[page][background=appendixfurniture]
+\input grafico-lexical.tex
+\stoptext

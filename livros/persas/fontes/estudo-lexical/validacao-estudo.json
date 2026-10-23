@@ -1,0 +1,16 @@
+{
+  "status": "aprovado",
+  "palavras": 5187,
+  "comuns": 4860,
+  "nomes_e_gentilicos": 327,
+  "lemas": 1635,
+  "checagens": [
+    "cobertura integral",
+    "classes disjuntas",
+    "totais por ocorrência e lema conciliados",
+    "números publicados no README conferidos",
+    "casos semânticos e variantes críticos conferidos",
+    "exemplos básicos πόλεμος e μέγας têm precedência"
+  ],
+  "limite": "Validação de dados e decisões explicitamente revisadas; não prova revisão semântica integral de todos os lemas."
+}

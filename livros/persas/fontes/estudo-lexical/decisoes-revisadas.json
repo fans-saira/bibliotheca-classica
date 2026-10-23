@@ -1,0 +1,717 @@
+{
+  "στάγμα": {
+    "classe": "5_residual",
+    "fundamento": "Retirado da exclusividade: documentação externa, inscrição ou conjectura insuficientemente segura.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀκάκης": {
+    "classe": "5_residual",
+    "fundamento": "Retirado da exclusividade: documentação externa, inscrição ou conjectura insuficientemente segura.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀγρέτης": {
+    "classe": "5_residual",
+    "fundamento": "Retirado da exclusividade: documentação externa, inscrição ou conjectura insuficientemente segura.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "γάποτος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "γοεδνός": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δίρρυμος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "λινόδεσμος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "μέσακτος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "μειλικτήριος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "νεόκοτος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "οἰακοστροφέω": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ταγέω": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "τοξουλκός": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "τριτόσπορος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "χρυσεόστολμος": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἁμάρτιον": {
+    "classe": "3_esquilo",
+    "fundamento": "Entrada do LSJ documenta este lema literário apenas em Ésquilo; referências Id. e remissões resolvidas na revisão.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δίεμαι": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "temer",
+    "referencia": "LSJ II; A.Pers.701"
+  },
+  "δύσβατος": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "percorrido em sofrimento",
+    "referencia": "LSJ II; A.Pers.1069"
+  },
+  "εὐθυντήριος": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "que dirige/governa",
+    "referencia": "LSJ I; A.Pers.764"
+  },
+  "εὔθυνος": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "castigador/julgador",
+    "referencia": "LSJ I; A.Pers.828"
+  },
+  "ζευκτήριος": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "que une por um jugo",
+    "referencia": "LSJ acepção adjetival; A.Pers.736"
+  },
+  "κολπίας": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "que se avoluma em pregas",
+    "referencia": "LSJ 1; A.Pers.1060"
+  },
+  "στόμωμα": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "entrada/embocadura do Ponto",
+    "referencia": "LSJ I; A.Pers.878"
+  },
+  "ἀναπομπός": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "que envia para cima, do Hades",
+    "referencia": "LSJ I; A.Pers.650"
+  },
+  "ἐφέτης": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "comandante",
+    "referencia": "LSJ I; A.Pers.79"
+  },
+  "ἱπποβάτης": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "cavaleiro",
+    "referencia": "LSJ I; A.Pers.26"
+  },
+  "ἄκτωρ": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "líder",
+    "referencia": "LSJ I; A.Pers.557"
+  },
+  "ἁλίτυπος": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "batido pelo mar",
+    "referencia": "LSJ uso adjetival; A.Pers.946"
+  },
+  "μονόζυξ": {
+    "classe": "3_esquilo",
+    "fundamento": "Sentido da passagem, distinto das outras acepções do lema, documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "solitário",
+    "referencia": "LSJ I; A.Pers.139"
+  },
+  "γυναικοπληθής": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δάκρυμα": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δέργμα": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δέσμωμα": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δυσπόνητος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "εὐνατήριον": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "κένανδρος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "κωπήρης": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "λιβάς": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ναύφρακτος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "νεολαία": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πάνδυρτος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "παντάλας": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "στύφλος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "σφαδάζω": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ταγός": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "τοξόδαμνος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ψυχαγωγός": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀγή": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀνακωκύω": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀντίποινα": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἁλίρροθος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἄνανδρος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἑστιοῦχος": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἐπιστενάζω": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ὑποσπανίζομαι": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ῥαχίζω": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "οὐρίζω": {
+    "classe": "2_tragedia",
+    "fundamento": "LSJ documenta uso equivalente em Ésquilo e em outro tragediógrafo; complemento lexical à comparação quantitativa.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "αἰνός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "γυῖον": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "εὐρύπορος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ζόφος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "θοός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "θοῦρος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "κίω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "κλόνος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "κοιρανέω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "κραιπνός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "κῦδος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "λιγύς": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "νημερτής": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "νώνυμος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πινύσκω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πιφαύσκω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πλαγκτός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πολύγομφος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πορφύρεος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "προσαυδάω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "στονόεις": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "στεῦμαι": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "τέθηπα": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "τίπτε": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ταρφύς": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "τυτθός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "τῆλε": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "φερεσσακής": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀίω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀγήνωρ": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀγαυός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀείρω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀλύσκω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀμύσσω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀυτή": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀφνειός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἄγχι": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἄποτμος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἄρειος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἄρουρα": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἄφαρ": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἐκθρῴσκω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἐκφθίνω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἔντεα": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "referencia": "Pi.P.4.235 (462 a.C.): arreios"
+  },
+  "ἦτορ": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἰαχή": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἰσόθεος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἰωή": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἰύζω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "referencia": "Pi.P.4.237 (462 a.C.): grito de dor"
+  },
+  "ἱκάνω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ὀπάζω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ὄρνυμι": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ὄρχαμος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ὑδρηλός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ῥεῖθρον": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "φάλαρον": {
+    "classe": "5_residual",
+    "fundamento": "Atestação antiga e sentido compatível confirmados; isso não demonstra que o vocabulário seja típico de um contexto literário distinto.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δουρικλυτός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "χοιράς": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "referencia": "Archil.128; Pi.P.10.52 (498 a.C.)"
+  },
+  "κατερείκω": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "referencia": "Sapph.62"
+  },
+  "χλιδανός": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "referencia": "Sapph.Supp.21.8"
+  },
+  "λακίς": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "referencia": "Alc.18.8"
+  },
+  "γηραλέος": {
+    "classe": "4_outros",
+    "fundamento": "Uso épico/lírico equivalente documentado em fonte anterior a 456 a.C.; não é mera presença antiga do lema.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "referencia": "Xenoph.; Anacr.; Pi.P.4 (462 a.C.)"
+  },
+  "ἀναΐσσω": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "νησιώτης": {
+    "classe": "5_residual",
+    "fundamento": "Atestação antiga e sentido compatível confirmados; isso não demonstra que o vocabulário seja típico de um contexto literário distinto.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "φιλόφρων": {
+    "classe": "5_residual",
+    "fundamento": "Atestação antiga e sentido compatível confirmados; isso não demonstra que o vocabulário seja típico de um contexto literário distinto.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "μυριοταγός": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "παρασαίνω": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πατρωνύμιος": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πύργινος": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἐκπιδύομαι": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "πολυβαφής": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "θεότρεπτος": {
+    "classe": "5_residual",
+    "fundamento": "Leitura conjectural ou variante textual: conservada no texto da edição, mas retirada das atribuições contextuais seguras.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "δαρειογενής": {
+    "classe": "3_esquilo",
+    "fundamento": "Composto lexical, não nome próprio: uso literário documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "αἰγυπτογενής": {
+    "classe": "3_esquilo",
+    "fundamento": "Composto lexical, não nome próprio: uso literário documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "σουσιγενής": {
+    "classe": "3_esquilo",
+    "fundamento": "Composto lexical, não nome próprio: uso literário documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "περσονόμος": {
+    "classe": "3_esquilo",
+    "fundamento": "Composto lexical, não nome próprio: uso literário documentado apenas em Ésquilo na entrada do LSJ.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ἀσιατογενής": {
+    "classe": "5_residual",
+    "fundamento": "Também atestado em Crítias, posterior ao recorte; portanto não exclusivo de Ésquilo nem elegível para a categoria 4.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "ὠγύγιος": {
+    "classe": "4_outros",
+    "fundamento": "No sentido de primevo, remete ao registro mítico arcaico: Hes.Th.806; sentido equivalente nos dois usos de Persas.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas"
+  },
+  "παιώνιος": {
+    "classe": "3_esquilo",
+    "fundamento": "LSJ II, A.Pers.605: relativo ao péã de vitória, distinto da acepção medicinal compartilhada com outros autores.",
+    "fonte": "LSJ; entrada do lema e referências nela citadas",
+    "sentido": "próprio do péã de vitória",
+    "referencia": "LSJ II; A.Pers.605"
+  }
+}

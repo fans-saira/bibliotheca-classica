@@ -1,0 +1,42 @@
+{
+  "estado": "levantamento conservador concluído e auditável; revisão filológica dos percentuais em andamento; apêndice antigo retirado",
+  "criterios": {
+    "geral_basico": "Vocabulário elementar e geral de grego antigo; usar fontes pedagógicas amplas e revisar os sentidos. A lista DCC de 500 itens é uma referência parcial, não o limite da categoria.",
+    "compartilhado_tragedia": "Lema e sentido compartilhados por tragediógrafos; ocorrências equivalentes em Ésquilo, Sófocles e Eurípides pertencem aqui, não à categoria exclusiva de Ésquilo.",
+    "exclusivo_esquilo": "Lema documentado apenas em Ésquilo, ou sentido comprovadamente exclusivo dele. Maior frequência relativa não basta. Ausência em um corpus limitado gera candidato para pesquisa, não classificação definitiva.",
+    "outros_contextos": "Identificar o contexto concreto (épica, militar, náutico, religioso etc.) e demonstrar que o sentido relevante está presente na passagem. Não usar uma categoria genérica fundada apenas na frequência fora da tragédia."
+  },
+  "unidade": "ocorrência analisada por lema e sentido; lema pode ter usos de classes diferentes",
+  "sobreposicao": "Não contabilizar usos compartilhados na categoria exclusiva de Ésquilo; classes pendentes ficam sem classificação até revisão.",
+  "publicacao": "Recalcular números e percentuais apenas após validar categorias e denominadores; não republicar os percentuais retirados.",
+  "hierarquia": [
+    "básico fundamental",
+    "tragédia, excluído o básico",
+    "atestação exclusiva em Ésquilo, excluídos anteriores",
+    "outros contextos até 456 a.C., excluídos anteriores",
+    "residual"
+  ],
+  "resultado": "estudo-lexical/resultado-lexical.json",
+  "denominadores": {
+    "ocorrencias_comuns": 4860,
+    "lemas_comuns_resolvidos": 1635,
+    "nomes_e_gentilicos_excluidos": 327,
+    "leitura_corrupta_sem_lema": 1
+  },
+  "repertorio_basico": {
+    "lemas": 1286,
+    "fontes": [
+      "Major 2008",
+      "DCC 500",
+      "Logeion 1000"
+    ],
+    "sensibilidade": "Logeion 2000: repertório combinado de 2103 lemas"
+  },
+  "limites_do_resultado": [
+    "A classificação básica é por lema; sentidos especializados precisam de revisão.",
+    "A tipicidade trágica inclui inferências quantitativas por lema.",
+    "Exclusividade em Ésquilo significa atestação literária exclusiva na documentação consultada, não prova universal.",
+    "Outros contextos: registro positivo épico/lírico, não levantamento exaustivo dos demais gêneros.",
+    "O residual reúne uso geral não fundamental e casos sem atribuição demonstrada."
+  ]
+}

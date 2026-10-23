@@ -1,0 +1,16 @@
+{
+  "pages": 67,
+  "reading_pages_unchanged": 66,
+  "last_page": 67,
+  "chart": "ConTeXt / MetaPost, vetorial",
+  "denominator": 4860,
+  "percentages": [
+    "67,70%",
+    "16,15%",
+    "2,53%",
+    "1,52%",
+    "12,10%"
+  ],
+  "validation": "texto e posições das 66 páginas anteriores idênticos; gráfico e percentuais conferidos; renderização Poppler inspecionada",
+  "sha256": "eb8137a24c32b53133d6dce847f5434b23d611168a406346162d043f2a69b64f"
+}

@@ -1,0 +1,300 @@
+{
+  "data": "2026-10-10",
+  "arquivos": [
+    {
+      "arquivo": "persas/fontes/tlg0085.tlg002.1st1K-grc1.xml",
+      "bytes": 179789,
+      "sha256": "a1c59d5f05ab2924fa2f0e2408c46d7ca406c6fbf22a43de7020a453ba2de741"
+    },
+    {
+      "arquivo": "persas/fontes/persas-treebank.xml",
+      "bytes": 956542,
+      "sha256": "9d62c2459210b901ccad4486afe3a24133e59772f3a8e17c1f8bc6dfb333ce36"
+    },
+    {
+      "arquivo": "persas/fontes/tokens-estatisticas.csv",
+      "bytes": 214674,
+      "sha256": "d33297823e603088e286ce1fd95389dcff78a9d25b5db6019fd24dab1a9f439f"
+    },
+    {
+      "arquivo": "persas/fontes/dcc-core.json",
+      "bytes": 49824,
+      "sha256": "da0885b2feaa688af25e3d6e1239db62dc2577ee42e3d537822e79b8e7610e0c"
+    },
+    {
+      "arquivo": "persas/fontes/corpus-comparativo/pedalion-euripides_medea.xml",
+      "bytes": 1353224,
+      "sha256": "5c2a70327fa829497a6920f4f066f8b359a5835a37bfa520a26bb9748392ba38"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/major-2008.pdf",
+      "bytes": 303682,
+      "sha256": "e5c9bed2de9da4b614a391a6bfc36bfb7d172e16fd004fc3946575bc35879f72"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/major-core.json",
+      "bytes": 64484,
+      "sha256": "4bedcccfdff8029f98bab70971d9d7cc12db962881db47adedb353f1fa6c139b"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/logeion-frequency.html",
+      "bytes": 52856,
+      "sha256": "56ce2f654d281175e025d97e50dbd6fd597f7b72c07d5a981dc8ecb31add7432"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/logeion-frequency.json",
+      "bytes": 202537,
+      "sha256": "a3192452bbfa8a95d5166609c9ec6af619b73baae43d9cd1914aeee1c2ded82d"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/lsj-target.json",
+      "bytes": 4598243,
+      "sha256": "986a6965c5cf862905e6404ba6839089e894e638b3b1bcb59e1babe78999e23d"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/catalog.tsv",
+      "bytes": 52089,
+      "sha256": "bf8337d47d5ac334a2a66c5e2f907ab6e8c155f1926cbd27a46fdc270f99539d"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/diorisis-index.json",
+      "bytes": 22111281,
+      "sha256": "b179116a1b53fb8f0b1bf9dc487792b50e2870db9c432b857f7ab63c5daa6ce4"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/diorisis-persas-1.6.json",
+      "bytes": 1123835,
+      "sha256": "cb539dc7d203dc4a40284fe1c84a2f27f3d15204926f2f2213f433cde7304ce4"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/tokens-conferidos.csv",
+      "bytes": 334653,
+      "sha256": "ecf4cc73a2d8e799259f3fe2750d2f3a9aa0d7d8c0e64ea5d17b199c8de48938"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/correcoes-lemas.json",
+      "bytes": 1552,
+      "sha256": "209143df2f33b9881e518ec9a116e7672beff69c0b2869de790883d4f08f53dc"
+    },
+    {
+      "arquivo": "persas/fontes/estudo-lexical/decisoes-revisadas.json",
+      "bytes": 36872,
+      "sha256": "b5930f8105a56f8ed66a777a77cea4382fe36bcd47037988fa57dfc0d4d970a5"
+    },
+    {
+      "arquivo": "persas/conferir-lemas-estudo.py",
+      "bytes": 10273,
+      "sha256": "872844b386e75533b5daead878833496399e2411dd3c8fcafc82ea807c44f6ef"
+    },
+    {
+      "arquivo": "persas/indexar-corpus-lexical.py",
+      "bytes": 3024,
+      "sha256": "18b4cf941721598f7f20ff5d480d8741883869e23f4d67e9d04ad04baed15bd5"
+    },
+    {
+      "arquivo": "persas/estudar-vocabulario.py",
+      "bytes": 5996,
+      "sha256": "0a9f5b1c7ca3339efb17c9a6c6e2179e1f6b832f488dfbe9db289b13a78b5d32"
+    },
+    {
+      "arquivo": "persas/finalizar-estudo-lexical.py",
+      "bytes": 11758,
+      "sha256": "11ef324eba714a10e6d608574ba642e2ac78c9caf3ac67aeb5b140b342965ee8"
+    }
+  ],
+  "fontes_externas": {
+    "Major": "https://camws.org/cpl/cplonline/files/Majorcplonline.pdf",
+    "DCC": "https://dcc.dickinson.edu/greek-core-list",
+    "Logeion": "https://voices.uchicago.edu/logeion/2024/01/02/placeholder-frequency-list/",
+    "LSJ": "https://github.com/perseids-project/lsj-js",
+    "Diorisis": "https://figshare.com/articles/dataset/The_Diorisis_Ancient_Greek_Corpus_JSON_/12251468"
+  },
+  "updates": [
+    {
+      "file": "Aeschylus (0085) - Agamemnon (005).json",
+      "version": "1.6",
+      "sha256": "9a210f592f6ec0f9dbfd2b504e42446d100db767082ff1899922c339f86bbb87"
+    },
+    {
+      "file": "Aeschylus (0085) - Eumenides (007).json",
+      "version": "1.6",
+      "sha256": "cc3dfad49e4b1a9e724e91b5a93107238ef5bb40a0295743f2c11c81b591e36c"
+    },
+    {
+      "file": "Aeschylus (0085) - Libation Bearers (006).json",
+      "version": "1.6",
+      "sha256": "3b9a56836d2bb0983363254cbe28ca2ad06eaace46172e4d19c7d473179857ec"
+    },
+    {
+      "file": "Aeschylus (0085) - Persians (002).json",
+      "version": "1.6",
+      "sha256": "cb539dc7d203dc4a40284fe1c84a2f27f3d15204926f2f2213f433cde7304ce4"
+    },
+    {
+      "file": "Aeschylus (0085) - Prometheus Bound (003).json",
+      "version": "1.6",
+      "sha256": "59ac4fc35b907c0c1ca473e93d159f14e08b9183907947b0f2ca5dbc70153324"
+    },
+    {
+      "file": "Aeschylus (0085) - Seven Against Thebes (004).json",
+      "version": "1.6",
+      "sha256": "f31b8a468b4ca58899b783964be47c8cde6bd3f6929dd4b43c142ddf4a7c2502"
+    },
+    {
+      "file": "Aeschylus (0085) - Suppliant Maidens (001).json",
+      "version": "1.51",
+      "sha256": "a3b77de81510fb03225dac9e1336558e0829a78a0247a8585b57ce0361ffe738"
+    },
+    {
+      "file": "Euripides (0006) - Bacchae (050).json",
+      "version": "1.51",
+      "sha256": "0a80d2490472f0a4e480e4842bfe5487c580102a0346134ccb101f0142e2ca48"
+    },
+    {
+      "file": "Euripides (0006) - Electra (042).json",
+      "version": "1.51",
+      "sha256": "1f2d8200317a26dfe644a6f9a70892b5a39c60c5f92d0d76eac73f9557d1aa4d"
+    },
+    {
+      "file": "Euripides (0006) - Hecuba (040).json",
+      "version": "1.6",
+      "sha256": "29fb6645a41d9472012f44b133d54e49087b5759eb9769ccf8e6efc6d8084c96"
+    },
+    {
+      "file": "Euripides (0006) - Helen (047).json",
+      "version": "1.51",
+      "sha256": "75677b9035923f61a4166b6dc70bab0af1691a1fb040ff45e0dc0429e49a878a"
+    },
+    {
+      "file": "Euripides (0006) - Heracles (043).json",
+      "version": "1.6",
+      "sha256": "51d8e64742a8e27cae07c1324dc58081de46d10e3106852dc887ed6c142e23c5"
+    },
+    {
+      "file": "Euripides (0006) - Ion (046).json",
+      "version": "1.51",
+      "sha256": "a7702f00b742b990344a42a9ad0771390e17ed09ffdff4dfe6d98e24a3d31854"
+    },
+    {
+      "file": "Euripides (0006) - Iphigenia in Aulis (051).json",
+      "version": "1.51",
+      "sha256": "5f3d3d12473032967c1fb69acfe3184d62f24a0f46709b52b5c6a4f733ac48ef"
+    },
+    {
+      "file": "Euripides (0006) - Iphigenia in Tauris (045).json",
+      "version": "1.51",
+      "sha256": "e6eec49c3feba7356c7b4ed9c00b3331ba3e39aaf93e106fb616c13bd4bd3b43"
+    },
+    {
+      "file": "Euripides (0006) - Orestes (049).json",
+      "version": "1.51",
+      "sha256": "bf02c0d2e87a7d33ded8494b686e11d79eb8663ea258856b3929df7677506753"
+    },
+    {
+      "file": "Euripides (0006) - Phoenissae (048).json",
+      "version": "1.6",
+      "sha256": "a52b8aafb03a5cd6c57e8f83ab56be87ae3907d68e427610547fa9e5718b36b1"
+    },
+    {
+      "file": "Euripides (0006) - Rhesus (052).json",
+      "version": "1.6",
+      "sha256": "b4a5aa40f35fea450783028851082a975021f52db61135577df867ea12b66356"
+    },
+    {
+      "file": "Euripides (0006) - Suppliants (041).json",
+      "version": "1.51",
+      "sha256": "55a946e896d97c4551c240f258298869490a401646b5d272d7d6fea509f42421"
+    },
+    {
+      "file": "Euripides (0006) - Trojan Women (044).json",
+      "version": "1.6",
+      "sha256": "a3cf9e071e1bb941bdf3e8dc06cb85ffb411d8d5005f4f990b4fa037e74b9676"
+    },
+    {
+      "file": "Hesiod (0020) - Shield of Heracles (003).json",
+      "version": "1.51",
+      "sha256": "e390b1c49e20705dfb3d04496848825fb7d2b6a8b1c266541fab2c31bfff0bdb"
+    },
+    {
+      "file": "Hesiod (0020) - Theogony (001).json",
+      "version": "1.51",
+      "sha256": "6ab90b238831b174dd3c3ad313e5003b703ddaac97d8e0c91de68b6e9efc5e98"
+    },
+    {
+      "file": "Hesiod (0020) - Works and Days (002).json",
+      "version": "1.51",
+      "sha256": "53e816a84e9bdc69dbbaba9c78849e63f1530c796cba77b7a8e1f71c24f12305"
+    },
+    {
+      "file": "Homer (0012) - Iliad (001).json",
+      "version": "1.51",
+      "sha256": "f6337f3065cbf39fdcf3c4a07fc495cc138dbb4c8581862ee63a62e127c79c08"
+    },
+    {
+      "file": "Homer (0012) - Odyssey (002).json",
+      "version": "1.6",
+      "sha256": "d0b6678c2104bc3e0e3f693aa6820f52472ff341b85981173204f97f3e070fe8"
+    },
+    {
+      "file": "Pindar (0033) - Isthmians (004).json",
+      "version": "1.6",
+      "sha256": "0aa8e0fe19bdb4010813f004345b9e009464e5ada377183d38d7b4bacb41c29f"
+    },
+    {
+      "file": "Pindar (0033) - Nemeans (003).json",
+      "version": "1.6",
+      "sha256": "053bc85ad5cafce092f8797d87de72ac9c77d7eea5e066ab283e8393f96cc7bd"
+    },
+    {
+      "file": "Pindar (0033) - Olympians (001).json",
+      "version": "1.6",
+      "sha256": "4cc8cd1641213324641fe8ca6229ebfb1f35854da44d710c24edb15535aaa756"
+    },
+    {
+      "file": "Pindar (0033) - Pythians (002).json",
+      "version": "1.6",
+      "sha256": "a7732373d18d2c0f45e09109fa3818e9b39a693db16cf102f7826241aa536d91"
+    },
+    {
+      "file": "Sophocles (0011) - Ajax (003).json",
+      "version": "1.51",
+      "sha256": "808fd93cbb22b0b6e2e79c55010bc99ab1f811d2b36ae9b0ac305d8ee7697202"
+    },
+    {
+      "file": "Sophocles (0011) - Antigone (002).json",
+      "version": "1.51",
+      "sha256": "67b59b72b90de367f6ab7a9c68b7840c5d0ee8a0e63bd7ff501ba8cdbd13457c"
+    },
+    {
+      "file": "Sophocles (0011) - Electra (005).json",
+      "version": "1.51",
+      "sha256": "00e41b939bbd98a4b1cd8af10b0844011cdd56c253c8eed4b0ada53bb879a3e1"
+    },
+    {
+      "file": "Sophocles (0011) - Ichneutae (008).json",
+      "version": "1.6",
+      "sha256": "04e2ed006ea7da486066febdc04d3f675185d3f34b8c25884c98fd95994354b2"
+    },
+    {
+      "file": "Sophocles (0011) - Oedipus at Colonus (007).json",
+      "version": "1.51",
+      "sha256": "f4eb8d01d95b728a1ca2cdf219243cf5578fbfb67d5da214db9fec852055a02c"
+    },
+    {
+      "file": "Sophocles (0011) - Oedipus Tyrannus (004).json",
+      "version": "1.51",
+      "sha256": "aef7dfecaaed3a6bcb228bb57aab235876378beddec7823374b2c7eb1f4d671d"
+    },
+    {
+      "file": "Sophocles (0011) - Philoctetes (006).json",
+      "version": "1.51",
+      "sha256": "e4179bb9187685847f84e4ba04d627ba7e40a052e9cc4b6f619e836552caa8ae"
+    },
+    {
+      "file": "Sophocles (0011) - Trachiniae (001).json",
+      "version": "1.51",
+      "sha256": "b73b97fc107e357b8b4ca06ef125c73d5024a81c0764a88f2681f191ad0a2500"
+    }
+  ],
+  "LSJ_integral_sha256": "61b044cf03c804adc1c173f6ec7d31a3db58c8efdd8ee2b3ff4543306a4f01f4"
+}

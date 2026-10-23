@@ -1,0 +1,651 @@
+{
+  "status": "composto_e_verificado_com_reservas",
+  "added_or_rewritten": [
+    {
+      "verse": 9,
+      "form": "ἤδη",
+      "display": "ἤδη"
+    },
+    {
+      "verse": 28,
+      "form": "εὐτλήμονι",
+      "display": "εὐτλήμονι"
+    },
+    {
+      "verse": 47,
+      "form": "τέλη",
+      "display": "τέλη"
+    },
+    {
+      "verse": 49,
+      "form": "πελάτης",
+      "display": "πελάτης"
+    },
+    {
+      "verse": 54,
+      "form": "σύρδην",
+      "display": "σύρδην"
+    },
+    {
+      "verse": 62,
+      "form": "πόθῳ",
+      "display": "πόθῳ"
+    },
+    {
+      "verse": 63,
+      "form": "ἄλοχοί",
+      "display": "ἄλοχοί"
+    },
+    {
+      "verse": 63,
+      "form": "ἡμερολεγδὸν",
+      "display": "ἡμερολεγδὸν"
+    },
+    {
+      "verse": 64,
+      "form": "τείνοντα",
+      "display": "τείνοντα"
+    },
+    {
+      "verse": 68,
+      "form": "πορ-",
+      "display": "πορθμόν"
+    },
+    {
+      "verse": 71,
+      "form": "πολύγομφον",
+      "display": "πολύγομφον"
+    },
+    {
+      "verse": 74,
+      "form": "ποιμα-",
+      "display": "ποιμανόριον"
+    },
+    {
+      "verse": 76,
+      "form": "διχόθεν",
+      "display": "διχόθεν"
+    },
+    {
+      "verse": 76,
+      "form": "πεζονόμον",
+      "display": "πεζονόμον"
+    },
+    {
+      "verse": 78,
+      "form": "ἐχυροῖσι",
+      "display": "ἐχυροῖσι"
+    },
+    {
+      "verse": 80,
+      "form": "γενεᾶς",
+      "display": "γενεᾶς"
+    },
+    {
+      "verse": 81,
+      "form": "κυανοῦν",
+      "display": "κυανοῦν"
+    },
+    {
+      "verse": 82,
+      "form": "φονίου",
+      "display": "φονίου"
+    },
+    {
+      "verse": 87,
+      "form": "δόκιμος",
+      "display": "δόκιμος"
+    },
+    {
+      "verse": 88,
+      "form": "ῥεύματι",
+      "display": "ῥεύματι"
+    },
+    {
+      "verse": 89,
+      "form": "ἐχυροῖς",
+      "display": "ἐχυροῖς"
+    },
+    {
+      "verse": 93,
+      "form": "δολόμητιν",
+      "display": "δολόμητιν"
+    },
+    {
+      "verse": 93,
+      "form": "ἀπάταν",
+      "display": "ἀπάταν"
+    },
+    {
+      "verse": 95,
+      "form": "πήδη-",
+      "display": "πήδημα"
+    },
+    {
+      "verse": 96,
+      "form": "εὐπετῶς",
+      "display": "εὐπετῶς"
+    },
+    {
+      "verse": 99,
+      "form": "τόθεν",
+      "display": "τόθεν"
+    },
+    {
+      "verse": 99,
+      "form": "ὕπερθέν",
+      "display": "ὕπερθέν"
+    },
+    {
+      "verse": 100,
+      "form": "νιν",
+      "display": "νιν"
+    },
+    {
+      "verse": 100,
+      "form": "ἄνατον",
+      "display": "ἄνατον"
+    },
+    {
+      "verse": 101,
+      "form": "θεόθεν",
+      "display": "θεόθεν"
+    },
+    {
+      "verse": 104,
+      "form": "πυργοδαΐκτους",
+      "display": "πυργοδαΐκτους"
+    },
+    {
+      "verse": 107,
+      "form": "ἀναστάσεις",
+      "display": "ἀναστάσεις"
+    },
+    {
+      "verse": 108,
+      "form": "ἔμαθον",
+      "display": "ἔμαθον"
+    },
+    {
+      "verse": 108,
+      "form": "εὐρυπόροι-",
+      "display": "εὐρυπόροιο"
+    },
+    {
+      "verse": 109,
+      "form": "πολιαι-",
+      "display": "πολιαινομένας"
+    },
+    {
+      "verse": 110,
+      "form": "λάβρῳ",
+      "display": "λάβρῳ"
+    },
+    {
+      "verse": 111,
+      "form": "ἄλσος",
+      "display": "ἄλσος"
+    },
+    {
+      "verse": 112,
+      "form": "πίσυνοι",
+      "display": "πίσυνοι"
+    },
+    {
+      "verse": 112,
+      "form": "λεπτοδόμοις",
+      "display": "λεπτοδόμοις"
+    },
+    {
+      "verse": 112,
+      "form": "πεί-",
+      "display": "πείσμασι"
+    },
+    {
+      "verse": 113,
+      "form": "λα-",
+      "display": "λαοπόροις"
+    },
+    {
+      "verse": 115,
+      "form": "μελαγχίτων",
+      "display": "μελαγχίτων"
+    },
+    {
+      "verse": 117,
+      "form": "ὀᾶ",
+      "display": "ὀᾶ"
+    },
+    {
+      "verse": 118,
+      "form": "πύθη-",
+      "display": "πύθηται"
+    },
+    {
+      "verse": 120,
+      "form": "πόλισμ᾽",
+      "display": "πόλισμα"
+    },
+    {
+      "verse": 121,
+      "form": "ᾄσεται",
+      "display": "ᾄσεται"
+    },
+    {
+      "verse": 122,
+      "form": "γυναικοπλη-",
+      "display": "γυναικοπληθής"
+    },
+    {
+      "verse": 123,
+      "form": "ὅμιλος",
+      "display": "ὅμιλος"
+    },
+    {
+      "verse": 126,
+      "form": "ἱππηλάτας",
+      "display": "ἱππηλάτας"
+    },
+    {
+      "verse": 128,
+      "form": "σμῆνος",
+      "display": "σμῆνος"
+    },
+    {
+      "verse": 130,
+      "form": "ἀμφίζευκτον",
+      "display": "ἀμφίζευκτον"
+    },
+    {
+      "verse": 133,
+      "form": "λέκτρα",
+      "display": "λέκτρα"
+    },
+    {
+      "verse": 135,
+      "form": "ἑκά-",
+      "display": "ἑκάστα"
+    },
+    {
+      "verse": 136,
+      "form": "φιλάνορι",
+      "display": "φιλάνορι"
+    },
+    {
+      "verse": 137,
+      "form": "αἰχμάεντα",
+      "display": "αἰχμάεντα"
+    },
+    {
+      "verse": 137,
+      "form": "θοῦρον",
+      "display": "θοῦρον"
+    },
+    {
+      "verse": 137,
+      "form": "εὐνα-",
+      "display": "εὐνατῆρα"
+    },
+    {
+      "verse": 139,
+      "form": "μονόζυξ",
+      "display": "μονόζυξ"
+    },
+    {
+      "verse": 141,
+      "form": "στέγος",
+      "display": "στέγος"
+    },
+    {
+      "verse": 143,
+      "form": "θώμεθα",
+      "display": "θώμεθα"
+    },
+    {
+      "verse": 143,
+      "form": "χρεία",
+      "display": "χρεία"
+    },
+    {
+      "verse": 143,
+      "form": "προσήκει",
+      "display": "προσήκει"
+    },
+    {
+      "verse": 144,
+      "form": "ἄρα",
+      "display": "ἄρα"
+    },
+    {
+      "verse": 148,
+      "form": "δορικράνου",
+      "display": "δορικράνου"
+    },
+    {
+      "verse": 150,
+      "form": "ἥδε",
+      "display": "ἥδε"
+    },
+    {
+      "verse": 153,
+      "form": "προσφθόγγοις",
+      "display": "προσφθόγγοις"
+    },
+    {
+      "verse": 153,
+      "form": "χρεὼν",
+      "display": "χρεὼν"
+    },
+    {
+      "verse": 155,
+      "form": "ὑπερτάτη",
+      "display": "ὑπερτάτη"
+    },
+    {
+      "verse": 157,
+      "form": "εὐνάτειρα",
+      "display": "εὐνάτειρα"
+    },
+    {
+      "verse": 157,
+      "form": "ἔφυς",
+      "display": "ἔφυς"
+    },
+    {
+      "verse": 158,
+      "form": "εἴ τι μὴ",
+      "display": "εἴ τι μὴ"
+    },
+    {
+      "verse": 162,
+      "form": "ἀδείμαντος",
+      "display": "ἀδείμαντος"
+    },
+    {
+      "verse": 162,
+      "form": "ἐμαυτῆς",
+      "display": "ἐμαυτῆς"
+    }
+  ],
+  "explicit_exclusions": [
+    {
+      "verse": 2,
+      "form": "ἐς"
+    },
+    {
+      "verse": 48,
+      "form": "φοβερὰν"
+    },
+    {
+      "verse": 48,
+      "form": "ὄψιν"
+    },
+    {
+      "verse": 53,
+      "form": "ὄχλον"
+    },
+    {
+      "verse": 56,
+      "form": "ἔθνος"
+    },
+    {
+      "verse": 59,
+      "form": "ἄνθος"
+    },
+    {
+      "verse": 59,
+      "form": "αἴας"
+    },
+    {
+      "verse": 92,
+      "form": "λαός"
+    },
+    {
+      "verse": 103,
+      "form": "όν"
+    },
+    {
+      "verse": 116,
+      "form": "φρὴν"
+    },
+    {
+      "verse": 116,
+      "form": "φόβῳ"
+    },
+    {
+      "verse": 125,
+      "form": "πέπλοις"
+    },
+    {
+      "verse": 129,
+      "form": "στρατοῦ"
+    },
+    {
+      "verse": 155,
+      "form": "ἄνασσα"
+    },
+    {
+      "verse": 156,
+      "form": "μῆτερ"
+    },
+    {
+      "verse": 156,
+      "form": "γεραιά"
+    },
+    {
+      "verse": 158,
+      "form": "στρατῷ"
+    }
+  ],
+  "mood_explanations": [
+    {
+      "verse": 125,
+      "form": "πέσῃ",
+      "explanation": "temor de que; segue a construção com μή do v. 118"
+    },
+    {
+      "verse": 163,
+      "form": "ἀντρέψῃ",
+      "explanation": "μή + subj.: temor de que derrube"
+    },
+    {
+      "verse": 174,
+      "form": "θέλῃ",
+      "explanation": "relativa com ἄν + subj.: tudo o que a capacidade permitir"
+    },
+    {
+      "verse": 228,
+      "form": "ἐκτελοῖτο",
+      "explanation": "opt. de desejo, sem ἄν: que se cumpra"
+    },
+    {
+      "verse": 230,
+      "form": "μόλωμεν",
+      "explanation": "εὖτ᾽ ἄν + subj.: quando chegarmos; evento futuro"
+    },
+    {
+      "verse": 267,
+      "form": "φράσαιμ᾽",
+      "explanation": "opt. + ἄν: poderia relatar"
+    },
+    {
+      "verse": 360,
+      "form": "ἐκσωσοίατο",
+      "explanation": "opt. em discurso indireto após verbo no passado: salvariam a vida"
+    },
+    {
+      "verse": 365,
+      "form": "λήξῃ",
+      "explanation": "εὖτ᾽ ἄν + subj.: quando cessar; evento futuro"
+    },
+    {
+      "verse": 365,
+      "form": "λάβῃ",
+      "explanation": "εὖτ᾽ ἄν + subj.: quando a escuridão tomar; evento futuro"
+    },
+    {
+      "verse": 430,
+      "form": "στοιχηγοροίην",
+      "explanation": "εἰ + opt.: mesmo se eu enumerasse; hipótese"
+    },
+    {
+      "verse": 430,
+      "form": "ἐκπλήσαιμί",
+      "explanation": "οὐκ ἄν + opt.: não conseguiria completar"
+    },
+    {
+      "verse": 451,
+      "form": "ἐκσῳζοίατο",
+      "explanation": "opt. na subordinada eventual em contexto passado: quando escapassem"
+    },
+    {
+      "verse": 526,
+      "form": "πέλοι",
+      "explanation": "εἴ + opt.: na esperança de que algo seja melhor"
+    },
+    {
+      "verse": 529,
+      "form": "μόλῃ",
+      "explanation": "ἐάν + subj.: se vier; condição futura"
+    },
+    {
+      "verse": 601,
+      "form": "εὐροῇ",
+      "explanation": "ὅταν + subj.: sempre que a sorte corre bem"
+    },
+    {
+      "verse": 632,
+      "form": "εἴποι",
+      "explanation": "ἄν + opt.: poderia dizer"
+    },
+    {
+      "verse": 650,
+      "form": "ἀνείης",
+      "explanation": "opt. de desejo, sem ἄν: que deixes subir"
+    },
+    {
+      "verse": 664,
+      "form": "κλύῃς",
+      "explanation": "ὅπως + subj.: para que ouças; finalidade"
+    },
+    {
+      "verse": 786,
+      "form": "φανεῖμεν",
+      "explanation": "οὐκ ἄν + opt.: não apareceríamos"
+    },
+    {
+      "verse": 789,
+      "form": "πράσσοιμεν",
+      "explanation": "πῶς ἄν + opt.: como poderíamos agir?"
+    },
+    {
+      "verse": 826,
+      "form": "ἐκχέῃ",
+      "explanation": "μηδέ + subj.: que ninguém dissipe; proibição"
+    }
+  ],
+  "regency_and_aspect": [
+    {
+      "verse": 7,
+      "form": "ἐφορεύειν",
+      "explanation": "+ gen.: vigiar, governar algo; χώρας é o complemento"
+    },
+    {
+      "verse": 49,
+      "form": "στεῦται",
+      "explanation": "+ inf.: vangloriar-se de que fará; ἀμφιβαλεῖν é inf. fut."
+    },
+    {
+      "verse": 78,
+      "form": "πεποιθὼς",
+      "explanation": "+ dat.: confiar em; perfeito com valor de estado"
+    },
+    {
+      "verse": 128,
+      "form": "ἐκλέλοιπεν",
+      "explanation": "perf.: abandonou e permanece ausente"
+    },
+    {
+      "verse": 149,
+      "form": "κεκράτηκεν",
+      "explanation": "perf.: obteve a vitória e a conserva"
+    },
+    {
+      "verse": 158,
+      "form": "μεθέστηκε",
+      "explanation": "+ dat.: mudar de disposição para com; aqui, στρατῷ"
+    },
+    {
+      "verse": 824,
+      "form": "μέμνησθ᾽",
+      "explanation": "+ gen.: lembrar-se de; Ἀθηνῶν, Ἑλλάδος"
+    },
+    {
+      "verse": 826,
+      "form": "ἐρασθεὶς",
+      "explanation": "+ gen.: desejar; ἄλλων é o complemento"
+    }
+  ],
+  "pages": 103,
+  "reading_pages": 102,
+  "selected_blocks": 670,
+  "selected_entries": 928,
+  "requested_entries_in_reserve": [
+    {
+      "verse": 49,
+      "form": "πελάτης"
+    },
+    {
+      "verse": 63,
+      "form": "ἡμερολεγδὸν"
+    },
+    {
+      "verse": 95,
+      "form": "πήδημα"
+    },
+    {
+      "verse": 128,
+      "form": "ἐκλέλοιπεν"
+    },
+    {
+      "verse": 138,
+      "form": "ἀποπεμψαμένα"
+    },
+    {
+      "verse": 144,
+      "form": "ἄρα"
+    },
+    {
+      "verse": 144,
+      "form": "πράσσει"
+    },
+    {
+      "verse": 162,
+      "form": "ἐμαυτῆς"
+    },
+    {
+      "verse": 162,
+      "form": "οὖσ᾽"
+    },
+    {
+      "verse": 109,
+      "form": "πολιαινομένας"
+    },
+    {
+      "verse": 113,
+      "form": "λαοπόροις"
+    },
+    {
+      "verse": 157,
+      "form": "εὐνάτειρα"
+    }
+  ],
+  "layout": {
+    "font_pt": 14,
+    "leading_pt": 48,
+    "notes_pt": 9,
+    "notes_leading_pt": 12
+  },
+  "validation": "1.063 versos em sequência, uma linha por verso, entrelinha uniforme, margens sem colisões ou transbordamento, gráfico somente na última página",
+  "output_sha256": "f09a51ea96f4e2f511b7f55a88e11ce22f311020a7c0342f30e7859d3d3379d1"
+}

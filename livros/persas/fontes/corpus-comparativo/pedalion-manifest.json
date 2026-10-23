@@ -1,0 +1,82 @@
+[
+  {
+    "name": "pedalion-aeneas.xml",
+    "author": "Aeneas Tacticus",
+    "work": "Poliorcetica",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/aeneas.xml",
+    "editors": "Yordi Lenaerts (& Alek Keersmaekers)",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-achar.xml",
+    "author": "Aristophanes",
+    "work": "Acharnians",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/achar.xml",
+    "editors": "Toon Van Hal & students 2019-2020: Zoë De Bal, Stijn Houthoofd, Merel op 't Roodt, Manou Vermeire en Martijn Windelinckx, based on a preparsed version by Alek Keersmaekers",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-thesmo.xml",
+    "author": "Aristophanes",
+    "work": "Thesmophoriazusae",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/thesmo.xml",
+    "editors": "Sanderijn Gijbels (& Alek Keersmaekers)",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-euripides_medea.xml",
+    "author": "Euripides",
+    "work": "Medea",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/euripides_medea.xml",
+    "editors": "Toon Van Hal & students 2018-2019",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-heron.xml",
+    "author": "Heron",
+    "work": "De automatis",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/heron.xml",
+    "editors": "Martijn Windelinckx (& Alek Keersmaekers)",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-longus.xml",
+    "author": "Longus",
+    "work": "Daphnis & Chloë",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/longus.xml",
+    "editors": "Yoran Joosten (& Alek Keersmaekers)",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-lucian_lis.xml",
+    "author": "Lucian",
+    "work": "Judicium vocalium",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/lucian_lis.xml",
+    "editors": "Sanderijn Gijbels (& Toon Van Hal, Alek Keersmaekers)",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-lucian_prometheus.xml",
+    "author": "Lucian",
+    "work": "Prometheus",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/lucian_prometheus.xml",
+    "editors": "Toon Van Hal & Students 2013-2014",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-lucian_symposion.xml",
+    "author": "Lucian",
+    "work": "Symposium",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/lucian_symposion.xml",
+    "editors": "Yoran Joosten (& Alek Keersmaekers)",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "pedalion-lysias_or24.xml",
+    "author": "Lysias",
+    "work": "On The Refusal Of A Pension",
+    "source": "https://raw.githubusercontent.com/perseids-publications/pedalion-trees/master/public/xml/lysias_or24.xml",
+    "editors": "Louis Verreth (& Toon Van Hal, Alek Keersmaekers)",
+    "license": "CC BY-SA 4.0"
+  }
+]

@@ -1,0 +1,3496 @@
+{
+  "captured_at": "2026-09-04T20:18:48.853502+00:00",
+  "registry_url": "https://www.crs.rm.it/diorisisCorpusupdates/latest.json",
+  "download_url": "https://www.crs.rm.it/diorisisCorpusupdates/requestUpdate.php",
+  "base_version": "1.51",
+  "registry_overall": "1.51",
+  "registered_file_count": 820,
+  "updated_file_count": 497,
+  "base_file_count": 323,
+  "archive": {
+    "path": "diorisis_updates.zip",
+    "bytes": 72900363,
+    "sha256": "3ffe1583236feda36e0ec1f917612241e63fbc1f57accbd687f6bf3d0eb02691"
+  },
+  "files": {
+    "Achilles Tatius (0532) - Leucippe and Clitophon (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 674429,
+      "compressed_sha256": "489c1a88062bff929b64612d6157aad6bc4e22011a4ca791f50b843831268e10",
+      "json_bytes": 8721493,
+      "json_sha256": "54fa539f6550fac96c7bf73056adccecaa64e4e0750367f915fb0ae18447afac"
+    },
+    "Aelian (0545) - De Natura Animalium (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 1698616,
+      "compressed_sha256": "c9a5bab06c737ad36fef8503b63a99cae3f60479ce4d8aeed75182e7a3ed183d",
+      "json_bytes": 21618823,
+      "json_sha256": "82664f8da04c14056187c0751aaa9ce424c84ce4681a4fd306f9e4b2ceaa4a80"
+    },
+    "Aelian (0545) - Epistulae Rusticae (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 37338,
+      "compressed_sha256": "46f77d6b451e96f17233ed82dc77950de36f099e375fe098827e862e81b7fd1e",
+      "json_bytes": 446323,
+      "json_sha256": "9e12716f7330329d32a3f5176e5b82923547bd61f2322c9216e465b9aa0ec842"
+    },
+    "Aelian (0545) - Varia Historia (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 643490,
+      "compressed_sha256": "57049849342260f6b44536c1d7753808d7b5751fe4c0bac7c99e36111081f206",
+      "json_bytes": 8029603,
+      "json_sha256": "bb5fb0ad6547789a0699b902b23e9ba2beef45e77851b2dd789090791d8ce656"
+    },
+    "Aeneas Tacticus (0058) - Poliorcetica (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 222062,
+      "compressed_sha256": "9963b30f1ea12544f710f9af72e058748bf4c94cd57a1972afacffce928c02a2",
+      "json_bytes": 2917098,
+      "json_sha256": "6ba6e4c6f18600d1b570d3a032fd77d71f006834db2c56609795ce1518809a80"
+    },
+    "Aeschines (0026) - Against Ctesiphon (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 306251,
+      "compressed_sha256": "db816c89710308298b899ae54aff29508180364003de5b9f89a80dd14e34a632",
+      "json_bytes": 3871472,
+      "json_sha256": "efb595b83723ba5435fd743cc6483662ad65bc5aaaebcab5be7600a1ba39ed92"
+    },
+    "Aeschines (0026) - Against Timarchus (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 225012,
+      "compressed_sha256": "d914621a03fb8c849df117d733b5c2d907a7e927ded7ecbb8ff94d526fc95909",
+      "json_bytes": 2845112,
+      "json_sha256": "03b76255bb25931c1c9bde0d2cfcd569750584dbb30fec320935913babbecbfa"
+    },
+    "Aeschines (0026) - The Speech on the Embassy (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 203477,
+      "compressed_sha256": "2010855b12e10c0cee00cc399147597dc9f9d15b3399ee32ef7df164d86ee526",
+      "json_bytes": 2569065,
+      "json_sha256": "86cc4d0f11e43f6fc1b8704b7576f7d0260db03f8ca0c6e721fd023798f08e4e"
+    },
+    "Aeschylus (0085) - Agamemnon (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 159576,
+      "compressed_sha256": "8b781fbffabc187b03cea3752252334a1a9cea65c9a7bdd6c569109537432d6f",
+      "json_bytes": 1764943,
+      "json_sha256": "9a210f592f6ec0f9dbfd2b504e42446d100db767082ff1899922c339f86bbb87"
+    },
+    "Aeschylus (0085) - Eumenides (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 100993,
+      "compressed_sha256": "75a48b38245ea89ccd2ad4494736b6151743a254459163f7d0dc24c57122746b",
+      "json_bytes": 1151865,
+      "json_sha256": "cc3dfad49e4b1a9e724e91b5a93107238ef5bb40a0295743f2c11c81b591e36c"
+    },
+    "Aeschylus (0085) - Libation Bearers (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 107038,
+      "compressed_sha256": "0b67103c4f0144eca45c888ee6f2075fb8d80dd6f7041bef95407bedd88b69e8",
+      "json_bytes": 1186076,
+      "json_sha256": "3b9a56836d2bb0983363254cbe28ca2ad06eaace46172e4d19c7d473179857ec"
+    },
+    "Aeschylus (0085) - Persians (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 101185,
+      "compressed_sha256": "99ca9de2f54f0fa6123ccce686dc2be7a4c632baec53c8dac051f336cb61f16a",
+      "json_bytes": 1123835,
+      "json_sha256": "cb539dc7d203dc4a40284fe1c84a2f27f3d15204926f2f2213f433cde7304ce4"
+    },
+    "Aeschylus (0085) - Prometheus Bound (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 116438,
+      "compressed_sha256": "797be198c3d8c5ad16e83bfed0f4616a1eda259976b84c8550615d862e6d1945",
+      "json_bytes": 1287727,
+      "json_sha256": "59ac4fc35b907c0c1ca473e93d159f14e08b9183907947b0f2ca5dbc70153324"
+    },
+    "Aeschylus (0085) - Seven Against Thebes (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 100704,
+      "compressed_sha256": "545556acb571fe07b60663f8a61e9619c625993d406c4931c8f0b10a3a980ec3",
+      "json_bytes": 1108617,
+      "json_sha256": "f31b8a468b4ca58899b783964be47c8cde6bd3f6929dd4b43c142ddf4a7c2502"
+    },
+    "Agathemerus (0090) - Geographiae Informatio (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 28671,
+      "compressed_sha256": "6ef2e8ba615b18bde944f62cd1f43e787d526c612980c7ffd9bdc7077f4bad47",
+      "json_bytes": 394737,
+      "json_sha256": "75f83991194286f9dd3ad0f5f486d7c67bcf4efcf1119935ed2d69d83e8b458c"
+    },
+    "Andocides (0027) - Against Alcibiades (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 48951,
+      "compressed_sha256": "200631d9244a22bceb031d6ed48bb3a25762a8fc46de3b45d33551cc85f95206",
+      "json_bytes": 578453,
+      "json_sha256": "8f71bad8858689aad2edec3ad3cca4f89edd4f3d129e73081237583078dff477"
+    },
+    "Andocides (0027) - On His Return (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 32642,
+      "compressed_sha256": "68825074604f4cfa97fe7b8e012b58b2c4d200f386ba7ae2461a8ad8da7e7396",
+      "json_bytes": 406808,
+      "json_sha256": "d1bb7f8183b525a9d75b5ed5a7f41afdaf45596fe85bf057aa76e8cb04ab187b"
+    },
+    "Andocides (0027) - On the Mysteries (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 161934,
+      "compressed_sha256": "5b2678d66481a93ce7b07f08d3b9a319dbc5367d5025b7860d27765a0ac30ab6",
+      "json_bytes": 2123009,
+      "json_sha256": "8a07fa56471987464bea83be086bbaaab33b567c401e18fb62483712a79c7212"
+    },
+    "Antiphon (0028) - First Tetralogy (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 42204,
+      "compressed_sha256": "8c216174b9d65cb252426785a2e1b38b503a5d0ca78469cbf29e3b58d57bf3fa",
+      "json_bytes": 529507,
+      "json_sha256": "b3e4f979a826877bd185409cc7902f7f724fe2f8e8efca2d983f9b0c05bf1b76"
+    },
+    "Antiphon (0028) - On the Choreutes (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 54139,
+      "compressed_sha256": "7466143541c36c4bcd222492a4b91ffe4d4105d9227cb0811b6bae35e8ce8939",
+      "json_bytes": 709478,
+      "json_sha256": "afd8a215e23bfaa80b50c46cade9462f363546bbea24c67416398a4d4fc4f1c1"
+    },
+    "Antiphon (0028) - Prosecution Of The Stepmother For Poisoning (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 28623,
+      "compressed_sha256": "651da67b18c279aaa045b9fb213818f8d5d50a2ce6270d27d0df2f73dc690fbc",
+      "json_bytes": 366299,
+      "json_sha256": "9e64b1b6bae6c4a087c46284f8d8db567965b450d67a50ae20a4598a35e17070"
+    },
+    "Antiphon (0028) - Second Tetralogy (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 35108,
+      "compressed_sha256": "5f5148bf76001bcd4f143d1f608a2e66d2adc2ab1e81085e5b383824732453c3",
+      "json_bytes": 454009,
+      "json_sha256": "2e93a9bd4864a072c6125e3e44622fa3eb9928c0b89bdb98322c47fe1e23deb9"
+    },
+    "Apollonius Rhodius (0001) - Argonautica (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 746597,
+      "compressed_sha256": "92bbf962d7fa419a8816d92bc2c91bd7357aee9b3ac80ad028669ea4b9a6be9c",
+      "json_bytes": 8357737,
+      "json_sha256": "0546878b2685273be81f7dc31a53c6b21c1cdcf92459a69fc4d2478928371b63"
+    },
+    "Appian (0551) - Illyrian Wars (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 78009,
+      "compressed_sha256": "17ba4890a29d5a6eb06b195f8f259188fbfa293020804ad41b1195e588ef37c7",
+      "json_bytes": 997720,
+      "json_sha256": "b88baa3d04b2e6691032cdfebe938e935c44209a55c8ad2142ca7e5302be293b"
+    },
+    "Appian (0551) - Numidian Affairs (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 7718,
+      "compressed_sha256": "8be45cb2e7015f861bf63972502182fec5123c7c1576b8b00fd9a2a1c440009f",
+      "json_bytes": 83038,
+      "json_sha256": "e6583aa6acb632b0e5759c932b153b566eb8737bd6c6171d27bf7c168be0e3de"
+    },
+    "Appian (0551) - Samnite History (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 59324,
+      "compressed_sha256": "9c95bb2ff11d1184cf6ab8cbaf2aaf74a13e344648ac038e0b0021ebc092cab6",
+      "json_bytes": 777152,
+      "json_sha256": "025546f4b802715ee8a897d6cde907436072541b7b888a19ccbbfbb7cece5777"
+    },
+    "Appian (0551) - Sicily and the Other Islands (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 17175,
+      "compressed_sha256": "a39cf0988ea53153e17683fd1d8aaf3fb33fe0b7498d61b5c9b38d8566c97d4a",
+      "json_bytes": 211631,
+      "json_sha256": "882f4358dd46e938d25c6c0959895a053b7ffba726f667ff387f9420848ba9f4"
+    },
+    "Appian (0551) - Syrian Wars (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 222837,
+      "compressed_sha256": "1884dcc99e2c4f7fecf38dcdf40879a70f831a0cdcf0dd42e8bda3507dbf4592",
+      "json_bytes": 2833824,
+      "json_sha256": "6cd8c0754432cbae6fa685ae0bd5fa8c2d109ab2b0231e2752becb9877172cef"
+    },
+    "Aratus (0653) - Phaenomena (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 133705,
+      "compressed_sha256": "b32ddb7065518c54cc852792b264ef0b4ba35a6118f293c895d59fbbdd75cd0f",
+      "json_bytes": 1620359,
+      "json_sha256": "c9e029e58f58b512b08f35723292fc1997fc8139efc6db97bb38e0c6d264d0c6"
+    },
+    "Aristides, Aelius (0284) - Orationes 1 Dindorf 43 Keil (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 33900,
+      "compressed_sha256": "3d17d62e9e4ae7e15bb957ea354829b1624a13dc637fb9a8ecab3a0e80d845b0",
+      "json_bytes": 419934,
+      "json_sha256": "7b3d24a1f122bb188b0918917ba6f9e5e6a924ae04f01695d8b55ba9c5fad242"
+    },
+    "Aristides, Aelius (0284) - Orationes 10 Dindorf 30 Keil (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 36330,
+      "compressed_sha256": "a563c5e5d4c05fd9792c9e71d91f5028f9da9df1faa747da93bdb7fd1e3ab372",
+      "json_bytes": 431224,
+      "json_sha256": "8d77b128285ba401a010fc52d3e7196f0adce104ab5636a225e3f4a43384b5d3"
+    },
+    "Aristides, Aelius (0284) - Orationes 11 Dindorf 31 Keil (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 23333,
+      "compressed_sha256": "ee2f9ca95775e952ecebb1b81655f72fdc7cfe98cd7810152bfe3b8c6f238187",
+      "json_bytes": 268162,
+      "json_sha256": "44d883c147857cfec2d8e79d6880bf5a41efca7e72a3d81086067cea34176c4e"
+    },
+    "Aristides, Aelius (0284) - Orationes 12 Dindorf 32 Keil (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 46393,
+      "compressed_sha256": "e0aba4201f6ddf689e250d886390fd71766a0c8b0df8a1928542bae044ebf094",
+      "json_bytes": 569835,
+      "json_sha256": "365b147b31cbf31ee1e3657293839b8b4df431070c7fa9e5289111680fd10a5a"
+    },
+    "Aristides, Aelius (0284) - Orationes 15 Dindorf 17 Keil (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 32642,
+      "compressed_sha256": "2667623cdd1d4c1782ca5352782dd48f88307b24e6b8a6da44f10a0f5d05e902",
+      "json_bytes": 388170,
+      "json_sha256": "7c4b721c5a97a5d8fc86773e60d5bb7ae047a2915b90a3407b366b8557a0d449"
+    },
+    "Aristides, Aelius (0284) - Orationes 16 Dindorf 27 Keil (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 53223,
+      "compressed_sha256": "8769cd63768264531b6ae6676062c4b697dfb33e7575517b07d7bcacef08c42e",
+      "json_bytes": 666382,
+      "json_sha256": "be06232a6feec26bfac659f656b071a91124554f19f091bd7e944bdcd3abd4c3"
+    },
+    "Aristides, Aelius (0284) - Orationes 17 Dindorf 44 Keil (017).json": {
+      "version": "1.6",
+      "compressed_bytes": 20641,
+      "compressed_sha256": "e2b9b3eed07531f0221cdbd4cbf42078398e49171040fb852dda2aef1dd20ba0",
+      "json_bytes": 242808,
+      "json_sha256": "2563b68cf70962cb0d7e84dc791d894b3decca779a0f9dec6130cd6fb9cb460c"
+    },
+    "Aristides, Aelius (0284) - Orationes 18 Dindorf 39 Keil (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 21522,
+      "compressed_sha256": "b0d7b9f23aa7d946f3508b2776f1f274a8fdbdf53a9d7d98c1e4707ee0ac0b61",
+      "json_bytes": 263760,
+      "json_sha256": "e6ce2d68e8c6b36a15ea436f7509dd85d0c6f516df94aaf9fdc30a04f01d5d9f"
+    },
+    "Aristides, Aelius (0284) - Orationes 19 Dindorf 22 Keil (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 18801,
+      "compressed_sha256": "457b60f76652fedd359e9b103a9f529754f19203efc6d509578d47d25850f63b",
+      "json_bytes": 212831,
+      "json_sha256": "ad8ec1c6ab809c238e94dc06cec62160158021f41b734f345c71a095e906d309"
+    },
+    "Aristides, Aelius (0284) - Orationes 2 Dindorf 37 Keil (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 38022,
+      "compressed_sha256": "a655c749ba682e82794bcf0f666cc45bf1c2c97ae55bb0130edc5ef86c76fc80",
+      "json_bytes": 470455,
+      "json_sha256": "9289427e809b0dbd430f1d900d29f8d3771aa7eddd99fca9e6ebded056706660"
+    },
+    "Aristides, Aelius (0284) - Orationes 20 Dindorf 18 Keil (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 14514,
+      "compressed_sha256": "da6bb13db5c16c119084e152e305ae48cdf21f09dc3fc1d3ab173f1512040b9a",
+      "json_bytes": 155180,
+      "json_sha256": "de285241119d13fbef3b3b22b93248236f69def846c41851986dc62ef961206d"
+    },
+    "Aristides, Aelius (0284) - Orationes 21 Dindorf 20 Keil (021).json": {
+      "version": "1.6",
+      "compressed_bytes": 30265,
+      "compressed_sha256": "c10f65ae6ac52d287353fc0194d8553d8f7c41098a49217dbbf757521d55084e",
+      "json_bytes": 349481,
+      "json_sha256": "67b1abc8d1ea39db6a51b98f1f0f07ad4685015718f445a061f3a0e8fedba895"
+    },
+    "Aristides, Aelius (0284) - Orationes 22 Dindorf 21 Keil (022).json": {
+      "version": "1.6",
+      "compressed_bytes": 20359,
+      "compressed_sha256": "6fe825f6fa68c40d44b450d4f868bf5dfd24f573f39b467a64f7908b153206be",
+      "json_bytes": 231924,
+      "json_sha256": "f418713d5e1191a2d29160ce448131251daab50e16414d4c0dc7d622e1556be0"
+    },
+    "Aristides, Aelius (0284) - Orationes 23 Dindorf 47 Keil (023).json": {
+      "version": "1.6",
+      "compressed_bytes": 83839,
+      "compressed_sha256": "38d32de0715cdfd6b485c9e0663f4a8d8ec4ab3f19be6490bb352bc03adf1a28",
+      "json_bytes": 1073187,
+      "json_sha256": "eb8f6c2d238a104437e40f0217d0672774135ad11b4a1d983ab28448757cac3f"
+    },
+    "Aristides, Aelius (0284) - Orationes 24 Dindorf 48 Keil (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 94944,
+      "compressed_sha256": "c914197ace39fd737db8d458eeb6eb7c600cd3ec15c16290cf43f130ec8dc6d6",
+      "json_bytes": 1190056,
+      "json_sha256": "847ae6cfbb31613ae75dcc608d6118ffdf71facb63d684d9943358c9aa9cca1a"
+    },
+    "Aristides, Aelius (0284) - Orationes 25 Dindorf 49 Keil (025).json": {
+      "version": "1.6",
+      "compressed_bytes": 58130,
+      "compressed_sha256": "be74822fc199abbfdae2ebb6958ad28af4adba93ddcab426481a5022ff260cc8",
+      "json_bytes": 722818,
+      "json_sha256": "52f7bdd30cdfe9a228268d25431ce05bddaa74eff733ea799de2fca58d0c98a4"
+    },
+    "Aristides, Aelius (0284) - Orationes 26 Dindorf 50 Keil (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 129427,
+      "compressed_sha256": "40903d74b33235d3abd9a555089ac6eaa41c41b2546959b89fcf670b68375ef4",
+      "json_bytes": 1645427,
+      "json_sha256": "a75ac041b1120be5a6e9bd6e06252cd2d9c4be615743359bc3f064b8630212da"
+    },
+    "Aristides, Aelius (0284) - Orationes 27 Dindorf 51 Keil (027).json": {
+      "version": "1.6",
+      "compressed_bytes": 74179,
+      "compressed_sha256": "f93946189fb7ebaed2839d529f53343795ed88d1fd22d10d76996120bbe81468",
+      "json_bytes": 923296,
+      "json_sha256": "5d65b96c8e743f0556f2e86ce5d1c97294ce09a79dd65b017b9e77d539f594d4"
+    },
+    "Aristides, Aelius (0284) - Orationes 28 Dindorf 52 Keil (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 3988,
+      "compressed_sha256": "b62329f2fd04c6804882cf4b635f73aa63b665901c5b7d4798e04f40ef9a151e",
+      "json_bytes": 29539,
+      "json_sha256": "e581e197fb305a189f8ffdc62819a8c3ab0179661a213bc1ae21177819d46af5"
+    },
+    "Aristides, Aelius (0284) - Orationes 29 Dindorf 5 Keil (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 65729,
+      "compressed_sha256": "2f0f5ac5e0ec8ebfb742effd6876ee1d3ab9ac19d84697a349f3892a51d21112",
+      "json_bytes": 795783,
+      "json_sha256": "6e386dddfa55c781528a2a666607c6a6eb8bfeb840e0e4da529a9922de22fd70"
+    },
+    "Aristides, Aelius (0284) - Orationes 3 Dindorf 46 Keil (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 53303,
+      "compressed_sha256": "a202f874ba30f44f013a77e5a7c4f826a06ee97b115bd0f00df0fcd770cdc2f3",
+      "json_bytes": 701076,
+      "json_sha256": "32b20bfe884e40d81a09946cf71195297efff51ad1a26834cf40703f8a7360bb"
+    },
+    "Aristides, Aelius (0284) - Orationes 31 Dindorf 7 Keil (031).json": {
+      "version": "1.6",
+      "compressed_bytes": 40379,
+      "compressed_sha256": "7c683ac562ffc454a4883bd2ba1e12d37c1b5210c8d5750ecb6f869a15f0f06b",
+      "json_bytes": 491705,
+      "json_sha256": "e5b81c66957bc175e80ac8159fe8a3bbc548178a17a969ea9ffb56aae87f8525"
+    },
+    "Aristides, Aelius (0284) - Orationes 32 Dindorf 8 Keil (032).json": {
+      "version": "1.6",
+      "compressed_bytes": 35410,
+      "compressed_sha256": "86a0b18d52798576dd7aa9291d80d53779c72655874eb6d204bf4c7a14bc31e2",
+      "json_bytes": 421583,
+      "json_sha256": "d25c96fa536dbba537e69b40b0cc5e6dd459f0757e0c0d7c70e1323adde41be2"
+    },
+    "Aristides, Aelius (0284) - Orationes 35 Dindorf 13 Keil (035).json": {
+      "version": "1.6",
+      "compressed_bytes": 44924,
+      "compressed_sha256": "e10d85bcee9ff53553c21d68bbb96bb962970f081d9bad5ae49770ae3dd6cb21",
+      "json_bytes": 545998,
+      "json_sha256": "38406d4bfdc182fb3622837fa958d8595946ed0e0fb1d554238b23cd94af7c67"
+    },
+    "Aristides, Aelius (0284) - Orationes 36 Dindorf 14 Keil (036).json": {
+      "version": "1.6",
+      "compressed_bytes": 41698,
+      "compressed_sha256": "88cb34b3b124a93bcf762b00bc90b8897a5702c2a3b7f90f0c5bcb64366665e1",
+      "json_bytes": 515337,
+      "json_sha256": "8ef0e1b64360eb005505d6c657cc8e77f03366c23744c8490f2b55e3bfb0e203"
+    },
+    "Aristides, Aelius (0284) - Orationes 37 Dindorf 15 Keil (037).json": {
+      "version": "1.6",
+      "compressed_bytes": 53979,
+      "compressed_sha256": "2bedec9b464dc85162a3e38c74cb1994f6979e7794e3d7eaed750fce11d6c87d",
+      "json_bytes": 670543,
+      "json_sha256": "80ef63e8b61d8ba2e6adf9c9eb690ab79215240227f0601dfed9b3bc815e40e3"
+    },
+    "Aristides, Aelius (0284) - Orationes 39 Dindorf 10 Keil (039).json": {
+      "version": "1.6",
+      "compressed_bytes": 69638,
+      "compressed_sha256": "9eb50fade6d382059c900a4b2dd8846dc153db8c6740e6d8b8d25e521ca3c2f8",
+      "json_bytes": 873574,
+      "json_sha256": "9038a46a053a7d49b630c8ad68f0c05ffdda75b1f0a3e67035b8b9783a4d36da"
+    },
+    "Aristides, Aelius (0284) - Orationes 4 Dindorf 41 Keil (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 13689,
+      "compressed_sha256": "13d2a14d9d1211e87fae5a0c17289771210a24e49f22e32e9e4a5e91deff9cc6",
+      "json_bytes": 157133,
+      "json_sha256": "fdc67c775fc712a3dfaaeedc071952145f6031399b9b7821d2c86cb97ed1b833"
+    },
+    "Aristides, Aelius (0284) - Orationes 40 Dindorf 29 Keil (040).json": {
+      "version": "1.6",
+      "compressed_bytes": 36408,
+      "compressed_sha256": "b079a14c0cc67f6d858a7c9cd21d0a05d95de5c8d5bde9fa4e487fb6669a8003",
+      "json_bytes": 443010,
+      "json_sha256": "e65b59338a78c225bab9116fdde8d1cbb6e6a2831f5e9bdf985dfcad5dce7d46"
+    },
+    "Aristides, Aelius (0284) - Orationes 41 Dindorf 19 Keil (041).json": {
+      "version": "1.6",
+      "compressed_bytes": 21611,
+      "compressed_sha256": "4e1ceaf0378e5b10e37f1d921df45a26721a4276764ef013ad1b6465ad0e80f7",
+      "json_bytes": 245399,
+      "json_sha256": "7c5221bc16381bae2c95985d0439d50b5dbbd2baa60530e0c25cfb18782de5a7"
+    },
+    "Aristides, Aelius (0284) - Orationes 43 Dindorf 25 Keil (sp.) (043).json": {
+      "version": "1.6",
+      "compressed_bytes": 88262,
+      "compressed_sha256": "55949b74cf2f229efa497a181db564799ec13f125852d755341b6f22320437d7",
+      "json_bytes": 1093208,
+      "json_sha256": "dab461b1b93a771c5ecdad8d26a6435599aacbdaa7e212a082fb533f8586c9f2"
+    },
+    "Aristides, Aelius (0284) - Orationes 45 Dindorf 2 Keil (045).json": {
+      "version": "1.6",
+      "compressed_bytes": 470887,
+      "compressed_sha256": "c52ed77750f823556b0ba71681aa585bbc4a38dad06b9e9dfbf9ba3e3be07e06",
+      "json_bytes": 6275646,
+      "json_sha256": "bc13265a136fad6aa50d1c1ae819f2fccd05f9c80ce078564a75f03d25ac59fa"
+    },
+    "Aristides, Aelius (0284) - Orationes 47 Dindorf 4 Keil (047).json": {
+      "version": "1.6",
+      "compressed_bytes": 70681,
+      "compressed_sha256": "2093f4412e4e599c24cb4680f06751d7fef8efc1bc1d4a7e12ce244ba1d7f796",
+      "json_bytes": 895327,
+      "json_sha256": "334534a7978c147299bcb860640c903efd2a2e64f1cc8d88df151bf60109e331"
+    },
+    "Aristides, Aelius (0284) - Orationes 5 Dindorf 40 Keil (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 25894,
+      "compressed_sha256": "5e92d04a801b2b3fad74ff59a248f2faa7080c0232150677636eeeda9c6593ee",
+      "json_bytes": 308167,
+      "json_sha256": "8b9fd711236b795f0d4246dc344278befd48b9f77568e83f02c1abb168f14e69"
+    },
+    "Aristides, Aelius (0284) - Orationes 50 Dindorf 34 Keil (050).json": {
+      "version": "1.6",
+      "compressed_bytes": 67933,
+      "compressed_sha256": "38a8c24ef7ced8a375d82edbf41aa1ca70561121fd395a0e0089c0b03d42a3eb",
+      "json_bytes": 852858,
+      "json_sha256": "e2b87b3108ed71547adb25b2bc65b2c02884e8ebdaca8bb6adc1af636676a2d5"
+    },
+    "Aristides, Aelius (0284) - Orationes 54 Dindorf 54 Keil (sp.) (054).json": {
+      "version": "1.6",
+      "compressed_bytes": 175296,
+      "compressed_sha256": "ce35f40d31b4a8a76062502755f06d14b41f195cc5a3c10104db359318746b3e",
+      "json_bytes": 2271221,
+      "json_sha256": "04318360b2c2fb526e5d479d8fac7386279de69331508646129b67115014bd75"
+    },
+    "Aristides, Aelius (0284) - Orationes 55 Dindorf 53 Keil (055).json": {
+      "version": "1.6",
+      "compressed_bytes": 7987,
+      "compressed_sha256": "63741308a8996b38b0d0954bd0a0badc58c2827e903b0dbedc7676c626b14c2b",
+      "json_bytes": 78000,
+      "json_sha256": "1c912a2bf233e4690361db315e9fb1685409330f2621ff7ced85195d2b26afad"
+    },
+    "Aristides, Aelius (0284) - Orationes 6 Dindorf 42 Keil (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 21713,
+      "compressed_sha256": "2a9385624b01aeed3798be2e43bc8268c224714ff8f4bc24cb5a7bee538d00b2",
+      "json_bytes": 251605,
+      "json_sha256": "77d2922406e281a027db5772571c60f9194dd9165e2e21783c97bc803406f2b3"
+    },
+    "Aristides, Aelius (0284) - Orationes 7 Dindorf 38 Keil (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 26744,
+      "compressed_sha256": "4c9f94cacead4c556e3d11bc5262188ba69703623d6b2a2a697ddf9bdc8be4fd",
+      "json_bytes": 314749,
+      "json_sha256": "13ab1d1fdfcda37f046865c1cb9e110764cb5eae2a43974ef128f94159691149"
+    },
+    "Aristides, Aelius (0284) - Orationes 8 Dindorf 45 Keil (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 44073,
+      "compressed_sha256": "a3fbf97159d3cff0650fd865ec88f59c61a21d37e4e3c3042017802ef318e213",
+      "json_bytes": 545651,
+      "json_sha256": "28e46d35cf0d9af13959a4b5edb28bcaed8a34e1e4f74ddf1037e7b1830539b6"
+    },
+    "Aristides, Aelius (0284) - Orationes 9 Dindorf 35 Keil (sp.) (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 47512,
+      "compressed_sha256": "7ef8177fdbabe2ffd563b75eaa619660f99fb1656fd6732baa25284f38bc5ddd",
+      "json_bytes": 594916,
+      "json_sha256": "512a386d97cfde11fab32a03ac418c5131015373c8990f161e3c41a5cef60b45"
+    },
+    "Aristophanes (0019) - Acharnians (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 130599,
+      "compressed_sha256": "f6e4645c046ba6cba14cdc35268ab399e852ef454d36c0a73de77d939466325b",
+      "json_bytes": 1567660,
+      "json_sha256": "98aafbf1b24f398b92497e2683c5541416a549c08a9a45de7c62636b56cfb432"
+    },
+    "Aristophanes (0019) - Lysistrata (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 144027,
+      "compressed_sha256": "6c096a7914d0e7c0d3ecffeda4a4228177f7ca83b0c7e0e1061dfd5c31f42a04",
+      "json_bytes": 1754399,
+      "json_sha256": "ff9bcb2707a8553418cbdd26252e707662f181f9095945b0963dba29b7d77ca2"
+    },
+    "Aristophanes (0019) - Plutus (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 143238,
+      "compressed_sha256": "931000cbd6b6d7ea9bf8e56ee5f8eb17f8099a6a0a87cc4444429cd758fdccee",
+      "json_bytes": 1755621,
+      "json_sha256": "f4d880c8bb07e5bff0df233f51c95b10f101a10bd63cea7086c9f6668098f689"
+    },
+    "Aristotle (0086) - Analytica priora et posteriora (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 660215,
+      "compressed_sha256": "1032818a58a161c93ec22675c4c83ce79a032ef358c2efdccae6b2658b62811f",
+      "json_bytes": 11977396,
+      "json_sha256": "cae70166ff791587901c178babd8cdc21292f42d40a519697e3baae37e94780d"
+    },
+    "Aristotle (0086) - Ars Poetica (034).json": {
+      "version": "1.6",
+      "compressed_bytes": 148216,
+      "compressed_sha256": "3f9ec8dd65ddf7cc2a16479d83c54c3092c2d7888bac685486181590d49925e1",
+      "json_bytes": 2112318,
+      "json_sha256": "a41d38dd5e57cdc8ab35c5e4550b17af1f03dfbabed06a21132c6e8db37fff2e"
+    },
+    "Aristotle (0086) - Categories (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 116860,
+      "compressed_sha256": "c890241f8a55efdef227802245016fddee8c8ef5ef39035883217a79815b9852",
+      "json_bytes": 2071972,
+      "json_sha256": "b178287133d64e051e81f37e5713228f5996a19846f28455d3a7d739df4135b4"
+    },
+    "Aristotle (0086) - De Insomniis (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 35496,
+      "compressed_sha256": "b977f138cc9872d65204cda949464ef29b64a1d8285df174324f4fd2b0da08d3",
+      "json_bytes": 493937,
+      "json_sha256": "63cfcdf700460b2e321430a998070d29bb68ed6c826318f19708377f1a075321"
+    },
+    "Aristotle (0086) - De Mundo (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 102224,
+      "compressed_sha256": "23999ba7731f0a61ca1d941c42572c0bce3c68938fd266084ada776d7f04a666",
+      "json_bytes": 1330148,
+      "json_sha256": "0db62b582b9b6e723cbbd6c1273967d8122798af4c1259c558dec122bc277111"
+    },
+    "Aristotle (0086) - De Respiratione (037).json": {
+      "version": "1.6",
+      "compressed_bytes": 86034,
+      "compressed_sha256": "802b74a87bb9026e5452d20cd7cfb827563316ebec4026b3cbc10f63706b0d34",
+      "json_bytes": 1256238,
+      "json_sha256": "9a408558d70f3e5e70639bb07d04fba5aaca60531fdf5c5ed035c31e129bd503"
+    },
+    "Aristotle (0086) - De Sensu et Sensibilibus (041).json": {
+      "version": "1.6",
+      "compressed_bytes": 106818,
+      "compressed_sha256": "917ca4164aa6a7dc04df3406164c1b3ae58fecdf59fcbf49f2b833e4c7da58b3",
+      "json_bytes": 1608868,
+      "json_sha256": "b1c3e8a13985c3aa5c54c4395a3868e71a4137463f574aaca42ad27f8a190c18"
+    },
+    "Aristotle (0086) - De divinatione per somnum (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 19004,
+      "compressed_sha256": "4063ad0f94af7462a442d2db0b461d26832c2eee53975e275705ca295eb63ce8",
+      "json_bytes": 249763,
+      "json_sha256": "bbe3ed0ebb2076abd4885fffcdc7bf6ccc4104f87fce4a0bab663ebdb9e6f4b7"
+    },
+    "Aristotle (0086) - De juventute et senectute, De vita et morte (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 26586,
+      "compressed_sha256": "bb9bbc6ebad7a278c2ea204fbc7ab8e0513c74d3ec8ba8fe0069887036ff1148",
+      "json_bytes": 378074,
+      "json_sha256": "31c06d4a44766bedace2407eba204d258f44b7ff2b220a5b716075d8bff86c39"
+    },
+    "Aristotle (0086) - De longitudine et brevitate vitae (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 24879,
+      "compressed_sha256": "25c08b13b92291f7463c618c075a386a95291cb61024d3fab60d3fe4387fb8a6",
+      "json_bytes": 365161,
+      "json_sha256": "604e3ed9473d221211d2688260f3510df670d01e2f272b68cfb3ff806ebde93a"
+    },
+    "Aristotle (0086) - De memoria et reminiscentia (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 34379,
+      "compressed_sha256": "0e26c3f7656f9368c20da7f1dbee5f0ec09173fa1da266e74368d919fd4ad1fa",
+      "json_bytes": 499998,
+      "json_sha256": "d7863985aa77c836537aea65e743817afab86f1a9c27977ebc982fe5bc5d4e7d"
+    },
+    "Aristotle (0086) - De somno et vigilia (042).json": {
+      "version": "1.6",
+      "compressed_bytes": 42560,
+      "compressed_sha256": "6c54a988471e6db23486bc8e77c51ac2ac886b99d321c514c77d4a790a350168",
+      "json_bytes": 613175,
+      "json_sha256": "61b9e1f865efb3d9b53934b8632f85a805a2df0b158b55f226443a871fb57deb"
+    },
+    "Aristotle (0086) - Economics (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 98227,
+      "compressed_sha256": "ce1065d9764408999e2b2baeec85f5a71ab9277c46bd438a8d428e5c50b2e94e",
+      "json_bytes": 1308616,
+      "json_sha256": "2db86329dbcc7bd861d5930e0f646b8d2ab5e9d0acf738f941841854a2cae368"
+    },
+    "Aristotle (0086) - Eudemian Ethics (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 360680,
+      "compressed_sha256": "09c72621760bffecdc313c04c48d1b04b81834daf9d58f89fe556b188dbbd9f3",
+      "json_bytes": 5485506,
+      "json_sha256": "e5163abea94fa29fb6c87dc3201c9892e696671b5e5c83d59df880e36e0f701c"
+    },
+    "Aristotle (0086) - Nicomachean Ethics (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 784720,
+      "compressed_sha256": "f7a096b35b8d621175ddfe7d0fa8a250a84caad37035d6a28ad49ec603e4a02e",
+      "json_bytes": 11856319,
+      "json_sha256": "8354da3b42ac20e431afbb2f1f8ad2bcc16819ce8881893c0d6177e750099544"
+    },
+    "Aristotle (0086) - Oeconomica II (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 75903,
+      "compressed_sha256": "9b26593fc0052a479f753b7536034afb26dee08a352da450c67684f576b58b1c",
+      "json_bytes": 989949,
+      "json_sha256": "9a4a7b23a031a64d51e1a6bbf192b6562ed960fb37bdda8cb1b4e8768022b97b"
+    },
+    "Arrian (0074) - Cynegeticus (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 94279,
+      "compressed_sha256": "00180529540b01198d6057bce164b057b43e5b3eb1c74c6582cf80e5b29e3497",
+      "json_bytes": 1256579,
+      "json_sha256": "d79b2b8ed9850954e6abac7a2fdc06fa1bb832311d1b86faddfd4b344d0404ce"
+    },
+    "Arrian (0074) - Periplus Ponti Euxini (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 63096,
+      "compressed_sha256": "ae9ee8386568ee208f9e3bc2a93fb042e753ba9d24fa524cdfc93713f6016484",
+      "json_bytes": 894556,
+      "json_sha256": "28efe273929238b6086b2d7931edd8235740e4d02d396d40215d34df3b6f469f"
+    },
+    "Arrian (0074) - Tactica (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 133224,
+      "compressed_sha256": "a7a05fcdf73450c107b22562dc052acd19098e5d317094e7678952837aa2bee3",
+      "json_bytes": 1865369,
+      "json_sha256": "857540fa55a389f7aebd205b6ce045e25ad8b08f5083c864074e71169bf22af8"
+    },
+    "Asclepiodotus (0556) - Tactica (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 89936,
+      "compressed_sha256": "5a80404d66109fbf21ceae8fcfccf3b121c53566f5aeb8059ce1849c402307c0",
+      "json_bytes": 1348038,
+      "json_sha256": "dd83c9113394322c112a9f68406f1fbc588819ae16d69a8e0568830c10121380"
+    },
+    "Bion of Phlossa (0036) - Epitaphius Adonis (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 13367,
+      "compressed_sha256": "72a05be5db8cb70805b4f733fc4c949e48b3b0cbe0b7bf82cb817d210b0f1743",
+      "json_bytes": 157770,
+      "json_sha256": "c142c14f05f1040cfadaa504e3aae8f1dc180fdaa2fb51f80169b710dde251ee"
+    },
+    "Bion of Phlossa (0036) - Epithalamium Achillis et Deidameiae (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 5692,
+      "compressed_sha256": "131324b8435ba9c3c9d6a700e3f4a55aa372b0f51d3cb17205245a67cd68f85c",
+      "json_bytes": 49925,
+      "json_sha256": "3ad3fc90596ad6888c3f439d993dc8453d08f59d05bf528fd74c09cf7bfa4c01"
+    },
+    "Callimachus (0533) - Hymn to Apollo (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 15636,
+      "compressed_sha256": "b99ad2bdbb727c8a103ab3e72e13ec7d7bf00ae2999bcc27a28373ca62750c4b",
+      "json_bytes": 167532,
+      "json_sha256": "daba6be81390ace60f156cd8c1152449ef846460f8999e18131d4e4e4b4c7708"
+    },
+    "Callimachus (0533) - Hymn to Artemis (017).json": {
+      "version": "1.6",
+      "compressed_bytes": 35939,
+      "compressed_sha256": "64139f38e87917b14802a4fb5a66ee65d973a84a710cf59ed7d04af7ee6d54d4",
+      "json_bytes": 392017,
+      "json_sha256": "e1ffaedae617fd1d3624791a5ba3e66e9e66a047d9307a9a8d18227d4cd5a2d1"
+    },
+    "Callimachus (0533) - Hymn to Athena (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 18340,
+      "compressed_sha256": "46369e848c688d425d1b2acc4c88c83dda358e93a1a446b81b66538bd5e6bb9c",
+      "json_bytes": 196529,
+      "json_sha256": "ff4003891c2d42a639afc666587b698978d68219ae433bb0273674ab9b994a02"
+    },
+    "Callimachus (0533) - Hymn to Delos (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 42807,
+      "compressed_sha256": "9f24b7bcd61511e3d95d8832e609daadbc1a4a468c2c6128be538d4e6a4c1abc",
+      "json_bytes": 461116,
+      "json_sha256": "84dca81cd1e7b1a11bca1ae4b757835de17f7e8e9c067df94ca0bfe147646225"
+    },
+    "Callimachus (0533) - Hymn to Zeus (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 14198,
+      "compressed_sha256": "3bf5da70251655f2347927c92a96a9b58b206efb7d4131d36c95f4fea99442d2",
+      "json_bytes": 150465,
+      "json_sha256": "73a89d13ef9d918d8b50b3df66a834623f511da332630cc7171f2b8c159b30eb"
+    },
+    "Callistratus (4091) - Statuarum Descriptiones (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 64665,
+      "compressed_sha256": "7180a850846f6c063d17e7afc866bbdfa5af6885c1b345de80d8954e08a0040e",
+      "json_bytes": 803450,
+      "json_sha256": "65729a166e0484c37813c4682a7f80a7973561ed3327174f29326f68429d6833"
+    },
+    "Cassius Dio (0385) - Historiae Romanae (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 3007915,
+      "compressed_sha256": "24e61c1d009fd67d04910dbcb3fe6f2d44ec1b12b4a2456d2671d34b4ee93a89",
+      "json_bytes": 39031452,
+      "json_sha256": "d3d8a5f0bc386b3c8d335b7478ddcf701430a14718db2c1a2625c1b1cd485b21"
+    },
+    "Chariton (0554) - Chaereas and Callirhoe (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 602005,
+      "compressed_sha256": "94b3c1d38d4971f00aa0f4d3e78b5f18a91f19567941606746dee202e724bc4f",
+      "json_bytes": 7338631,
+      "json_sha256": "82d8384190680984a8f5eb68c352e038b50722a872cf5695d5593779f7ce620a"
+    },
+    "Claudius Ptolemy (0363) - Tetrabiblos (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 525518,
+      "compressed_sha256": "bd85ea1c06c16d6b8b410009eee74349f81417d2fccf8efe7d079cc0ed917766",
+      "json_bytes": 7836233,
+      "json_sha256": "6a0de09041fa1d219bbe79b5ed7f186c0e90b79dc49a1d72913e5dcab92236e6"
+    },
+    "Clement of Alexandria (0555) - Exhortation to Endurance, or to the Newly Baptized (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 12984,
+      "compressed_sha256": "4d7d0a0187f5c54746b13e909c802149b968343c03f1c0737dcf6ac437c7d317",
+      "json_bytes": 143853,
+      "json_sha256": "ea59334de8e2b3d06ed2e7a9badd5d43e0ac5b7bb67e559a2b6aaabe761c6363"
+    },
+    "Clement of Alexandria (0555) - Protrepticus (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 393899,
+      "compressed_sha256": "eff65ef567b9fdaee0edf32fa86b7cf8c53fd1e38de03c16ee407d594df0d83c",
+      "json_bytes": 4881651,
+      "json_sha256": "840f3747ea23cc9e2df547093e17a01cbbd5169fab12c5f03b2b86eda172072b"
+    },
+    "Demosthenes (0014) - Against Androtion (022).json": {
+      "version": "1.6",
+      "compressed_bytes": 91745,
+      "compressed_sha256": "4a96711e59b919880e6d1ed8451e69f2741390010f9ea526c80e2b5701c79fb2",
+      "json_bytes": 1157185,
+      "json_sha256": "de21ca0dab0374e2a5c08956b9d7c0347051afd0665f04b50588b89183ce18c9"
+    },
+    "Demosthenes (0014) - Against Apaturius (033).json": {
+      "version": "1.6",
+      "compressed_bytes": 41395,
+      "compressed_sha256": "6fd2954180eb63fd53378f1a20b00a768b56035f87d4105664df7c5fa4f9911f",
+      "json_bytes": 529709,
+      "json_sha256": "e10ae475d122a03dc6cd024c20555a3debe23486272d7058b1a969dd66aaa289"
+    },
+    "Demosthenes (0014) - Against Aphobus 1 (027).json": {
+      "version": "1.6",
+      "compressed_bytes": 73911,
+      "compressed_sha256": "1849d384ae2a88a97184c7310db5dd12304dcb4ccd1931f845518afef1b00db6",
+      "json_bytes": 959638,
+      "json_sha256": "2013944a6a6a3c9871612d51d4d811fd668cf0f00c20f1e65a4ca47a73a22c39"
+    },
+    "Demosthenes (0014) - Against Aphobus 2 (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 26669,
+      "compressed_sha256": "a6036ff58f360b610d4e68b0bef0628d25d9820880b4e6b5d8873f94d2878639",
+      "json_bytes": 320481,
+      "json_sha256": "429336a461ad4435cd153a73389bacd98caad02a90162f06af42c4d88d99f2e6"
+    },
+    "Demosthenes (0014) - Against Aphobus 3 (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 64734,
+      "compressed_sha256": "80a97330292541130433bdb709a99d5efc7a4d134d956dea83b3936b28d9e674",
+      "json_bytes": 819938,
+      "json_sha256": "39a9734f578618a33bc8aa88e6792b70a1b6cf96401c887b0f4f3e5a8480005b"
+    },
+    "Demosthenes (0014) - Against Aristogeiton 2 (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 29176,
+      "compressed_sha256": "9100fbbcd82d8e74172ad4c71a18e21d02211557ad26b11476aeb6fa1445538e",
+      "json_bytes": 354985,
+      "json_sha256": "20dfe53931f23604917d274e2e8e3c683e383929b8ee983a1f2a9009b1484250"
+    },
+    "Demosthenes (0014) - Against Boeotus 2 (040).json": {
+      "version": "1.6",
+      "compressed_bytes": 63353,
+      "compressed_sha256": "2da8dc14127256eaf2aa5db7df9b88654f5de5dab73efb256f61a2d3cc41f3aa",
+      "json_bytes": 814180,
+      "json_sha256": "701007e4df8106fb533f592bcffe11ef1c4f7eee0198cbce42fa5999cb7f4dbd"
+    },
+    "Demosthenes (0014) - Against Callicles (055).json": {
+      "version": "1.6",
+      "compressed_bytes": 35785,
+      "compressed_sha256": "1a0bfcef573e10c52afc44f520a813a29a1a29d3b75fd9a06aa8e112ad956a44",
+      "json_bytes": 445277,
+      "json_sha256": "79b2f692b2a89492d63f6053de419544301de73cbdaa91339afa8b95014ddc6e"
+    },
+    "Demosthenes (0014) - Against Dionysodorus (056).json": {
+      "version": "1.6",
+      "compressed_bytes": 52332,
+      "compressed_sha256": "4d65ffeef09d51793df4a076c3d22dfa896824d2e2e2e810d331394e3423a2c0",
+      "json_bytes": 691082,
+      "json_sha256": "eaff3a1c5c5e266e3683ab68f716976d2dadef1cf35625091af6671f636fc7f7"
+    },
+    "Demosthenes (0014) - Against Evergus And Mnesibulus (047).json": {
+      "version": "1.6",
+      "compressed_bytes": 83915,
+      "compressed_sha256": "7590ed702b8d61b87f87cda5cb31af55725daf02546cbc60da5d010ffa0b22a0",
+      "json_bytes": 1124823,
+      "json_sha256": "b8513ed52c9fde7ff65e2c6943584de48fb0569683dfd49530cbba2029773617"
+    },
+    "Demosthenes (0014) - Against Leochares (044).json": {
+      "version": "1.6",
+      "compressed_bytes": 65572,
+      "compressed_sha256": "f99c4e8a60481586cf3fb168cd46000b1d497ca6346ded62b3b1efe0a05d1458",
+      "json_bytes": 872411,
+      "json_sha256": "05b5339e60fb90fe66d5170375e5826538095088f1bc04c82b2700e862fb1ce6"
+    },
+    "Demosthenes (0014) - Against Nausimachus and Xenopeithes (038).json": {
+      "version": "1.6",
+      "compressed_bytes": 30830,
+      "compressed_sha256": "3c69459ab5db8b21ab3097f0995889205184de56afe804b725173404a359c243",
+      "json_bytes": 391987,
+      "json_sha256": "328ed78550b0d4ea55c440e03477ca2e89b8c872490a7aee6ac00aea58f6caa0"
+    },
+    "Demosthenes (0014) - Against Olympiodorus (048).json": {
+      "version": "1.6",
+      "compressed_bytes": 53516,
+      "compressed_sha256": "122829a759b710f4bd683f1066ae8aa52cdaa10a18734a3a5fe8caafcb54db76",
+      "json_bytes": 729078,
+      "json_sha256": "1f5ed056a7376b0f8d523b4748475a3cbe60d137836235d1d1b234d4b19abfe0"
+    },
+    "Demosthenes (0014) - Against Onetor 1 (030).json": {
+      "version": "1.6",
+      "compressed_bytes": 39456,
+      "compressed_sha256": "5eea833b58ba9b3648da4f17702d36dcd6aa6fcecb66287ea6b4d0f75db737ce",
+      "json_bytes": 496351,
+      "json_sha256": "86aabeb3ef9e1fa1db2ad854fc8a350abface61c86d8cf9de17a95bdae24b7e4"
+    },
+    "Demosthenes (0014) - Against Onetor 2 (031).json": {
+      "version": "1.6",
+      "compressed_bytes": 16856,
+      "compressed_sha256": "b4c6fbed7cfdc858bbf4cea82532dadcdbc699e47d3f4f788d7f6c971ea2380c",
+      "json_bytes": 201905,
+      "json_sha256": "84f3c3dec4a33caf9f957fdde82bb0efbbde6a69aa85d039390ae298d939d900"
+    },
+    "Demosthenes (0014) - Against Pantaenetus (037).json": {
+      "version": "1.6",
+      "compressed_bytes": 62973,
+      "compressed_sha256": "3f8268157886dbb8c43c579449efde6baa0690661febc883a1b31531bc8817f9",
+      "json_bytes": 798110,
+      "json_sha256": "4d26aed8394d2087f90167d5a4384c1865d5bd7a78e67857898cdcbda1fc174a"
+    },
+    "Demosthenes (0014) - Against Phormio (034).json": {
+      "version": "1.6",
+      "compressed_bytes": 52008,
+      "compressed_sha256": "bb8be158dd244b3394c4b5b7c77095f0cf724073d556e6b80773e6707e0d5494",
+      "json_bytes": 677244,
+      "json_sha256": "ddd79e5b141cd7f66a9293fa13bd5ea1e4e27505f1137469dbab2ff647524910"
+    },
+    "Demosthenes (0014) - Against Timocrates (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 239680,
+      "compressed_sha256": "16a8962dd8627f5bbbf57a1dfee6b3ae0027200d3714cd14845da90db09114e3",
+      "json_bytes": 3096095,
+      "json_sha256": "c21a1d5bf0729ab374089293a480cbb5acbe2aa2277715ffa5ed49668d62891a"
+    },
+    "Demosthenes (0014) - Against Zenothemis (032).json": {
+      "version": "1.6",
+      "compressed_bytes": 32507,
+      "compressed_sha256": "5be6de4ef825ecbc5c3bd52ae3564f4b440bcb4016d341a09437deb2fcbd865d",
+      "json_bytes": 399944,
+      "json_sha256": "4813f7c8d3dd6801e059c2aaf2c4e5274de32c19828a2c8cc446655f301e936f"
+    },
+    "Demosthenes (0014) - Answer to Philip's Letter (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 23648,
+      "compressed_sha256": "cdae73a53a456bfd844934990fa442bad3626db5a6872426300055c658aa0439",
+      "json_bytes": 273290,
+      "json_sha256": "cc0cb48994b35c1d901e533b7c4c5a18aad965636d899ae9f76c472f9ca8b3c2"
+    },
+    "Demosthenes (0014) - Apollodorus Against Callipus (052).json": {
+      "version": "1.6",
+      "compressed_bytes": 34630,
+      "compressed_sha256": "9b5baa7edada44f3753f57c5b26a3fb26b2666b0e1394570b1af881df753366a",
+      "json_bytes": 437479,
+      "json_sha256": "557b9ad4fa00725c3bf8624d44f0c5b3053e808eae33d45db63c4cec747c17bc"
+    },
+    "Demosthenes (0014) - Apollodorus Against Nicostratus (053).json": {
+      "version": "1.6",
+      "compressed_bytes": 33304,
+      "compressed_sha256": "71e38b2fa93b6e1868927d2dd57997c196f90342c0c56596081f8b6bd9a117c5",
+      "json_bytes": 418144,
+      "json_sha256": "eee69d51546aa8e140f846ac025fb9ac39469bca779ddb704cca2c50a60aa679"
+    },
+    "Demosthenes (0014) - Apollodorus Against Polycles (050).json": {
+      "version": "1.6",
+      "compressed_bytes": 74654,
+      "compressed_sha256": "b533852270614d42ffa46119042fefac44e3a573071c22a24db18508dcd97cea",
+      "json_bytes": 955080,
+      "json_sha256": "da52683b539aaf17fa99393c72d2324bfdca05932f4350c943b1ba47329bcc71"
+    },
+    "Demosthenes (0014) - Apollodorus Against Timotheus (049).json": {
+      "version": "1.6",
+      "compressed_bytes": 67121,
+      "compressed_sha256": "a9ed6a4e7a4c0dcb8e154305ffe53f97c14b3b1efa7759691a5d0828f0766662",
+      "json_bytes": 899709,
+      "json_sha256": "c9a7762c5db7763349bce1ae16cd2623298d8a34f885faa838ac6028e1097087"
+    },
+    "Demosthenes (0014) - First Olynthiac (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 32374,
+      "compressed_sha256": "3e0e72c8975f8ca1ff233581c0f0c4092edd03ce195e315a469623e48f0c3f8e",
+      "json_bytes": 385843,
+      "json_sha256": "56d35b6bf566e7c3eb564d4465534ca958ee95f9ef66e9762b9e6b52059f5961"
+    },
+    "Demosthenes (0014) - For Phormio (036).json": {
+      "version": "1.6",
+      "compressed_bytes": 65581,
+      "compressed_sha256": "52c86f9949c125451fc182843430ba2bcb69230a9448b335e2c06bef7408cc1f",
+      "json_bytes": 833415,
+      "json_sha256": "2bd7b01a710d952a46e5337cbd00674fc740256da714cefe72c7dbe624e1de69"
+    },
+    "Demosthenes (0014) - For the Liberty of the Rhodians (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 38246,
+      "compressed_sha256": "76c3178e7885801ee889556aa3c64a8f0bd37367f36582083fd54b35e252ea28",
+      "json_bytes": 465902,
+      "json_sha256": "792e438ca8e6ff219ad6b8891e45cf6934ecac3f66d849a9901ce9fc1bc308c7"
+    },
+    "Demosthenes (0014) - For the Megalopolitans (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 30944,
+      "compressed_sha256": "6c25b5a2e9b6bd6d648f06597f0ec512edb7a93b676001f4fcacfd858f8fd6a3",
+      "json_bytes": 392802,
+      "json_sha256": "d404cbcb978df8e845ec37abab0b4d38d5ec3345e29e7bbccfa23101803082a0"
+    },
+    "Demosthenes (0014) - Fourth Philippic (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 75180,
+      "compressed_sha256": "02cff2f2e9d49d6bfb55116bb3b757c42fd73ab76afc8b5a1f2ab905b24e9930",
+      "json_bytes": 940320,
+      "json_sha256": "9ded0305160f286d92bfc6e41157e32c757bbfcb0dc795bbe94c1f1d3ffceed9"
+    },
+    "Demosthenes (0014) - On Halonnesus (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 40037,
+      "compressed_sha256": "98329dfe27af64954b0f7232fc00a19e29043b00ffcb0fc7f9d11931ed149ad2",
+      "json_bytes": 512473,
+      "json_sha256": "c501fd1e28ddfaba3af3621cbeb55c800b009e5794a658b46c1b1cfdddafdb02"
+    },
+    "Demosthenes (0014) - On The Trierarchic Crown (051).json": {
+      "version": "1.6",
+      "compressed_bytes": 24125,
+      "compressed_sha256": "83b6ee394911b0abf191cd2464fd2eeb03e46a5b67bf7e3f2a0ee35e297b73bc",
+      "json_bytes": 288201,
+      "json_sha256": "30c92d448e6fb57560db75fb1326d7e39ae86576a3d90e3df90e9c5dc18adc4e"
+    },
+    "Demosthenes (0014) - On the Crown (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 327773,
+      "compressed_sha256": "cdb87c17e3a54fb6d9786697bad9d14c55c392b3c72a7f8643eab55bcaba6091",
+      "json_bytes": 4103665,
+      "json_sha256": "d34ed86ca8d544c12b2a50788ad7b11b35d2e25396348b4880f8a5ae92450569"
+    },
+    "Demosthenes (0014) - On the False Embassy (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 388689,
+      "compressed_sha256": "38e5fee90ddaf7e4cf2d5db555939da75fb388d087f459c6a63f708685e93d93",
+      "json_bytes": 4879261,
+      "json_sha256": "ce4ac209622918e647efafdd4ca5f8f9f5480aa66b832be3cb5a52d1aea3b97d"
+    },
+    "Demosthenes (0014) - On the Navy-Boards (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 43562,
+      "compressed_sha256": "3f390746e1ce4e936adff7da62f7f20ccca478027af4fd38487f65d4e2e8063b",
+      "json_bytes": 544970,
+      "json_sha256": "a4eeda37761fdc602d2b8e49f0f1b5ad33ba4aebe0616f5d055259c7b3886721"
+    },
+    "Demosthenes (0014) - On the Peace (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 25973,
+      "compressed_sha256": "7d20f6406e5a4e6ff03d2c47ac740ae33db8056a2deb287bb8d89439a35de821",
+      "json_bytes": 309115,
+      "json_sha256": "61cd9c4fd9afd0707ba3212a55b721a88b48449180e04dee62800f2ee72fe9b8"
+    },
+    "Demosthenes (0014) - On the Public Fund (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 39296,
+      "compressed_sha256": "1da4497b781439fba5c3a7a99593427fbaa86e56ec0ddc875178a5abf27b87c8",
+      "json_bytes": 490628,
+      "json_sha256": "c2c5daa78c12e4a9dad6e33525fe650f05ac9c75666fddd9167e7dee5645904a"
+    },
+    "Demosthenes (0014) - Philip's Letter (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 25632,
+      "compressed_sha256": "2ec0846acc409579b75d7cae77a33ccb8ee8052add89e201a185b7580c193f93",
+      "json_bytes": 299538,
+      "json_sha256": "5d23e90d202355f10608b62a58440ac4b3eb8401f80eecdc6ec146d4e1d84db4"
+    },
+    "Demosthenes (0014) - Second Olynthiac (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 35870,
+      "compressed_sha256": "38135296de128339eb5730981aada059934fb7c303542b2f4f9e78a974d93976",
+      "json_bytes": 435277,
+      "json_sha256": "8d3af22a42ad4f7d19f90fb9d1fd19034512cc45c4945f5261a8e86f0f6438d7"
+    },
+    "Demosthenes (0014) - The Erotic Essay (061).json": {
+      "version": "1.6",
+      "compressed_bytes": 63325,
+      "compressed_sha256": "82a941631be6780eadbaa77302680bdd913648c32a39001dd7a90afcc20fe81c",
+      "json_bytes": 773418,
+      "json_sha256": "a4c8cea3f3f37a0a7f191639888947b9d84eeab1c5cb5d1efe6b77fc3521738b"
+    },
+    "Demosthenes (0014) - The Funeral Speech 51-61 (060).json": {
+      "version": "1.6",
+      "compressed_bytes": 44579,
+      "compressed_sha256": "903be35bb8a244300884144b95cfe87272c43a6ba6814b1df7c5bcfed0e7b73f",
+      "json_bytes": 530573,
+      "json_sha256": "2991414623fd23bb7f4cbd00042c542d0782daaeb430303448259d103925e0b3"
+    },
+    "Demosthenes (0014) - Third Olynthiac (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 41442,
+      "compressed_sha256": "12142fe0dda14c3c30104a0b726791bf53db0a39554e3493dbb2eb53510e83c1",
+      "json_bytes": 504316,
+      "json_sha256": "a60ff490f92faa9d4f9b8f36ee242189c6f480f0a7682f082ca1e40b94a33c29"
+    },
+    "Demosthenes (0014) - Third Philippic (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 72790,
+      "compressed_sha256": "3bfa81753893ad505aa58998a79420ce8cfd2d957549bb95f8ed944d974565aa",
+      "json_bytes": 902029,
+      "json_sha256": "55d647a69250c74df3575e70737093d9bb268160145cdd43540c7808409432de"
+    },
+    "Demosthenes (Apollodorus) (0014) - Against Stephanus 2 (046).json": {
+      "version": "1.6",
+      "compressed_bytes": 30100,
+      "compressed_sha256": "c4be961e5483ded8202efb76b3a65fc9247e9f8bce4d4ec7b01425afe990dc73",
+      "json_bytes": 393135,
+      "json_sha256": "0539ba26c44b7bd8f7002246d10adf19e1978955409d542e1957788cd7041030"
+    },
+    "Dinarchus (0029) - Against Aristogiton (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 31033,
+      "compressed_sha256": "1f09ed3ea98bd6e7d2095223fb23fce6feb0ee04c8c660721d047721eec7102c",
+      "json_bytes": 375017,
+      "json_sha256": "37ea7907daa14ddf6a16060cf8215c25710dce8bd4569710a301e70e58601acb"
+    },
+    "Dinarchus (0029) - Against Demosthenes (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 126718,
+      "compressed_sha256": "047c64d9f6859d195080bd851c0d21ad20c5bbf524b6402affbb718845a9227f",
+      "json_bytes": 1565640,
+      "json_sha256": "f8f6d5190f522b1bc2ea4300d2357885ea013eaf5e655611989bff2f434beaac"
+    },
+    "Dinarchus (0029) - Against Philocles (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 24550,
+      "compressed_sha256": "07175c292f192a511f9b3756e0f6f69753c08a358abfd833321d0a1bf412d050",
+      "json_bytes": 285760,
+      "json_sha256": "ee7c90c2523a085dcec4386f262a10c94bf3981c46b303a8769924b8b4937597"
+    },
+    "Dio Chrysostom (0612) - Orations (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 2854353,
+      "compressed_sha256": "1e536020d9dac361b5384473eca618da44aa0d638725ad8a28d245ec8ff0618a",
+      "json_bytes": 36385759,
+      "json_sha256": "c43b11a6a730df49cef1746875b1f24176278eac4c937f2a53c776855e6e8986"
+    },
+    "Dionysius of Halicarnassus (0081) - Ad Ammaeum (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 56859,
+      "compressed_sha256": "83f03be2f66e7234dec78e0906e8ca663e555653190b75b6e906c8d355059d19",
+      "json_bytes": 725047,
+      "json_sha256": "ada2416e4246f5c4b7c8bb7f225d02dd998053d5acf1b55a2bf94272295cbe97"
+    },
+    "Dionysius of Halicarnassus (0081) - De Compositione Verborum (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 336022,
+      "compressed_sha256": "6b743bcf19e1e226221dcea45f432cb16517e1ebf56fe6fce7481bd3bce5b045",
+      "json_bytes": 4348024,
+      "json_sha256": "d70781906480f7a5454ad13b1d7080407f199fd04c9d9fd7fd1318716006b57f"
+    },
+    "Dionysius of Halicarnassus (0081) - De Demosthene (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 367115,
+      "compressed_sha256": "85b846319f2d8166cf32c7a64e55491399bf3561eb7faa2f9a981bd513d51df6",
+      "json_bytes": 4716324,
+      "json_sha256": "cfcbf428e9c04174797eee6f8b8f874893baf3542103d50779fbf7b8d19d8fe8"
+    },
+    "Dionysius of Halicarnassus (0081) - De Isaeo (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 88026,
+      "compressed_sha256": "1ac1dc69d4a25abaf3c30b35ab8b61deee7e90105118b7c95a0dd2428f10e142",
+      "json_bytes": 1153691,
+      "json_sha256": "07f18f0f4926c8a61b6760008e768ad5d17f2c1fea59607edd4ed797e508d368"
+    },
+    "Dionysius of Halicarnassus (0081) - De Isocrate (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 106589,
+      "compressed_sha256": "44738b612c81fcb24370fa311932cbbb8d818b6a1e1bbcab3e5c8c0c54c1322a",
+      "json_bytes": 1377138,
+      "json_sha256": "7cf3b3877887afdeb4623123e36f19a629816e53b7a2d51ffd88b35a2ad102b3"
+    },
+    "Dionysius of Halicarnassus (0081) - De Lysia (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 130543,
+      "compressed_sha256": "80db873f0764fb44dae29ca49c0d83911f63c5d2f9f5ac0a973f468caa569167",
+      "json_bytes": 1667962,
+      "json_sha256": "500568b8b283dd9683434e40666c2e027a5f626bc24bc00022d587ffc6377140"
+    },
+    "Dionysius of Halicarnassus (0081) - Epistula ad Pompeium Geminum (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 72595,
+      "compressed_sha256": "d3ec47474377eb1a0d5e6719e9afad5695c4e053640d461da87860772ae7cfb0",
+      "json_bytes": 900535,
+      "json_sha256": "591d756476bf4f324129dddb4733d4fe4e944c4ddd3a3806d1467f2c5c44bc9c"
+    },
+    "Epictetus (0557) - Enchiridion (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 80136,
+      "compressed_sha256": "5bfba90df2f0420911e4a140f3c6345829c47f7956c09a13f36f456b6e7fdf47",
+      "json_bytes": 1055992,
+      "json_sha256": "5c33141a192e718b795479953ee4f965fe0f1b4572a4769f32c2584638845050"
+    },
+    "Epicurus (0537) - Epistula ad Menoeceum (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 21180,
+      "compressed_sha256": "c27a46400b4eea069a27c718705efeec3c35a610d2fa763885b41c0dbd28f931",
+      "json_bytes": 276988,
+      "json_sha256": "03871680ad1737f0ecb516431dd233c5e7cbd81b45af6b418c45b6babd46b26c"
+    },
+    "Euripides (0006) - Hecuba (040).json": {
+      "version": "1.6",
+      "compressed_bytes": 137632,
+      "compressed_sha256": "8c5a70db9cd6b80280bfcc89034ace8b211f58c6ce0665a68f07a3562322f397",
+      "json_bytes": 1590062,
+      "json_sha256": "29fb6645a41d9472012f44b133d54e49087b5759eb9769ccf8e6efc6d8084c96"
+    },
+    "Euripides (0006) - Heracles (043).json": {
+      "version": "1.6",
+      "compressed_bytes": 151647,
+      "compressed_sha256": "1cc712b75c0f50d1ea5fa0c89d77e70c8b9bc711b902785643a849fecc5e0c31",
+      "json_bytes": 1748224,
+      "json_sha256": "51d8e64742a8e27cae07c1324dc58081de46d10e3106852dc887ed6c142e23c5"
+    },
+    "Euripides (0006) - Phoenissae (048).json": {
+      "version": "1.6",
+      "compressed_bytes": 186446,
+      "compressed_sha256": "db16cfcf20875e594604bdfbfc5cd44a802fd4400789e535af341d258d536236",
+      "json_bytes": 2149898,
+      "json_sha256": "a52b8aafb03a5cd6c57e8f83ab56be87ae3907d68e427610547fa9e5718b36b1"
+    },
+    "Euripides (0006) - Rhesus (052).json": {
+      "version": "1.6",
+      "compressed_bytes": 105150,
+      "compressed_sha256": "4536f1b403e82e13ae755b7f79a053e1b8fe94d8bc608dabd19d2207fcdeb6dc",
+      "json_bytes": 1193021,
+      "json_sha256": "b4a5aa40f35fea450783028851082a975021f52db61135577df867ea12b66356"
+    },
+    "Euripides (0006) - Trojan Women (044).json": {
+      "version": "1.6",
+      "compressed_bytes": 138552,
+      "compressed_sha256": "a97de6a844c4d1e31e27cf4635811756a9d70ecb5bb0cedce67ba2290f256284",
+      "json_bytes": 1576773,
+      "json_sha256": "a3cf9e071e1bb941bdf3e8dc06cb85ffb411d8d5005f4f990b4fa037e74b9676"
+    },
+    "Flavius Josephus (0526) - Antiquitates Judaicae (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 4916806,
+      "compressed_sha256": "565d27728c655ec9bb35253764be0c0186fa17735e549ab43d6dbbcc694ee0c9",
+      "json_bytes": 62844924,
+      "json_sha256": "9a0562780e4ae38385b3ce4f89c62ca27a413ad4464311685d254df830ad3a70"
+    },
+    "Flavius Josephus (0526) - Josephi vita (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 259900,
+      "compressed_sha256": "b1a308450323e2062e02eb544d1f34111e21072cee1ee37b9e6fa9ea69f4cbf7",
+      "json_bytes": 3260337,
+      "json_sha256": "670450d39171a99ecb2516468fd50babef1fdb3efa63475c7f9aacf1bc31b96a"
+    },
+    "Galen (0057) - On the Natural Faculties (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 484627,
+      "compressed_sha256": "bc7194ce5401451172f7681844711da3d4ead8def946d54a9fc3f77d20ac4e7c",
+      "json_bytes": 6578209,
+      "json_sha256": "0a48e213f76f9f6adc7c5eb5d17222c19a3ac64f8ed67f608434d0770835fa40"
+    },
+    "Herodotus (0016) - Histories (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 2946777,
+      "compressed_sha256": "0884c6101b600717e6f28b4704ea06c33ffeecc0c0e378d26e6eac82319f9722",
+      "json_bytes": 38850791,
+      "json_sha256": "e2a333f4afe8353d7e125d4a8600f7afaa35bbb029097054ef737f40c688edd3"
+    },
+    "Hippocrates (0627) - De alimento (046).json": {
+      "version": "1.6",
+      "compressed_bytes": 19642,
+      "compressed_sha256": "588be9f28881196797910da4f3a73688aba1cd9211de728e3156aa3fe9648859",
+      "json_bytes": 281386,
+      "json_sha256": "b5447de556612ac336c943d253a2c55c5dd087baa1d7b43b02de4cf0218e7d06"
+    },
+    "Hippocrates (0627) - Of the Epidemics (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 166725,
+      "compressed_sha256": "c2e2fd15577c0957f8780f1677f0f0da5867988e69b02d6a48de6f8d4b4cf006",
+      "json_bytes": 2385853,
+      "json_sha256": "1d95b51c7d210eb40d4eb0c8aea83f8ea3309ee5672afc441b32b87983148667"
+    },
+    "Hippocrates (0627) - On Fractures (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 164435,
+      "compressed_sha256": "66e7cf3a015033c36b807452a54386f4d277f05cba0c44c0948e5e33629ad638",
+      "json_bytes": 2357287,
+      "json_sha256": "a5791f1bb5a0b7c6b6124375382149f7ee4b9eaa077499664465d7f3d577001b"
+    },
+    "Hippocrates (0627) - On Hemorrhoids (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 15882,
+      "compressed_sha256": "adb41a282eb0f66333c97358225934ce3557f04fbd5efe08c3fb086d6f754f71",
+      "json_bytes": 191276,
+      "json_sha256": "d97f03e8f36d1bb729bc72a5acf897be38ab95d32daaf8e780727b2bf36f3f73"
+    },
+    "Hippocrates (0627) - On Injuries of the Head (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 66731,
+      "compressed_sha256": "f16f3aef1158b934e514fda62d9d3b4b4d4be03f0e7c0b57f2ce6b55e5f1e1e0",
+      "json_bytes": 1037119,
+      "json_sha256": "21dcb9e5d8d6fb0825f7bd587e9fe8f6ed6667eaabda8e45d98e008d3c0e8130"
+    },
+    "Hippocrates (0627) - On Regimen in Acute Diseases (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 92859,
+      "compressed_sha256": "14a1c00dbef8cedf1f44924ec899099d69bf3147904401d292e2609faf212ae3",
+      "json_bytes": 1285018,
+      "json_sha256": "806d8cafbbd00f85478ca987797aeb9b1740c87554d5ef089be63e4f2dec9aa6"
+    },
+    "Hippocrates (0627) - On Ulcers (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 50623,
+      "compressed_sha256": "f9c1ef5e7b44807be1207864911e68914c6ee8dd78ea5819b3ddcc2b3c02337c",
+      "json_bytes": 707391,
+      "json_sha256": "0183489b436fff48edb4b9f33322c375de1eaecd6b9b45a5996b6f5dcd9d6773"
+    },
+    "Hippocrates (0627) - On the Articulations (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 309631,
+      "compressed_sha256": "c545b469b00a9d46592a252d219d736564d70ba6911d093a45e27ce1c3b53e3a",
+      "json_bytes": 4464101,
+      "json_sha256": "4e1c283b28fb35c2f187c3cabac549c981fe80bc2dad2434ba20ad013cdd147d"
+    },
+    "Hippocrates (0627) - On the Sacred Disease (027).json": {
+      "version": "1.6",
+      "compressed_bytes": 69378,
+      "compressed_sha256": "cd22bde4803331e44a5a0ddb1b81fabc1c9ac26df8e99d210f1578f31d6a0f70",
+      "json_bytes": 984188,
+      "json_sha256": "f1914659c152d86c61b4bc343e4656ab7543d05fc8ce2433c55956fa166bc150"
+    },
+    "Hippocrates (0627) - The Book of Prognostics (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 76050,
+      "compressed_sha256": "6470c8da0b81ef8206e7dd1388978cf113065c72908d13e176c909c7f4b4c9a7",
+      "json_bytes": 1096157,
+      "json_sha256": "3708da9e79da73cad12359f13157d4f172fdb657fc71c706b9342486aaa48eeb"
+    },
+    "Hippocrates (0627) - The Oath (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 5734,
+      "compressed_sha256": "a659251508d4abc74443112659746d2e55b464905374813f27ece67c575d7ff0",
+      "json_bytes": 54745,
+      "json_sha256": "925e31baeb78712d7c958ffa2637cd434632b1981054d16b6684a7fa783707f0"
+    },
+    "Homer (0012) - Odyssey (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 1578834,
+      "compressed_sha256": "4f70fe02d99fa06747bec7b813e98cf577e47db6aa8cc8d9ca01778a95973c14",
+      "json_bytes": 18814494,
+      "json_sha256": "d0b6678c2104bc3e0e3f693aa6820f52472ff341b85981173204f97f3e070fe8"
+    },
+    "Hymns (0013) - Hymn 01 To Dionysus (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 4524,
+      "compressed_sha256": "f2d39f4e5259ea134d2d4327d4400bdc2808bcef24d7b73d439f981677507198",
+      "json_bytes": 33503,
+      "json_sha256": "3d35f7414d28451e093cfc1d45c5f3c25b5817c4051b2c79560d5e536d0d7b0b"
+    },
+    "Hymns (0013) - Hymn 05 To Aphrodite (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 38520,
+      "compressed_sha256": "9aab3672a2517b803b646f3b2648c4b66aed8c841e6b21b095dd386e007fa5a7",
+      "json_bytes": 443472,
+      "json_sha256": "d29152eb075c1cdefdfc1c298cb90d1743d1ab5b987f21d664ec34831d4cf359"
+    },
+    "Hymns (0013) - Hymn 06 To Aphrodite (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 4293,
+      "compressed_sha256": "5cac24f72a941a4686c9e31668049e62bedc66dad271979e41e90e62e8d645bd",
+      "json_bytes": 30417,
+      "json_sha256": "652696c20437b845265ff44fc14b36f01505c000e3870c953a895e615876a2ac"
+    },
+    "Hymns (0013) - Hymn 07 To Dionysus (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 9715,
+      "compressed_sha256": "aa2f20a71fef0326aa186579746880b102a80102bddef7099f3fee1e19fc11fd",
+      "json_bytes": 94020,
+      "json_sha256": "bd0d8550c9f672788b19c57b29155ccb2b2450801b5648ed41c7cf695cfb1ec0"
+    },
+    "Hymns (0013) - Hymn 08 To Ares (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 3887,
+      "compressed_sha256": "63a0d06fdf9a9f1423800bf81fc23e926e09017782058f510cfd2c8030dc3f9c",
+      "json_bytes": 23693,
+      "json_sha256": "f42bb1312a77d85c47a0e797e424c226e8da95f000a7486adb3955cbc8eb2b76"
+    },
+    "Hymns (0013) - Hymn 09 To Artemis (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 2672,
+      "compressed_sha256": "bfdab5ea927d455f3b29cae7b18e59f80f14984960142576886694899cdc22d8",
+      "json_bytes": 14269,
+      "json_sha256": "cb9781614919741df2e6b8a989d986500c66c731fcbd8e658667cbf67287fb8b"
+    },
+    "Hymns (0013) - Hymn 10 To Aphrodite (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 2312,
+      "compressed_sha256": "68a5e743cbfcd40359d6a270615ee29d6f6e7dab4ba7eb902a005e081391899e",
+      "json_bytes": 10769,
+      "json_sha256": "de33cf54c8ad4450e3b9fb995eb972c57c5a5c965e8c9860435cd900ea2c2b22"
+    },
+    "Hymns (0013) - Hymn 11 To Athena (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 2139,
+      "compressed_sha256": "35928f5e5a6649d50b6385e5482acff6b699d6c9fb80c4e34d59cdd5e6450bf4",
+      "json_bytes": 9728,
+      "json_sha256": "2013850f90be13d7f6624696f6709e0e28f3219865c6a387e0b22fdfb888e04a"
+    },
+    "Hymns (0013) - Hymn 12 To Hera (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 2040,
+      "compressed_sha256": "33b936cd94568308fe2809a759a7a50531bc834d57d35b2fc90470c901299bea",
+      "json_bytes": 8370,
+      "json_sha256": "b707617933c4430323607f91af4c6e24b3cd6a3c6c7d6767f0450da161a6c5f3"
+    },
+    "Hymns (0013) - Hymn 13 To Demeter (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 1745,
+      "compressed_sha256": "46157fd690f682289decdf4f3b681e88cbf3ff53c0f11045cdf808ace1bd5d06",
+      "json_bytes": 6763,
+      "json_sha256": "1f8d1048504ad584527109b01723de9b677e44081c24fb51da02e40d49ac74f9"
+    },
+    "Hymns (0013) - Hymn 14 to the Mother of the Gods (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 2326,
+      "compressed_sha256": "8ac3bc6d87aed75fc33b0a7c5644753c31233b59c5d2d95736866b2fd518a545",
+      "json_bytes": 11618,
+      "json_sha256": "8bad30660ad3396e6518125a21f7f86223c8cc1a573010ed45bd4acdfa849c56"
+    },
+    "Hymns (0013) - Hymn 15 To Heracles the Lion-Hearted (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 2807,
+      "compressed_sha256": "4233b8821d08a51eb9ea51445692f1d492a05d7789843787d1eb7a22d725e5bf",
+      "json_bytes": 15333,
+      "json_sha256": "0652189ad73889fac306e98e6f5e6492de9ce5d1aad549049cbe05c9afd49409"
+    },
+    "Hymns (0013) - Hymn 16 To Asclepius (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 2172,
+      "compressed_sha256": "c85c5571f6df5f2a4711152a21764a7178ed16048e240892814b8c28df5dcdea",
+      "json_bytes": 9130,
+      "json_sha256": "0202119d03d28baf698b1f97987f63a324cb554c483520c6e81575f0d8a0585b"
+    },
+    "Hymns (0013) - Hymn 17 To the Dioscuri (017).json": {
+      "version": "1.6",
+      "compressed_bytes": 2070,
+      "compressed_sha256": "0c780cb6e0977016b52a4c7137e3b6af3d4d9651a8d6f433b23de9326afd11d0",
+      "json_bytes": 8073,
+      "json_sha256": "52421540112771bb58ed687df27dce097ec8fa3c62fff128f707b0a086915f4a"
+    },
+    "Hymns (0013) - Hymn 19 to Pan (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 8269,
+      "compressed_sha256": "3e931df071b1778efd6dc366573d31a3bc889ca126baa1cc3a50382f4e79f0de",
+      "json_bytes": 74872,
+      "json_sha256": "7b0853af174a81533febd707ff97a9538fdae25f695494fffeb0168131edea9c"
+    },
+    "Hymns (0013) - Hymn 20 To Hephaestus (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 2662,
+      "compressed_sha256": "a3a50c8451cbe5236f8809a86cd3ca14de16106b2084fd45596294f35a958284",
+      "json_bytes": 13395,
+      "json_sha256": "f4b3fe941c2a3179f00f0c2ba3e5535d847f9e37c6e64ca2e693f2ef135daa34"
+    },
+    "Hymns (0013) - Hymn 21 To Apollo (021).json": {
+      "version": "1.6",
+      "compressed_bytes": 2123,
+      "compressed_sha256": "87e02299ce59803bb992a3212b294c4d0e6feb373ac25e9730ec0902525eded8",
+      "json_bytes": 10204,
+      "json_sha256": "9aa890e74b2542b406e7c14980895d1a93cfb4093902f03a49db4761c02d1d67"
+    },
+    "Hymns (0013) - Hymn 22 To Poseidon (022).json": {
+      "version": "1.6",
+      "compressed_bytes": 2398,
+      "compressed_sha256": "6bff9b6d141a44f90168654d45267d9295dff5adf25155550b46e4d1dafb5b37",
+      "json_bytes": 11494,
+      "json_sha256": "54bb6677312eb8e954dbae51f9a0b27b84527409c5716f980384af57ba6e8c18"
+    },
+    "Hymns (0013) - Hymn 23 to Zeus (023).json": {
+      "version": "1.6",
+      "compressed_bytes": 1873,
+      "compressed_sha256": "190bfe37057f83c88eeb9c5afb2835546380701449469bec1e339f9b8159bd00",
+      "json_bytes": 7118,
+      "json_sha256": "e149bbd952655c25f494a881b8c70ad43ef52d851f7f9eda933dd47da9853250"
+    },
+    "Hymns (0013) - Hymn 24 To Hestia (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 2159,
+      "compressed_sha256": "f80edd9fe662c6f7bcde65fe6c2cac4e90e949b0195c6b3a92033f9a56322793",
+      "json_bytes": 9277,
+      "json_sha256": "97d58887b64be7fe367ecbeccbf19be9b58f754219ac030b3673b1db46a81859"
+    },
+    "Hymns (0013) - Hymn 25 To the Muses and Apollo (025).json": {
+      "version": "1.6",
+      "compressed_bytes": 2454,
+      "compressed_sha256": "3ef9a4194486a219a0e9ecfbf3416a4fb36d92643e95e44306de81bc972bb8b6",
+      "json_bytes": 13101,
+      "json_sha256": "5968aa0cdac4775881710b408d4a2cce54f485038da323d5b506d958e40be8d6"
+    },
+    "Hymns (0013) - Hymn 26 To Dionysus (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 3402,
+      "compressed_sha256": "9babbcc87a7e694201db9bf863c9da21bceb0b31a10ec37e711553ac8a617a0f",
+      "json_bytes": 21560,
+      "json_sha256": "b4ee05a88bc4d9621ae2168a599b506f45f7c68374815af01699619f50175615"
+    },
+    "Hymns (0013) - Hymn 27 To Artemis (027).json": {
+      "version": "1.6",
+      "compressed_bytes": 4324,
+      "compressed_sha256": "bf0b773a611d518ebe765730285b992fa2bc376188644270e6a281c16b3c7fd2",
+      "json_bytes": 31010,
+      "json_sha256": "f7837c992ea8d7e3acf85f5471de2d822ab569e75582cd229172394e20eb542d"
+    },
+    "Hymns (0013) - Hymn 28 To Athena (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 3878,
+      "compressed_sha256": "a069ff55f56525f597e9584abf45d2b8029f7c4af514f9f416c799a25c308a71",
+      "json_bytes": 26765,
+      "json_sha256": "97982b5b7ee1ac02fc6ba454a10efc40931e9aeb83f516fb23d3a4b9d41ebc99"
+    },
+    "Hymns (0013) - Hymn 29 To Hestia (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 3526,
+      "compressed_sha256": "dabc63fc3a4568b8f1544862be71dd745712689518a7241ae78679633278849e",
+      "json_bytes": 23307,
+      "json_sha256": "187c5ec3c3429889e154f57652c272e1a219931d70141d27d6d5f987c60d2584"
+    },
+    "Hymns (0013) - Hymn 30 To Earth (030).json": {
+      "version": "1.6",
+      "compressed_bytes": 4225,
+      "compressed_sha256": "eceddce8d10b4b69bbd55b7ddba69187b4050921847bdf08c6d331ee9e077426",
+      "json_bytes": 31274,
+      "json_sha256": "e9543882f3e6eba5a9ceed6f030c3a5e74f137a99b6c13a4872d0abecfc256e3"
+    },
+    "Hymns (0013) - Hymn 31 To Helios (031).json": {
+      "version": "1.6",
+      "compressed_bytes": 4326,
+      "compressed_sha256": "5c29d87f3e1b2caff15dedd667a9c88f323c166b93d6a2e9bde4de047ec09c95",
+      "json_bytes": 30648,
+      "json_sha256": "2b9c3d37ecec64b8cf65827aca9b72135f286c60f6def6d5e1dbd71ad6cf3a20"
+    },
+    "Hymns (0013) - Hymn 32 To Selene (032).json": {
+      "version": "1.6",
+      "compressed_bytes": 4243,
+      "compressed_sha256": "e9c7578ef9c5dde8f5406a7ace715918cd1b9230805b8882d94e980c6c661bec",
+      "json_bytes": 29111,
+      "json_sha256": "5f2942db2ccd5fb785ee6568cee651335bb918b3deeae63a392d535ef32e2df6"
+    },
+    "Hymns (0013) - Hymn 33 To the Dioscuri (033).json": {
+      "version": "1.6",
+      "compressed_bytes": 4066,
+      "compressed_sha256": "402149b71821c57b2a3f4a417c4cf81e987051b9279c77a559120b530199b1f6",
+      "json_bytes": 26859,
+      "json_sha256": "b0d13517620285c7927c186e7bf35ee28c19eb35fcb5681d4557bfacf708f7c2"
+    },
+    "Hyperides (0030) - In Defence of Lycophron (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 25086,
+      "compressed_sha256": "41877c18175d9526fb277314b0bcc4ff8e5e78f5c986817ade919311acfea384",
+      "json_bytes": 295022,
+      "json_sha256": "e19cbe47f8a7c1fca8e37faace3e78e1aff5c953687ff32cbfc49ac1a8681420"
+    },
+    "Isaeus (0017) - On The Estate of Apollodorus (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 46312,
+      "compressed_sha256": "15d72e4def27ada1f06f5f4bb8c12d3128c606f3d55aa0b7c87e334a890012ac",
+      "json_bytes": 587912,
+      "json_sha256": "7aa702da59024c6d8d0cc6a86c1f698634173c7ea8521000ece04946316c37c7"
+    },
+    "Isaeus (0017) - On The Estate of Cleonymus (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 44488,
+      "compressed_sha256": "db3e261ec4a5770e17b7fd6b7698f85da4b19245267b01796098f90fab604358",
+      "json_bytes": 572077,
+      "json_sha256": "9e0f6f3141d32b6866598b65cad5e6248abb57eb1e6e90c678dd60aece5ea76e"
+    },
+    "Isaeus (0017) - On the Estate of Hagnias (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 57301,
+      "compressed_sha256": "0652d052db1ee0cbcb1b2de73d87645ae4436e7f949373e9c7f7b2529979f7ce",
+      "json_bytes": 753415,
+      "json_sha256": "f1848e90e050aacf6127f2d2e478fc3145fdfcd919a316662897c468f8fa6a5f"
+    },
+    "Isaeus (0017) - On the Estate of Menecles (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 44094,
+      "compressed_sha256": "f090251bba9b72d25df6ff9b138f38bec2f6461bf357ccc84ae809cf68b5c7ab",
+      "json_bytes": 573864,
+      "json_sha256": "f5c6195ae3ef2491005175cdadd4a709c396a1bcb7b6c30e10bc64ed03d80ba0"
+    },
+    "Isaeus (0017) - On the Estate of Philoctemon (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 59829,
+      "compressed_sha256": "9b6197fe8bc57f98f128ca54f2b559c1207bcb687f2e5f9c3ffaf15a1d0b1293",
+      "json_bytes": 758647,
+      "json_sha256": "f6c9012477e400bfe043dea901326b341d63a3f73878aa994f8d53761d33b870"
+    },
+    "Isocrates (0010) - Aegineticus (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 49812,
+      "compressed_sha256": "2f4086247fa887897957260a51c9de9e27e1c8a8d02db289ea419e9853479b01",
+      "json_bytes": 611004,
+      "json_sha256": "105aa3a08eb1c23f119c953dc4e939efde35ca68e5f717bfd8106a8ca4707240"
+    },
+    "Isocrates (0010) - Against Callimachus (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 60612,
+      "compressed_sha256": "6a574d32b6d14132687cb732cfeacad95efec9e7c5f49aa1c1a873cccb8c9e51",
+      "json_bytes": 746671,
+      "json_sha256": "efe60b1698e9920d19062bd6b8a965cf5c4adde122c567facd83d405a08d0955"
+    },
+    "Isocrates (0010) - Against Lochites (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 20300,
+      "compressed_sha256": "97bfb7914343ed71181342b233a3661172848d76ec88c0733c35061aaa06de2f",
+      "json_bytes": 236959,
+      "json_sha256": "05738f69dd909c24ad0eee175916125bb14ceb879394cc3cdb61d1f508438169"
+    },
+    "Isocrates (0010) - Against the Sophists (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 23557,
+      "compressed_sha256": "2a02bbe79b3bf7a0601712fbd5cd360ac6a3c04c094b04168a359ff7e03c2d91",
+      "json_bytes": 277716,
+      "json_sha256": "7f4ad6506cda607fe5c691b220a498d75f45bb44a858c74ff1722072315b460f"
+    },
+    "Isocrates (0010) - Antidosis (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 284778,
+      "compressed_sha256": "ec3f28c87d7df5d161eefff7c5b6004ca4bf6b08c32c17ecc6a74f131e5afae8",
+      "json_bytes": 3664783,
+      "json_sha256": "462bad8ef27585b2605487415ce4c0c569d56a792af5eb462a62f52acdff12cd"
+    },
+    "Isocrates (0010) - Archidamus (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 103087,
+      "compressed_sha256": "663209756210fdf6144feabddf5d75cdb697ac84e740f41b803f2198f7c0e571",
+      "json_bytes": 1278990,
+      "json_sha256": "f7ea75124212b97c8ca9a6a94ea0dee192948535e570a247f806ce56929de30d"
+    },
+    "Isocrates (0010) - Areopagiticus (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 76047,
+      "compressed_sha256": "44ffa1cc76bf88cd7ae5060e13f30d6986bba18eaf5b43aa9ea3ceab745d0b24",
+      "json_bytes": 957703,
+      "json_sha256": "b81a0582422e2f82e99c0c5ea09b4d26d91bd9fa258d27fdb5f8c5124c271b4c"
+    },
+    "Isocrates (0010) - Busiris (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 46290,
+      "compressed_sha256": "dcf00cf8478c835e1fdb7ba68ca440dbb5b2a98ffce26b897e44bdeccc3dc2ca",
+      "json_bytes": 573383,
+      "json_sha256": "2f887158b54724806de5d2c92b2b718682cea288bded7d1ecf346e2baa304e5f"
+    },
+    "Isocrates (0010) - Concerning the Team of Horses (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 49228,
+      "compressed_sha256": "7aeb972920d8fb57943ad4fdb9e233aa25f7049e3e63ac99a401221e58a3c814",
+      "json_bytes": 603771,
+      "json_sha256": "8a255d5f7ca845047930e1d67f31a3e15fd0098ce68a17d2a1f0e16aed4463bd"
+    },
+    "Isocrates (0010) - Evagoras (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 74970,
+      "compressed_sha256": "5c7cb3eca004d4c42b1b1461b7d006df2846dedeedcc13fad1f17922c704eebc",
+      "json_bytes": 952913,
+      "json_sha256": "0f5ba2b1c0ea284cc0404551e16e1e420de6fe2660c57ccc76590ec3f8cedfd2"
+    },
+    "Isocrates (0010) - Helen (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 62628,
+      "compressed_sha256": "b1a7113a875215411f0b3f4f2f0fb920b7241a46016aadae6377f801c5a44a7c",
+      "json_bytes": 778642,
+      "json_sha256": "37429b6af0fc0145ad85dbbe2db2f763db395d3c564e0f2f5068771a575ace27"
+    },
+    "Isocrates (0010) - Letter 1 (022).json": {
+      "version": "1.6",
+      "compressed_bytes": 11132,
+      "compressed_sha256": "cd627647d2dd100fbb14963797c6cb482c04cb9676508caef94b210e0a537f36",
+      "json_bytes": 123045,
+      "json_sha256": "9146605b2cba8b3a1bb49031dbb9b59f09e966502bb46877c132f9f011be94d1"
+    },
+    "Isocrates (0010) - Letter 2 (027).json": {
+      "version": "1.6",
+      "compressed_bytes": 22722,
+      "compressed_sha256": "8f13df6fbbe636aacb98a21c54c6163284d736fa1f5e7d42fb0c12d1822c7be8",
+      "json_bytes": 269328,
+      "json_sha256": "0b9d3e455dc9bd3b78e03e892d70144499fc049e534d0e935118940ad5d07a03"
+    },
+    "Isocrates (0010) - Letter 3 (030).json": {
+      "version": "1.6",
+      "compressed_bytes": 8637,
+      "compressed_sha256": "5fa18aae0c89c6b4c901e5436e4ea20012ec4ff2169b25003a8f37883d8309f3",
+      "json_bytes": 89316,
+      "json_sha256": "14dfc17b22845998c95a2ec164322caee2910db43f347d5026835a4265683574"
+    },
+    "Isocrates (0010) - Letter 4 (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 15223,
+      "compressed_sha256": "7db474e17890059325e02722faea128be5bfc76b39793ab5b83764843a7c548e",
+      "json_bytes": 173428,
+      "json_sha256": "7bbcf32fcadc0f11d6dc6c3446d167ab799d7e19c18ff7b69661b30adb64904c"
+    },
+    "Isocrates (0010) - Letter 5 (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 6327,
+      "compressed_sha256": "be238ddb627cd7835337b342fc12ec45beecee7e8b669ea3a8ba506333e70b4f",
+      "json_bytes": 60519,
+      "json_sha256": "76327aaee1c9bd744140922981d683763748172298aa827279372137751bd968"
+    },
+    "Isocrates (0010) - Letter 7 (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 14719,
+      "compressed_sha256": "8e5e889d369f2064b058f85aba4fd86e0297af6b03056f0aada5af98c5dbf66d",
+      "json_bytes": 165058,
+      "json_sha256": "58342888b1093961565d53ad882c85081b3d2dbda7ad9b87136d27aed324ce8a"
+    },
+    "Isocrates (0010) - Letter 9 (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 20939,
+      "compressed_sha256": "1e733750d5f572c7ec853209d7facddd3ee38d20c56d8c43c3085caa7251f761",
+      "json_bytes": 240046,
+      "json_sha256": "b967845ab46bb2eecfc71a1be7bedc324459584a02cb914ca524b573533496ba"
+    },
+    "Isocrates (0010) - Nicocles or the Cyprians (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 60291,
+      "compressed_sha256": "91a502519ad3bd217e3349c7b476000b8a1c8adc08d2052ed8577a23c97a978a",
+      "json_bytes": 786049,
+      "json_sha256": "68254170e08fdb882296edeea1ec2a2aa87a426998c85b8fb8767d66386cb6b1"
+    },
+    "Isocrates (0010) - On the Peace (017).json": {
+      "version": "1.6",
+      "compressed_bytes": 130729,
+      "compressed_sha256": "6e08e2c2332bb9658d468bcda20e2e4a1f59e451284c8a95ed4519953838eb56",
+      "json_bytes": 1659289,
+      "json_sha256": "265120c77d70227b554172cc2f50f9521755105fd54f960b6e2a8a45c43c360f"
+    },
+    "Isocrates (0010) - Panegyricus (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 177627,
+      "compressed_sha256": "bd99d9865f2a1ac9ea52bd7391c75d882aa47145791ba31d672b7d6de08f1796",
+      "json_bytes": 2246755,
+      "json_sha256": "eca97ee1c47e90c020b3d9d1ddc489b779a6689286200daa0f5dd0419fe458aa"
+    },
+    "Isocrates (0010) - Plataicus (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 54757,
+      "compressed_sha256": "35dccd3a1cf48de6f075715a435cd81fa1158a37c28db1b66f77407d031944f3",
+      "json_bytes": 671132,
+      "json_sha256": "ebdb19e79695256451282e434ab9cbc3dbbe887e5a7f2463b0e5d21612c85be6"
+    },
+    "Isocrates (0010) - To Demonicus (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 48725,
+      "compressed_sha256": "f987e7a869daeda7e96836082b39fef8351c6fd76d0e13c430a2ae99a9b26348",
+      "json_bytes": 621453,
+      "json_sha256": "740746777fa3c580a1c4f5682fa66680f6ea13eee2b1801216dc92d9b35a0f61"
+    },
+    "Isocrates (0010) - To Nicocles (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 50237,
+      "compressed_sha256": "eca721dbf102a67c74d61aed27d543ad6d2f5011c50e7d74ddcd68245cd47f4f",
+      "json_bytes": 632215,
+      "json_sha256": "e1c89ff22ffb5933c60fdeb62a0cbe207199158eefc650467a423f2221fa97de"
+    },
+    "Julian the Emperor (2003) - A Consolation to Himself Upon the Departure of the Excellent Sallust (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 52846,
+      "compressed_sha256": "c823703162e8967708eeb1de9bd84c05fa59363282db89db524382844acd4774",
+      "json_bytes": 634873,
+      "json_sha256": "fdc7f09fa0f11d02ae633a015ddf2010721035b7c60993de33b079939f8543cf"
+    },
+    "Julian the Emperor (2003) - Epistula ad Themistium (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 57487,
+      "compressed_sha256": "7c5d37aa0a7982c021b9e385d3ac6b484f9c609496d606dee140a3aec0192b35",
+      "json_bytes": 688326,
+      "json_sha256": "e90f45c76c6cb83be610b7d4b6e73ee73029037c12432b28306851faa2b1fd6e"
+    },
+    "Julian the Emperor (2003) - Hymn to King Helios Dedicated to Sallus (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 119427,
+      "compressed_sha256": "784e1668db50deef75288b8159edb5da6a3d1c827f53edf01d43735fe974ca7b",
+      "json_bytes": 1551270,
+      "json_sha256": "bbdb579632cf4b865a453d04102416104d949b5cc955a970293d2071de507b11"
+    },
+    "Julian the Emperor (2003) - Hymn to the Mother of the Gods (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 92111,
+      "compressed_sha256": "2c12d6d638ff2e57750b3fa4c7938449ebd2f00445e851080d7ad4d3a85c60a9",
+      "json_bytes": 1190112,
+      "json_sha256": "91df6029c806ac79bc1d52bdb57fc48c6327811369930f4c0a40b6eb6b62d269"
+    },
+    "Julian the Emperor (2003) - Letter to the Senate and the People of Athens (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 79919,
+      "compressed_sha256": "ef365c31ff6a2c1c86dd3ad63e0e55e8482845c9563f8c4b0ed4d8d6f5b446b9",
+      "json_bytes": 970855,
+      "json_sha256": "406820219c09808de3586f8281d3f15785ea6eb3d589220588bd979f5f8d5663"
+    },
+    "Julian the Emperor (2003) - The Caesars (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 112465,
+      "compressed_sha256": "748174a9eda8a7d62f8970c58e56545b2586f41d974b76aa7372ddeedf1db955",
+      "json_bytes": 1404527,
+      "json_sha256": "26ec18d547fce219673fa6805edddbba722f4464c4d1d6d797c95e2ac924aa9e"
+    },
+    "Julian the Emperor (2003) - The Heroic Deeds of the Emperor Constantius, or on Kingship (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 222635,
+      "compressed_sha256": "3464f7e8414133e532c138bbe60e3c2dae95ec9813fb099c48cc10c5f17799b6",
+      "json_bytes": 2715911,
+      "json_sha256": "f83d1cc2cb99caeeb7a013dda957a6d7887723086e4252a9136822010ef57a21"
+    },
+    "Julian the Emperor (2003) - To the Cynic Heracleios (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 147272,
+      "compressed_sha256": "9302a2a51f48120e68ad9a37989371df2eddad062a463835e40200770be596aa",
+      "json_bytes": 1839661,
+      "json_sha256": "5daa8aad632ccfa22178d14adbba3986bf551eea43333969df2b6869ef22fda9"
+    },
+    "Julian the Emperor (2003) - To the Uneducated Cynics (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 95680,
+      "compressed_sha256": "6237f91382a7b3d5d78e27d04f7045691405e55e3db554dfd09c3d8d08072ca6",
+      "json_bytes": 1183181,
+      "json_sha256": "e2f8465872ffb3d44fe02f7997fb949c6b0e6ed3e8c9164acb4d1661b4a34ab2"
+    },
+    "Lucian (0062) - Abdicatus (052).json": {
+      "version": "1.6",
+      "compressed_bytes": 80535,
+      "compressed_sha256": "9fe81b2fd58fdea444bb6dada8c1902547c1ababff6a529e4f461327736d77ad",
+      "json_bytes": 1006972,
+      "json_sha256": "bff820487ce0023f57ed356b8e2785d1850cc760f66b1445019a1a244981b00e"
+    },
+    "Lucian (0062) - Apologia (059).json": {
+      "version": "1.6",
+      "compressed_bytes": 37470,
+      "compressed_sha256": "be17ffc517b78bbb1128886d8b77c58790873c921ea30c16a39d1534de7d8b44",
+      "json_bytes": 432902,
+      "json_sha256": "8188da8e9ea086c7aade1c8507b24f0b29f27fea8d774bcab8d8f1b25ff3d6a9"
+    },
+    "Lucian (0062) - Bacchus (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 19544,
+      "compressed_sha256": "741b3906acd970cf875d1724ca3fdcb2a6859ce3a38ecd6e2833bd9777d85711",
+      "json_bytes": 216328,
+      "json_sha256": "6ffa35b061bde0a9964f636886fb182ea33f493e62e9c4cbb1c3452e148a1b8b"
+    },
+    "Lucian (0062) - De Domo (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 53734,
+      "compressed_sha256": "73f2e13d555cadb1c223e28d08652a20c5731b6bf03d4f8d7c80337a72d828d0",
+      "json_bytes": 652504,
+      "json_sha256": "cbbc4872bbfaaed28f399720c63ec216c851495c7c5b3dc6ac13f04991fed3ba"
+    },
+    "Lucian (0062) - De Syria dea (041).json": {
+      "version": "1.6",
+      "compressed_bytes": 98412,
+      "compressed_sha256": "4dc4e5679e5e07c30eef36cac59f86d1053f747d013491291ea0e447a8815dd9",
+      "json_bytes": 1310467,
+      "json_sha256": "bd6209162e1649b2eb128e60b01ecfd3c6bd850d2f9ea9b6cb14dcfddfa63db0"
+    },
+    "Lucian (0062) - De astrologia (048).json": {
+      "version": "1.6",
+      "compressed_bytes": 32975,
+      "compressed_sha256": "87484d9678dd48bb06f47e0b0731022ee30568af631ece333a4b371a3991a829",
+      "json_bytes": 411426,
+      "json_sha256": "a44f78778f673571f0734844d36121aa045c8b8081e93438c350e2f4f845c2c3"
+    },
+    "Lucian (0062) - De luctu (036).json": {
+      "version": "1.6",
+      "compressed_bytes": 31806,
+      "compressed_sha256": "68dd4fd31d992aec9abc2ffc6213d3623cb2d5e58d5f0f3900a8596ee283e6e2",
+      "json_bytes": 368108,
+      "json_sha256": "ae21537e0f6e934c27ae1f9d2ac645adc00b37131334a60f7d782d93c00e5381"
+    },
+    "Lucian (0062) - De morte Peregrini (042).json": {
+      "version": "1.6",
+      "compressed_bytes": 74159,
+      "compressed_sha256": "be72183e8a568b616b0e774c3bd14159e0d42807a17fb71cc6222ddec3165fdc",
+      "json_bytes": 881215,
+      "json_sha256": "226812ab19c47d63002180b83e5904185f39c0fe8ad44c88b83acd5cd0a99346"
+    },
+    "Lucian (0062) - De parasito sive artem esse parasiticam (030).json": {
+      "version": "1.6",
+      "compressed_bytes": 101083,
+      "compressed_sha256": "8bc9c54ce689b1498116712311c06f8cf2772491ccb4d83731d66729684a8ef5",
+      "json_bytes": 1328622,
+      "json_sha256": "a25c7cd5268110ce323e3926ae8a1a0f3fcdade56626cf0d417ed4137ec48589"
+    },
+    "Lucian (0062) - De sacrificiis (027).json": {
+      "version": "1.6",
+      "compressed_bytes": 31794,
+      "compressed_sha256": "16cb51b36bdebc5a0423db1a0188097e02a919a4ab25af5c50ad971492179b20",
+      "json_bytes": 370985,
+      "json_sha256": "0dd007e7331eac10a572fcae2102798c76ed097e7ed54100b1474a1838907834"
+    },
+    "Lucian (0062) - De saltatione (045).json": {
+      "version": "1.6",
+      "compressed_bytes": 117011,
+      "compressed_sha256": "6abfb5d0ac1b959dc133ee8642c78b2119c5aeda046daca17f57ed79d7ac3621",
+      "json_bytes": 1453974,
+      "json_sha256": "4bee4c5af55eb399d671b119cad02dfd1edcf1e7ee8675168ef967b9fb30a620"
+    },
+    "Lucian (0062) - Demonax (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 53749,
+      "compressed_sha256": "d3bc8d4acc18fa4ddeafd09723fbc3e76a5bda8d621269b001d92951a867c105",
+      "json_bytes": 649010,
+      "json_sha256": "476ce7cbd5e576084e118ce6ea1444bc601cfb1c95065edf90d4b2b389fe8e35"
+    },
+    "Lucian (0062) - Dialogi Marini (067).json": {
+      "version": "1.6",
+      "compressed_bytes": 67006,
+      "compressed_sha256": "3e2bdd9e25a880fc30a64e17c602c460a3101320667c231a5685d5a17f18b3c4",
+      "json_bytes": 827176,
+      "json_sha256": "382a62993625a69d8fc7df76420763543fb3922a5dbfbe01407bc9fa63e17565"
+    },
+    "Lucian (0062) - Dialogi meretricii (069).json": {
+      "version": "1.6",
+      "compressed_bytes": 132494,
+      "compressed_sha256": "94ce7effae5c0afaf36acdfa79eb23d84e49c9ca28f8c0a38c342995adf8a585",
+      "json_bytes": 1655604,
+      "json_sha256": "c4ed3c6fd46542fa423bb996395f253f6da4d6a57a7ea343dd046c4f2068e128"
+    },
+    "Lucian (0062) - Dipsades (054).json": {
+      "version": "1.6",
+      "compressed_bytes": 17684,
+      "compressed_sha256": "eea3e83ece762fba8d8fe9dfc0e76eb0bb30e50af9e4a7983c6e936aabd1e3af",
+      "json_bytes": 198043,
+      "json_sha256": "b66ff6d6f6362efdfe7b323779aa4d9d5617a24a2a9b4cc7cbbd671959164351"
+    },
+    "Lucian (0062) - Electrum (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 12246,
+      "compressed_sha256": "971eb53ebbc5e90d4934c70ce3f9269f768163a6ee47e376127e8d44b918afcd",
+      "json_bytes": 128561,
+      "json_sha256": "c0ebc744a332909125d62ceaf6eaa43d5c59bf63180a2d031a2d7db1441cbfcd"
+    },
+    "Lucian (0062) - Eunuchus (047).json": {
+      "version": "1.6",
+      "compressed_bytes": 23286,
+      "compressed_sha256": "d2e46e6a442e87c5831df92d72acd23ae2f8125203681470fce207fd4814cb07",
+      "json_bytes": 271458,
+      "json_sha256": "4487ed1878b58e229a249aa57b19384f989d67331c0cd2c2888885be7fffa16c"
+    },
+    "Lucian (0062) - Fugitivi (043).json": {
+      "version": "1.6",
+      "compressed_bytes": 55241,
+      "compressed_sha256": "cfe901c9294f6348c9ea422ac273f8b56322a94133a8ecc41bd388734caf47e3",
+      "json_bytes": 657276,
+      "json_sha256": "3f6fa108d08780f7e90f31bad24a55b5e2265b4338a9873e2fd9b7becf96c3c8"
+    },
+    "Lucian (0062) - Harmonides (060).json": {
+      "version": "1.6",
+      "compressed_bytes": 17583,
+      "compressed_sha256": "900d745e82eff108e808cf40bf42eea510cd92b63a0a08659c13178408ebd500",
+      "json_bytes": 204263,
+      "json_sha256": "3292035176a41a38accbdfb40b67ebbad75c0d8b19a40fd8e748fe6cc93d8893"
+    },
+    "Lucian (0062) - Hercules (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 14845,
+      "compressed_sha256": "5cd9bb8fdf715e0005ba51b43ab14232d7bd748babf40d936dcf4860f55f0edb",
+      "json_bytes": 161274,
+      "json_sha256": "d9a8ac00b7c18b2d283f157443eb54398ba55dd30023d544447f1630308153a3"
+    },
+    "Lucian (0062) - Herodotus (056).json": {
+      "version": "1.6",
+      "compressed_bytes": 17441,
+      "compressed_sha256": "bbae90bb8411abb6d603addadf4d4a8e69d4ca468685968f5f9d92c751b027f2",
+      "json_bytes": 192990,
+      "json_sha256": "68a3ac6e5d6cfcee5b378f0f27b3d6fb8feadfc989ec9c24a9fce7e99d68dc3a"
+    },
+    "Lucian (0062) - Hesiod (061).json": {
+      "version": "1.6",
+      "compressed_bytes": 16969,
+      "compressed_sha256": "f08ec79d2c02619c15e74f53ab09c970b56672e4ed13732c5cc388bed12345f2",
+      "json_bytes": 195980,
+      "json_sha256": "76bb96e3f3b9baf9cb3a501f8658a4bc690341a7d3d1f14b18200e972ea2b74f"
+    },
+    "Lucian (0062) - Hippias (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 17782,
+      "compressed_sha256": "581df8376d802fe673addbedaca6edaf147063ad8c8af9f49e4d520c7a603b2d",
+      "json_bytes": 202169,
+      "json_sha256": "d64c75f3f64e9a676f383cc8e2b23052276651848438fca2d9305947d5967d3b"
+    },
+    "Lucian (0062) - Judicium vocalium (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 21386,
+      "compressed_sha256": "146339c1216ec913da90c548f7c98de34a55c8f663b39fb295f15f476dbd8393",
+      "json_bytes": 241657,
+      "json_sha256": "27104289191714f69a13b744eced855e8d8a85cf4d03962bc6a85220766a19c7"
+    },
+    "Lucian (0062) - Lexiphanes (046).json": {
+      "version": "1.6",
+      "compressed_bytes": 49393,
+      "compressed_sha256": "db38b28bcdbd7e15629cfc568fe4021e9ba60932f95cd5da0f717620c0be65fb",
+      "json_bytes": 592863,
+      "json_sha256": "6faaea71dfd8d481478e40431d23aedb1dde4268eb2d8b95339f38ea79cfda3d"
+    },
+    "Lucian (0062) - Muscae Encomium (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 20971,
+      "compressed_sha256": "c5bbca6e7aba394d4774baf0d604c81d4fad13c0163145eea51a5ecac286d135",
+      "json_bytes": 248197,
+      "json_sha256": "25e1d98c0ffa6bc7736d9492ac19baf623635529fd9cbdab02a54e643b958ded"
+    },
+    "Lucian (0062) - Navigium (065).json": {
+      "version": "1.6",
+      "compressed_bytes": 92246,
+      "compressed_sha256": "9903155c5c8c7e3b3e4f944756406ec9e05322d994a91352215075de09d79044",
+      "json_bytes": 1110961,
+      "json_sha256": "57455b0e0d5803c1900c6d09d678aa617c84b2108d93a77083a936da0d75b961"
+    },
+    "Lucian (0062) - Patriae Encomium (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 16763,
+      "compressed_sha256": "c7fae52e212514308f6515ef580b1d4795db456c3711d8961d474fcb1d75a4a0",
+      "json_bytes": 202201,
+      "json_sha256": "2d19d4afd4f6855ee4f007bd6a582a7ae895c5be360f10817c10086f0ba21e04"
+    },
+    "Lucian (0062) - Philopsuedes sive incredulus (031).json": {
+      "version": "1.6",
+      "compressed_bytes": 106640,
+      "compressed_sha256": "590d9b09850788fc8ff21cc925cea09f172d6f861d5290b10bc4fa6fae0f0c4a",
+      "json_bytes": 1302793,
+      "json_sha256": "04cf2210890633721e3fa64ca9b4ddc74a25986ebf20adf3c44f2b9b237977cc"
+    },
+    "Lucian (0062) - Piscator (025).json": {
+      "version": "1.6",
+      "compressed_bytes": 108890,
+      "compressed_sha256": "71b81b00f1138d399782ba541fc89a845f657928082729ef22e2af330e4e84f8",
+      "json_bytes": 1330301,
+      "json_sha256": "d873857df3f7f2ab04d8a11e6112c954fa3c5624b24dcf888dfdb5a404bf0e6d"
+    },
+    "Lucian (0062) - Rhetorum praeceptor (037).json": {
+      "version": "1.6",
+      "compressed_bytes": 61375,
+      "compressed_sha256": "7acccf99240711f3c4e43063361b7a6769ca3bb74259fc374a5352523c6cf4c6",
+      "json_bytes": 739719,
+      "json_sha256": "10e6aae3cd4eb47c11019a5d555ca30d547c294af1a7eaad142d01592952d28d"
+    },
+    "Lucian (0062) - Saturnalia (055).json": {
+      "version": "1.6",
+      "compressed_bytes": 87905,
+      "compressed_sha256": "0f52ddf9755596706bf7f2c44ad137fc0ebb82578e15cad2b728d15a8bec69c1",
+      "json_bytes": 1081231,
+      "json_sha256": "564fa0817c0fc9ed556e66611997d52c82b931ade7e8fab21c64d0197a830cc4"
+    },
+    "Lucian (0062) - Somnium sive vita Luciani (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 32547,
+      "compressed_sha256": "9ef570ea115982e17b2c78ee9c24410cac158175161215dacb9e1ea9839f61be",
+      "json_bytes": 377010,
+      "json_sha256": "32c23cc5046c663acddf968c53cf351b717fedd7c025b2c9df5fcbc8f0f042d0"
+    },
+    "Lucian (0062) - Toxaris vel amicitia (044).json": {
+      "version": "1.6",
+      "compressed_bytes": 161742,
+      "compressed_sha256": "b4957ad8cb5676cb618f122eeaa77971c272d246895888ae61a20bcfcb638bdf",
+      "json_bytes": 2005829,
+      "json_sha256": "cee4a761c390d5450766920db3e262a69ece90f1da2754b841fdf238640191bd"
+    },
+    "Lucian (0062) - Zeuxis (057).json": {
+      "version": "1.6",
+      "compressed_bytes": 28058,
+      "compressed_sha256": "c8327290f5609155ebc4acc2ddb919c881e3a0a9174134b0cc8dd68c4a37415d",
+      "json_bytes": 332410,
+      "json_sha256": "c9b503d2f7bd60c18166b47dea94bb930b651b66b3dfc4e339e23c32f113b5a1"
+    },
+    "Lycophron (0341) - Alexandra (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 149531,
+      "compressed_sha256": "61c4994317e749f79de80365dfae90229d555e6a401184c13e377c605fa5f6d7",
+      "json_bytes": 1582375,
+      "json_sha256": "a3e26404142006cd85cdd01a68531d16ed9f94e2e739cfc6c7f5d37b48ff84ac"
+    },
+    "Lysias (0540) - Against Alcibiades 1 (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 40519,
+      "compressed_sha256": "f9ebf9d5a5c42e9b01c5bb69857a70ce07fb26484a800316b26e96613e06c91a",
+      "json_bytes": 504853,
+      "json_sha256": "f1fce7dbb8d994e92adc656d68c23683e2ecc1557bbd39d4153c4f17624f1376"
+    },
+    "Lysias (0540) - Against Alcibiades 2 (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 11517,
+      "compressed_sha256": "f91369170848c0d51771c5039acad41b9bf2a4e4e8be7ed68b8da145258c1f3f",
+      "json_bytes": 127906,
+      "json_sha256": "0cb6f68af3dbb065227c3768ece42eb25a2f4a927b77b83f4bf21399cc2f7e4c"
+    },
+    "Lysias (0540) - Against Andocides (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 44636,
+      "compressed_sha256": "b2d68fbc5cd46dad2c92a5087cafb29e9eba4ff6d1555ef8cc68cdc215631bfd",
+      "json_bytes": 548346,
+      "json_sha256": "98a473d53312084bbb333715bc889199f90b1f1c22d95be4fc88284de7fc069f"
+    },
+    "Lysias (0540) - Against Diogeiton (032).json": {
+      "version": "1.6",
+      "compressed_bytes": 29910,
+      "compressed_sha256": "87158e93df3a3ddb62faaef0eddd2e06cc247f548e214222fe6b64ed1c854bb0",
+      "json_bytes": 355132,
+      "json_sha256": "bf512b419e735a8798788fb6410af20d2713ded789c63aa7688a80e4e4120beb"
+    },
+    "Lysias (0540) - Against Eratosthenes (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 81225,
+      "compressed_sha256": "35d3a9fb79b7794d7fc73419d84371bba05c6ce7edcc1feafe9631f3ab806bbc",
+      "json_bytes": 1021454,
+      "json_sha256": "13446bb796f9530881937e8b9e989e8d5e70b43874e1f5b43319f44dd92fa667"
+    },
+    "Lysias (0540) - Against Ergocles (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 16424,
+      "compressed_sha256": "1f8b11c090cdbaff7ee66bb84b8cfffe7763cf9d07baa4a126a59f4204ea54bf",
+      "json_bytes": 192153,
+      "json_sha256": "5f4c733dd5b4359dfdd4c93cfe376373200b15e5365eed857624b82b3daa42a4"
+    },
+    "Lysias (0540) - Against Nicomachus (030).json": {
+      "version": "1.6",
+      "compressed_bytes": 31933,
+      "compressed_sha256": "8233fa9e55584e578d0d61d09d25018b0d289c77730a6724b66d2d9798bb28df",
+      "json_bytes": 396750,
+      "json_sha256": "1bca4da9308b73c02b5e5f7ce8ec9d0a5cd376ff7f96cdf99c9f23765e115023"
+    },
+    "Lysias (0540) - Against Philocrates (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 12357,
+      "compressed_sha256": "805dd80a876a8a2f8611806dcd6e06f55f766492ddc09f280b43b4d67740432f",
+      "json_bytes": 141421,
+      "json_sha256": "4beafd5147f36bbf8d2a71bb3d9b8b970d26ebcd66b1e595ca8773595033033e"
+    },
+    "Lysias (0540) - Against Philon (031).json": {
+      "version": "1.6",
+      "compressed_bytes": 30875,
+      "compressed_sha256": "230cf1af2b088fa9174e0f5c64f739498feda281fb4ef32b9bc50dbe210c6abb",
+      "json_bytes": 380712,
+      "json_sha256": "8f716be8bb54b2d9acfdc218da8ecd29996e719105452cf3a4317634717244f3"
+    },
+    "Lysias (0540) - Against Simon (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 37251,
+      "compressed_sha256": "8792aced0f59e95bbd4f602d3c110b1282d78d47dfc7ca9a17b42ae0b0fe47cc",
+      "json_bytes": 458796,
+      "json_sha256": "8180b4e4a680294b2843854ca0cd80cec38e8ff12ff857c198e1a9784a51f11b"
+    },
+    "Lysias (0540) - Against The Corn-Dealers (022).json": {
+      "version": "1.6",
+      "compressed_bytes": 20300,
+      "compressed_sha256": "d4b43ed2d7025d4a929f79e9ecf7ab683957ea6baabc8917b0b973f9c7ccad42",
+      "json_bytes": 241015,
+      "json_sha256": "d303872953959d770bb3b14a373f603027d4fe8590fac70af5990e9b57a31968"
+    },
+    "Lysias (0540) - Against The Subversion of the Ancestral Constitution (034).json": {
+      "version": "1.6",
+      "compressed_bytes": 11357,
+      "compressed_sha256": "ff42216d6ca896ca5d480f8a3a5a04d9ab208ecd32a2ff60062f07102e9b0c1d",
+      "json_bytes": 119856,
+      "json_sha256": "75e3b05ea764dde7ce60d729865e2057307e6d544537e3406e982fa7fef08113"
+    },
+    "Lysias (0540) - Against Theomnestus 1 (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 25855,
+      "compressed_sha256": "d9e691abe803215eb66cb294eba6cc5775ea1970ad09713c6513ecc20fb98dbe",
+      "json_bytes": 313133,
+      "json_sha256": "63be106504f286d8459e87e5f774da44f651fac26eec3891417358017cd74491"
+    },
+    "Lysias (0540) - Against Theomnestus 2 (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 10535,
+      "compressed_sha256": "e57a1266af1648b3316c038617b3f572565a6fdaf52c914ff20c394f7b93f86e",
+      "json_bytes": 116995,
+      "json_sha256": "e8b7ad4763f66d8bc98834acbd452b0429b89b2bc951d07562f6e3c0e281b82e"
+    },
+    "Lysias (0540) - Defense Against A Charge Of Taking Bribes (021).json": {
+      "version": "1.6",
+      "compressed_bytes": 22360,
+      "compressed_sha256": "ab49453256c954bc4bf84a40f91974f61e804b62221d21eab4f6af3283839544",
+      "json_bytes": 273081,
+      "json_sha256": "ae69fef723dffe3738d87160dcddfda9a8d8ba60905da66e3a8e3b276d78c84d"
+    },
+    "Lysias (0540) - For Callias (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 6379,
+      "compressed_sha256": "cec24935bf1d37c877235ee96b9cacb1915c582349460ecfac3b936ba5b31c27",
+      "json_bytes": 60241,
+      "json_sha256": "7499d6c568f999107bfa1db17f90c8460e1a9caf4d9fd9c7030c1ef8c5cbb008"
+    },
+    "Lysias (0540) - For Polystratus (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 31373,
+      "compressed_sha256": "9d61427d3b05690cc9a197620ef3dfc84cde63be74440f4f9fd32b15212771e8",
+      "json_bytes": 401628,
+      "json_sha256": "749ace2c04a1ec078f38513652ecea33eb6fb71487aff8724e0a1efa578c2f69"
+    },
+    "Lysias (0540) - For The Soldier (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 16335,
+      "compressed_sha256": "8b2499dd491f0d7ca6b526816c2f44b908431ee9f28ce6b05817e761579e3a99",
+      "json_bytes": 184259,
+      "json_sha256": "148cda287db10c02df5347b88301ead9512bbee235d4fe6c6ca074f6af4faa24"
+    },
+    "Lysias (0540) - In Defense of Mantitheus (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 20901,
+      "compressed_sha256": "b6da79bdfaddcea4f05a0de77b3fe002b2f24182d566daf958b8cf7118f5e3a8",
+      "json_bytes": 241879,
+      "json_sha256": "b92ea3a158be504dd03e9518dd1aeaf4cdd24bf120348a7ca9d3a77e535b1ead"
+    },
+    "Lysias (0540) - On A Wound By Premeditation (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 16983,
+      "compressed_sha256": "15c6900d3726d3c2e61b130cb92de33884c216aa3cc35766950ea45c28465ed3",
+      "json_bytes": 200637,
+      "json_sha256": "6dde03e4e95c53f310bb1a4afde7a002b597298819d68ca700236f39066a1ed2"
+    },
+    "Lysias (0540) - On The Refusal Of A Pension (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 24174,
+      "compressed_sha256": "51d622d2952e4cc146162d8c86fbfb49a025f51494bf900ef23e2332e88dad41",
+      "json_bytes": 298861,
+      "json_sha256": "7c08351f9fa09a6d71a5b8cb6b98741b5b72537e412522e7b175ce8e47fc9def"
+    },
+    "Lysias (0540) - On the Confiscation of the Property Of The Brother Of Nicias (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 23709,
+      "compressed_sha256": "0f5592a5bee66afda6b41ac01f99b9fd836d0ed99323e954d01754ccfa58a283",
+      "json_bytes": 282428,
+      "json_sha256": "7d7307b6f8cec69bf2b453fca34026e7b425be634722a07dbd549879c85b9933"
+    },
+    "Lysias (0540) - On the Property of Aristophanes (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 53941,
+      "compressed_sha256": "a8f6f8723995362aea2901b6fa51a602ac2d90bfc0e07b0c17caa88a3bb98710",
+      "json_bytes": 652561,
+      "json_sha256": "35ca3f9c1ec703535591c41d216a6820740ea39710723eb5e93b674cb7992edd"
+    },
+    "Lysias (0540) - On the Scrutiny of Evandros (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 23692,
+      "compressed_sha256": "3e6334ce447a9eeb00884c508e0c9caa507b7921b0453bcc6f538da2f6f33262",
+      "json_bytes": 289618,
+      "json_sha256": "dec32bda983334ebdf051030ccc0cc7a332359be6b0ee34f1ce6bb531996566b"
+    },
+    "Moschus (0035) - Epitaphius Bios (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 16851,
+      "compressed_sha256": "abf9f4ac8ea1e7e60838b9208abc9c3ef9d7b2eb34f71184373976083ec2443a",
+      "json_bytes": 197546,
+      "json_sha256": "9cb310c10d5b1317574b020f2399acece6503c00a359542138c09c657b8d2591"
+    },
+    "Moschus (0035) - Eros Drapeta (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 5663,
+      "compressed_sha256": "a66fff32905c5de76645ba3f6bbeb56a74bbe0e2e4c7451024c0cbf0b5788801",
+      "json_bytes": 53785,
+      "json_sha256": "ceb7fa18296844755d9ea65fb0ab04ce677b12d6eeecc2a25e9a54e158004298"
+    },
+    "New Testament (0031) - 1 John (023).json": {
+      "version": "1.6",
+      "compressed_bytes": 26732,
+      "compressed_sha256": "fad0e293b81f36b77e6fb56a72c9247ec93269eaaa61864f9dfe1cdad9db5e72",
+      "json_bytes": 444342,
+      "json_sha256": "bb37d4f8651884fc9ab9fac30fc19276e64cf1d68eb35bb536d033c68792fffd"
+    },
+    "New Testament (0031) - 1 Thessalonians (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 23208,
+      "compressed_sha256": "109bc9ad43a110f82ee7bc0ff61d9100c307896007fb0c4e70f0b1764d9f55c2",
+      "json_bytes": 307903,
+      "json_sha256": "cde3102539d64cca2d2800f0eaea04df68457f1c0f230b1e8aeddc094ce846d6"
+    },
+    "New Testament (0031) - 2 Corinthians (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 68347,
+      "compressed_sha256": "b130f513f63c388fb16f9553e7ad55748172b72f6b56598230dd65f139e13223",
+      "json_bytes": 949464,
+      "json_sha256": "7b46ed963a8f6e4b72dd93326bc8a2dac921c6c748886a345b289feeb055c9fb"
+    },
+    "New Testament (0031) - 2 John (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 5414,
+      "compressed_sha256": "b3a854efe5bd9ebf8779c5298fbb8c102d35c37aa3d0b49cedec785079b9fb5b",
+      "json_bytes": 53586,
+      "json_sha256": "f882935ae50b9a4fef95bf5f7c59bff3f5f48f8d31d0d6930788b8cbab30e471"
+    },
+    "New Testament (0031) - 2 Peter (022).json": {
+      "version": "1.6",
+      "compressed_bytes": 20125,
+      "compressed_sha256": "a2e266a7d0540a21f703e328b1d9eee0e88a3f92925a8eda887b6761fe016f21",
+      "json_bytes": 230823,
+      "json_sha256": "a7373780b06546df91971704c8192488c95875efd960523bc09e198879976d4b"
+    },
+    "New Testament (0031) - 2 Thessalonians (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 14177,
+      "compressed_sha256": "3fe1f5dbad57422b5d4fd907e1e60afceaf8373674aae637402f5cef8dd55123",
+      "json_bytes": 173300,
+      "json_sha256": "a271cd11c865e980c202f72335726a2c924cffa4b6714c83ef9bf437e799522f"
+    },
+    "New Testament (0031) - 2 Timothy (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 22142,
+      "compressed_sha256": "756d7540b76a2a6e4b2d489bd3d4d835dc129549ab1a5417f609e2864c292190",
+      "json_bytes": 262604,
+      "json_sha256": "c40d43d66dadec9de9002f5d149e5966e723532414fc06f6b5a80994d4fb3929"
+    },
+    "New Testament (0031) - 3 John (025).json": {
+      "version": "1.6",
+      "compressed_bytes": 5502,
+      "compressed_sha256": "b5e018dda4b684b82e952a2ed2cbd269002eb409335feafbd384967180361261",
+      "json_bytes": 49008,
+      "json_sha256": "2da9c458f2b501be7c29b0a6235dd3eac9cf2a6a0be2aad000ce3fed40bdf861"
+    },
+    "New Testament (0031) - Colossians (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 24978,
+      "compressed_sha256": "2ef2a75a601ea5921366480f0281e3def2fd158c364ca53a8948f14ab671dca9",
+      "json_bytes": 328582,
+      "json_sha256": "8b2020959e9ac530893267ff6c119e12a327056513e9e8e321a9f1e6899082ac"
+    },
+    "New Testament (0031) - Ephesians (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 37543,
+      "compressed_sha256": "0fac90bf89855b7317cbc1705bab2463d682f32ef8b0b42c6f78dc7091bdc76d",
+      "json_bytes": 504049,
+      "json_sha256": "cbd06c2d840c693177895ee89ab0df1fb9f0713ef335ed31dbfbce6c7adb2854"
+    },
+    "New Testament (0031) - Hebrews (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 83757,
+      "compressed_sha256": "b9a2ba8149d79145f3da8238a0a18182b06ead5e6c16b656a87c7878874ddad2",
+      "json_bytes": 1091433,
+      "json_sha256": "633a3f43b11599ea2baf27910a90e1e03c894fda75512c700a9eb04a0a4dfc33"
+    },
+    "New Testament (0031) - James (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 29556,
+      "compressed_sha256": "6a7c7b1d4ba1f8311cb0ba85ea8cd4af1e35a867494d0145f0498a6210756e6a",
+      "json_bytes": 369578,
+      "json_sha256": "d8ba5f79fbd7407625c7b6b4ce58ff43f1a943fba92bc8cb1f444d69b832561b"
+    },
+    "New Testament (0031) - Jude (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 9647,
+      "compressed_sha256": "6f10a2be9fa41b4e19ad341d150043e659e1592c9b50cdd9157d230af7b3d55d",
+      "json_bytes": 97941,
+      "json_sha256": "c6c5596ed017969628345bbd54666366fd6944f23d59f3e94cafd9d6a4287b5a"
+    },
+    "New Testament (0031) - Luke (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 294690,
+      "compressed_sha256": "6227cbdcb810995a6cf9ad73373f1809a89492e88f22ce08520455a45aeab862",
+      "json_bytes": 4113714,
+      "json_sha256": "7d0f933d4e608fd475512bb874a576dd2ab2fef1da2cfce2e6b4ec5e00bb1d79"
+    },
+    "New Testament (0031) - Matthew (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 264101,
+      "compressed_sha256": "190c8ccc47bc783d70a2640e12b4dfa7ecfceaad341d4343483d257f92e27c1b",
+      "json_bytes": 3810309,
+      "json_sha256": "8ceea5b39ba8dd686ad79869872a8118968690c9053cf593e1c338f211d3ad83"
+    },
+    "New Testament (0031) - Philemon (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 6844,
+      "compressed_sha256": "c428c51656ce777807936c39e29b0f4170c008e88f697232f530e962d7a896ae",
+      "json_bytes": 71131,
+      "json_sha256": "15da0dcb73a811d40292b2208052765b436fe936abc83b0c8ef5bd3da7128364"
+    },
+    "New Testament (0031) - Philippians (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 26628,
+      "compressed_sha256": "7ddea4d58a5599ed10b2d375b6f6658c30d0e431dabb8e381bb18d8ba6a6a452",
+      "json_bytes": 342678,
+      "json_sha256": "99903c1cfca929c9a5ca42b23de4a166a0f938b65520574a44088881dac346ae"
+    },
+    "New Testament (0031) - Titus (017).json": {
+      "version": "1.6",
+      "compressed_bytes": 13128,
+      "compressed_sha256": "be2851c145b4e0848b2df12a051f5e99f1ef145e90daeef8aea15d5679ab78d0",
+      "json_bytes": 140790,
+      "json_sha256": "c049fb3b1715c46acd6d9de30981820fa32a060a2adea6aabb792dc82d1fcb64"
+    },
+    "Oppian (0023) - Halieutica (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 425799,
+      "compressed_sha256": "88fda37acfc67796e619d9297498cf01135dc852769ec7d80162cb06a68f0d46",
+      "json_bytes": 4845318,
+      "json_sha256": "f5c7e0a41f34575d473675e1b2c8343262305492799887d58cfdaec3efbd7e20"
+    },
+    "Parthenius of Nicaea (0655) - Narrationes Amatoriae (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 110120,
+      "compressed_sha256": "8c517f3001cae14cb6fa0de1372d1376f567389913dfc2cc14b08181f1efd153",
+      "json_bytes": 1337103,
+      "json_sha256": "17c7101f26a50eb781d1b1ec364be6ca85f848224960f1d7d876f3d402ba7d3e"
+    },
+    "Pausanias (0525) - Description of Greece (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 3423925,
+      "compressed_sha256": "1b22412821afdd666757853447b078b5f0ce6a68a17d2af4fd1f9001d07e9408",
+      "json_bytes": 44932093,
+      "json_sha256": "0deedf256750f3578d4ef65dfb356f6916100367fd32015012c3519a8eb9d8ad"
+    },
+    "Philostratus the Athenian (0638) - Epistulae et dialexeis (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 126686,
+      "compressed_sha256": "2a643f30529642203330637872dde4fc3e8d5acea0dac93ee8371a8fdb89665b",
+      "json_bytes": 1577420,
+      "json_sha256": "f9331c2f0aebb34d0728d2eb3772cef9326b8da7fd8b30c96b02fa9d7e4952a1"
+    },
+    "Philostratus the Athenian (0638) - Nero (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 18494,
+      "compressed_sha256": "68c73fd899461e62bd227bc2f2b1daf445a15f39ea3c92d394eb4f0da2bd5b47",
+      "json_bytes": 206373,
+      "json_sha256": "7b03d0ec421f61c5ca23fbbcd58619483cd804701daff81d9b5b1feeca85aa36"
+    },
+    "Philostratus the Younger (0652) - Imagines (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 119557,
+      "compressed_sha256": "352aa56344d3528964f1cfecfdacccd492fcedfb5bfe326f39c34101d438a53f",
+      "json_bytes": 1478818,
+      "json_sha256": "523e58b4efe2fbe633bece9c72724c58f97bb92e2a6aa2c42d2299b8f5fea135"
+    },
+    "Pindar (0033) - Isthmians (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 61283,
+      "compressed_sha256": "8be196d8834c6dfc6acee82a0ae78da3ac66cea845a91dd4a8cdbedca533fa3d",
+      "json_bytes": 627411,
+      "json_sha256": "0aa8e0fe19bdb4010813f004345b9e009464e5ada377183d38d7b4bacb41c29f"
+    },
+    "Pindar (0033) - Nemeans (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 102857,
+      "compressed_sha256": "ebd2b0eda22f897765c8c840284d281bb384aae0e37894d96c162b53c8a806ab",
+      "json_bytes": 1067783,
+      "json_sha256": "053bc85ad5cafce092f8797d87de72ac9c77d7eea5e066ab283e8393f96cc7bd"
+    },
+    "Pindar (0033) - Olympians (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 120449,
+      "compressed_sha256": "cbe7a2dce77f78d39d8d18286ca3364d738166aa6fad67d5cf38f423e4c9584c",
+      "json_bytes": 1274107,
+      "json_sha256": "4cc8cd1641213324641fe8ca6229ebfb1f35854da44d710c24edb15535aaa756"
+    },
+    "Pindar (0033) - Pythians (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 154137,
+      "compressed_sha256": "dc01885f29e4b538338e8b0d93110e3728237ef47e056164bfa112ec6e3a8e1d",
+      "json_bytes": 1607844,
+      "json_sha256": "a7732373d18d2c0f45e09109fa3818e9b39a693db16cf102f7826241aa536d91"
+    },
+    "Plato (0059) - Charmides (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 121915,
+      "compressed_sha256": "6efa5441e6f5960787c63bb041ffc51ced5e8edd894b7bff5297e5733ed2da94",
+      "json_bytes": 1756151,
+      "json_sha256": "b2b150ecd3d4271a425196151e8d5cf40b4e9f43fc6c38b0ed6fe9eee0f3f94c"
+    },
+    "Plato (0059) - Cleitophon (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 26492,
+      "compressed_sha256": "269cb3c08bbad60245b2aec277cba3a1380afb601cd4a434a5e36822bb7e94d6",
+      "json_bytes": 329284,
+      "json_sha256": "c8e5e62c0e9bc046bd8609d373a06de47ec87ffcf07dc9577d917fae8b855246"
+    },
+    "Plato (0059) - Cratylus (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 264464,
+      "compressed_sha256": "6ce01152835b02ffef4d7ff5d81781429002ee3c95927138fe65ff4596f754b0",
+      "json_bytes": 3775533,
+      "json_sha256": "8fcbe3c47f4d42bf7b28aa2d002d4c7e4bf9c413871bc2e997929a52559e9ba3"
+    },
+    "Plato (0059) - Critias (032).json": {
+      "version": "1.6",
+      "compressed_bytes": 81024,
+      "compressed_sha256": "e82488c8193640a0b9cfbf6cf35d2a896c6c34d81a1397b9c3d1d2601f744408",
+      "json_bytes": 1035018,
+      "json_sha256": "15dd1bbc235b311a17f98393f314b6d9ea77c3fc7747eb3ba9bef66641e40fcf"
+    },
+    "Plato (0059) - Epistles (036).json": {
+      "version": "1.6",
+      "compressed_bytes": 278805,
+      "compressed_sha256": "61233b9e48cbea5a598765e26a8be467a3238c3605dddd91bb70db82c2b33ed6",
+      "json_bytes": 3552633,
+      "json_sha256": "ebe48ef863d99bdb0356e29ddccef17d9a82e8d9a4a8160f947591bba3bd292f"
+    },
+    "Plato (0059) - Euthydemus (021).json": {
+      "version": "1.6",
+      "compressed_bytes": 184639,
+      "compressed_sha256": "e6f17fa6b03d08f6a3ecb2e0c56a773d595c087f9d7bf22b9a9591f70136105a",
+      "json_bytes": 2663174,
+      "json_sha256": "20f1b445f06fd651c8c4d106c729a549281dbed1656c75c21f61d41e253b7a3f"
+    },
+    "Plato (0059) - Euthyphro (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 75654,
+      "compressed_sha256": "4afd2daff53b23668b74e2ec6b46aef70579f1a7c108bc2b8c131035f0b0356f",
+      "json_bytes": 1099621,
+      "json_sha256": "63291a608c3ee0bfaea3dfbef48820da486855a94ea237518869d4e5da299025"
+    },
+    "Plato (0059) - Laws (034).json": {
+      "version": "1.6",
+      "compressed_bytes": 1658045,
+      "compressed_sha256": "a5f1a56f78ab75efe4a64598344431058cca071c14757752fdc3bfc1baba6f15",
+      "json_bytes": 21600970,
+      "json_sha256": "16ba5ac88eec12294766e2aa62d4c0af1a88f551d6ede47335ce1868bc5164f9"
+    },
+    "Plato (0059) - Lovers (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 36399,
+      "compressed_sha256": "8285eb116fce26c0609eb134bacde0a543758db1486fd67ebd17c16f26fbe756",
+      "json_bytes": 509694,
+      "json_sha256": "99be0d98ac7db0a1bf1ade544d392c81df0827b4a293ece0446bd948d1fa09d0"
+    },
+    "Plato (0059) - Lysis (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 103008,
+      "compressed_sha256": "c4eece9a56e22a5ef90fa79650c14954916db229485d7b17e821ee6753026da3",
+      "json_bytes": 1495559,
+      "json_sha256": "1055281b4fd02182ac27d22a27c2024e6bc00b74bfc719bb67681ba66dc58e0a"
+    },
+    "Plato (0059) - Menexenus (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 78841,
+      "compressed_sha256": "a082c9f1c0eb31ecac01903217bdeff38c986ee328da43934dd9e5d06a2bf0bc",
+      "json_bytes": 1003946,
+      "json_sha256": "8cf843f5002cf4cad311e17cd5058f30a4f82d8dbcf2f76c77cfb973315d1fdf"
+    },
+    "Plato (0059) - Meno (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 142364,
+      "compressed_sha256": "b7479dc3d895c2238a725be224c5bf7f4b889f488ca33818b36147cc5fcd22b7",
+      "json_bytes": 2075942,
+      "json_sha256": "a09144e1f2b076b5ef8e408bec6a32ff747e1e6cd7b8d3cecb4067b423086e74"
+    },
+    "Plato (0059) - Phaedo (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 323782,
+      "compressed_sha256": "4d3a6dca2e6773138bca57d028eff07ad1006686c481f50e379ae51c801ad326",
+      "json_bytes": 4565590,
+      "json_sha256": "a4fc01189a19c2f909c20ea54525d930d2fbf16dfcc79640f65ef3db8571973c"
+    },
+    "Plato (0059) - Republic (030).json": {
+      "version": "1.6",
+      "compressed_bytes": 1390122,
+      "compressed_sha256": "a33d5591a20da8c30f49119358c8f006f68f0b8cd486b3777a1d52998e469cbd",
+      "json_bytes": 18854721,
+      "json_sha256": "fcec8b818bb2e71cf80ae4e2d6be21859f35c1b668fecf2cb98c7824be5b169f"
+    },
+    "Plato (0059) - Sophist (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 248737,
+      "compressed_sha256": "80bb202f7bb97b0cc442d67d9429b2b09afbafb8423dd0afa3541554096da72e",
+      "json_bytes": 3418187,
+      "json_sha256": "1c4f6249d91ec3132c52113b8d7e7e11227172aaea0fc395f89f7d80167ce8b9"
+    },
+    "Plotinus (2000) - Enneads (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 2959161,
+      "compressed_sha256": "0cdfef727de1f1257ee759f2f1861b9a4b8448ff59117aba2858aa3e15ff8681",
+      "json_bytes": 44040365,
+      "json_sha256": "331e8c3e35b0dbd37ac9c8368de258e871224acb1f445b8c0de04093c770447f"
+    },
+    "Plutarch (0007) - Ad principem ineruditum (116).json": {
+      "version": "1.6",
+      "compressed_bytes": 29055,
+      "compressed_sha256": "4f2b19814fc8b4df47a9caa6ef042af2cd8b55818f5b50ac3269c928d5fa67e4",
+      "json_bytes": 334448,
+      "json_sha256": "bad0c98bbb0a68aaae7e1cc2a28dbd34fb9c97e16382295871b80f6d1e1701b7"
+    },
+    "Plutarch (0007) - Aemilius Paulus (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 173244,
+      "compressed_sha256": "fec71257b6d7b3daa4061211ede9472505d258c1fc0b02bedca37bfabe067dc4",
+      "json_bytes": 2042645,
+      "json_sha256": "aca3f8ad4a9b3d4ea857b392a97ea0760ffd1210037e8ead4de81dba6070f540"
+    },
+    "Plutarch (0007) - Agesilaus (044).json": {
+      "version": "1.6",
+      "compressed_bytes": 184366,
+      "compressed_sha256": "0f8d06926a7356979d132221966f49087cb35df4ab8b795fd6bf21d7ea4f9a93",
+      "json_bytes": 2233298,
+      "json_sha256": "9f74ea585f3bb99e534891558d85282bccb5bb6abc8f0124fdbefa18e1570cf3"
+    },
+    "Plutarch (0007) - Agis (051).json": {
+      "version": "1.6",
+      "compressed_bytes": 77513,
+      "compressed_sha256": "c986a5f166ca3cb23152b6d9213ab5d86b22d64eb5a14a49aea7f04bd26cb371",
+      "json_bytes": 932023,
+      "json_sha256": "8262ec60d7d4bd8032f605c63eef65e7a316f68badd4e61c14801c87446fc656"
+    },
+    "Plutarch (0007) - An Recte Dictum Sit Latenter Esse Vivendum (141).json": {
+      "version": "1.6",
+      "compressed_bytes": 23238,
+      "compressed_sha256": "179c5dd4771558d47e359e73ffe7d9581531dc716218a25d9ae2d860ddfe7e70",
+      "json_bytes": 264517,
+      "json_sha256": "164f4a607078aa21716cc22eabe25c48548e9a17d715ac1f7e12dee34cc08cf8"
+    },
+    "Plutarch (0007) - An vitiositas ad infelicitatem sufficia (099).json": {
+      "version": "1.6",
+      "compressed_bytes": 17388,
+      "compressed_sha256": "84f3870b451e6e39d5e08ae235b0fa0be4774eb9b702da7a7bfdfda79f41ddcd",
+      "json_bytes": 183823,
+      "json_sha256": "d881bcce15d3d4994bb32816447d9e22056624d225fda103019860914431a59f"
+    },
+    "Plutarch (0007) - Aquane an ignis sit utilior (128).json": {
+      "version": "1.6",
+      "compressed_bytes": 27334,
+      "compressed_sha256": "0e51d976cdef20b5778328383c596034648987866327bec547c3c6ad227f117c",
+      "json_bytes": 343409,
+      "json_sha256": "58e089a5dfbb3d734282976199935e3bb4aa4a3de33c67acbc4de8af3459ae23"
+    },
+    "Plutarch (0007) - Aratus (063).json": {
+      "version": "1.6",
+      "compressed_bytes": 203080,
+      "compressed_sha256": "17df0d86be82c0dc0d0fa169bf98448a17ff46a582973ab8fa846e40648752c2",
+      "json_bytes": 2442348,
+      "json_sha256": "2bccd1add6d3aaa98a759ca324e7409f45fcd82f629b091f0c55448b29095b0b"
+    },
+    "Plutarch (0007) - Aristides (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 139652,
+      "compressed_sha256": "90068f4ed83d5c52c753c122778c240dc0903395f43b7cecb50c2e257f705a1a",
+      "json_bytes": 1699161,
+      "json_sha256": "81390c4a8672dc9690c74856d77083d36d72b221e121788d753034d5869a70b6"
+    },
+    "Plutarch (0007) - Artaxerxes (064).json": {
+      "version": "1.6",
+      "compressed_bytes": 125326,
+      "compressed_sha256": "6e7aa4e3722f1d4922ae7109520d9081dfa16d33c5da80fc972d6765be320da3",
+      "json_bytes": 1523848,
+      "json_sha256": "4d862c34bd2ad5b326361bd6ea30f437c810db448f6a303d0a35058078c4570f"
+    },
+    "Plutarch (0007) - Bruta animalia ratione uti (130).json": {
+      "version": "1.6",
+      "compressed_bytes": 59852,
+      "compressed_sha256": "8c92f0b0aeaee6a28ecc490ea74e357f648150eaab54ca37cda243ab6b595da6",
+      "json_bytes": 712959,
+      "json_sha256": "58462e008ba4a9e16ad6bfe8af7619b9052478d673e74b30e965aac145a6fdca"
+    },
+    "Plutarch (0007) - Brutus (061).json": {
+      "version": "1.6",
+      "compressed_bytes": 205471,
+      "compressed_sha256": "92c8f81172f97170b2b746188656ba6fde30276581545c49f67b910c562970ce",
+      "json_bytes": 2466728,
+      "json_sha256": "5c7fb020d0f49e3a46aec5bbe6d40caf4b124310a9701eb4a58ff1bb9a06d910"
+    },
+    "Plutarch (0007) - Caesar (048).json": {
+      "version": "1.6",
+      "compressed_bytes": 276656,
+      "compressed_sha256": "c790012ad882e0455ec51021f2c333fa631ba0bea755139d921e5920f9d04c32",
+      "json_bytes": 3294276,
+      "json_sha256": "ba6787c8418b78df0989475f80820cc89207369f27c29e8839def80baa7dc887"
+    },
+    "Plutarch (0007) - Caius Gracchus (052).json": {
+      "version": "1.6",
+      "compressed_bytes": 71642,
+      "compressed_sha256": "2885c026d4c322567cc7946a4fcd9c8cfc96ad802ad43ef059d1b4e086d17e5e",
+      "json_bytes": 854676,
+      "json_sha256": "048e7b1bd7dce35f580def228148c1adfbed272f490702c3ef48dbc4babd2561"
+    },
+    "Plutarch (0007) - Caius Marius (031).json": {
+      "version": "1.6",
+      "compressed_bytes": 219610,
+      "compressed_sha256": "af9f27a8364a14fa0f6193bdd25a238c61918f07db718928a3e8fa454e9297a6",
+      "json_bytes": 2634727,
+      "json_sha256": "942351a2ab96e93181289c712a84fd59dbe67ac0cfe09eced93b547e51821a54"
+    },
+    "Plutarch (0007) - Cimon (035).json": {
+      "version": "1.6",
+      "compressed_bytes": 103504,
+      "compressed_sha256": "540b15366684bbc99ce898f7f99a9f3a7a50321a51fd89790d539b35882a9517",
+      "json_bytes": 1222082,
+      "json_sha256": "ac2ee18b34f04871a4fd82a2ecc73eca35bcdafffe5c4b5a59fd4e0352cd9908"
+    },
+    "Plutarch (0007) - Cleomenes (051).json": {
+      "version": "1.6",
+      "compressed_bytes": 153336,
+      "compressed_sha256": "5b02916c21a92ce672fee6ef9ee61e1ff9780e188b31651aeb83b5f4cbe07c5e",
+      "json_bytes": 1858590,
+      "json_sha256": "7a68733f27aa7df56bbb0535b8249fc5d4fa3525e94e9fd46688ea7a037ff9a1"
+    },
+    "Plutarch (0007) - Comparationis Aristophanis et Menandri compendium (122).json": {
+      "version": "1.6",
+      "compressed_bytes": 14219,
+      "compressed_sha256": "d5dfe4f8cecd52f8f19a42c074fbc52546f6020b97d32160c23f295ef652e24e",
+      "json_bytes": 153582,
+      "json_sha256": "bcc1768f9ff31078fdc7fa9c443574803e97f1e3c15b176504ae9a5e61f04ae9"
+    },
+    "Plutarch (0007) - Comparison of Agesilaus and Pompey (046).json": {
+      "version": "1.6",
+      "compressed_bytes": 20846,
+      "compressed_sha256": "9126f0fab629fffb9d43dd952b04f74c32c174abefb19fee08902baede3e30d6",
+      "json_bytes": 226611,
+      "json_sha256": "e9678388d76d6902e1a74aca23e58e8f64d0734cdf86e63fcaa77886754ccee8"
+    },
+    "Plutarch (0007) - Comparison of Agis and Cleomenes and the Gracchi (053).json": {
+      "version": "1.6",
+      "compressed_bytes": 18950,
+      "compressed_sha256": "4d7a09cd34d695ac6badb05b52001d0876cc2fbb9c37a452fddcd09bb12c79b6",
+      "json_bytes": 204313,
+      "json_sha256": "38c87c28bb978f7fe72cf2c909832f93016dc3f44ad74eb521484c72abcc7954"
+    },
+    "Plutarch (0007) - Comparison of Alcibiades and Coriolanus (017).json": {
+      "version": "1.6",
+      "compressed_bytes": 20026,
+      "compressed_sha256": "00ff4f245d8deb4e9a3cf6716dad8aecdb4e62c8b3c1e0110009392fed883567",
+      "json_bytes": 225741,
+      "json_sha256": "57e4cd3597dafce71d373cf6d537bbbb02d68abd1f89affbcd1793d7375705eb"
+    },
+    "Plutarch (0007) - Comparison of Aristides with Marcus Cato (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 26925,
+      "compressed_sha256": "764be93ddcdf072918525b3849a798ca633cf415dafc90b574dd846cb41102bb",
+      "json_bytes": 303983,
+      "json_sha256": "44618ac405a8155fc0b3cb63c79fb82a168ce488cfa22e3a24571f2e599cf356"
+    },
+    "Plutarch (0007) - Comparison of Demetrius and Antony (059).json": {
+      "version": "1.6",
+      "compressed_bytes": 16920,
+      "compressed_sha256": "5cce070bd12026cf6e1bb6eff04784a06fe0c107d010fdcec1f352239da04a68",
+      "json_bytes": 184877,
+      "json_sha256": "f0ae61d03136bf786184f063403c92c57d13e1c75a180110c73149206a4cb5bb"
+    },
+    "Plutarch (0007) - Comparison of Demosthenes with Cicero (056).json": {
+      "version": "1.6",
+      "compressed_bytes": 18388,
+      "compressed_sha256": "b5f4de25d2f12ead99255d98579f1f035e0e09e224b3cf9c526c1591f53cb451",
+      "json_bytes": 202691,
+      "json_sha256": "6298506e0b21993d21917054d951e740e1a9b6036d0eef185a7f554a787a80f4"
+    },
+    "Plutarch (0007) - Comparison of Dion and Brutus (062).json": {
+      "version": "1.6",
+      "compressed_bytes": 17630,
+      "compressed_sha256": "bc2519690b0111ae01db53dc319c1280783b9620c10e133ee5de34684b8d5dc7",
+      "json_bytes": 194757,
+      "json_sha256": "2422a440db86b956591821184c159054ad8c49d5645a51301ab612a71c90a654"
+    },
+    "Plutarch (0007) - Comparison of Lucullus and Cimon (037).json": {
+      "version": "1.6",
+      "compressed_bytes": 18503,
+      "compressed_sha256": "f72898bc958415ccd49d715335bb2863badfeb6c351b3b8456a5564cbff69a47",
+      "json_bytes": 206601,
+      "json_sha256": "c53ba79df8944c3fb927d15b99c7fc829e3b43a785090bff7fe8dc0f23a0a409"
+    },
+    "Plutarch (0007) - Comparison of Lycurgus and Numa (006).json": {
+      "version": "1.6",
+      "compressed_bytes": 29045,
+      "compressed_sha256": "10616d893224210a308fe7d147aa6673d090d461217a5cb5959f020dc95cb7e4",
+      "json_bytes": 331338,
+      "json_sha256": "68926e9be6b3f5a355f5b46ae124d6a996d586b2c39215d10d6e121f6ded540f"
+    },
+    "Plutarch (0007) - Comparison of Lysander and Sulla (034).json": {
+      "version": "1.6",
+      "compressed_bytes": 23323,
+      "compressed_sha256": "09ebd2bcc6791d27b7b1820072443eba6d942cd7e5c39efe7b267dbd90edf340",
+      "json_bytes": 258494,
+      "json_sha256": "9e674bba87b77669f81eb3248d8932f18482b3c9a8cbd8f920bf377ed92f389d"
+    },
+    "Plutarch (0007) - Comparison of Nicias and Crassus (040).json": {
+      "version": "1.6",
+      "compressed_bytes": 22911,
+      "compressed_sha256": "6a55359d177bce4a9b9766c41e9df713fe86354f0b32b79991e311356570e84d",
+      "json_bytes": 252975,
+      "json_sha256": "11daf1b66a0f3da4ae8ced3b3d19e7302a9d02a53a772e71b2ee6e218ffa17a7"
+    },
+    "Plutarch (0007) - Comparison of Pelopidas and Marcellus (023).json": {
+      "version": "1.6",
+      "compressed_bytes": 15557,
+      "compressed_sha256": "a6c3ec2c14b60fd5b2135905e81c074507da626457ba8c7b7183338460a84b2a",
+      "json_bytes": 168281,
+      "json_sha256": "205b6baa0b3fe8a215287e92b3ffab00bdd5130ed34a9dc2aaa81056d334ab4c"
+    },
+    "Plutarch (0007) - Comparison of Pericles and Fabius Maximus (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 14303,
+      "compressed_sha256": "981d77604f006bd22862671418533dff031877e7088d48f4f07a856473035e50",
+      "json_bytes": 151462,
+      "json_sha256": "4e41424388c8e49d2f3ed57d95fe1518090ff0b1b1c2eb26ffe487df2adc0eb0"
+    },
+    "Plutarch (0007) - Comparison of Philopoemen and Titus (029).json": {
+      "version": "1.6",
+      "compressed_bytes": 10891,
+      "compressed_sha256": "30bd4f8f70eb916eef930ff8ebdbaf42c72b790affafcaf2751e4d2fcd0ec578",
+      "json_bytes": 116316,
+      "json_sha256": "2d2dcff086a6f32dc4f1110fa60b83bf321bbc1d4c80c94f3227d677bbadbca2"
+    },
+    "Plutarch (0007) - Comparison of Sertorius and Eumenes (043).json": {
+      "version": "1.6",
+      "compressed_bytes": 8152,
+      "compressed_sha256": "5b773e78cb4e9eb118198038105d1b845a1c68671cca773154536357d59a00e3",
+      "json_bytes": 84517,
+      "json_sha256": "2cf67074480157d2100a5fad414037a993f59a4b95caf173599010cef5f87fda"
+    },
+    "Plutarch (0007) - Comparison of Solon and Publicola (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 17920,
+      "compressed_sha256": "d85b609f4d1021f928a33c67cff4c72126ed9ce90e884f29caa71cfee423385c",
+      "json_bytes": 197754,
+      "json_sha256": "f4e2ab8d3f3e507d59ec0f367188a3b90a29ba3526f55fe082da54b28c4efcb3"
+    },
+    "Plutarch (0007) - Comparison of Theseus and Romulus (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 22102,
+      "compressed_sha256": "453194401fb9ddb5ade329fddc8ff1f239228742d2f8feb5def72f12cb5032dc",
+      "json_bytes": 242368,
+      "json_sha256": "7af0625e12b4fcaa25ae4ba1ba71d225d923645791f9639f2c5480dfd5867a09"
+    },
+    "Plutarch (0007) - Comparison of Timoleon and Aemilius (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 10179,
+      "compressed_sha256": "9ddec6c36209b19127637e196b0718e4a11fff5ae87a9629397320c8a77a4768",
+      "json_bytes": 101239,
+      "json_sha256": "24b07830bbebf07105583620c7107a89ed0c4c954f9c79c1b162c27f352148e2"
+    },
+    "Plutarch (0007) - Conjugalia Praecepta (078).json": {
+      "version": "1.6",
+      "compressed_bytes": 63824,
+      "compressed_sha256": "ea4912d34e43c35f54710bcb340730f1743c47512b80ae16c8bfb739b5a27bc9",
+      "json_bytes": 775658,
+      "json_sha256": "96b93bfad9ebae013550ec234e5d4cb398e02902ccf71463d35baaad4b90bde1"
+    },
+    "Plutarch (0007) - Crassus (039).json": {
+      "version": "1.6",
+      "compressed_bytes": 177712,
+      "compressed_sha256": "d449e2c2e79083d75ba43d43c8546cda49475a1fb4e9d7dcdbf7c3eed3f866e3",
+      "json_bytes": 2113742,
+      "json_sha256": "3ea0a22fae5b9878c1e789d164d9f703e5568305511b08eda57e9a93bc6c1af5"
+    },
+    "Plutarch (0007) - De Alexandri magni fortuna aut virtute (087).json": {
+      "version": "1.6",
+      "compressed_bytes": 152065,
+      "compressed_sha256": "74cdccda0cee342879dc873d8f250b10265adfe6c9551802faa921348a62a074",
+      "json_bytes": 1802367,
+      "json_sha256": "58d346d07491559b69b421bcffc45022853370d8e7e63b0c5d9231a816b52ac3"
+    },
+    "Plutarch (0007) - De E apud Delphos (090).json": {
+      "version": "1.6",
+      "compressed_bytes": 81001,
+      "compressed_sha256": "6dc2e051940cfbcc53b93d3f6a982ad772261b04e6f33c81da74c6ac6205b6fe",
+      "json_bytes": 1015962,
+      "json_sha256": "13dd2d87f1b11d986e45535fd3762b31ffe9cc51653158dcb0f4568869409ff2"
+    },
+    "Plutarch (0007) - De Herodoti malignitate (123).json": {
+      "version": "1.6",
+      "compressed_bytes": 156751,
+      "compressed_sha256": "8806edfecff2e206b52a9ffa0d414afd006626b4f1b4f52a49568e1584e0df60",
+      "json_bytes": 1861594,
+      "json_sha256": "c1a0f9ef15794b0c9f1ef741281815f500a22618588ce2ecddef16d0eba86429"
+    },
+    "Plutarch (0007) - De Recta Ratione Audiendi (069).json": {
+      "version": "1.6",
+      "compressed_bytes": 87645,
+      "compressed_sha256": "2737076848c530aff239d878af08898b032e5ae1c75ffbab54d37aa5aff86ad6",
+      "json_bytes": 1068787,
+      "json_sha256": "80a7bc2f297207743b56efca971dfa4fe471a0d402b19741e58a85833e48b7fb"
+    },
+    "Plutarch (0007) - De Se Ipsum Citra Invidiam Laudando (106).json": {
+      "version": "1.6",
+      "compressed_bytes": 69737,
+      "compressed_sha256": "4e0cdbf6890d3015f8084ac02585ac1412e187d88d0e58811bbbb5060cb7b09d",
+      "json_bytes": 839244,
+      "json_sha256": "656448060c9f1b22451e9af402eb1b950e38c9d5e52069d7c92cf800d82149f9"
+    },
+    "Plutarch (0007) - De amicorum multitudine (073).json": {
+      "version": "1.6",
+      "compressed_bytes": 33657,
+      "compressed_sha256": "4ba1185af84e72ee2e415a96c4f71c260a5e1f55cb953e622f3e87300bda7d3f",
+      "json_bytes": 386807,
+      "json_sha256": "0c8cdfcc1254144ec4c122909c27e1b6604c1ea46ca58f5b83f7ada72c3d042f"
+    },
+    "Plutarch (0007) - De capienda ex inimicis utilitate (072).json": {
+      "version": "1.6",
+      "compressed_bytes": 53932,
+      "compressed_sha256": "2e94e38cab89a56bda698295f3f77fab7b13abbe161008318227abf1517d0c02",
+      "json_bytes": 635124,
+      "json_sha256": "c520ba59a682df7976a896ec3c8508d1aab05a3dba955fd30d5aa8a42c5ddef1"
+    },
+    "Plutarch (0007) - De communibus notitiis adversus Stoicos (138).json": {
+      "version": "1.6",
+      "compressed_bytes": 212032,
+      "compressed_sha256": "f89ca31543c38bfbd787f51d95b5e353c0cf61889f3e6058706f6a938a13baef",
+      "json_bytes": 2870426,
+      "json_sha256": "3ebfe1df7c7a54f9a3cc3d6f90f1e1052854da2a69012fe2a3d63978cd57d9b5"
+    },
+    "Plutarch (0007) - De curiositate (102).json": {
+      "version": "1.6",
+      "compressed_bytes": 65777,
+      "compressed_sha256": "b3c2eb320f4b04bd8e8dc2dcfc90fa4cbd93522e2a000c6440f56c54b483f4fb",
+      "json_bytes": 783822,
+      "json_sha256": "0570a3d43e6769ce22f3f862ea0757f9b0dfc6e2584ecb12d12329fca4723de7"
+    },
+    "Plutarch (0007) - De defectu oraculorum (092).json": {
+      "version": "1.6",
+      "compressed_bytes": 228014,
+      "compressed_sha256": "78193179eab72ae9380198d1e44f7b56ff72c250ffdc2c352464eaaa347f9dc4",
+      "json_bytes": 2817816,
+      "json_sha256": "76ca4e14f9b0ee53bd5e0ca5473ca2fa0c1e4c499d9619040c979ca1a0f2ea26"
+    },
+    "Plutarch (0007) - De esu carnium I (131).json": {
+      "version": "1.6",
+      "compressed_bytes": 29776,
+      "compressed_sha256": "b53c260cbb5fbd48b876583a2a3e5514098f3ed616583e20033021451efd1737",
+      "json_bytes": 334763,
+      "json_sha256": "84e3bd45db054d2669a6a665ab4d26c6b5cfab244253f23c3766e29583d6252d"
+    },
+    "Plutarch (0007) - De esu carnium II (132).json": {
+      "version": "1.6",
+      "compressed_bytes": 23446,
+      "compressed_sha256": "928ec74871d8e66153478e219b2b3e45e2ac6a192eee47ec4b4820e7b4efe2e6",
+      "json_bytes": 262536,
+      "json_sha256": "3de308428a45ecb79c3328d0f07855a630079da0cce40cf6b9d643dadc4c181a"
+    },
+    "Plutarch (0007) - De fortuna (074).json": {
+      "version": "1.6",
+      "compressed_bytes": 22877,
+      "compressed_sha256": "31edd215b26ef251d4978d845b7b074c737f8bf95ccd37b90b73572a45b714ab",
+      "json_bytes": 265813,
+      "json_sha256": "d82b569772238fc14fa811ca37a1676e0e7eeca3e08d7ca3a1e62307da4652a0"
+    },
+    "Plutarch (0007) - De genio Socratis (109).json": {
+      "version": "1.6",
+      "compressed_bytes": 198412,
+      "compressed_sha256": "a8ae552233d78db9334fbe47b4a7304fbed95a5fd2ac85aa518989b72aa0a56c",
+      "json_bytes": 2396164,
+      "json_sha256": "48704830d3e1241a110f42294dba524d0766090f7ae61d80ddb0bf0ccb6e28bd"
+    },
+    "Plutarch (0007) - De invidia et odio (105).json": {
+      "version": "1.6",
+      "compressed_bytes": 17739,
+      "compressed_sha256": "426316e166def9dc6587e494f2d746c2f0cc36f73479b457df6d8a91a5423461",
+      "json_bytes": 211110,
+      "json_sha256": "c9faeaf3180a57a6682e4ef9b9b4b4c54fe16081161b21f1bbecfbb975d510c2"
+    },
+    "Plutarch (0007) - De primo frigido (127).json": {
+      "version": "1.6",
+      "compressed_bytes": 80404,
+      "compressed_sha256": "be51836702355877e95fedf6dae9b5a3bb4a16d6fb0729a2920f7ab1d8007857",
+      "json_bytes": 1047719,
+      "json_sha256": "f231b7808022edbbeb37ee7319f3d4da088344a3c5e2ba1859d9e44da8d000b7"
+    },
+    "Plutarch (0007) - De superstitione (080).json": {
+      "version": "1.6",
+      "compressed_bytes": 59890,
+      "compressed_sha256": "38fdec2608c600c7f023a8c0a9243af28c31defe5d5ec2ee5299ce19fa818cb6",
+      "json_bytes": 700175,
+      "json_sha256": "1b6c6b20bd09c5a6bde1be8fbcfe19fd49d366835d8b70f569c8c4a8ccf20b92"
+    },
+    "Plutarch (0007) - De tuenda sanitate praecepta (077).json": {
+      "version": "1.6",
+      "compressed_bytes": 118541,
+      "compressed_sha256": "14754a10a683b82de0312b649a5658d47b2d2bef06e4f5ae926b15bb5f1c8551",
+      "json_bytes": 1442544,
+      "json_sha256": "3aac87c8a210feb51a8e18d293aa79848dc6c901805a67cf0e15ed557169e2b6"
+    },
+    "Plutarch (0007) - De unius in republica dominatione (119).json": {
+      "version": "1.6",
+      "compressed_bytes": 11274,
+      "compressed_sha256": "4c0f1c6b0e5f73ce5d701272077a2269ed5cdcde38692ccc885e12963b79713c",
+      "json_bytes": 119189,
+      "json_sha256": "4861e32de8b56aa58c7a7d2480f05556c8531402b153d49b8098a90ce93315ee"
+    },
+    "Plutarch (0007) - De virtute et vitio (075).json": {
+      "version": "1.6",
+      "compressed_bytes": 13468,
+      "compressed_sha256": "8fe36c5740b9ded0d6cae1fd73301179b4d8c3e3416a9fd0b9f5877ae4f21750",
+      "json_bytes": 143293,
+      "json_sha256": "89032c919308bfde8aa60c49e6a8d6fcf3a21f60772c8c0c8d88f1620c1d31e0"
+    },
+    "Plutarch (0007) - De vitando aere alieno (120).json": {
+      "version": "1.6",
+      "compressed_bytes": 37114,
+      "compressed_sha256": "0f27ab33b83f906300e24441881e6c07403ab5f5e84646df85be59d1aca4865c",
+      "json_bytes": 426476,
+      "json_sha256": "4d06a9fc3e27d5dd0a9a297171ee981ee5978523e4a72005c97dcd44db015894"
+    },
+    "Plutarch (0007) - Demetrius (057).json": {
+      "version": "1.6",
+      "compressed_bytes": 213231,
+      "compressed_sha256": "77e64eda4aaf4e5a7a9406b34365b1cc55954b5668ae4e3a6e0441e232588ac5",
+      "json_bytes": 2566030,
+      "json_sha256": "bc86f4869e8befa803d0ba5c7506bf2be60c8a57b66e8de7f8e5bc3e77247449"
+    },
+    "Plutarch (0007) - Demosthenes (054).json": {
+      "version": "1.6",
+      "compressed_bytes": 118371,
+      "compressed_sha256": "cac7891c7b60a49175f80b9f90e2601e1d669c79ee45e8c6ab3c5f036d3e5415",
+      "json_bytes": 1421957,
+      "json_sha256": "8e21afd4b64eb52b1f728fa3720aaf812386eba687fb771978c1ad7294d2f0ae"
+    },
+    "Plutarch (0007) - Dion (060).json": {
+      "version": "1.6",
+      "compressed_bytes": 199643,
+      "compressed_sha256": "3f590c03b344ec69c979a0c8f4690f4504286e76a3a1fbdd478409003a5bc43e",
+      "json_bytes": 2441334,
+      "json_sha256": "ebe204338be4c8b0a5a180928b15406e363b9cbf6165c8794b3be128da510b2d"
+    },
+    "Plutarch (0007) - Eumenes (041).json": {
+      "version": "1.6",
+      "compressed_bytes": 95636,
+      "compressed_sha256": "b72cd746fc001adc478f250d05f556353eef6580bae4e6d24592e9cbde06e4eb",
+      "json_bytes": 1146405,
+      "json_sha256": "634f3a4855b3e2362ea277de4b7c16c69a29f92507be0b414e402bcf6484a1c4"
+    },
+    "Plutarch (0007) - Fabius Maximus (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 132965,
+      "compressed_sha256": "74b1060dca5e41e699afc0f02786a9d82dcbd2ed23377afb478349e31fca116b",
+      "json_bytes": 1596239,
+      "json_sha256": "688fac84ed404eb9034c87b7f7d890e3a23f7d56a1021877adea33baa4182022"
+    },
+    "Plutarch (0007) - Galba (065).json": {
+      "version": "1.6",
+      "compressed_bytes": 106924,
+      "compressed_sha256": "76793bad047b35801404f1e5ae6be46e3ab4099625ed56115aa2954476a5292f",
+      "json_bytes": 1263723,
+      "json_sha256": "a8072e0c283f48db29386842c10423e897d92a0f536a689358f1210b719905aa"
+    },
+    "Plutarch (0007) - Instituta Laconica (082).json": {
+      "version": "1.6",
+      "compressed_bytes": 29559,
+      "compressed_sha256": "3aae0717d0bb9bcae2c4943b5f2759e64a13e4940b4853b60718ac75da99e8c5",
+      "json_bytes": 339627,
+      "json_sha256": "3841832b2da19f3d120978f7af5b4ac5bd943a5c7b79342c835d6fa52c5be25b"
+    },
+    "Plutarch (0007) - Lucullus (036).json": {
+      "version": "1.6",
+      "compressed_bytes": 232123,
+      "compressed_sha256": "4b103817e37b3464be8799aa2663d13edfa7e7e57674a27331c589fda88e4e1f",
+      "json_bytes": 2754666,
+      "json_sha256": "03559b7d0a0611d5e4fc6a89235105ca9a93b65948cf445648c1766d9a67f4b1"
+    },
+    "Plutarch (0007) - Marcellus (022).json": {
+      "version": "1.6",
+      "compressed_bytes": 147138,
+      "compressed_sha256": "26f97115f92700eefdec0e4684a32d114982df84831f8e15e9bf230a744c55de",
+      "json_bytes": 1743818,
+      "json_sha256": "b56c152ac664a59ee23dfa08befb09ec14d83921b37e39297c7f0e027d3f4445"
+    },
+    "Plutarch (0007) - Marcus Cato (025).json": {
+      "version": "1.6",
+      "compressed_bytes": 139747,
+      "compressed_sha256": "76da717a40770059de72a644b5be7d37241d1332035e9de35ea4f3d5ee4e10f3",
+      "json_bytes": 1669054,
+      "json_sha256": "3ce6ccfe9a952faac033ff05aa6edb863fd8c998cacda267b28a2e55bc499045"
+    },
+    "Plutarch (0007) - Maxime cum principbus philosopho esse diserendum (115).json": {
+      "version": "1.6",
+      "compressed_bytes": 28082,
+      "compressed_sha256": "625c0411efc82d7cfd15bcccf81d3b8b88669e8109bb679da6fa051c250d9533",
+      "json_bytes": 321175,
+      "json_sha256": "82920b01c47b3f96cfdddb899c605dd2cca50ebb3d39d6ebffa9f13d29b5d1aa"
+    },
+    "Plutarch (0007) - Mulierum virtutes (083).json": {
+      "version": "1.6",
+      "compressed_bytes": 161705,
+      "compressed_sha256": "c8355434ab360e662b70b6056363c95ac051ab3be7f66b5414c607cc105447af",
+      "json_bytes": 1959676,
+      "json_sha256": "7fc9f196bfee82e4e195fed6ae44fb70dba906862a52f6f3be00497bdc69d0e6"
+    },
+    "Plutarch (0007) - Otho (066).json": {
+      "version": "1.6",
+      "compressed_bytes": 72771,
+      "compressed_sha256": "f87d2603acada8a85edd878a79b069d67b294048ab75e45f626acd819f16b460",
+      "json_bytes": 854079,
+      "json_sha256": "f2a77097907272249142d0e50533361fe59785ec688c33ec468116507094ea6a"
+    },
+    "Plutarch (0007) - Pelopidas (021).json": {
+      "version": "1.6",
+      "compressed_bytes": 162116,
+      "compressed_sha256": "0a37726aec669e15b3b29d2c968d1de707e4a579274b05609efbe2091df5344a",
+      "json_bytes": 1955178,
+      "json_sha256": "6891ebad5f85d12002919d79bb75fb65d7c72ffd68311e20a1743bb9fdb1c0bc"
+    },
+    "Plutarch (0007) - Pericles (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 172218,
+      "compressed_sha256": "22dae803955409392969c2a200928642d348c3afa4a76dd8434578554286723c",
+      "json_bytes": 2076949,
+      "json_sha256": "25d55163505aaed55533e118c8c089c094c75ac9f3f9bcf613544eb09b33cfcd"
+    },
+    "Plutarch (0007) - Philopoemen (027).json": {
+      "version": "1.6",
+      "compressed_bytes": 99148,
+      "compressed_sha256": "65f62cc4b6844622b6e9c94bd8510c5a5e51a7823dcd40bda4e2a8fda0932a58",
+      "json_bytes": 1179787,
+      "json_sha256": "e2f7e5764a389898bbca2cf20fcc9284451c842c44d1505614ce14177f67dec4"
+    },
+    "Plutarch (0007) - Phocion (049).json": {
+      "version": "1.6",
+      "compressed_bytes": 140975,
+      "compressed_sha256": "db4a03e8c0bd1b688451b2d3e2013b91079ef8f4da3e81b5e78bb8e262a5acf1",
+      "json_bytes": 1706339,
+      "json_sha256": "fcbe368b20d283d75768e269e163c10be4f6039b3fe7d84a98e2738f09b16dc8"
+    },
+    "Plutarch (0007) - Pompey (045).json": {
+      "version": "1.6",
+      "compressed_bytes": 347312,
+      "compressed_sha256": "2512b1b240e27ca70c2be5aab2ff93f611a7e2e77ad5301842927b576e56d9b8",
+      "json_bytes": 4165251,
+      "json_sha256": "7fa7b807cc0b17f3fa8e0e8a152a29ec3187523ce17e1ed403427220c1bcf30d"
+    },
+    "Plutarch (0007) - Publicola (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 100374,
+      "compressed_sha256": "70503b44d0c0de2a26ee5c23112d23b4becc61258d4ef6f6bbcaaf3d6b914868",
+      "json_bytes": 1205067,
+      "json_sha256": "bfa33dfa9941dd64975f861a1dc9d5114d10ea8b62f7d7e0a8f651daa2f5c1e0"
+    },
+    "Plutarch (0007) - Quaestiones Convivales (112).json": {
+      "version": "1.6",
+      "compressed_bytes": 1029056,
+      "compressed_sha256": "af87180adb0ef78a9782b134617b647c6f77363700ea3875732b17924b9bb0bb",
+      "json_bytes": 12757169,
+      "json_sha256": "52712afac43fbb3f134161e754798e2314a17c73b85c7b2ba6cf984a4e383db5"
+    },
+    "Plutarch (0007) - Quomodo quis suos in virtute sentiat profectus (071).json": {
+      "version": "1.6",
+      "compressed_bytes": 88560,
+      "compressed_sha256": "83f92724c41d5ad30a17f0fb8415e4b7549b42af86621bf8bbccac7b0ccfeb26",
+      "json_bytes": 1052416,
+      "json_sha256": "e52445a154bcfd54cd4533503fe596b9386c47c135d765cb5bd66e0925fa9668"
+    },
+    "Plutarch (0007) - Romulus (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 156683,
+      "compressed_sha256": "dfc10e28aa23394dd2d66be952588954eb1de789a9ec84d8275d610673131887",
+      "json_bytes": 1913020,
+      "json_sha256": "50fec3e642974e10ceb15f8110219b091c4bc90e8da543d269f06f8dfd7161b0"
+    },
+    "Plutarch (0007) - Sertorius (042).json": {
+      "version": "1.6",
+      "compressed_bytes": 116343,
+      "compressed_sha256": "43eb1bcf146caf70fef9476775b4ff384efb97fc6cd0c30678dd44ff2a440fa1",
+      "json_bytes": 1376016,
+      "json_sha256": "a64218787ddd218d4b71952eddfdeb07294ad63a48ebc60af964960fd8cfacd1"
+    },
+    "Plutarch (0007) - Solon (007).json": {
+      "version": "1.6",
+      "compressed_bytes": 145369,
+      "compressed_sha256": "72de3f78a53295048ea258f4986d4487dea4eff3ae94f63c422a92f997fd3077",
+      "json_bytes": 1774344,
+      "json_sha256": "0e32d2340dd3046a34082fb355c55e8252c33f7247fd16ec8cfafef1ff16b4e5"
+    },
+    "Plutarch (0007) - Theseus (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 127044,
+      "compressed_sha256": "09241c46b5b344b6c2d3d2d6f9a1fcecb7bc9702746669e71d9f816044a04cdf",
+      "json_bytes": 1544451,
+      "json_sha256": "76059086dc94b6983e95aee966faa248285028e2545ce6ffdd01e3ac3152ca4c"
+    },
+    "Plutarch (0007) - Tiberius Gracchus (052).json": {
+      "version": "1.6",
+      "compressed_bytes": 86205,
+      "compressed_sha256": "35417fa7ac1dcbe482b6770a48ac3ac3aef7573766574b55774a9d493b9e3dee",
+      "json_bytes": 1035928,
+      "json_sha256": "95a13f7f119c75ba76cf190a6b286f3bcf074c9e0fba37229cc42ad0708197f3"
+    },
+    "Plutarch (0007) - Titus Flamininus (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 102761,
+      "compressed_sha256": "ec1891d7d9566e347dc1c71c5f1274004255c6501b306e33ba04b1591c55fb1e",
+      "json_bytes": 1205480,
+      "json_sha256": "bf418efcace83de8466bd3b4c58ffdca16eaa81b740cc639833b94fc31cbafb8"
+    },
+    "Plutarch (0007) - Vitae decem oratorum (121).json": {
+      "version": "1.6",
+      "compressed_bytes": 153401,
+      "compressed_sha256": "34ec78db0fc8ee11714abe302abb11bc004845dfa6151eb92e1e59b21e01b1cc",
+      "json_bytes": 1884571,
+      "json_sha256": "137fe311bef1d5bfc44fb3beed637a66746e73fbb1969c1173ea92ffe240773c"
+    },
+    "Pseudo Apollodorus (0548) - Library (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 446359,
+      "compressed_sha256": "6cc028fceeee5c9ae9f3562707787ffc17424139c42a8c2832254f9ca72d4478",
+      "json_bytes": 5652657,
+      "json_sha256": "35c9108c9d1e93bedc86097f522b9220b50fe07639c1a3071cead7d6d8327d67"
+    },
+    "Pseudo-Aristides (0284) - Ars Rhetorica (056).json": {
+      "version": "1.6",
+      "compressed_bytes": 354594,
+      "compressed_sha256": "f562f2f90d57bc2425dac562d678e2c52253919fa156a73945633329e8a60ae7",
+      "json_bytes": 4826908,
+      "json_sha256": "3e2ad89c17322c7659de7f6e97bde6f29e7f890cb7cba226c9d2d6e8681268b9"
+    },
+    "Septuaginta (0527) - Abdias (040).json": {
+      "version": "1.6",
+      "compressed_bytes": 8020,
+      "compressed_sha256": "a6a90b2d3a1e9bca8bb4af2adf75d74e9c37ac1f93d8dcd84d720f24ea51ca6f",
+      "json_bytes": 96380,
+      "json_sha256": "b74076b4eaee5e94634034fce6cddc87f56091b6326f95a8eac65cddebf5da19"
+    },
+    "Septuaginta (0527) - Aggaeus (045).json": {
+      "version": "1.6",
+      "compressed_bytes": 13968,
+      "compressed_sha256": "9ef4ee7a2ac2c52531c745460ad1435d94d1edd2e07950da68893d920b7e1490",
+      "json_bytes": 190483,
+      "json_sha256": "abbf484a3cf85e88b7b22292b7b3857c3398aeb3a6cd1f0dafc317fb0a86d7da"
+    },
+    "Septuaginta (0527) - Baruch (050).json": {
+      "version": "1.6",
+      "compressed_bytes": 37007,
+      "compressed_sha256": "782af76c4a54226c93c7e211e38e922903aa0b6570a3809583f093b7472bfbb6",
+      "json_bytes": 529200,
+      "json_sha256": "a313905b68ed052d8d29685d549d4837014521b0578a6d4764f69b1f4084f306"
+    },
+    "Septuaginta (0527) - Bel et Draco (LXX) (058).json": {
+      "version": "1.6",
+      "compressed_bytes": 13449,
+      "compressed_sha256": "f043db7dec8c994f7ac57d1915c61c555be23e6367d62bfa19a3782a4f4c00f7",
+      "json_bytes": 183126,
+      "json_sha256": "bf6f62d691a213b89e1f073228dd778e12ae88aaa0b45a72a37dc67238647da1"
+    },
+    "Septuaginta (0527) - Canticum (031).json": {
+      "version": "1.6",
+      "compressed_bytes": 31391,
+      "compressed_sha256": "161a4f693ad9745f778fd2ec7dd693cde3bf717e89a756c7cebc7f1356d50326",
+      "json_bytes": 413031,
+      "json_sha256": "8075d9c81d1e4c74199cbff96ace60401401d72aeb3082db76eafc14748b5ed5"
+    },
+    "Septuaginta (0527) - Daniel (LXX) (056).json": {
+      "version": "1.6",
+      "compressed_bytes": 145380,
+      "compressed_sha256": "6b64ad096c693403965355e1ed72e0727ed01c857335eac522c52d1d80909539",
+      "json_bytes": 2212806,
+      "json_sha256": "b84affdaf7f963f2bf8ee13aa08601cc2591b958f3346267284fc832f55367d1"
+    },
+    "Septuaginta (0527) - Deuteronomium (005).json": {
+      "version": "1.6",
+      "compressed_bytes": 306351,
+      "compressed_sha256": "1834355637a6e67e90af6c003d6a61b3bebc98d70d41cc0a2f3b66fc09b3ed73",
+      "json_bytes": 4644019,
+      "json_sha256": "9f1dc016f6abd3f57919de4a6892e9078c5e647e2ff051e685120bcc2f6a737c"
+    },
+    "Septuaginta (0527) - Esdras I (017).json": {
+      "version": "1.6",
+      "compressed_bytes": 121183,
+      "compressed_sha256": "858b348ee817dbc31d27bfc3ee5c24a03487ea48753a767a7ddb3da25ddea557",
+      "json_bytes": 1796818,
+      "json_sha256": "f4ac756eda782f984dd1437454dee0b62da571635c9ec6f96815c5d7f4e4c92d"
+    },
+    "Septuaginta (0527) - Esdras II (018).json": {
+      "version": "1.6",
+      "compressed_bytes": 163695,
+      "compressed_sha256": "879dc9454213eec2b6f47c77f7faf18351e42bbcc4be4c40fa5b78d797625ad6",
+      "json_bytes": 2609471,
+      "json_sha256": "2339c59acada3a04d0454fc3135bc829c9b75c50266568f103a438c2efc9e6f7"
+    },
+    "Septuaginta (0527) - Esther (019).json": {
+      "version": "1.6",
+      "compressed_bytes": 84187,
+      "compressed_sha256": "8da3ceddac7ed23e4930952ccfcef20d07bdf067f0391f9561bf4a7f0c7f7a24",
+      "json_bytes": 1193181,
+      "json_sha256": "5b2f9774de2053ca971501cc9afc8eae45803564dd17737e6cc67e46e895dc85"
+    },
+    "Septuaginta (0527) - Exodus (002).json": {
+      "version": "1.6",
+      "compressed_bytes": 314832,
+      "compressed_sha256": "f3b2c1ed0efd82be1b238054c38bca92e3e0198c60b1a00e81bc4caf350d5f03",
+      "json_bytes": 5011225,
+      "json_sha256": "18ec8861c94f8b447ca80d67195d6e66e1139a1aa93c6226da4c62f3fa8827fb"
+    },
+    "Septuaginta (0527) - Ezechiel (053).json": {
+      "version": "1.6",
+      "compressed_bytes": 371317,
+      "compressed_sha256": "215a8918b8174a946e449d0eb0fba587144ae788083a6b0ad256737d9661adfa",
+      "json_bytes": 6019771,
+      "json_sha256": "8a51cf95fabcb423cdc1239fec012c3eda59f4b0352eaa97f2da2e0f3b449bf1"
+    },
+    "Septuaginta (0527) - Genesis (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 398664,
+      "compressed_sha256": "4217da6a11fa80bb4b159aa7596650c598f89b49c4dae54fa8335ee7c2ed1cff",
+      "json_bytes": 6515160,
+      "json_sha256": "20c4e8597a3ef73df09557e3ed88e3a765b01fc18219d841bf6a9dc17fe9bc7b"
+    },
+    "Septuaginta (0527) - Jeremias (049).json": {
+      "version": "1.6",
+      "compressed_bytes": 404762,
+      "compressed_sha256": "c4a55d0494cb6f01a2273362aaacacb9b3a9c9f36f0c0516d775f910d93e9529",
+      "json_bytes": 5878824,
+      "json_sha256": "1bf1715851ddca7190dd7e322c6f152b3f392c53dc4597e1b2b79a8b7037308d"
+    },
+    "Septuaginta (0527) - Job (032).json": {
+      "version": "1.6",
+      "compressed_bytes": 217783,
+      "compressed_sha256": "9310142fbe86202cf8292c6da876430bf50c27342e1f598d8aafdcdba8cc9ab5",
+      "json_bytes": 2803011,
+      "json_sha256": "1cdb2d13600b210f0a3fa0eb2284fcdf0379cac270ff1895d88cac6ef51bcd07"
+    },
+    "Septuaginta (0527) - Judices (cod. Al.) (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 197297,
+      "compressed_sha256": "2be11cb35540b2b081ccf2f2e0996cb1acf4d0d3c67a1dc1dda2e8188b534e01",
+      "json_bytes": 3167850,
+      "json_sha256": "f1f644b430d4cad86dac316c3b0544755117628854d961c0354c6053919a6ad6"
+    },
+    "Septuaginta (0527) - Judith (020).json": {
+      "version": "1.6",
+      "compressed_bytes": 129428,
+      "compressed_sha256": "2317448cfc28707c330a65f7f55f95048f9576071d8649ffc7e87c2f8283b709",
+      "json_bytes": 1852970,
+      "json_sha256": "a5b6637c248a13d141e8d9a9f1846e6e7f79b37fddafbda1d36bd02e58362a15"
+    },
+    "Septuaginta (0527) - Lamentationes (051).json": {
+      "version": "1.6",
+      "compressed_bytes": 38156,
+      "compressed_sha256": "6c625c7b5ce886b667110074352d1222e1f3eb254455f325969437cd209a944a",
+      "json_bytes": 495878,
+      "json_sha256": "24b6ec83e0d7cb5bee7f4d06c1abe148ad1e9ffc4876996ec11e0309c320d493"
+    },
+    "Septuaginta (0527) - Leviticus (003).json": {
+      "version": "1.6",
+      "compressed_bytes": 219258,
+      "compressed_sha256": "002004e1dd228bdb94e5bff11765f303d864e45bd7e42d64fccab03e2caa0b50",
+      "json_bytes": 3879265,
+      "json_sha256": "025abc68a84fce3a3dc6d1dcd35fa60f0f3e2642cc187030fafefc19f4523231"
+    },
+    "Septuaginta (0527) - Machabaeorum I (023).json": {
+      "version": "1.6",
+      "compressed_bytes": 255143,
+      "compressed_sha256": "482d9d5dc609ac7bdad1b4c325c12e6d497a730c3b829bbeb9c121f05e570ff9",
+      "json_bytes": 3697043,
+      "json_sha256": "dd6908ba7209bb9b4033f5a6ae918b7c3e71bf6cb8f95e8446d26d8729cea5ca"
+    },
+    "Septuaginta (0527) - Machabaeorum II (024).json": {
+      "version": "1.6",
+      "compressed_bytes": 194626,
+      "compressed_sha256": "416dcb2183bf66f0ad9e5c3bed880a2c9a1897f17cb87b313d5cc30fd137bb7d",
+      "json_bytes": 2436685,
+      "json_sha256": "137b6fc8dbd908f886e4a7cd073c039948b74418975b736428c81f10942455d2"
+    },
+    "Septuaginta (0527) - Machabaeorum IV (026).json": {
+      "version": "1.6",
+      "compressed_bytes": 126129,
+      "compressed_sha256": "84e64fcb3ba809b4f8f364b72a8390a2762eb7d3d71b1771c84ff1288054c4e6",
+      "json_bytes": 1611621,
+      "json_sha256": "0da3f53927175806c20e9dc305f17101211c5d5cf133e27fa54abde986a8c574"
+    },
+    "Septuaginta (0527) - Machabaeourum III (025).json": {
+      "version": "1.6",
+      "compressed_bytes": 87846,
+      "compressed_sha256": "9779891c43335f3861f04249d9a76213164df9ac3735892856435fcbd6386cdc",
+      "json_bytes": 1050386,
+      "json_sha256": "1e8e204be7272c964d7db8cc6e2ba658434ac9b1127f26121a4ad49fc74606db"
+    },
+    "Septuaginta (0527) - Malachias (047).json": {
+      "version": "1.6",
+      "compressed_bytes": 21013,
+      "compressed_sha256": "b25ca1076d54fa0f04fe7f8f8ffcf2685201b396fad124f0a08a76ff3dc789cf",
+      "json_bytes": 290782,
+      "json_sha256": "4dc7bd4188d0d2c0fef0e44b2cad7741683ee612c6214b65a40a357a64654130"
+    },
+    "Septuaginta (0527) - Michaeas (038).json": {
+      "version": "1.6",
+      "compressed_bytes": 36306,
+      "compressed_sha256": "54890cbadb30084c7e65ee0d5011a40378c9286f31b47873c6cd176ae5dd3ff6",
+      "json_bytes": 484286,
+      "json_sha256": "8f9d86f48292b24bb1a084c0cbe7eaea7b9970562ef35199e7b3e184b1f50882"
+    },
+    "Septuaginta (0527) - Nahum (042).json": {
+      "version": "1.6",
+      "compressed_bytes": 15779,
+      "compressed_sha256": "1fd3517cde63816ad99cedf990987707503049f1c4475a05daf76ef95d954399",
+      "json_bytes": 195411,
+      "json_sha256": "45a88653353a692031f922c3a27400a626c1625836a19a03c66a1189ba7d08b0"
+    },
+    "Septuaginta (0527) - Numeri (004).json": {
+      "version": "1.6",
+      "compressed_bytes": 283090,
+      "compressed_sha256": "472e33068e1c4725b2088b90404b434fa6d6f2b2aa9eec1c89ca730b8778df0c",
+      "json_bytes": 5010307,
+      "json_sha256": "3934bda3c148c7407f0fd9ca4e50512a39fdad04a6741ae0f6df3cb00a4e1172"
+    },
+    "Septuaginta (0527) - Odae (028).json": {
+      "version": "1.6",
+      "compressed_bytes": 59871,
+      "compressed_sha256": "ca9c486e74ce2b2b4515d475566cfb0da2bfa352987dd7a276a7085aa5c57e87",
+      "json_bytes": 870807,
+      "json_sha256": "be8698b0d7558dd7a0c9a580c496ba99e243d5dbf4652f1bced38624f24cef7f"
+    },
+    "Septuaginta (0527) - Paralipomenon I (015).json": {
+      "version": "1.6",
+      "compressed_bytes": 178114,
+      "compressed_sha256": "fdbabed74a9f7a00a155fcc5272dbf48c92f82e4abd481d9363b2a9be8285123",
+      "json_bytes": 3124269,
+      "json_sha256": "2448d6bf9e1d86a68e888dd9f46213f821ef5c73a5d4c1caca6c8ce760c4951c"
+    },
+    "Septuaginta (0527) - Paralipomenon II (016).json": {
+      "version": "1.6",
+      "compressed_bytes": 269650,
+      "compressed_sha256": "595c1543df73a4cb29a39c730b1040683cd9150df69a767cfe22f85dcefdfc89",
+      "json_bytes": 4233317,
+      "json_sha256": "e776470ad2a176c151af406973a7cbb3fce4309bb5ffb79207fe6ee7d3e38dfd"
+    },
+    "Septuaginta (0527) - Psalmi Salomonis (035).json": {
+      "version": "1.6",
+      "compressed_bytes": 70073,
+      "compressed_sha256": "438ce0f41f01ef766942f24e3998604314afba37116bbc498dcc4b2dc03244b3",
+      "json_bytes": 995175,
+      "json_sha256": "ef827b61052e3e5c2bbc84067c54c5935dd8821c1bec32612437046234c2fa3b"
+    },
+    "Septuaginta (0527) - Regnorum I (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 257972,
+      "compressed_sha256": "b4d85356af5cc49a4b6aba8f13c897e788cfa9729d0241583a6fac378f9b4e6b",
+      "json_bytes": 4035298,
+      "json_sha256": "91246dde5a5587b5ac219f7be2c2500abb0ea703ecc2929bbbeb7c7c35d9acec"
+    },
+    "Septuaginta (0527) - Regnorum II (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 223577,
+      "compressed_sha256": "693f8496db07a5563c06fe46e071d19ff09c97bb7ecaa334d5a7f052b1f11292",
+      "json_bytes": 3535977,
+      "json_sha256": "1275ee4736a500b9464436cfaf03bce751b49c491d3bae45d1afc063efbe3f6d"
+    },
+    "Septuaginta (0527) - Regnorum III (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 258995,
+      "compressed_sha256": "4269800775f2eb25f9c02015760f4fdbe739ca236fcd978d72fcc44e39994e61",
+      "json_bytes": 4137847,
+      "json_sha256": "30c5c7ba8530d4233027213ffff04ad1227a59efc276526eea512e3194d6b96e"
+    },
+    "Septuaginta (0527) - Regnorum IV (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 233651,
+      "compressed_sha256": "133fb1e4257b2dd48575b2a911dfb1f11c17cc388b1be4282f21583252fdb7d3",
+      "json_bytes": 3748556,
+      "json_sha256": "5558ca106b2e017d9c205903ab0338bbcceee535ae0fe4a047b10a057576dffb"
+    },
+    "Septuaginta (0527) - Ruth (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 27620,
+      "compressed_sha256": "96d4484161ef30bb78107de9cd455aaf7cfb967d6f9a7c640b4359247916b3b9",
+      "json_bytes": 417319,
+      "json_sha256": "22a0ac422be5aff0bd5736d2a4dbf1c37d88f16f01528bced497da4afaf3a9ed"
+    },
+    "Septuaginta (0527) - Sapientia Salomonis (033).json": {
+      "version": "1.6",
+      "compressed_bytes": 118066,
+      "compressed_sha256": "57efc9ac2f30b7cae6a7b6edbec903af4942fa91cf158b46c294aaf780ddef53",
+      "json_bytes": 1438435,
+      "json_sha256": "93a9c6950bcd909f0abe43f938a524d7f3ca2e7f2af26eb1a6beae7b22380617"
+    },
+    "Septuaginta (0527) - Siracides (034).json": {
+      "version": "1.6",
+      "compressed_bytes": 289535,
+      "compressed_sha256": "89edbc9b376a879eeed85878f37ccbe7a49983a5b66d4717269706e0e4abfbe0",
+      "json_bytes": 3880884,
+      "json_sha256": "7343d0c384badfe3ce9c62e22676d4a0f032e764f9c3ef5ee4e91530bbf6a2ed"
+    },
+    "Septuaginta (0527) - Susanna (LXX) (054).json": {
+      "version": "1.6",
+      "compressed_bytes": 13683,
+      "compressed_sha256": "6647d272e08b55a5b8ba10801efe012658317cc051f0645919346ac87c45f8a9",
+      "json_bytes": 163739,
+      "json_sha256": "b2579b39592f1b98271de68bbdf8227b7e5bab943f191d986ed0da2ec3607471"
+    },
+    "Septuaginta (0527) - Tobias (cod. Vat. et Alex.) (021).json": {
+      "version": "1.6",
+      "compressed_bytes": 78899,
+      "compressed_sha256": "55ded9c4811d74047bac8a1ce431fe15ddc0324c0bc07924a60fd07f07e04617",
+      "json_bytes": 1124666,
+      "json_sha256": "bacc2a2d125b6bffbb26d08c030969829cd6081764cae4b1cc9ed638979f73f1"
+    },
+    "Septuaginta (0527) - Zacharias (046).json": {
+      "version": "1.6",
+      "compressed_bytes": 67365,
+      "compressed_sha256": "ea76c44adeafc6e800c67f7ae2e93474f51c49bba14ff16435c457ca41b90949",
+      "json_bytes": 1015250,
+      "json_sha256": "d357eff43e9a02c88fea6db317f4908617c17b16ec8621b476d9b5c24743840b"
+    },
+    "Sophocles (0011) - Ichneutae (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 36005,
+      "compressed_sha256": "da5693faba603ffb2e3dc7707a1d719df1cfadb187482e8f7574ef3f2c31aa0c",
+      "json_bytes": 409430,
+      "json_sha256": "04e2ed006ea7da486066febdc04d3f675185d3f34b8c25884c98fd95994354b2"
+    },
+    "Theocritus (0005) - Idylls (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 362737,
+      "compressed_sha256": "c91b20795553b3fd17375530a3f390a55210197356c98e6b703a163dd4c6a8be",
+      "json_bytes": 4099367,
+      "json_sha256": "7177bec4ae3869100bf4aa967878a8217347404fe8e38180979eaa0cd703a234"
+    },
+    "Triphiodorus (0647) - The Taking of Ilios (001).json": {
+      "version": "1.6",
+      "compressed_bytes": 85072,
+      "compressed_sha256": "2007be98ce377d2dd492fdc128ef305181037000b72ca357d2d2c7bfccc51ae5",
+      "json_bytes": 898021,
+      "json_sha256": "2e9dfaf0ead03b29b24eda36a7ddf148774050873073850222a1b4c3d1f10655"
+    },
+    "Xenophon (0032) - Agesilaus (009).json": {
+      "version": "1.6",
+      "compressed_bytes": 121288,
+      "compressed_sha256": "750c0be67d3c2ebda1d78fcf248f6ef1e27d80725e5b9183f01c5390baabfa21",
+      "json_bytes": 1534933,
+      "json_sha256": "a5604dd8a6e06c9c36be7cd45034fcbb393ccf27cafc848aa7a3dd94408cc2e9"
+    },
+    "Xenophon (0032) - Constitution of the Lacedaemonians (010).json": {
+      "version": "1.6",
+      "compressed_bytes": 79516,
+      "compressed_sha256": "3c5d0127749028df5d9479f547f9298ab99de83ecabf20e597642015bd2e829f",
+      "json_bytes": 1016987,
+      "json_sha256": "e11b0c60dc5ab704bf40589ca0c3069454807367ea4f85a35d52c9d3430783a7"
+    },
+    "Xenophon (0032) - Hiero (008).json": {
+      "version": "1.6",
+      "compressed_bytes": 94666,
+      "compressed_sha256": "3b7653ee8dd30d3581cfa8946338923c2d98f63f5cdfb723cc547c8f268344bb",
+      "json_bytes": 1250477,
+      "json_sha256": "b5b959dad3ce69862099a41e4ebaad570ddb2456d19f119cb7422170ad0f85c9"
+    },
+    "Xenophon (0032) - On Hunting (014).json": {
+      "version": "1.6",
+      "compressed_bytes": 141186,
+      "compressed_sha256": "3286f1678a90394d501d904a4680611a6c722a6fb5a30cc0af95b341ed14f393",
+      "json_bytes": 1943372,
+      "json_sha256": "d099410461c7e9df82070edfd4c1b8f75ac1f0fd1b6dbd6ff07e0a3059bdd538"
+    },
+    "Xenophon (0032) - On the Art of Horsemanship (013).json": {
+      "version": "1.6",
+      "compressed_bytes": 106789,
+      "compressed_sha256": "e1f77783d77139c3b57605a4f0da7eff92722fbe68d30ab65f8179eab36c6e7c",
+      "json_bytes": 1452666,
+      "json_sha256": "635410f56be370faf6e9fe0b71f17c24307739c75750e64702874318453140d8"
+    },
+    "Xenophon (0032) - On the Cavalry Commander (012).json": {
+      "version": "1.6",
+      "compressed_bytes": 91947,
+      "compressed_sha256": "0c86e8d9827a42fe43b2738ddf2a83f0b920550dc67273b8f5b977e7a4037b47",
+      "json_bytes": 1207557,
+      "json_sha256": "ab3bdaaa4499379e119392be6533dbf0066557e182f16cdd00a5a696ced475a0"
+    },
+    "Xenophon (0032) - Ways and Means (011).json": {
+      "version": "1.6",
+      "compressed_bytes": 62548,
+      "compressed_sha256": "b6df6e6dd561afdc9888cb0799a5bcb81794c0eaf695f6a5604420fbfe2d2acc",
+      "json_bytes": 802400,
+      "json_sha256": "3272266015468eb803fae78d70bc5ba1cf09c470cb18c75eb1c339d77af0eeeb"
+    }
+  }
+}

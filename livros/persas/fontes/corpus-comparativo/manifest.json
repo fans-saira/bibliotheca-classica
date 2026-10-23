@@ -1,0 +1,100 @@
+[
+  {
+    "author": "0085",
+    "work": 1,
+    "name": "tlg0085.tlg001.perseus-grc2.tb.xml",
+    "tokens": 4906,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0085.tlg001.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0085",
+    "work": 2,
+    "name": "tlg0085.tlg002.perseus-grc2.tb.xml",
+    "tokens": 5196,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0085.tlg002.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0085",
+    "work": 3,
+    "name": "tlg0085.tlg003.perseus-grc2.tb.xml",
+    "tokens": 5970,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0085.tlg003.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0085",
+    "work": 4,
+    "name": "tlg0085.tlg004.perseus-grc2.tb.xml",
+    "tokens": 5133,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0085.tlg004.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0085",
+    "work": 5,
+    "name": "tlg0085.tlg005.perseus-grc1.tb.xml",
+    "tokens": 8206,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0085.tlg005.perseus-grc1.tb.xml"
+  },
+  {
+    "author": "0085",
+    "work": 6,
+    "name": "tlg0085.tlg006.perseus-grc2.tb.xml",
+    "tokens": 4750,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0085.tlg006.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0085",
+    "work": 7,
+    "name": "tlg0085.tlg007.perseus-grc1.tb.xml",
+    "tokens": 5331,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0085.tlg007.perseus-grc1.tb.xml"
+  },
+  {
+    "author": "0011",
+    "work": 1,
+    "name": "tlg0011.tlg001.perseus-grc2.tb.xml",
+    "tokens": 7354,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg001.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0011",
+    "work": 2,
+    "name": "tlg0011.tlg002.perseus-grc2.tb.xml",
+    "tokens": 7428,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg002.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0011",
+    "work": 3,
+    "name": "tlg0011.tlg003.perseus-grc1.tb.xml",
+    "tokens": 7951,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg003.perseus-grc1.tb.xml"
+  },
+  {
+    "author": "0011",
+    "work": 4,
+    "name": "tlg0011.tlg004.perseus-grc1.tb.xml",
+    "tokens": 9360,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg004.perseus-grc1.tb.xml"
+  },
+  {
+    "author": "0011",
+    "work": 5,
+    "name": "tlg0011.tlg005.perseus-grc2.tb.xml",
+    "tokens": 8764,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg005.perseus-grc2.tb.xml"
+  },
+  {
+    "author": "0012",
+    "work": 1,
+    "name": "tlg0012.tlg001.perseus-grc1.tb.xml",
+    "tokens": 112597,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0012.tlg001.perseus-grc1.tb.xml"
+  },
+  {
+    "author": "0012",
+    "work": 2,
+    "name": "tlg0012.tlg002.perseus-grc1.tb.xml",
+    "tokens": 87587,
+    "source": "https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0012.tlg002.perseus-grc1.tb.xml"
+  }
+]

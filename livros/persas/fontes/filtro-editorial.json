@@ -1,0 +1,1785 @@
+{
+  "fundamental_lemmas": 185,
+  "excluded_entries": [
+    {
+      "verse": 5,
+      "forma": "βασιλεὺς",
+      "lema": "βασιλεύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 7,
+      "forma": "χώρας",
+      "lema": "χώρα",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 12,
+      "forma": "πᾶσα",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 13,
+      "forma": "νέον",
+      "lema": "νέος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 13,
+      "forma": "ἄνδρα",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 19,
+      "forma": "ἐπὶ",
+      "lema": "ἐπί",
+      "motivo": "unificada com ἐφ᾽ no verso 18"
+    },
+    {
+      "verse": 20,
+      "forma": "πολέμου",
+      "lema": "πόλεμος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 24,
+      "forma": "βασιλῆς",
+      "lema": "βασιλεύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 24,
+      "forma": "βασιλέως",
+      "lema": "βασιλεύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 24,
+      "forma": "μεγάλου",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 25,
+      "forma": "πολλῆς",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 27,
+      "forma": "φοβεροὶ",
+      "lema": "φοβερός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 27,
+      "forma": "μάχην",
+      "lema": "μάχη",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 28,
+      "forma": "ψυχῆς",
+      "lema": "ψυχή",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 33,
+      "forma": "μέγας",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 43,
+      "forma": "ἔθνος",
+      "lema": "ἔθνος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 44,
+      "forma": "ἀγαθός",
+      "lema": "ἀγαθός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 46,
+      "forma": "πολλοῖς",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 54,
+      "forma": "πέμπει",
+      "lema": "πέμπω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 56,
+      "forma": "πάσης",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 60,
+      "forma": "ἀνδρῶν",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 64,
+      "forma": "χρόνον",
+      "lema": "χρόνος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 67,
+      "forma": "χώραν",
+      "lema": "χώρα",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 74,
+      "forma": "πᾶσαν",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 77,
+      "forma": "θαλάσσας",
+      "lema": "θάλασσα",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 86,
+      "forma": "δράσι",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 88,
+      "forma": "μεγάλῳ",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 93,
+      "forma": "θεοῦ",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 94,
+      "forma": "ἀνὴρ",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 104,
+      "forma": "πολέμους",
+      "lema": "πόλεμος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 107,
+      "forma": "πόλεών",
+      "lema": "πόλις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 118,
+      "forma": "πόλις",
+      "lema": "πόλις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 119,
+      "forma": "μέγ᾽",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 125,
+      "forma": "ἐν",
+      "lema": "ἐν",
+      "motivo": "sentido elementar da preposição"
+    },
+    {
+      "verse": 126,
+      "forma": "πᾶς",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 127,
+      "forma": "λεὼς",
+      "lema": "λαός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 146,
+      "forma": "γένος",
+      "lema": "γένος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 150,
+      "forma": "θεῶν",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 151,
+      "forma": "βασιλέως",
+      "lema": "βασιλεύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 154,
+      "forma": "πάντας",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 156,
+      "forma": "γύναι",
+      "lema": "γυνή",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 162,
+      "forma": "φίλοι",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 164,
+      "forma": "ἄνευ",
+      "lema": "ἄνευ",
+      "motivo": "sentido elementar da preposição"
+    },
+    {
+      "verse": 165,
+      "forma": "φρεσίν",
+      "lema": "φρήν",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 168,
+      "forma": "φόβος",
+      "lema": "φόβος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 170,
+      "forma": "λόγου",
+      "lema": "λόγος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 172,
+      "forma": "πάντα",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 173,
+      "forma": "γῆς",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 177,
+      "forma": "ἀφ᾽",
+      "lema": "ἀφ᾽",
+      "motivo": "sentido elementar da preposição"
+    },
+    {
+      "verse": 177,
+      "forma": "παῖς",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 178,
+      "forma": "γῆν",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 181,
+      "forma": "γυναῖκ᾽",
+      "lema": "γυνή",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 182,
+      "forma": "πέπλοισι",
+      "lema": "πέπλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 184,
+      "forma": "πολύ",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 185,
+      "forma": "γένους",
+      "lema": "γένος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 194,
+      "forma": "χεροῖν",
+      "lema": "χείρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 198,
+      "forma": "ὁρᾷ",
+      "lema": "ὁράω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 199,
+      "forma": "πέπλους",
+      "lema": "πέπλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 200,
+      "forma": "λέγω",
+      "lema": "λέγω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 202,
+      "forma": "χερὶ",
+      "lema": "χείρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 205,
+      "forma": "ὁρῶ",
+      "lema": "ὁράω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 206,
+      "forma": "φίλοι",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 212,
+      "forma": "ἀνήρ",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 213,
+      "forma": "κακῶς",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 213,
+      "forma": "πόλει",
+      "lema": "πόλις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 215,
+      "forma": "λόγοις",
+      "lema": "λόγος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 216,
+      "forma": "θεοὺς",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 219,
+      "forma": "φίλοις",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 219,
+      "forma": "πᾶσι",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 220,
+      "forma": "γῇ",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 221,
+      "forma": "φὴς",
+      "lema": "φημί",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 226,
+      "forma": "πρῶτος",
+      "lema": "πρῶτος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 227,
+      "forma": "παιδὶ",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 229,
+      "forma": "πάντα",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 229,
+      "forma": "θεοῖσι",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 229,
+      "forma": "φίλοις",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 231,
+      "forma": "φασὶν",
+      "lema": "φημί",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 233,
+      "forma": "πόλιν",
+      "lema": "πόλις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 236,
+      "forma": "πολλὰ",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 236,
+      "forma": "κακά",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 243,
+      "forma": "ἄνδρας",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 244,
+      "forma": "πολύν",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 245,
+      "forma": "λέγεις",
+      "lema": "λέγω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 246,
+      "forma": "πάντα",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 246,
+      "forma": "λόγον",
+      "lema": "λόγος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 248,
+      "forma": "φέρει",
+      "lema": "φέρω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 248,
+      "forma": "κακὸν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 251,
+      "forma": "μιᾷ",
+      "lema": "εἷς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 251,
+      "forma": "πολὺς",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 253,
+      "forma": "κακὸν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 253,
+      "forma": "πρῶτον",
+      "lema": "πρῶτος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 254,
+      "forma": "πᾶν",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 256,
+      "forma": "κακὰ",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 264,
+      "forma": "γεραιοῖς",
+      "lema": "γεραιός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 266,
+      "forma": "λόγους",
+      "lema": "λόγος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 267,
+      "forma": "κακά",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 274,
+      "forma": "φίλων",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 288,
+      "forma": "πολλὰς",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 291,
+      "forma": "κακοῖς",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 300,
+      "forma": "μέγα",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 307,
+      "forma": "νῆσον",
+      "lema": "νῆσος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 313,
+      "forma": "μιᾶς",
+      "lema": "εἷς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 324,
+      "forma": "γένος",
+      "lema": "γένος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 327,
+      "forma": "εἷς",
+      "lema": "εἷς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 330,
+      "forma": "πολλῶν",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 331,
+      "forma": "κακῶν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 343,
+      "forma": "ἔχει",
+      "lema": "ἔχω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 343,
+      "forma": "λόγος",
+      "lema": "λόγος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 347,
+      "forma": "θεοὶ",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 351,
+      "forma": "μάχης",
+      "lema": "μάχη",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 353,
+      "forma": "παντὸς",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 353,
+      "forma": "κακοῦ",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 354,
+      "forma": "κακὸς",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 362,
+      "forma": "ἀνδρὸς",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 363,
+      "forma": "πᾶσιν",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 369,
+      "forma": "κακόν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 372,
+      "forma": "φρενός",
+      "lema": "φρήν",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 374,
+      "forma": "φρενὶ",
+      "lema": "φρήν",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 383,
+      "forma": "λεών",
+      "lema": "λαός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 388,
+      "forma": "πρῶτον",
+      "lema": "πρῶτος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 395,
+      "forma": "πάντ᾽",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 398,
+      "forma": "πάντες",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 399,
+      "forma": "πρῶτον",
+      "lema": "πρῶτος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 402,
+      "forma": "πολλὴν",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 402,
+      "forma": "παῖδες",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 404,
+      "forma": "παῖδας",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 404,
+      "forma": "γυναῖκας",
+      "lema": "γυνή",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 405,
+      "forma": "πάντων",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 412,
+      "forma": "πρῶτα",
+      "lema": "πρῶτος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 419,
+      "forma": "θάλασσα",
+      "lema": "θάλασσα",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 433,
+      "forma": "μέγα",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 434,
+      "forma": "γένει",
+      "lema": "γένος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 439,
+      "forma": "φῂς",
+      "lema": "φημί",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 442,
+      "forma": "ψυχήν",
+      "lema": "ψυχή",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 445,
+      "forma": "κακῆς",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 447,
+      "forma": "νῆσός",
+      "lema": "νῆσος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 453,
+      "forma": "φίλους",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 454,
+      "forma": "θεὸς",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 459,
+      "forma": "χερῶν",
+      "lema": "χείρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 462,
+      "forma": "ἐξ",
+      "lema": "ἐξ",
+      "motivo": "sentido elementar da preposição"
+    },
+    {
+      "verse": 462,
+      "forma": "ἑνὸς",
+      "lema": "εἷς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 466,
+      "forma": "παντὸς",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 472,
+      "forma": "φρενῶν",
+      "lema": "φρήν",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 489,
+      "forma": "πόλεις",
+      "lema": "πόλις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 509,
+      "forma": "πολλῷ",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 510,
+      "forma": "πολλοί",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 514,
+      "forma": "θεός",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 516,
+      "forma": "παντὶ",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 518,
+      "forma": "ὄψις",
+      "lema": "ὄψις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 522,
+      "forma": "θεοῖς",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 529,
+      "forma": "παῖδ᾽",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 531,
+      "forma": "κακοῖσι",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 532,
+      "forma": "βασιλεῦ",
+      "lema": "βασιλεύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 537,
+      "forma": "πολλαὶ",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 537,
+      "forma": "χερσὶ",
+      "lema": "χείρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 557,
+      "forma": "φίλος",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 563,
+      "forma": "χέρες",
+      "lema": "χείρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 578,
+      "forma": "παίδων",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 584,
+      "forma": "γᾶν",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 593,
+      "forma": "λαὸς",
+      "lema": "λαός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 597,
+      "forma": "νᾶσος",
+      "lema": "νῆσος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 603,
+      "forma": "φόβου",
+      "lema": "φόβος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 606,
+      "forma": "φρένας",
+      "lema": "φρήν",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 609,
+      "forma": "παιδὸς",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 618,
+      "forma": "ἄνθη",
+      "lema": "ἄνθος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 630,
+      "forma": "ψυχὴν",
+      "lema": "ψυχή",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 631,
+      "forma": "κακῶν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 644,
+      "forma": "θεόν",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 647,
+      "forma": "ἁνήρ",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 648,
+      "forma": "φίλα",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 665,
+      "forma": "νέα",
+      "lema": "νέος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 670,
+      "forma": "πᾶσ᾽",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 673,
+      "forma": "φίλοισι",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 677,
+      "forma": "πᾶσαι",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 677,
+      "forma": "γᾷ",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 682,
+      "forma": "γεραιοί",
+      "lema": "γεραιός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 692,
+      "forma": "χρόνου",
+      "lema": "χρόνος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 693,
+      "forma": "κακόν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 702,
+      "forma": "φίλοισιν",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 704,
+      "forma": "γεραιὰ",
+      "lema": "γεραιός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 707,
+      "forma": "πολλὰ",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 707,
+      "forma": "θαλάσσης",
+      "lema": "θάλασσα",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 713,
+      "forma": "χρόνῳ",
+      "lema": "χρόνος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 723,
+      "forma": "μέγαν",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 726,
+      "forma": "κακόν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 734,
+      "forma": "φασιν",
+      "lema": "φημί",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 734,
+      "forma": "πολλῶν",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 736,
+      "forma": "γαῖν",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 741,
+      "forma": "θεούς",
+      "lema": "θεός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 744,
+      "forma": "νέῳ",
+      "lema": "νέος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 753,
+      "forma": "κακοῖς",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 753,
+      "forma": "ἀνδράσιν",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 754,
+      "forma": "λέγουσι",
+      "lema": "λέγω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 760,
+      "forma": "μέγιστον",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 763,
+      "forma": "ἕν᾽",
+      "lema": "εἷς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 763,
+      "forma": "ἄνδρ᾽",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 767,
+      "forma": "φρένες",
+      "lema": "φρήν",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 770,
+      "forma": "λαὸν",
+      "lema": "λαός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 776,
+      "forma": "ἐν",
+      "lema": "εἷς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 782,
+      "forma": "νέος",
+      "lema": "νέος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 788,
+      "forma": "λόγων",
+      "lema": "λόγος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 789,
+      "forma": "λεώς",
+      "lema": "λαός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 792,
+      "forma": "γῆ",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 798,
+      "forma": "πᾶν",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 806,
+      "forma": "φίλον",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 832,
+      "forma": "φίλη",
+      "lema": "φίλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 834,
+      "forma": "παιδί",
+      "lema": "παῖς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 845,
+      "forma": "πόλλ᾽",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 852,
+      "forma": "μεγάλας",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 852,
+      "forma": "ἀγαθᾶς",
+      "lema": "ἀγαθός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 860,
+      "forma": "πάντ᾽",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 861,
+      "forma": "πολέμων",
+      "lema": "πόλεμος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 863,
+      "forma": "ἀνέρασ",
+      "lema": "ἀνήρ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 864,
+      "forma": "πόλεις",
+      "lema": "πόλις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 878,
+      "forma": "νᾶσοί",
+      "lema": "νῆσος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 906,
+      "forma": "φέρομεν",
+      "lema": "φέρω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 906,
+      "forma": "πολέμοισι",
+      "lema": "πόλεμος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 918,
+      "forma": "ἀγαθῆς",
+      "lema": "ἀγαθός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 919,
+      "forma": "μεγάλης",
+      "lema": "μέγας",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 922,
+      "forma": "γᾶ",
+      "lema": "γῆ",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 925,
+      "forma": "πολλοὶ",
+      "lema": "πολύς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 934,
+      "forma": "κακὸν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 947,
+      "forma": "πόλεως",
+      "lema": "πόλις",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 955,
+      "forma": "πάντ᾽",
+      "lema": "πᾶς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 976,
+      "forma": "ἑνὶ",
+      "lema": "εἷς",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 986,
+      "forma": "κακὰ",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 988,
+      "forma": "ἀγαθῶν",
+      "lema": "ἀγαθός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 1010,
+      "forma": "νέᾳ",
+      "lema": "νέος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 1017,
+      "forma": "ὁρᾷς",
+      "lema": "ὁράω",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 1030,
+      "forma": "πέπλον",
+      "lema": "πέπλος",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 1030,
+      "forma": "κακοῦ",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    },
+    {
+      "verse": 1041,
+      "forma": "κακὰν",
+      "lema": "κακός",
+      "motivo": "vocabulário fundamental"
+    }
+  ],
+  "morphology_only": [
+    {
+      "verse": 27,
+      "forma": "ἰδεῖν",
+      "lema": "ὁράω"
+    },
+    {
+      "verse": 34,
+      "forma": "ἔπεμψεν",
+      "lema": "πέμπω"
+    },
+    {
+      "verse": 36,
+      "forma": "ἄρχων",
+      "lema": "ἄρχω"
+    },
+    {
+      "verse": 170,
+      "forma": "ἐχόντων",
+      "lema": "ἔχω"
+    },
+    {
+      "verse": 171,
+      "forma": "γένεσθε",
+      "lema": "γίγνομαι"
+    },
+    {
+      "verse": 173,
+      "forma": "ἴσθι",
+      "lema": "οἶδα"
+    },
+    {
+      "verse": 175,
+      "forma": "ὄντας",
+      "lema": "εἰμί"
+    },
+    {
+      "verse": 179,
+      "forma": "εἰδόμην",
+      "lema": "ὁράω"
+    },
+    {
+      "verse": 180,
+      "forma": "λέξω",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 188,
+      "forma": "ὁρᾶν",
+      "lema": "ὁράω"
+    },
+    {
+      "verse": 193,
+      "forma": "εἶχεν",
+      "lema": "ἔχω"
+    },
+    {
+      "verse": 211,
+      "forma": "ἀκούειν",
+      "lema": "ἀκούω"
+    },
+    {
+      "verse": 211,
+      "forma": "ἴστε",
+      "lema": "οἶδα"
+    },
+    {
+      "verse": 212,
+      "forma": "πράξας",
+      "lema": "πράσσω"
+    },
+    {
+      "verse": 217,
+      "forma": "εἶδες",
+      "lema": "ὁράω"
+    },
+    {
+      "verse": 222,
+      "forma": "πέμπειν",
+      "lema": "πέμπω"
+    },
+    {
+      "verse": 224,
+      "forma": "ὢν",
+      "lema": "εἰμί"
+    },
+    {
+      "verse": 263,
+      "forma": "ἐφάνθη",
+      "lema": "φαίνω"
+    },
+    {
+      "verse": 292,
+      "forma": "λέξαι",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 293,
+      "forma": "φέρειν",
+      "lema": "φέρω"
+    },
+    {
+      "verse": 295,
+      "forma": "λέξον",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 300,
+      "forma": "εἶπας",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 334,
+      "forma": "ἦν",
+      "lema": "εἰμί"
+    },
+    {
+      "verse": 337,
+      "forma": "ἴσθ᾽",
+      "lema": "οἶδα"
+    },
+    {
+      "verse": 341,
+      "forma": "οἶδα",
+      "lema": "οἶδα"
+    },
+    {
+      "verse": 343,
+      "forma": "ἦσαν",
+      "lema": "εἰμί"
+    },
+    {
+      "verse": 349,
+      "forma": "ὄντων",
+      "lema": "εἰμί"
+    },
+    {
+      "verse": 353,
+      "forma": "ἦρξεν",
+      "lema": "ἄρχω"
+    },
+    {
+      "verse": 354,
+      "forma": "φανεὶς",
+      "lema": "φαίνω"
+    },
+    {
+      "verse": 356,
+      "forma": "ἐλθὼν",
+      "lema": "ἔρχομαι"
+    },
+    {
+      "verse": 356,
+      "forma": "ἔλεξε",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 361,
+      "forma": "ἤκουσεν",
+      "lema": "ἀκούω"
+    },
+    {
+      "verse": 409,
+      "forma": "ἦρξε",
+      "lema": "ἄρχω"
+    },
+    {
+      "verse": 436,
+      "forma": "ἦλθε",
+      "lema": "ἔρχομαι"
+    },
+    {
+      "verse": 440,
+      "forma": "ἐλθεῖν",
+      "lema": "ἔρχομαι"
+    },
+    {
+      "verse": 465,
+      "forma": "ὁρῶν",
+      "lema": "ὁράω"
+    },
+    {
+      "verse": 466,
+      "forma": "εἶχε",
+      "lema": "ἔχω"
+    },
+    {
+      "verse": 476,
+      "forma": "πράξειν",
+      "lema": "πράσσω"
+    },
+    {
+      "verse": 478,
+      "forma": "εἰπέ",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 479,
+      "forma": "οἶσθα",
+      "lema": "οἶδα"
+    },
+    {
+      "verse": 513,
+      "forma": "λέγων",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 524,
+      "forma": "λαβοῦσα",
+      "lema": "λαμβάνω"
+    },
+    {
+      "verse": 527,
+      "forma": "πεπραγμένοις",
+      "lema": "πράσσω"
+    },
+    {
+      "verse": 604,
+      "forma": "φαίνεται",
+      "lema": "φαίνω"
+    },
+    {
+      "verse": 610,
+      "forma": "φέρουσ᾽",
+      "lema": "φέρω"
+    },
+    {
+      "verse": 624,
+      "forma": "πέμπε",
+      "lema": "πέμπω"
+    },
+    {
+      "verse": 627,
+      "forma": "εἶναι",
+      "lema": "εἰμί"
+    },
+    {
+      "verse": 630,
+      "forma": "πέμψατ᾽",
+      "lema": "πέμπω"
+    },
+    {
+      "verse": 631,
+      "forma": "οἶδε",
+      "lema": "οἶδα"
+    },
+    {
+      "verse": 645,
+      "forma": "πέμπετε",
+      "lema": "πέμπω"
+    },
+    {
+      "verse": 659,
+      "forma": "ἔλθ᾽",
+      "lema": "ἔρχομαι"
+    },
+    {
+      "verse": 666,
+      "forma": "φάνηθι",
+      "lema": "φαίνω"
+    },
+    {
+      "verse": 690,
+      "forma": "λαβεῖν",
+      "lema": "λαμβάνω"
+    },
+    {
+      "verse": 697,
+      "forma": "ἦλθον",
+      "lema": "ἔρχομαι"
+    },
+    {
+      "verse": 699,
+      "forma": "εἰπὲ",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 702,
+      "forma": "λέξας",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 708,
+      "forma": "γίγνεται",
+      "lema": "γίγνομαι"
+    },
+    {
+      "verse": 714,
+      "forma": "εἰπεῖν",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 722,
+      "forma": "ἔχειν",
+      "lema": "ἔχω"
+    },
+    {
+      "verse": 727,
+      "forma": "πράξασιν",
+      "lema": "πράσσω"
+    },
+    {
+      "verse": 746,
+      "forma": "σχήσειν",
+      "lema": "ἔχω"
+    },
+    {
+      "verse": 764,
+      "forma": "ἔχοντα",
+      "lema": "ἔχω"
+    },
+    {
+      "verse": 769,
+      "forma": "ἄρξας",
+      "lema": "ἄρχω"
+    },
+    {
+      "verse": 784,
+      "forma": "ἴστ᾽",
+      "lema": "οἶδα"
+    },
+    {
+      "verse": 785,
+      "forma": "ἔσχομεν",
+      "lema": "ἔχω"
+    },
+    {
+      "verse": 793,
+      "forma": "ἔλεξας",
+      "lema": "λέγω"
+    },
+    {
+      "verse": 801,
+      "forma": "πεπραγμένα",
+      "lema": "πράσσω"
+    },
+    {
+      "verse": 820,
+      "forma": "ὄντα",
+      "lema": "εἰμί"
+    },
+    {
+      "verse": 823,
+      "forma": "ὁρῶντες",
+      "lema": "ὁράω"
+    },
+    {
+      "verse": 833,
+      "forma": "ἐλθοῦσ᾽",
+      "lema": "ἔρχομαι"
+    },
+    {
+      "verse": 834,
+      "forma": "λαβοῦσ᾽",
+      "lema": "λαμβάνω"
+    },
+    {
+      "verse": 844,
+      "forma": "ἀκούσας",
+      "lema": "ἀκούω"
+    },
+    {
+      "verse": 857,
+      "forma": "ἆρχε",
+      "lema": "ἄρχω"
+    },
+    {
+      "verse": 863,
+      "forma": "πράσσοντας",
+      "lema": "πράσσω"
+    },
+    {
+      "verse": 934,
+      "forma": "ἐγενόμαν",
+      "lema": "γίγνομαι"
+    },
+    {
+      "verse": 939,
+      "forma": "πέμψω",
+      "lema": "πέμπω"
+    },
+    {
+      "verse": 1039,
+      "forma": "ὤν",
+      "lema": "εἰμί"
+    }
+  ],
+  "criterion": "Recorte editorial inicial: 150 posições mais frequentes do DCC, complementadas por 25 lemas elementares. Frequência é referência, não prova automática de facilidade."
+}

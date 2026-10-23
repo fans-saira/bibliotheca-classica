@@ -1,0 +1,663 @@
+{
+  "title": "Pedalion Trees",
+  "subtitle": "General editors: Toon Van Hal & Alek Keersmaekers",
+  "treebankReact": true,
+  "report": "https://github.com/perseids-publications/pedalion-trees/issues",
+  "github": "https://github.com/perseids-publications/pedalion-trees",
+  "twitter": "",
+  "collections": [
+    {
+      "title": "Welcome! For more information, see pedalion.be/glaux",
+      "publications": [
+        {
+          "path": "aeneas",
+          "author": "Aeneas Tacticus",
+          "work": "Poliorcetica",
+          "editors": "Yordi Lenaerts (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Part 1",
+              "path": "aeneas",
+              "xml": "aeneas.xml",
+              "chunks": {
+                "start": 1,
+                "end": 300
+              }
+            }
+          ]
+        },
+        {
+          "path": "aesop",
+          "author": "Aesopus",
+          "work": "Fables",
+          "editors": "Colin Swaelens, Eva Uffing (& Alek Keersmaekers, Sanderijn Gijbels & Toon Van Hal)",
+          "sections": [
+            {
+              "locus": "Part 1",
+              "path": "aesop1",
+              "xml": "aesop1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 539
+              }
+            }
+          ]
+        },
+        {
+          "path": "genesis",
+          "author": "Anon.",
+          "work": "Septuagint: Genesis",
+          "editors": "Jonas Roose (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "part 1",
+              "path": "genesis1",
+              "xml": "genesis1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 667
+              }
+            },
+            {
+              "locus": "part 2",
+              "path": "genesis2",
+              "xml": "genesis2.xml",
+              "chunks": {
+                "start": 1,
+                "end": 365
+              }
+            },
+            {
+              "locus": "part 3",
+              "path": "genesis3",
+              "xml": "genesis3.xml",
+              "chunks": {
+                "start": 1,
+                "end": 287
+              }
+            }
+          ]
+        },
+        {
+          "path": "achar",
+          "author": "Aristophanes",
+          "work": "Acharnians",
+          "editors": "Toon Van Hal & students 2019-2020: Zoë De Bal, Stijn Houthoofd, Merel op 't Roodt, Manou Vermeire en Martijn Windelinckx, based on a preparsed version by Alek Keersmaekers",
+          "sections": [
+            {
+              "locus": "entire work",
+              "path": "achar",
+              "xml": "achar.xml",
+              "chunks": {
+                "start": 1,
+                "end": 941
+              }
+            }
+          ]
+        },
+        {
+          "path": "thesmo",
+          "author": "Aristophanes",
+          "work": "Thesmophoriazusae",
+          "editors": "Sanderijn Gijbels (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "entire work",
+              "path": "thesmo",
+              "xml": "thesmo.xml",
+              "chunks": {
+                "start": 1,
+                "end": 1009
+              }
+            }
+          ]
+        },
+        {
+          "path": "charb1",
+          "author": "Chariton",
+          "work": "Callirhoe, book 1",
+          "editors": "Toon Van Hal & Students 2020-2021: Josefien Branson, Eline Brink, Eline De Vocht, Ruul Hellemans, Hegeleen Kissel, Hélène Trap, Courtney Van de Mosselaer, Anneleen Vanden Broecke, Birthe Verscuren, Ann-Sophie Vrielynck (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "entire work",
+              "path": "char1",
+              "xml": "charb1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 408
+              }
+            }
+          ]
+        },
+        {
+          "path": "chion",
+          "author": "Chion",
+          "work": "Letters",
+          "editors": "Sanderijn Gijbels (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "chion",
+              "xml": "chion.xml",
+              "chunks": {
+                "start": 1,
+                "end": 253
+              }
+            }
+          ]
+        },
+        {
+          "path": "epictetus",
+          "author": "Epictetus",
+          "work": "Dissertationes ab Arriano digestae",
+          "editors": "Jonas Roose (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "epictetus",
+              "xml": "epictetus.xml",
+              "chunks": {
+                "start": 1,
+                "end": 500
+              }
+            }
+          ]
+        },
+        {
+          "path": "epicurus1",
+          "author": "Epicurus",
+          "work": "Epistula ad Menoeceum",
+          "editors": "Jonas Roose (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "epicurus1",
+              "xml": "epicurus1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 67
+              }
+            }
+          ]
+        },
+        {
+          "path": "euripides-medea",
+          "author": "Euripides",
+          "work": "Medea",
+          "editors": "Toon Van Hal & students 2018-2019",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "euripides_medea",
+              "xml": "euripides_medea.xml",
+              "chunks": {
+                "start": 1,
+                "end": 824
+              }
+            }
+          ]
+        },
+        {
+          "path": "ez",
+          "author": "Ezechiël",
+          "work": "Exagogè",
+          "editors": "Martijn Windelinckx (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "ez",
+              "xml": "ez.xml",
+              "chunks": {
+                "start": 1,
+                "end": 148
+              }
+            }
+          ]
+        },
+        {
+          "path": "heron",
+          "author": "Heron",
+          "work": "De automatis",
+          "editors": "Martijn Windelinckx (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "heron",
+              "xml": "heron.xml",
+              "chunks": {
+                "start": 1,
+                "end": 487
+              }
+            }
+          ]
+        },
+        {
+          "path": "julian",
+          "author": "Julian",
+          "work": "Letter to Constantine",
+          "editors": "Jonas Roose (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "julian",
+              "xml": "julian.xml",
+              "chunks": {
+                "start": 1,
+                "end": 50
+              }
+            }
+          ]
+        },
+        {
+          "path": "batracho",
+          "author": "(Pseudo-Homer)",
+          "work": "Batrachomyomachia",
+          "editors": "Colin Swaelens (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "test",
+              "path": "batracho",
+              "xml": "batracho.xml",
+              "chunks": {
+                "start": 1,
+                "end": 166
+              }
+            }
+          ]
+        },
+        {
+          "path": "iso",
+          "author": "Isocrates",
+          "work": "Letters",
+          "editors": "Toon Van Hal (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "test",
+              "path": "iso",
+              "xml": "iso.xml",
+              "chunks": {
+                "start": 1,
+                "end": 15
+              }
+            }
+          ]
+        },
+        {
+          "path": "longus",
+          "author": "Longus",
+          "work": "Daphnis & Chloë",
+          "editors": "Yoran Joosten (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "part 1",
+              "path": "longus",
+              "xml": "longus.xml",
+              "chunks": {
+                "start": 1,
+                "end": 34
+              }
+            }
+          ]
+        },
+        {
+          "path": "lucian-judicium-vocalium",
+          "author": "Lucian",
+          "work": "Judicium vocalium",
+          "editors": "Sanderijn Gijbels (& Toon Van Hal, Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "lucian_lis",
+              "xml": "lucian_lis.xml",
+              "chunks": {
+                "start": 1,
+                "end": 56
+              }
+            }
+          ]
+        },
+        {
+          "path": "lucian-prometheus",
+          "author": "Lucian",
+          "work": "Prometheus",
+          "editors": "Toon Van Hal & Students 2013-2014",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "lucian_prometheus",
+              "xml": "lucian_prometheus.xml",
+              "chunks": {
+                "start": 1,
+                "end": 114
+              }
+            }
+          ]
+        },
+        {
+          "path": "lucian-symposium",
+          "author": "Lucian",
+          "work": "Symposium",
+          "editors": "Yoran Joosten (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "lucian_symposion",
+              "xml": "lucian_symposion.xml",
+              "chunks": {
+                "start": 1,
+                "end": 229
+              }
+            }
+          ]
+        },
+        {
+          "path": "pseudo-lucian-the-ass",
+          "author": "Pseudo-Lucian",
+          "work": "The Ass",
+          "editors": "Alek Keersmaekers",
+          "sections": [
+            {
+              "locus": "test",
+              "path": "pseudo-lucian_themule",
+              "xml": "pseudo-lucian_themule.xml",
+              "chunks": {
+                "start": 1,
+                "end": 543
+              }
+            }
+          ]
+        },
+        {
+          "path": "lysias-on-the-refusal-of-a-pension",
+          "author": "Lysias",
+          "work": "On The Refusal Of A Pension",
+          "editors": "Louis Verreth (& Toon Van Hal, Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "lysias_or24",
+              "xml": "lysias_or24.xml",
+              "chunks": {
+                "start": 1,
+                "end": 80
+              }
+            }
+          ]
+        },
+        {
+          "path": "pseudo-menander-dyskolos",
+          "author": "Menander",
+          "work": "Dyskolos",
+          "editors": "Yoran Joosten (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "-968",
+              "path": "menander_dyskolos",
+              "xml": "menander_dyskolos.xml",
+              "chunks": {
+                "start": 1,
+                "end": 959
+              }
+            }
+          ]
+        },
+        {
+          "path": "paean",
+          "author": "Paeanius",
+          "work": "Breviarium",
+          "editors": "Yoran Joosten (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "start",
+              "path": "paean",
+              "xml": "paean.xml",
+              "chunks": {
+                "start": 1,
+                "end": 360
+              }
+            }
+          ]
+        },
+        {
+          "path": "phlegon",
+          "author": "Phlegon",
+          "work": "De mirabilibus",
+          "editors": "Yoran Joosten (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "phlegon",
+              "xml": "phlegon.xml",
+              "chunks": {
+                "start": 1,
+                "end": 241
+              }
+            }
+          ]
+        },
+        {
+          "path": "plato-cleitophon",
+          "author": "Plato",
+          "work": "Cleitophon",
+          "editors": "Wouter Mercelis (& Toon Van Hal, Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "pseudoplato_cleitophon",
+              "xml": "pseudoplato_cleitophon.xml",
+              "chunks": {
+                "start": 1,
+                "end": 75
+              }
+            }
+          ]
+        },
+        {
+          "path": "crit",
+          "author": "Plato",
+          "work": "Crito",
+          "editors": "Yoran Joosten (& Toon Van Hal, Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Entire work",
+              "path": "crit",
+              "xml": "crit.xml",
+              "chunks": {
+                "start": 1,
+                "end": 267
+              }
+            }
+          ]
+        },
+        {
+          "path": "procopius",
+          "author": "Procopius",
+          "work": "De bellis",
+          "editors": "Yordi Lenaerts, Yoran Joosten (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Book 1",
+              "path": "procopius",
+              "xml": "procopius.xml",
+              "chunks": {
+                "start": 1,
+                "end": 1192
+              }
+            }
+          ]
+        },
+        {
+          "path": "sappho",
+          "author": "Sappho",
+          "work": "Fragmenta",
+          "editors": "Yoran Joosten",
+          "sections": [
+            {
+              "locus": "1",
+              "path": "sappho",
+              "xml": "sappho.xml",
+              "chunks": {
+                "start": 1,
+                "end": 413
+              }
+            }
+          ]
+        },
+        {
+          "path": "sextus",
+          "author": "Sextus Empiricus",
+          "work": "Adversus mathematicos",
+          "editors": "Yoran Joosten (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Book 1",
+              "path": "sextus",
+              "xml": "sextus.xml",
+              "chunks": {
+                "start": 1,
+                "end": 679
+              }
+            }
+          ]
+        },
+        {
+          "path": "theophr",
+          "author": "Theophrastus",
+          "work": "Characteres",
+          "editors": "Sanderijn Gijbels (& Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Book 1",
+              "path": "theophr",
+              "xml": "theophr.xml",
+              "chunks": {
+                "start": 1,
+                "end": 463
+              }
+            }
+          ]
+        },
+        {
+          "path": "xenmem",
+          "author": "Xenophon",
+          "work": "Memorabilia",
+          "editors": "Sanderijn Gijbels, Mathieu Cuijpers, Alek Keersmaekers",
+          "sections": [
+            {
+              "locus": "part 1",
+              "path": "xenmem",
+              "xml": "xenmem.xml",
+              "chunks": {
+                "start": 1,
+                "end": 1343
+              }
+            }
+          ]
+        },
+        {
+          "path": "lyric",
+          "author": "diverse authors",
+          "work": "Lyric poetry",
+          "editors": "Louis Verreth & Wouter Mercelis (& Alek Keersmaekers & Toon Van Hal)",
+          "sections": [
+            {
+              "locus": "Semonides (typology of women)",
+              "path": "semonides",
+              "xml": "semonides.xml",
+              "chunks": {
+                "start": 1,
+                "end": 58
+              }
+            },
+            {
+              "locus": "Theocritus (fragments)",
+              "path": "theoc",
+              "xml": "theoc.xml",
+              "chunks": {
+                "start": 1,
+                "end": 18
+              }
+            },
+            {
+              "locus": "Mimnermus (fragments)",
+              "path": "mimn",
+              "xml": "mimn.xml",
+              "chunks": {
+                "start": 1,
+                "end": 13
+              }
+            }
+          ]
+        },
+        {
+          "path": "Papyri",
+          "author": "(Papyri)",
+          "work": "Papyri",
+          "editors": "Alek Keersmaekers & Sanderijn Gijbels (& Louis Verreth, students 2018-2019)",
+          "sections": [
+            {
+              "locus": "[Please download the xml]",
+              "path": "papyri",
+              "xml": "papyri.xml",
+              "chunks": {
+                "start": 1,
+                "end": 977
+              }
+            }
+          ]
+        },
+        {
+          "path": "example-sentences",
+          "author": "Various",
+          "work": "Various",
+          "editors": "Toon Van Hal (& Students 2018-2019; Alek Keersmaekers)",
+          "sections": [
+            {
+              "locus": "Various sentences [see en.pedalion.org]",
+              "path": "example-sentences",
+              "xml": "example-sentences.xml",
+              "chunks": {
+                "start": 1,
+                "end": 2431
+              }
+            }
+          ]
+        },
+        {
+          "path": "Chilia",
+          "author": "Various",
+          "work": "Various",
+          "editors": "External sentences",
+          "sections": [
+            {
+              "locus": "Various sentences [see en.pedalion.org]",
+              "path": "chilia-sentences",
+              "xml": "chilia-sentences.xml",
+              "chunks": {
+                "start": 1,
+                "end": 954
+              }
+            }
+          ]
+        },
+        {
+          "path": "external-example-sentences",
+          "author": "Various",
+          "work": "Various",
+          "editors": "Non-pedalion treebankers! See xml for the references",
+          "sections": [
+            {
+              "locus": "Various sentences [see en.pedalion.org]",
+              "path": "external-example-sentences",
+              "xml": "external_examplesentences.xml",
+              "chunks": {
+                "start": 1,
+                "end": 266
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

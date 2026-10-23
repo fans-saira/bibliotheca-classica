@@ -1,0 +1,213 @@
+{
+  "status": "levantamento conservador; atribuições contextuais e exclusividade dependem da documentação consultada",
+  "data": "2026-10-10",
+  "fim_do_recorte_cronologico": "456 a.C.",
+  "palavras_texto": 5187,
+  "nomes_proprios": 327,
+  "denominador_ocorrencias_comuns": 4860,
+  "lemas_comuns_resolvidos": 1635,
+  "leitura_nao_resolvida": 1,
+  "repertorio_basico": 1286,
+  "categorias": [
+    {
+      "classe": "1_basico",
+      "nome": "Básico fundamental",
+      "ocorrencias": 3290,
+      "percentual": 67.695,
+      "lemas_distintos_na_classe": 550,
+      "percentual_lemas": 33.639
+    },
+    {
+      "classe": "2_tragedia",
+      "nome": "Tragédia, após o básico",
+      "ocorrencias": 785,
+      "percentual": 16.152,
+      "lemas_distintos_na_classe": 450,
+      "percentual_lemas": 27.523
+    },
+    {
+      "classe": "3_esquilo",
+      "nome": "Ésquilo, após as anteriores",
+      "ocorrencias": 123,
+      "percentual": 2.531,
+      "lemas_distintos_na_classe": 103,
+      "percentual_lemas": 6.3
+    },
+    {
+      "classe": "4_outros",
+      "nome": "Outros contextos anteriores/contemporâneos",
+      "ocorrencias": 74,
+      "percentual": 1.523,
+      "lemas_distintos_na_classe": 62,
+      "percentual_lemas": 3.792
+    },
+    {
+      "classe": "5_residual",
+      "nome": "Geral não fundamental / atribuição não demonstrada",
+      "ocorrencias": 588,
+      "percentual": 12.099,
+      "lemas_distintos_na_classe": 470,
+      "percentual_lemas": 28.746
+    }
+  ],
+  "sensibilidade": [
+    {
+      "criterio": "Major_DCC",
+      "lemas_no_repertorio": 1126,
+      "ocorrencias": {
+        "1_basico": 3192,
+        "2_tragedia": 785,
+        "4_outros": 74,
+        "5_residual": 686,
+        "3_esquilo": 123
+      },
+      "percentuais": {
+        "1_basico": 65.679,
+        "2_tragedia": 16.152,
+        "3_esquilo": 2.531,
+        "4_outros": 1.523,
+        "5_residual": 14.115
+      }
+    },
+    {
+      "criterio": "principal_Major_DCC_Logeion1000",
+      "lemas_no_repertorio": 1286,
+      "ocorrencias": {
+        "1_basico": 3290,
+        "2_tragedia": 785,
+        "4_outros": 74,
+        "5_residual": 588,
+        "3_esquilo": 123
+      },
+      "percentuais": {
+        "1_basico": 67.695,
+        "2_tragedia": 16.152,
+        "3_esquilo": 2.531,
+        "4_outros": 1.523,
+        "5_residual": 12.099
+      }
+    },
+    {
+      "criterio": "ampliado_Major_DCC_Logeion2000",
+      "lemas_no_repertorio": 2103,
+      "ocorrencias": {
+        "1_basico": 3541,
+        "2_tragedia": 623,
+        "4_outros": 72,
+        "3_esquilo": 123,
+        "5_residual": 501
+      },
+      "percentuais": {
+        "1_basico": 72.86,
+        "2_tragedia": 12.819,
+        "3_esquilo": 2.531,
+        "4_outros": 1.481,
+        "5_residual": 10.309
+      }
+    }
+  ],
+  "tragedias_comparadas": [
+    [
+      "Aeschylus",
+      "Agamemnon"
+    ],
+    [
+      "Aeschylus",
+      "Eumenides"
+    ],
+    [
+      "Aeschylus",
+      "Libation Bearers"
+    ],
+    [
+      "Aeschylus",
+      "Seven Against Thebes"
+    ],
+    [
+      "Aeschylus",
+      "Suppliant Maidens"
+    ],
+    [
+      "Euripides",
+      "Bacchae"
+    ],
+    [
+      "Euripides",
+      "Electra"
+    ],
+    [
+      "Euripides",
+      "Hecuba"
+    ],
+    [
+      "Euripides",
+      "Helen"
+    ],
+    [
+      "Euripides",
+      "Heracles"
+    ],
+    [
+      "Euripides",
+      "Ion"
+    ],
+    [
+      "Euripides",
+      "Iphigenia in Aulis"
+    ],
+    [
+      "Euripides",
+      "Iphigenia in Tauris"
+    ],
+    [
+      "Euripides",
+      "Orestes"
+    ],
+    [
+      "Euripides",
+      "Phoenissae"
+    ],
+    [
+      "Euripides",
+      "Suppliants"
+    ],
+    [
+      "Euripides",
+      "Trojan Women"
+    ],
+    [
+      "Sophocles",
+      "Ajax"
+    ],
+    [
+      "Sophocles",
+      "Antigone"
+    ],
+    [
+      "Sophocles",
+      "Electra"
+    ],
+    [
+      "Sophocles",
+      "Oedipus at Colonus"
+    ],
+    [
+      "Sophocles",
+      "Oedipus Tyrannus"
+    ],
+    [
+      "Sophocles",
+      "Philoctetes"
+    ],
+    [
+      "Sophocles",
+      "Trachiniae"
+    ],
+    [
+      "Euripides",
+      "Medea"
+    ]
+  ],
+  "lemas_em_mais_de_uma_classe": [],
+  "advertencia": "Os percentuais não demonstram invenção de palavras por Ésquilo, origem histórica ou influência direta. Categoria 3 significa exclusividade de atestação literária do lema/sentido no LSJ consultado, corroborada pelo corpus, não prova universal. O residual contém também vocabulário geral pouco frequente, não apenas palavras desconhecidas."
+}

@@ -1,0 +1,2953 @@
+{
+  "3": [
+    {
+      "forma": "πολυχρύσων",
+      "lema": "πολύχρυσος/-ον",
+      "sentido": "rico em ouro",
+      "analise": "adj., gen., pl., neut.",
+      "morfologia_fonte": "a-p---ng-",
+      "verso_treebank": 3,
+      "chave": "πολυχρυσοσ",
+      "lema_base": "πολύχρυσος/πολύχρυσον"
+    }
+  ],
+  "5": [
+    {
+      "forma": "ἄναξ",
+      "lema": "ἄναξ, ἄνακτος, ὁ",
+      "sentido": "soberano",
+      "analise": "nom., sing.",
+      "verso_treebank": 5,
+      "morfologia_fonte": "n-s---mn-",
+      "lema_base": "ἄναξ/ἄνακτος",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "8": [
+    {
+      "forma": "ἀμφὶ",
+      "lema": "ἀμφὶ",
+      "sentido": "acerca de",
+      "analise": "",
+      "tipo": "preposicao",
+      "caso": "dat.",
+      "posicao": "preposta",
+      "highlight": true
+    },
+    {
+      "forma": "νόστῳ",
+      "lema": "νόστος, -ου, ὁ",
+      "sentido": "retorno",
+      "analise": "dat. sing.",
+      "lema_base": "νόστος/νόστου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "9": [
+    {
+      "forma": "πολυχρύσου",
+      "lema": "πολύχρυσος/-ον",
+      "sentido": "rico em ouro",
+      "analise": "adj., gen., sing., fem.",
+      "verso_treebank": 9,
+      "morfologia_fonte": "a-s---fg-",
+      "lema_base": "πολύχρυσος/πολύχρυσον"
+    }
+  ],
+  "10": [
+    {
+      "forma": "κακόμαντις",
+      "lema": "κακόμαντις/-ι",
+      "sentido": "que pressente desgraças",
+      "analise": "adj., nom. sing. masc.",
+      "verso_treebank": 10,
+      "morfologia_fonte": "n-s---fn-",
+      "lema_base": "κακόμαντις/κακόμαντι",
+      "tipo": "adjetivo"
+    },
+    {
+      "forma": "ὀρσολοπεῖται",
+      "lema": "ὀρσολοπεύω",
+      "sentido": "agitar-se",
+      "analise": "pres., ind., pass., 3ª s.",
+      "morfologia_fonte": "v3spie---",
+      "verso_treebank": 10,
+      "chave": "ορσολοπευω"
+    }
+  ],
+  "11": [
+    {
+      "forma": "θυμὸς",
+      "lema": "θυμός, -οῦ, ὁ",
+      "sentido": "ânimo, coração",
+      "analise": "nom., sing.",
+      "verso_treebank": 11,
+      "morfologia_fonte": "n-s---mn-",
+      "lema_base": "θυμός/θυμοῦ",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "14": [
+    {
+      "forma": "κοὔτε",
+      "lema": "καὶ οὔτε",
+      "sentido": "",
+      "analise": "",
+      "tipo": "crase"
+    }
+  ],
+  "17": [
+    {
+      "forma": "ἕρκος",
+      "lema": "ἕρκος, -ους, τό",
+      "sentido": "recinto, defesa",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---na-",
+      "verso_treebank": 17,
+      "chave": "ερκοσ",
+      "lema_base": "ἕρκος/ἕρκους",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "19": [
+    {
+      "forma": "ναῶν",
+      "lema": "ναῦς, νεώς, ἡ",
+      "sentido": "navio",
+      "analise": "gen., pl.",
+      "verso_treebank": 19,
+      "morfologia_fonte": "n-p---fg-",
+      "lema_base": "ναῦς/νεώς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "πεζοί",
+      "lema": "πεζός/-ή/-όν",
+      "sentido": "a pé",
+      "analise": "adj., nom., pl., masc.",
+      "verso_treebank": 19,
+      "morfologia_fonte": "a-p---mn-",
+      "lema_base": "πεζός/πεζή/πεζόν",
+      "highlight": true
+    },
+    {
+      "forma": "βάδην",
+      "lema": "βάδην",
+      "sentido": "a passo",
+      "analise": "adv.",
+      "verso_treebank": 19,
+      "morfologia_fonte": "d--------",
+      "highlight": true
+    }
+  ],
+  "25": [
+    {
+      "forma": "ἔφοροι",
+      "lema": "ἔφορος, -ου, ὁ",
+      "sentido": "supervisor",
+      "analise": "nom., pl.",
+      "verso_treebank": 25,
+      "morfologia_fonte": "n-p---mn-",
+      "lema_base": "ἔφορος/ἐφόρου",
+      "artigo": "ὁ",
+      "tipo": "nome",
+      "highlight": true
+    }
+  ],
+  "27": [
+    {
+      "forma": "ἰδεῖν",
+      "lema": "ὁράω",
+      "sentido": "",
+      "analise": "inf., aor., at.",
+      "verso_treebank": 27,
+      "morfologia_fonte": "v--ana---",
+      "apoio_apenas_morfologico": true
+    },
+    {
+      "forma": "δεινοὶ",
+      "lema": "δεινός/-ή/-όν",
+      "sentido": "temível",
+      "analise": "adj., nom., pl., masc.",
+      "verso_treebank": 27,
+      "morfologia_fonte": "a-p---mn-",
+      "lema_base": "δεινός/δεινή/δεινόν"
+    }
+  ],
+  "28": [
+    {
+      "forma": "δόξῃ",
+      "lema": "δόξα, -ης, ἡ",
+      "sentido": "reputação",
+      "analise": "dat., sing.",
+      "verso_treebank": 28,
+      "morfologia_fonte": "n-s---fd-",
+      "lema_base": "δόξα/δόξης",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "34": [
+    {
+      "forma": "ἔπεμψεν",
+      "lema": "πέμπω",
+      "sentido": "",
+      "analise": "aor., ind., at., 3ª s.",
+      "verso_treebank": 34,
+      "morfologia_fonte": "v3saia---",
+      "highlight": true,
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "40": [
+    {
+      "forma": "πλῆθός",
+      "lema": "πλῆθος, -ους, τό",
+      "sentido": "multidão",
+      "analise": "ac., sing.",
+      "verso_treebank": 40,
+      "morfologia_fonte": "n-s---na-",
+      "lema_base": "πλῆθος/πλήθους",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "ἀνάριθμοι",
+      "lema": "ἀνάριθμος/-ον",
+      "sentido": "inumerável",
+      "analise": "adj., nom., pl., masc.",
+      "verso_treebank": 40,
+      "morfologia_fonte": "a-p---mn-",
+      "lema_base": "ἀνάριθμος/ἀνάριθμον"
+    }
+  ],
+  "41": [
+    {
+      "forma": "ἕπεται",
+      "lema": "ἕπομαι",
+      "sentido": "seguir",
+      "analise": "pres., ind., méd., 3ª s.",
+      "verso_treebank": 41,
+      "morfologia_fonte": "v3spie---",
+      "highlight": true
+    }
+  ],
+  "45": [
+    {
+      "forma": "πολύχρυσοι",
+      "lema": "πολύχρυσος/-ον",
+      "sentido": "rico em ouro",
+      "analise": "adj., nom., pl., fem.",
+      "verso_treebank": 45,
+      "morfologia_fonte": "a-p---fn-",
+      "lema_base": "πολύχρυσος/πολύχρυσον"
+    }
+  ],
+  "46": [
+    {
+      "forma": "ἐξορμῶσιν",
+      "lema": "ἐξορμάω",
+      "sentido": "pôr em marcha",
+      "analise": "pres., ind., at., 3ª p.",
+      "morfologia_fonte": "v3ppia---",
+      "verso_treebank": 46,
+      "chave": "εξορμαω"
+    }
+  ],
+  "50": [
+    {
+      "forma": "ἀμφιβαλεῖν",
+      "lema": "ἀμφιβάλλω",
+      "sentido": "lançar em torno",
+      "analise": "inf., fut., at.",
+      "morfologia_fonte": "v--fna---",
+      "verso_treebank": 50,
+      "chave": "αμφιβαλλω"
+    }
+  ],
+  "52": [
+    {
+      "forma": "ἀκοντισταὶ",
+      "lema": "ἀκοντιστής, -οῦ, ὁ",
+      "sentido": "lanceiro",
+      "analise": "nom., pl.",
+      "morfologia_fonte": "n-p---mn-",
+      "verso_treebank": 52,
+      "chave": "ακοντιστησ",
+      "lema_base": "ἀκοντιστής/ἀκοντιστοῦ",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "53": [
+    {
+      "forma": "πάμμικτον",
+      "lema": "πάμμικτος/-ον",
+      "sentido": "de toda espécie",
+      "analise": "adj., ac., sing., masc.",
+      "morfologia_fonte": "a-s---ma-",
+      "verso_treebank": 53,
+      "chave": "παμμιγησ",
+      "lema_base": "πάμμικτος/πάμμικτον"
+    }
+  ],
+  "56": [
+    {
+      "forma": "μαχαιροφόρον",
+      "lema": "μαχαιροφόρος/-ον",
+      "sentido": "armado de espada",
+      "analise": "adj., nom., sing., neut.",
+      "morfologia_fonte": "a-s---nn-",
+      "verso_treebank": 56,
+      "chave": "μαχαιροφοροσ",
+      "lema_base": "μαχαιροφόρος/μαχαιροφόρον"
+    }
+  ],
+  "62": [
+    {
+      "forma": "θρέψασα",
+      "lema": "τρέφω",
+      "sentido": "nutrir, criar",
+      "analise": "part., aor., at., nom., sing., fem.",
+      "morfologia_fonte": "v-sapafn-",
+      "verso_treebank": 62,
+      "chave": "τρεφω"
+    },
+    {
+      "forma": "στένεται",
+      "lema": "στένω",
+      "sentido": "gemer",
+      "analise": "pres., ind., méd./pass., 3ª s.",
+      "morfologia_fonte": "v3spie---",
+      "verso_treebank": 62,
+      "chave": "στενω"
+    },
+    {
+      "forma": "μαλερῷ",
+      "lema": "μαλερός/-ά/-όν",
+      "sentido": "veemente",
+      "analise": "adj., dat., sing., masc.",
+      "morfologia_fonte": "a-s---md-",
+      "verso_treebank": 62,
+      "chave": "μαλεροσ",
+      "lema_base": "μαλερός/μαλερά/μαλερόν"
+    }
+  ],
+  "64": [
+    {
+      "forma": "τείνοντα",
+      "lema": "τείνω",
+      "sentido": "alongar",
+      "analise": "part., pres., at., ac. sing. masc.; com χρόνον: tempo que se prolonga",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    },
+    {
+      "forma": "τρομέονται",
+      "lema": "τρομέω",
+      "sentido": "tremer",
+      "analise": "pres., ind., méd./pass., 3ª p.",
+      "morfologia_fonte": "v3ppie---",
+      "verso_treebank": 64,
+      "chave": "τρομεω",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    }
+  ],
+  "68": [
+    {
+      "forma": "λινοδέσμῳ",
+      "lema": "λινόδεσμος/-ον",
+      "sentido": "atado com linho",
+      "analise": "adj., dat., sing., fem.",
+      "morfologia_fonte": "a-s---fd-",
+      "verso_treebank": 68,
+      "chave": "λινοδεσμοσ",
+      "lema_base": "λινόδεσμος/λινόδεσμον"
+    },
+    {
+      "forma": "σχεδίᾳ",
+      "lema": "σχεδία, -ας, ἡ",
+      "sentido": "jangada, ponte flutuante",
+      "analise": "dat., sing.",
+      "morfologia_fonte": "n-s---fd-",
+      "verso_treebank": 68,
+      "chave": "σχεδια",
+      "lema_base": "σχεδία/σχεδίας",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "71": [
+    {
+      "forma": "ὅδισμα",
+      "lema": "ὅδισμα, ὁδίσματος, τό",
+      "sentido": "passagem",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---na-",
+      "verso_treebank": 71,
+      "chave": "οδισμα",
+      "lema_base": "ὅδισμα/ὁδίσματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "73": [
+    {
+      "forma": "θούριος",
+      "lema": "θούριος/-α/-ον",
+      "sentido": "impetuoso",
+      "analise": "adj., nom., sing., masc.",
+      "morfologia_fonte": "a-s---mn-",
+      "verso_treebank": 73,
+      "chave": "θουριοσ",
+      "lema_base": "θούριος/θουρία/θούριον"
+    }
+  ],
+  "75": [
+    {
+      "forma": "ἐλαύνει",
+      "lema": "ἐλαύνω",
+      "sentido": "conduzir, avançar",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 75,
+      "chave": "ελαυνω"
+    }
+  ],
+  "79": [
+    {
+      "forma": "στυφελοῖς",
+      "lema": "στυφελός/-ή/-όν",
+      "sentido": "duro, áspero",
+      "analise": "adj., dat., pl., masc.",
+      "morfologia_fonte": "a-p---md-",
+      "verso_treebank": 79,
+      "chave": "στυφελοσ",
+      "lema_base": "στυφελός/στυφελή/στυφελόν"
+    },
+    {
+      "forma": "ἐφέταις",
+      "lema": "ἐφέτης, -ου, ὁ",
+      "sentido": "comandante",
+      "analise": "dat., pl.",
+      "morfologia_fonte": "n-p---md-",
+      "verso_treebank": 79,
+      "chave": "εφετησ",
+      "lema_base": "ἐφέτης/ἐφέτου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "80": [
+    {
+      "forma": "φώς",
+      "lema": "φώς, φωτός, ὁ",
+      "sentido": "homem",
+      "analise": "nom., sing.",
+      "morfologia_fonte": "n-s---mn-",
+      "verso_treebank": 80,
+      "chave": "φωσ",
+      "lema_base": "φώς/φωτός",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "81": [
+    {
+      "forma": "ὄμμασι",
+      "lema": "ὄμμα, ὄμματος, τό",
+      "sentido": "olho, olhar",
+      "analise": "dat., pl.",
+      "verso_treebank": 81,
+      "morfologia_fonte": "n-p---nd-",
+      "lema_base": "ὄμμα/ὄμματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "λεύσσων",
+      "lema": "λεύσσω",
+      "sentido": "olhar",
+      "analise": "part., pres., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sppamn-",
+      "verso_treebank": 81,
+      "chave": "λευσσω"
+    }
+  ],
+  "87": [
+    {
+      "forma": "δόκιμος",
+      "lema": "δόκιμος/-ον",
+      "sentido": "capaz, aprovado",
+      "analise": "adj., nom. sing. masc.",
+      "revisao_felipe": true,
+      "prioridade_editorial": true,
+      "lema_base": "δόκιμος/-ον"
+    },
+    {
+      "forma": "ὑποστὰς",
+      "lema": "ὑφίστημι",
+      "sentido": "enfrentar",
+      "analise": "part., aor., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sapamn-",
+      "verso_treebank": 87,
+      "chave": "υφιστημι"
+    }
+  ],
+  "88": [
+    {
+      "forma": "ῥεύματι",
+      "lema": "ῥεῦμα, ῥεύματος, τό",
+      "sentido": "torrente",
+      "analise": "dat. sing.; aqui, torrente de homens",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    },
+    {
+      "forma": "φωτῶν",
+      "lema": "φώς, φωτός, ὁ",
+      "sentido": "homem",
+      "analise": "gen., pl.",
+      "verso_treebank": 88,
+      "morfologia_fonte": "n-p---mg-",
+      "lema_base": "φώς/φωτός",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "94": [
+    {
+      "forma": "θνατὸς",
+      "lema": "θνητός/-ή/-όν",
+      "sentido": "mortal",
+      "analise": "adj., nom., sing., masc.",
+      "verso_treebank": 108,
+      "morfologia_fonte": "a-s---mn-",
+      "lema_base": "θνητός/θνητή/θνητόν"
+    },
+    {
+      "forma": "ἀλύξει",
+      "lema": "ἀλύσκω",
+      "sentido": "escapar",
+      "analise": "fut., ind., at., 3ª s.",
+      "morfologia_fonte": "v3sfia---",
+      "verso_treebank": 108,
+      "chave": "αλυσκω"
+    }
+  ],
+  "95": [
+    {
+      "forma": "πήδη-",
+      "lema": "πήδημα, πηδήματος, τό",
+      "sentido": "salto",
+      "analise": "ac. sing.",
+      "revisao_felipe": true,
+      "prioridade_editorial": true,
+      "forma_exibida": "πήδημα"
+    }
+  ],
+  "98": [
+    {
+      "forma": "ἄρκυας",
+      "lema": "ἄρκυς, -υος, ἡ",
+      "sentido": "rede, armadilha",
+      "analise": "ac., pl.",
+      "morfologia_fonte": "n-p---fa-",
+      "verso_treebank": 112,
+      "chave": "αρκυσ",
+      "lema_base": "ἄρκυς/ἄρκυος",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "105": [
+    {
+      "forma": "ἱππιοχάρμας",
+      "lema": "ἱππιοχάρμης",
+      "sentido": "de combate a cavalo",
+      "analise": "adj., ac. pl. masc.; concorda com κλόνους",
+      "verso_treebank": 97,
+      "morfologia_fonte": "n-s---mn-",
+      "lema_base": "ἱππιοχάρμης",
+      "tipo": "adjetivo",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    }
+  ],
+  "106": [
+    {
+      "forma": "κλόνους",
+      "lema": "κλόνος, -ου, ὁ",
+      "sentido": "tumulto de batalha",
+      "analise": "ac., pl.",
+      "morfologia_fonte": "n-p---ma-",
+      "verso_treebank": 98,
+      "chave": "κλονοσ",
+      "lema_base": "κλόνος/κλόνου",
+      "artigo": "ὁ",
+      "tipo": "nome",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    }
+  ],
+  "111": [
+    {
+      "forma": "ἐσορᾶν",
+      "lema": "εἰσοράω",
+      "sentido": "olhar, ver",
+      "analise": "inf., pres., at.",
+      "verso_treebank": 103,
+      "morfologia_fonte": "v--pna---"
+    },
+    {
+      "forma": "πόντιον",
+      "lema": "πόντιος/-α/-ον",
+      "sentido": "marinho",
+      "analise": "adj., ac., sing., neut.",
+      "verso_treebank": 103,
+      "morfologia_fonte": "a-s---na-",
+      "lema_base": "πόντιος/ποντία/πόντιον"
+    }
+  ],
+  "118": [
+    {
+      "forma": "πύθη-",
+      "lema": "πυνθάνομαι",
+      "sentido": "saber, descobrir",
+      "analise": "aor., subj., méd., 3ª s.; μή + subj.: temor de que",
+      "revisao_felipe": true,
+      "prioridade_editorial": true,
+      "forma_exibida": "πύθηται"
+    }
+  ],
+  "121": [
+    {
+      "forma": "ἀντίδουπον",
+      "lema": "ἀντίδουπος/-ον",
+      "sentido": "que responde em eco",
+      "analise": "adj., ac., sing., neut.",
+      "morfologia_fonte": "a-s---na-",
+      "verso_treebank": 121,
+      "chave": "αντιδουποσ",
+      "lema_base": "ἀντίδουπος/ἀντίδουπον"
+    }
+  ],
+  "123": [
+    {
+      "forma": "ἀπύων",
+      "lema": "ἠπύω",
+      "sentido": "clamar",
+      "analise": "part., pres., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sppamn-",
+      "verso_treebank": 123,
+      "chave": "ηπυω"
+    }
+  ],
+  "125": [
+    {
+      "forma": "βυσσίνοις",
+      "lema": "βύσσινος/-η/-ον",
+      "sentido": "de linho fino",
+      "analise": "adj., dat., pl., masc.",
+      "morfologia_fonte": "a-p---md-",
+      "verso_treebank": 125,
+      "chave": "βυσσινοσ",
+      "lema_base": "βύσσινος/βυσσίνη/βύσσινον",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    },
+    {
+      "forma": "πέσῃ",
+      "lema": "πίπτω",
+      "sentido": "cair",
+      "analise": "aor., subj., at., 3ª s.; temor de que; segue a construção com μή do v. 118",
+      "verso_treebank": 125,
+      "morfologia_fonte": "v3sasa---",
+      "explicacao_contextual": true,
+      "prioridade_editorial": true,
+      "gramatica_obrigatoria": true
+    },
+    {
+      "forma": "λακίς",
+      "lema": "λακίς, λακίδος, ἡ",
+      "sentido": "rasgão",
+      "analise": "nom., sing.",
+      "morfologia_fonte": "n-s---fn-",
+      "verso_treebank": 125,
+      "chave": "λακισ",
+      "lema_base": "λακίς/λακίδος",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "129": [
+    {
+      "forma": "ὀρχάμῳ",
+      "lema": "ὄρχαμος, -ου, ὁ",
+      "sentido": "chefe",
+      "analise": "dat., sing.",
+      "morfologia_fonte": "n-s---md-",
+      "verso_treebank": 129,
+      "chave": "ορχαμοσ",
+      "lema_base": "ὄρχαμος/ὀρχάμου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "135": [
+    {
+      "forma": "ἁβροπενθεῖς",
+      "lema": "ἁβροπενθής/-ές",
+      "sentido": "de luto delicado",
+      "analise": "adj., nom., pl., fem.",
+      "morfologia_fonte": "a-p---fn-",
+      "verso_treebank": 135,
+      "chave": "αβροπενθησ",
+      "lema_base": "ἁβροπενθής/ἁβροπενθές"
+    }
+  ],
+  "138": [
+    {
+      "forma": "ἀποπεμψαμένα",
+      "lema": "ἀποπέμπω",
+      "sentido": "mandar embora",
+      "analise": "part., aor., méd., nom., sing., fem.",
+      "morfologia_fonte": "v-sapmfn-",
+      "verso_treebank": 138,
+      "chave": "αποπεμπω",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    }
+  ],
+  "140": [
+    {
+      "forma": "ἐνεζόμενοι",
+      "lema": "ἐνέζομαι",
+      "sentido": "sentar-se em",
+      "analise": "part., pres., méd., nom., pl., masc.",
+      "morfologia_fonte": "v-pppemn-",
+      "verso_treebank": 140,
+      "chave": "ενεζομαι"
+    }
+  ],
+  "142": [
+    {
+      "forma": "βαθύβουλον",
+      "lema": "βαθύβουλος/-ον",
+      "sentido": "de conselho profundo",
+      "analise": "adj., ac., sing., fem.",
+      "morfologia_fonte": "a-s---fa-",
+      "verso_treebank": 142,
+      "chave": "βαθυβουλοσ",
+      "lema_base": "βαθύβουλος/βαθύβουλον"
+    }
+  ],
+  "151": [
+    {
+      "forma": "φάος",
+      "lema": "φάος, -ους, τό",
+      "sentido": "luz",
+      "analise": "nom., sing.",
+      "verso_treebank": 151,
+      "morfologia_fonte": "n-s---nn-",
+      "lema_base": "φάος/φάους",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "μήτηρ",
+      "lema": "μήτηρ, μητρός, ἡ",
+      "sentido": "mãe",
+      "analise": "nom., sing.",
+      "verso_treebank": 151,
+      "morfologia_fonte": "n-s---fn-",
+      "lema_base": "μήτηρ/μητρός",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "154": [
+    {
+      "forma": "προσαυδᾶν",
+      "lema": "προσαυδάω",
+      "sentido": "dirigir a palavra",
+      "analise": "inf., pres., at.",
+      "morfologia_fonte": "v--pna---",
+      "verso_treebank": 154,
+      "chave": "προσαυδαω"
+    }
+  ],
+  "158": [
+    {
+      "forma": "παλαιὸς",
+      "lema": "παλαιός/-ά/-όν",
+      "sentido": "antigo",
+      "analise": "adj., nom., sing., masc.",
+      "verso_treebank": 158,
+      "morfologia_fonte": "a-s---mn-",
+      "lema_base": "παλαιός/παλαιά/παλαιόν"
+    }
+  ],
+  "159": [
+    {
+      "forma": "λιποῦσ᾽",
+      "lema": "λείπω",
+      "sentido": "deixar, ficar atrás",
+      "analise": "part., aor., at., nom., pl., fem.",
+      "verso_treebank": 159,
+      "morfologia_fonte": "v-papafn-"
+    },
+    {
+      "forma": "χρυσεοστόλμους",
+      "lema": "χρυσεόστολμος/-ον",
+      "sentido": "adornado de ouro",
+      "analise": "adj., ac., pl., masc.",
+      "morfologia_fonte": "a-p---ma-",
+      "verso_treebank": 159,
+      "chave": "χρυσεοστολμοσ",
+      "lema_base": "χρυσεόστολμος/χρυσεόστολμον"
+    }
+  ],
+  "161": [
+    {
+      "forma": "ἀμύσσει",
+      "lema": "ἀμύσσω",
+      "sentido": "dilacerar",
+      "analise": "pres., ind., at., 3ª s.",
+      "verso_treebank": 161,
+      "morfologia_fonte": "v3spia---"
+    }
+  ],
+  "163": [
+    {
+      "forma": "πλοῦτος",
+      "lema": "πλοῦτος, -ου, ὁ",
+      "sentido": "riqueza",
+      "analise": "nom., sing.",
+      "verso_treebank": 163,
+      "morfologia_fonte": "n-s---mn-",
+      "lema_base": "πλοῦτος/πλούτου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "κονίσας",
+      "lema": "κονίω",
+      "sentido": "levantar poeira",
+      "analise": "part., aor., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sapamn-",
+      "verso_treebank": 163,
+      "chave": "κονιω"
+    },
+    {
+      "forma": "οὖδας",
+      "lema": "οὖδας, οὔδεος, τό",
+      "sentido": "solo",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---na-",
+      "verso_treebank": 163,
+      "chave": "ουδασ",
+      "lema_base": "οὖδας/οὔδεος",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "ἀντρέψῃ",
+      "lema": "ἀνατρέπω",
+      "sentido": "derrubar",
+      "analise": "aor., subj., at., 3ª s.; μή + subj.: temor de que derrube",
+      "morfologia_fonte": "v3sasa---",
+      "verso_treebank": 163,
+      "chave": "ανατρεπω",
+      "explicacao_contextual": true,
+      "prioridade_editorial": true
+    }
+  ],
+  "164": [
+    {
+      "forma": "ὄλβον",
+      "lema": "ὄλβος, -ου, ὁ",
+      "sentido": "prosperidade",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---ma-",
+      "verso_treebank": 164,
+      "chave": "ολβοσ",
+      "lema_base": "ὄλβος/ὄλβου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "167": [
+    {
+      "forma": "φῶς",
+      "lema": "φάος, -ους, τό",
+      "sentido": "luz",
+      "analise": "ac., sing.",
+      "verso_treebank": 167,
+      "morfologia_fonte": "n-s---na-",
+      "lema_base": "φάος/φάους",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "169": [
+    {
+      "forma": "ὄμμα",
+      "lema": "ὄμμα, ὄμματος, τό",
+      "sentido": "olho, olhar",
+      "analise": "ac., sing.",
+      "verso_treebank": 169,
+      "morfologia_fonte": "n-s---na-",
+      "lema_base": "ὄμμα/ὄμματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "δόμων",
+      "lema": "δόμος, -ου, ὁ",
+      "sentido": "casa, palácio",
+      "analise": "gen., pl.",
+      "verso_treebank": 169,
+      "morfologia_fonte": "n-p---mg-",
+      "lema_base": "δόμος/δόμου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "172": [
+    {
+      "forma": "κέδν᾽",
+      "lema": "κεδνός/-ή/-όν",
+      "sentido": "prudente, fiel",
+      "analise": "adj., nom., pl., neut.",
+      "verso_treebank": 172,
+      "morfologia_fonte": "a-p---nn-",
+      "lema_base": "κεδνός/κεδνή/κεδνόν"
+    }
+  ],
+  "175": [
+    {
+      "forma": "ὄντας",
+      "lema": "εἰμί",
+      "sentido": "",
+      "analise": "part., pres., at., ac., pl., masc.",
+      "verso_treebank": 175,
+      "morfologia_fonte": "v-pppama-",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "177": [
+    {
+      "forma": "στείλας",
+      "lema": "στέλλω",
+      "sentido": "enviar, equipar",
+      "analise": "part., aor., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sapamn-",
+      "verso_treebank": 177,
+      "chave": "στελλω"
+    }
+  ],
+  "179": [
+    {
+      "forma": "ἐναργὲς",
+      "lema": "ἐναργής/-ές",
+      "sentido": "nítido",
+      "analise": "adj., ac., sing., neut.",
+      "morfologia_fonte": "a-s---na-",
+      "verso_treebank": 179,
+      "chave": "εναργησ",
+      "lema_base": "ἐναργής/ἐναργές"
+    },
+    {
+      "forma": "εἰδόμην",
+      "lema": "ὁράω",
+      "sentido": "",
+      "analise": "aor., ind., méd., 1ª s.",
+      "verso_treebank": 179,
+      "morfologia_fonte": "v1saim---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "188": [
+    {
+      "forma": "ὁρᾶν",
+      "lema": "ὁράω",
+      "sentido": "",
+      "analise": "inf., pres., at.",
+      "verso_treebank": 188,
+      "morfologia_fonte": "v--pna---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "191": [
+    {
+      "forma": "ζεύγνυσιν",
+      "lema": "ζεύγνυμι",
+      "sentido": "jungir",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 191,
+      "chave": "ζευγνυμι"
+    },
+    {
+      "forma": "λέπαδν᾽",
+      "lema": "λέπαδνον, -ου, τό",
+      "sentido": "correia do jugo",
+      "analise": "ac., pl.",
+      "morfologia_fonte": "n-p---na-",
+      "verso_treebank": 191,
+      "chave": "λεπαδνον",
+      "lema_base": "λέπαδνον/λεπάδνου",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "αὐχένων",
+      "lema": "αὐχήν, αὐχένος, ὁ",
+      "sentido": "pescoço",
+      "analise": "gen., pl.",
+      "verso_treebank": 191,
+      "morfologia_fonte": "n-p---mg-",
+      "lema_base": "αὐχήν/αὐχένος",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "192": [
+    {
+      "forma": "τίθησι",
+      "lema": "τίθημι",
+      "sentido": "pôr, estabelecer",
+      "analise": "pres., ind., at., 3ª s.",
+      "verso_treebank": 192,
+      "morfologia_fonte": "v3spia---"
+    },
+    {
+      "forma": "ἐπυργοῦτο",
+      "lema": "πυργόω",
+      "sentido": "erguer, ensoberbecer",
+      "analise": "imperf., ind., méd./pass., 3ª s.",
+      "morfologia_fonte": "v3siie---",
+      "verso_treebank": 192,
+      "chave": "πυργοω"
+    }
+  ],
+  "193": [
+    {
+      "forma": "εἶχεν",
+      "lema": "ἔχω",
+      "sentido": "",
+      "analise": "imperf., ind., at., 3ª s.",
+      "verso_treebank": 193,
+      "morfologia_fonte": "v3siia---",
+      "apoio_apenas_morfologico": true
+    },
+    {
+      "forma": "εὔαρκτον",
+      "lema": "εὔαρκτος/-ον",
+      "sentido": "fácil de governar",
+      "analise": "adj., ac., sing., neut.",
+      "morfologia_fonte": "a-s---na-",
+      "verso_treebank": 193,
+      "chave": "ευαρκτοσ",
+      "lema_base": "εὔαρκτος/εὔαρκτον"
+    }
+  ],
+  "196": [
+    {
+      "forma": "θραύει",
+      "lema": "θραύω",
+      "sentido": "quebrar",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 196,
+      "chave": "θραυω"
+    }
+  ],
+  "203": [
+    {
+      "forma": "δαίμοσιν",
+      "lema": "δαίμων, δαίμονος, ὁ",
+      "sentido": "divindade, destino",
+      "analise": "dat., pl.",
+      "verso_treebank": 203,
+      "morfologia_fonte": "n-p---md-",
+      "lema_base": "δαίμων/δαίμονος",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "208": [
+    {
+      "forma": "ἐφορμαίνοντα",
+      "lema": "ἐφορμαίνω",
+      "sentido": "lançar-se sobre",
+      "analise": "part., pres., at., ac., sing., masc.",
+      "morfologia_fonte": "v-sppama-",
+      "verso_treebank": 208,
+      "chave": "εφορμαινω"
+    }
+  ],
+  "210": [
+    {
+      "forma": "παρεῖχε",
+      "lema": "παρέχω",
+      "sentido": "proporcionar",
+      "analise": "imperf., ind., at., 3ª s.",
+      "morfologia_fonte": "v3siia---",
+      "verso_treebank": 210,
+      "chave": "παρεχω"
+    }
+  ],
+  "211": [
+    {
+      "forma": "ἀκούειν",
+      "lema": "ἀκούω",
+      "sentido": "",
+      "analise": "inf., pres., at.",
+      "verso_treebank": 211,
+      "morfologia_fonte": "v--pna---",
+      "apoio_apenas_morfologico": true
+    },
+    {
+      "forma": "ἴστε",
+      "lema": "οἶδα",
+      "sentido": "",
+      "analise": "perf., ind., at., 2ª p.",
+      "verso_treebank": 211,
+      "morfologia_fonte": "v2pria---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "221": [
+    {
+      "forma": "πόσιν",
+      "lema": "πόσις, -ιος, ὁ",
+      "sentido": "esposo",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---ma-",
+      "verso_treebank": 221,
+      "chave": "ποσισ",
+      "lema_base": "πόσις/πόσιος",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "κατ᾽",
+      "lema": "κατ᾽",
+      "sentido": "durante",
+      "analise": "",
+      "tipo": "preposicao",
+      "caso": "ac.",
+      "posicao": "preposta"
+    },
+    {
+      "forma": "εὐφρόνην",
+      "lema": "εὐφρόνη, -ης, ἡ",
+      "sentido": "noite",
+      "analise": "ac., sing.",
+      "verso_treebank": 221,
+      "morfologia_fonte": "n-s---fa-",
+      "lema_base": "εὐφρόνη/εὐφρόνης",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "222": [
+    {
+      "forma": "ἐσθλά",
+      "lema": "ἐσθλός/-ή/-όν",
+      "sentido": "valoroso",
+      "analise": "adj., ac., pl., neut.",
+      "verso_treebank": 222,
+      "morfologia_fonte": "a-p---na-",
+      "lema_base": "ἐσθλός/ἐσθλή/ἐσθλόν"
+    }
+  ],
+  "225": [
+    {
+      "forma": "πέρι",
+      "lema": "πέρι",
+      "sentido": "acerca de",
+      "analise": "",
+      "tipo": "preposicao",
+      "caso": "gen.",
+      "posicao": "posposta"
+    }
+  ],
+  "227": [
+    {
+      "forma": "ἐκύρωσας",
+      "lema": "κυρόω",
+      "sentido": "confirmar",
+      "analise": "aor., ind., at., 2ª s.",
+      "morfologia_fonte": "v2saia---",
+      "verso_treebank": 227,
+      "chave": "κυροω"
+    }
+  ],
+  "228": [
+    {
+      "forma": "ἐφίεσαι",
+      "lema": "ἐφίημι",
+      "sentido": "prescrever, desejar",
+      "analise": "pres., ind., méd./pass., 2ª s.",
+      "morfologia_fonte": "v2spie---",
+      "verso_treebank": 228,
+      "chave": "εφιημι"
+    }
+  ],
+  "229": [
+    {
+      "forma": "θήσομεν",
+      "lema": "τίθημι",
+      "sentido": "pôr, estabelecer",
+      "analise": "fut., ind., at., 1ª p.",
+      "verso_treebank": 229,
+      "morfologia_fonte": "v1pfia---"
+    }
+  ],
+  "231": [
+    {
+      "forma": "ἱδρῦσθαι",
+      "lema": "ἱδρύω",
+      "sentido": "estabelecer",
+      "analise": "inf., perf., pass.",
+      "morfologia_fonte": "v--rne---",
+      "verso_treebank": 231,
+      "chave": "ιδρυω"
+    }
+  ],
+  "232": [
+    {
+      "forma": "ἄνακτος",
+      "lema": "ἄναξ, ἄνακτος, ὁ",
+      "sentido": "soberano",
+      "analise": "gen., sing.",
+      "verso_treebank": 232,
+      "morfologia_fonte": "n-s---mg-",
+      "lema_base": "ἄναξ/ἄνακτος",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "240": [
+    {
+      "forma": "σταδαῖα",
+      "lema": "σταδαῖος/-α/-ον",
+      "sentido": "para luta de perto",
+      "analise": "adj., nom., pl., neut.",
+      "morfologia_fonte": "a-p---nn-",
+      "verso_treebank": 240,
+      "chave": "σταδαιοσ",
+      "lema_base": "σταδαῖος/σταδαία/σταδαῖον"
+    }
+  ],
+  "242": [
+    {
+      "forma": "φωτὸς",
+      "lema": "φώς, φωτός, ὁ",
+      "sentido": "homem",
+      "analise": "gen., sing.",
+      "morfologia_fonte": "n-s---mg-",
+      "verso_treebank": 242,
+      "chave": "φωσ",
+      "lema_base": "φώς/φωτός",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "254": [
+    {
+      "forma": "ἀναπτύξαι",
+      "lema": "ἀναπτύσσω",
+      "sentido": "expor em detalhe",
+      "analise": "inf., aor., at.",
+      "morfologia_fonte": "v--ana---",
+      "verso_treebank": 254,
+      "chave": "αναπτυσσω"
+    }
+  ],
+  "256": [
+    {
+      "forma": "ἄνι᾽",
+      "lema": "ἄνιος/-α/-ον",
+      "sentido": "doloroso",
+      "analise": "adj., nom., pl., neut.",
+      "verso_treebank": 256,
+      "morfologia_fonte": "a-p---nn-",
+      "lema_base": "ἄνιος/ἀνία/ἄνιον"
+    },
+    {
+      "forma": "ἄνια",
+      "lema": "ἄνιος/-α/-ον",
+      "sentido": "doloroso",
+      "analise": "adj., nom., pl., neut.",
+      "verso_treebank": 256,
+      "morfologia_fonte": "a-p---nn-",
+      "lema_base": "ἄνιος/ἀνία/ἄνιον"
+    }
+  ],
+  "258": [
+    {
+      "forma": "διαίνεσθε",
+      "lema": "διαίνω",
+      "sentido": "molhar de lágrimas",
+      "analise": "pres., imper., méd./pass., 2ª p.",
+      "morfologia_fonte": "v2ppme---",
+      "verso_treebank": 258,
+      "chave": "διαινω"
+    }
+  ],
+  "260": [
+    {
+      "forma": "διαπεπραγμένα",
+      "lema": "διαπράσσω",
+      "sentido": "consumar",
+      "analise": "part., perf., pass., nom. pl. neut.",
+      "morfologia_fonte": "v-prpenn-",
+      "verso_treebank": 260,
+      "chave": "διαπρασσω"
+    }
+  ],
+  "265": [
+    {
+      "forma": "ἄελπτον",
+      "lema": "ἄελπτος/-ον",
+      "sentido": "inesperado",
+      "analise": "adj., ac., sing., neut.",
+      "morfologia_fonte": "a-s---na-",
+      "verso_treebank": 265,
+      "chave": "αελπτοσ",
+      "lema_base": "ἄελπτος/ἄελπτον"
+    }
+  ],
+  "266": [
+    {
+      "forma": "κλύων",
+      "lema": "κλύω",
+      "sentido": "ouvir",
+      "analise": "part., pres., at., nom., sing., masc.",
+      "verso_treebank": 266,
+      "morfologia_fonte": "v-sppamn-"
+    }
+  ],
+  "272": [
+    {
+      "forma": "ἐφθαρμένων",
+      "lema": "φθείρω",
+      "sentido": "destruir",
+      "analise": "part., perf., méd./pass., gen., pl., masc.",
+      "verso_treebank": 272,
+      "morfologia_fonte": "v-prpemg-"
+    }
+  ],
+  "279": [
+    {
+      "forma": "δαμασθεὶς",
+      "lema": "δαμάζω",
+      "sentido": "subjugar",
+      "analise": "part., aor., pass., nom., sing., masc.",
+      "morfologia_fonte": "v-sappmn-",
+      "verso_treebank": 279,
+      "chave": "δαμαζω"
+    }
+  ],
+  "283": [
+    {
+      "forma": "φθαρέντος",
+      "lema": "φθείρω",
+      "sentido": "destruir",
+      "analise": "part., aor., pass., gen., sing., masc.",
+      "verso_treebank": 283,
+      "morfologia_fonte": "v-sappmg-"
+    }
+  ],
+  "286": [
+    {
+      "forma": "δᾴοις",
+      "lema": "δάιος/-α/-ον",
+      "sentido": "hostil, destruidor",
+      "analise": "adj., dat., pl., masc.",
+      "verso_treebank": 286,
+      "morfologia_fonte": "a-p---md-",
+      "lema_base": "δάιος/δαΐα/δάιον"
+    }
+  ],
+  "303": [
+    {
+      "forma": "θείνεται",
+      "lema": "θείνω",
+      "sentido": "golpear",
+      "analise": "pres., ind., méd./pass., 3ª s.",
+      "morfologia_fonte": "v3spie---",
+      "verso_treebank": 303,
+      "chave": "θεινω"
+    }
+  ],
+  "316": [
+    {
+      "forma": "ζαπληθῆ",
+      "lema": "ζαπληθής/-ές",
+      "sentido": "muito abundante",
+      "analise": "adj., ac., sing., fem.",
+      "morfologia_fonte": "a-s---fa-",
+      "verso_treebank": 316,
+      "chave": "ζαπληθησ",
+      "lema_base": "ζαπληθής/ζαπληθές"
+    },
+    {
+      "forma": "δάσκιον",
+      "lema": "δάσκιος/-ον",
+      "sentido": "espesso, sombreado",
+      "analise": "adj., ac., sing., fem.",
+      "morfologia_fonte": "a-s---fa-",
+      "verso_treebank": 316,
+      "chave": "δασκιοσ",
+      "lema_base": "δάσκιος/δάσκιον"
+    }
+  ],
+  "330": [
+    {
+      "forma": "παρόντων",
+      "lema": "πάρειμι",
+      "sentido": "estar presente",
+      "analise": "part., pres., at., gen., pl., neut.",
+      "verso_treebank": 330,
+      "morfologia_fonte": "v-pppang-"
+    }
+  ],
+  "334": [
+    {
+      "forma": "πλῆθος",
+      "lema": "πλῆθος, -ους, τό",
+      "sentido": "multidão",
+      "analise": "nom., sing.",
+      "verso_treebank": 334,
+      "morfologia_fonte": "n-s---nn-",
+      "lema_base": "πλῆθος/πλήθους",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "ἦν",
+      "lema": "εἰμί",
+      "sentido": "",
+      "analise": "imperf., ind., at., 3ª s.",
+      "verso_treebank": 334,
+      "morfologia_fonte": "v3siia---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "338": [
+    {
+      "forma": "ναυσὶν",
+      "lema": "ναῦς, νεώς, ἡ",
+      "sentido": "navio",
+      "analise": "dat., pl.",
+      "verso_treebank": 338,
+      "morfologia_fonte": "n-p---fd-",
+      "lema_base": "ναῦς/νεώς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "κρατῆσαι",
+      "lema": "κρατέω",
+      "sentido": "prevalecer",
+      "analise": "inf., aor., at.",
+      "morfologia_fonte": "v--ana---",
+      "verso_treebank": 338,
+      "chave": "κρατεω"
+    }
+  ],
+  "351": [
+    {
+      "forma": "κατῆρξαν",
+      "lema": "κατάρχω",
+      "sentido": "iniciar",
+      "analise": "aor., ind., at., 3ª p.",
+      "morfologia_fonte": "v3paia---",
+      "verso_treebank": 351,
+      "chave": "καταρχω"
+    }
+  ],
+  "353": [
+    {
+      "forma": "ἦρξεν",
+      "lema": "ἄρχω",
+      "sentido": "",
+      "analise": "aor., ind., at., 3ª s.",
+      "verso_treebank": 353,
+      "morfologia_fonte": "v3saia---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "357": [
+    {
+      "forma": "κνέφας",
+      "lema": "κνέφας, κνέφους, τό",
+      "sentido": "escuridão",
+      "analise": "nom., sing.",
+      "morfologia_fonte": "n-s---nn-",
+      "verso_treebank": 357,
+      "chave": "κνεφασ",
+      "lema_base": "κνέφας/κνέφους",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "361": [
+    {
+      "forma": "ἤκουσεν",
+      "lema": "ἀκούω",
+      "sentido": "",
+      "analise": "aor., ind., at., 3ª s.",
+      "verso_treebank": 361,
+      "morfologia_fonte": "v3saia---",
+      "apoio_apenas_morfologico": true
+    },
+    {
+      "forma": "ξυνεὶς",
+      "lema": "συνίημι",
+      "sentido": "compreender",
+      "analise": "part., aor., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sapamn-",
+      "verso_treebank": 361,
+      "chave": "συνιημι"
+    }
+  ],
+  "366": [
+    {
+      "forma": "στοίχοις",
+      "lema": "στοῖχος, -ου, ὁ",
+      "sentido": "fileira",
+      "analise": "dat., pl.",
+      "morfologia_fonte": "n-p---md-",
+      "verso_treebank": 366,
+      "chave": "στοιχοσ",
+      "lema_base": "στοῖχος/στοίχου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "367": [
+    {
+      "forma": "ἔκπλους",
+      "lema": "ἔκπλοος, -ου, ὁ",
+      "sentido": "saída por mar",
+      "analise": "ac., pl.",
+      "morfologia_fonte": "n-p---ma-",
+      "verso_treebank": 367,
+      "chave": "εκπλοοσ",
+      "lema_base": "ἔκπλοος/ἐκπλόου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "πόρους",
+      "lema": "πόρος, -ου, ὁ",
+      "sentido": "passagem",
+      "analise": "ac., pl.",
+      "verso_treebank": 367,
+      "morfologia_fonte": "n-p---ma-",
+      "lema_base": "πόρος/πόρου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "ἁλιρρόθους",
+      "lema": "ἁλίρροθος/-ον",
+      "sentido": "batido pelas ondas",
+      "analise": "adj., ac., pl., masc.",
+      "morfologia_fonte": "a-p---ma-",
+      "verso_treebank": 367,
+      "chave": "αλιρροθοσ",
+      "lema_base": "ἁλίρροθος/ἁλίρροθον"
+    }
+  ],
+  "375": [
+    {
+      "forma": "ἐπορσύνοντο",
+      "lema": "πορσύνω",
+      "sentido": "causar, preparar",
+      "analise": "imperf., ind., méd./pass., 3ª p.",
+      "verso_treebank": 375,
+      "morfologia_fonte": "v3piie---"
+    }
+  ],
+  "377": [
+    {
+      "forma": "κατέφθιτο",
+      "lema": "καταφθίω",
+      "sentido": "perecer",
+      "analise": "aor., ind., méd., 3ª s.",
+      "verso_treebank": 377,
+      "morfologia_fonte": "v3saim---",
+      "quebra": true
+    }
+  ],
+  "385": [
+    {
+      "forma": "ἔκπλουν",
+      "lema": "ἔκπλοος, -ου, ὁ",
+      "sentido": "saída por mar",
+      "analise": "ac., sing.",
+      "verso_treebank": 385,
+      "morfologia_fonte": "n-s---ma-",
+      "lema_base": "ἔκπλοος/ἐκπλόου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "392": [
+    {
+      "forma": "ἀποσφαλεῖσιν",
+      "lema": "ἀποσφάλλω",
+      "sentido": "frustrar",
+      "analise": "part., aor., pass., dat., pl., masc.",
+      "morfologia_fonte": "v-pappmd-",
+      "verso_treebank": 392,
+      "chave": "αποσφαλλω"
+    }
+  ],
+  "396": [
+    {
+      "forma": "ξυνεμβολῇ",
+      "lema": "συνεμβολή, -ῆς, ἡ",
+      "sentido": "golpe simultâneo",
+      "analise": "dat., sing.",
+      "morfologia_fonte": "n-s---fd-",
+      "verso_treebank": 396,
+      "chave": "συνεμβολη",
+      "lema_base": "συνεμβολή/συνεμβολῆς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "398": [
+    {
+      "forma": "ἐκφανεῖς",
+      "lema": "ἐκφανής/-ές",
+      "sentido": "visível",
+      "analise": "adj., nom., pl., masc.",
+      "morfologia_fonte": "a-p---mn-",
+      "verso_treebank": 398,
+      "chave": "εκφανησ",
+      "lema_base": "ἐκφανής/ἐκφανές"
+    }
+  ],
+  "409": [
+    {
+      "forma": "ἐμβολῆς",
+      "lema": "ἐμβολή, -ῆς, ἡ",
+      "sentido": "ataque com esporão",
+      "analise": "gen., sing.",
+      "morfologia_fonte": "n-s---fg-",
+      "verso_treebank": 409,
+      "chave": "εμβολη",
+      "lema_base": "ἐμβολή/ἐμβολῆς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "421": [
+    {
+      "forma": "χοιράδες",
+      "lema": "χοιράς, χοιράδος, ἡ",
+      "sentido": "rochedo à flor d’água",
+      "analise": "nom., pl.",
+      "morfologia_fonte": "n-p---fn-",
+      "verso_treebank": 421,
+      "chave": "χοιρασ",
+      "lema_base": "χοιράς/χοιράδος",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "ἐπλήθυον",
+      "lema": "πληθύω",
+      "sentido": "multiplicar-se",
+      "analise": "imperf., ind., at., 3ª p.",
+      "morfologia_fonte": "v3piia---",
+      "verso_treebank": 421,
+      "chave": "πληθυω"
+    }
+  ],
+  "423": [
+    {
+      "forma": "βαρβάρου",
+      "lema": "βάρβαρος/-ον",
+      "sentido": "bárbaro, não grego",
+      "analise": "adj., gen., sing., neut.",
+      "verso_treebank": 423,
+      "morfologia_fonte": "a-s---ng-",
+      "lema_base": "βάρβαρος/βάρβαρον"
+    }
+  ],
+  "427": [
+    {
+      "forma": "κωκύμασιν",
+      "lema": "κώκυμα, κωκύματος, τό",
+      "sentido": "lamento",
+      "analise": "dat., pl.",
+      "verso_treebank": 427,
+      "morfologia_fonte": "n-p---nd-",
+      "lema_base": "κώκυμα/κωκύματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "432": [
+    {
+      "forma": "θανεῖν",
+      "lema": "θνήσκω",
+      "sentido": "morrer",
+      "analise": "inf., aor., at.",
+      "verso_treebank": 432,
+      "morfologia_fonte": "v--ana---"
+    }
+  ],
+  "437": [
+    {
+      "forma": "ἀντισηκῶσαι",
+      "lema": "ἀντισηκόω",
+      "sentido": "contrabalançar",
+      "analise": "inf., aor., at.",
+      "morfologia_fonte": "v--ana---",
+      "verso_treebank": 437,
+      "chave": "αντισηκοω"
+    },
+    {
+      "forma": "ῥοπῇ",
+      "lema": "ῥοπή, -ῆς, ἡ",
+      "sentido": "inclinação da balança",
+      "analise": "dat., sing.",
+      "morfologia_fonte": "n-s---fd-",
+      "verso_treebank": 437,
+      "chave": "ροπη",
+      "lema_base": "ῥοπή/ῥοπῆς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "445": [
+    {
+      "forma": "συμφορᾶς",
+      "lema": "συμφορά, -ᾶς, ἡ",
+      "sentido": "desgraça",
+      "analise": "gen., sing.",
+      "verso_treebank": 445,
+      "morfologia_fonte": "n-s---fg-",
+      "lema_base": "συμφορά/συμφορᾶς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "448": [
+    {
+      "forma": "δύσορμος",
+      "lema": "δύσορμος/-ον",
+      "sentido": "sem bom ancoradouro",
+      "analise": "adj., nom., sing., fem.",
+      "morfologia_fonte": "a-s---fn-",
+      "verso_treebank": 448,
+      "chave": "δυσορμοσ",
+      "lema_base": "δύσορμος/δύσορμον"
+    },
+    {
+      "forma": "φιλόχορος",
+      "lema": "φιλόχορος/-ον",
+      "sentido": "amigo da dança",
+      "analise": "adj., nom., sing., masc.",
+      "morfologia_fonte": "a-s---mn-",
+      "verso_treebank": 448,
+      "chave": "φιλοχοροσ",
+      "lema_base": "φιλόχορος/φιλόχορον"
+    }
+  ],
+  "452": [
+    {
+      "forma": "εὐχείρωτον",
+      "lema": "εὐχείρωτος/-ον",
+      "sentido": "fácil de capturar",
+      "analise": "adj., ac., sing., masc.",
+      "morfologia_fonte": "a-s---ma-",
+      "verso_treebank": 452,
+      "chave": "ευχειρωτοσ",
+      "lema_base": "εὐχείρωτος/εὐχείρωτον"
+    }
+  ],
+  "455": [
+    {
+      "forma": "κῦδος",
+      "lema": "κῦδος, -εος, τό",
+      "sentido": "glória",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---na-",
+      "verso_treebank": 455,
+      "chave": "κυδοσ",
+      "lema_base": "κῦδος/κύδεος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "462": [
+    {
+      "forma": "ἐφορμηθέντες",
+      "lema": "ἐφορμάω",
+      "sentido": "lançar-se sobre",
+      "analise": "part., aor., pass., nom., pl., masc.",
+      "morfologia_fonte": "v-pappmn-",
+      "verso_treebank": 462,
+      "chave": "εφορμαω"
+    }
+  ],
+  "465": [
+    {
+      "forma": "ἀνῴμωξεν",
+      "lema": "ἀνοιμώζω",
+      "sentido": "romper em lamentos",
+      "analise": "aor., ind., at., 3ª s.",
+      "morfologia_fonte": "v3saia---",
+      "verso_treebank": 465,
+      "chave": "ανοιμωζω"
+    }
+  ],
+  "468": [
+    {
+      "forma": "ῥήξας",
+      "lema": "ῥήγνυμι",
+      "sentido": "rasgar",
+      "analise": "part., aor., at., nom., sing., masc.",
+      "verso_treebank": 468,
+      "morfologia_fonte": "v-sapamn-"
+    }
+  ],
+  "475": [
+    {
+      "forma": "ἀπώλεσεν",
+      "lema": "ἀπόλλυμι",
+      "sentido": "destruir, perder",
+      "analise": "aor., ind., at., 3ª s.",
+      "verso_treebank": 475,
+      "morfologia_fonte": "v3saia---"
+    }
+  ],
+  "476": [
+    {
+      "forma": "ἀντίποινα",
+      "lema": "ἀντίποινα, ἀντιποίνων, τά",
+      "sentido": "represálias",
+      "analise": "ac., pl.",
+      "morfologia_fonte": "n-p---na-",
+      "verso_treebank": 476,
+      "chave": "αντιποινα",
+      "lema_base": "ἀντίποινα/ἀντιποίνων",
+      "artigo": "τά",
+      "tipo": "nome"
+    }
+  ],
+  "478": [
+    {
+      "forma": "εἰπέ",
+      "lema": "λέγω",
+      "sentido": "",
+      "analise": "aor., imper., at., 2ª s.",
+      "verso_treebank": 478,
+      "morfologia_fonte": "v2sama---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "480": [
+    {
+      "forma": "λελειμμένων",
+      "lema": "λείπω",
+      "sentido": "deixar, ficar atrás",
+      "analise": "part., perf., méd./pass., gen., pl., fem.",
+      "verso_treebank": 480,
+      "morfologia_fonte": "v-prpefg-"
+    }
+  ],
+  "484": [
+    {
+      "forma": "ἄσθματος",
+      "lema": "ἄσθμα, ἄσθματος, τό",
+      "sentido": "respiração ofegante",
+      "analise": "gen., sing.",
+      "morfologia_fonte": "n-s---ng-",
+      "verso_treebank": 484,
+      "chave": "ασθμα",
+      "lema_base": "ἄσθμα/ἄσθματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "485": [
+    {
+      "forma": "διεκπερῶμεν",
+      "lema": "διεκπεράω",
+      "sentido": "atravessar até o fim",
+      "analise": "pres., ind., at., 1ª p.",
+      "morfologia_fonte": "v1ppia---",
+      "verso_treebank": 485,
+      "chave": "διεκπεραω"
+    }
+  ],
+  "489": [
+    {
+      "forma": "ὑπεσπανισμένους",
+      "lema": "ὑποσπανίζομαι",
+      "sentido": "estar em falta",
+      "analise": "part., perf., méd., ac., pl., masc.",
+      "morfologia_fonte": "v-prpema-",
+      "verso_treebank": 489,
+      "chave": "υποσπανιζομαι"
+    }
+  ],
+  "493": [
+    {
+      "forma": "ἀφικόμεσθ᾽",
+      "lema": "ἀφικνέομαι",
+      "sentido": "chegar",
+      "analise": "aor., ind., méd., 1ª p.",
+      "verso_treebank": 493,
+      "morfologia_fonte": "v1paim---"
+    }
+  ],
+  "495": [
+    {
+      "forma": "νυκτὶ",
+      "lema": "νύξ, νυκτός, ἡ",
+      "sentido": "noite",
+      "analise": "dat., sing.",
+      "verso_treebank": 495,
+      "morfologia_fonte": "n-s---fd-",
+      "lema_base": "νύξ/νυκτός",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "497": [
+    {
+      "forma": "ῥέεθρον",
+      "lema": "ῥεῖθρον, -ου, τό",
+      "sentido": "corrente de água",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---na-",
+      "verso_treebank": 497,
+      "chave": "ρειθρον",
+      "lema_base": "ῥεῖθρον/ῥείθρου",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "507": [
+    {
+      "forma": "ἀπέρρηξεν",
+      "lema": "ἀπορρήγνυμι",
+      "sentido": "romper, desgarrar",
+      "analise": "aor., ind., at., 3ª s.",
+      "morfologia_fonte": "v3saia---",
+      "verso_treebank": 507,
+      "chave": "απορρηγνυμι"
+    }
+  ],
+  "514": [
+    {
+      "forma": "ἐγκατέσκηψεν",
+      "lema": "ἐγκατασκήπτω",
+      "sentido": "abater-se sobre",
+      "analise": "aor., ind., at., 3ª s.",
+      "morfologia_fonte": "v3saia---",
+      "verso_treebank": 514,
+      "chave": "εγκατασκηπτω"
+    }
+  ],
+  "525": [
+    {
+      "forma": "ἐξειργασμένοις",
+      "lema": "ἐξεργάζομαι",
+      "sentido": "realizar",
+      "analise": "part., perf., méd., dat., pl., neut.",
+      "morfologia_fonte": "v-prpend-",
+      "verso_treebank": 525,
+      "chave": "εξεργαζομαι"
+    }
+  ],
+  "527": [
+    {
+      "forma": "πεπραγμένοις",
+      "lema": "πράσσω",
+      "sentido": "",
+      "analise": "part., perf., méd./pass., dat., pl., neut.",
+      "verso_treebank": 527,
+      "morfologia_fonte": "v-prpend-",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "528": [
+    {
+      "forma": "πιστοῖσι",
+      "lema": "πιστός/-ή/-όν",
+      "sentido": "fiel",
+      "analise": "adj., dat., pl., masc.",
+      "verso_treebank": 528,
+      "morfologia_fonte": "a-p---md-",
+      "lema_base": "πιστός/πιστή/πιστόν"
+    }
+  ],
+  "537": [
+    {
+      "forma": "καλύπτρας",
+      "lema": "καλύπτρα, -ας, ἡ",
+      "sentido": "véu",
+      "analise": "ac., pl.",
+      "morfologia_fonte": "n-p---fa-",
+      "verso_treebank": 537,
+      "chave": "καλυπτρα",
+      "lema_base": "καλύπτρα/καλύπτρας",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "542": [
+    {
+      "forma": "ἀρτιζυγίαν",
+      "lema": "ἀρτιζυγία, -ας, ἡ",
+      "sentido": "união recente",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---fa-",
+      "verso_treebank": 542,
+      "chave": "αρτιζυγια",
+      "lema_base": "ἀρτιζυγία/ἀρτιζυγίας",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "545": [
+    {
+      "forma": "ἀκορεστοτάτοις",
+      "lema": "ἀκόρεστος/-ον",
+      "sentido": "insaciável",
+      "analise": "adj., superl., dat., pl., masc.",
+      "morfologia_fonte": "a-p---mds",
+      "verso_treebank": 545,
+      "chave": "ακορεστοσ",
+      "lema_base": "ἀκόρεστος/ἀκόρεστον"
+    }
+  ],
+  "560": [
+    {
+      "forma": "νᾶες",
+      "lema": "ναῦς, νεώς, ἡ",
+      "sentido": "navio",
+      "analise": "nom., pl.",
+      "verso_treebank": 560,
+      "morfologia_fonte": "n-p---fn-",
+      "lema_base": "ναῦς/νεώς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "573": [
+    {
+      "forma": "ἄχη",
+      "lema": "ἄχος, -ους, τό",
+      "sentido": "dor",
+      "analise": "ac., pl.",
+      "verso_treebank": 573,
+      "morfologia_fonte": "n-p---na-",
+      "lema_base": "ἄχος/ἄχους",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "577": [
+    {
+      "forma": "ἀναύδων",
+      "lema": "ἄναυδος/-ον",
+      "sentido": "sem fala",
+      "analise": "adj., gen., pl., masc.",
+      "morfologia_fonte": "a-p---mg-",
+      "verso_treebank": 577,
+      "chave": "αναυδοσ",
+      "lema_base": "ἄναυδος/ἄναυδον"
+    }
+  ],
+  "595": [
+    {
+      "forma": "ἄρουραν",
+      "lema": "ἄρουρα, -ης, ἡ",
+      "sentido": "terra cultivada",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---fa-",
+      "verso_treebank": 595,
+      "chave": "αρουρα",
+      "lema_base": "ἄρουρα/ἀρούρης",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "596": [
+    {
+      "forma": "περικλύστα",
+      "lema": "περίκλυστος/-ον",
+      "sentido": "cercado pelo mar",
+      "analise": "adj., nom., sing., fem.",
+      "morfologia_fonte": "a-s---fn-",
+      "verso_treebank": 596,
+      "chave": "περικλυστοσ",
+      "lema_base": "περίκλυστος/περίκλυστον"
+    }
+  ],
+  "601": [
+    {
+      "forma": "πεποιθέναι",
+      "lema": "πείθω",
+      "sentido": "persuadir; perf.: confiar",
+      "analise": "inf., perf., at.",
+      "morfologia_fonte": "v--rna---",
+      "verso_treebank": 601,
+      "chave": "πειθω"
+    }
+  ],
+  "604": [
+    {
+      "forma": "ὄμμασιν",
+      "lema": "ὄμμα, ὄμματος, τό",
+      "sentido": "olho, olhar",
+      "analise": "dat., pl.",
+      "verso_treebank": 604,
+      "morfologia_fonte": "n-p---nd-",
+      "lema_base": "ὄμμα/ὄμματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "606": [
+    {
+      "forma": "ἐκφοβεῖ",
+      "lema": "ἐκφοβέω",
+      "sentido": "aterrorizar",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 606,
+      "chave": "εκφοβεω"
+    }
+  ],
+  "609": [
+    {
+      "forma": "πρευμενεῖς",
+      "lema": "πρευμενής/-ές",
+      "sentido": "benévolo",
+      "analise": "adj., ac., pl., fem.",
+      "morfologia_fonte": "a-p---fa-",
+      "verso_treebank": 609,
+      "chave": "πρευμενησ",
+      "lema_base": "πρευμενής/πρευμενές"
+    }
+  ],
+  "612": [
+    {
+      "forma": "στάγμα",
+      "lema": "στάγμα, στάγματος, τό",
+      "sentido": "gota",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---na-",
+      "verso_treebank": 612,
+      "chave": "σταγμα",
+      "lema_base": "στάγμα/στάγματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "παμφαὲς",
+      "lema": "παμφαής/-ές",
+      "sentido": "resplandecente",
+      "analise": "adj., ac., sing., neut.",
+      "morfologia_fonte": "a-s---na-",
+      "verso_treebank": 612,
+      "chave": "παμφαησ",
+      "lema_base": "παμφαής/παμφαές"
+    }
+  ],
+  "613": [
+    {
+      "forma": "λιβάσιν",
+      "lema": "λιβάς, λιβάδος, ἡ",
+      "sentido": "líquido que escorre",
+      "analise": "dat., pl.",
+      "morfologia_fonte": "n-p---fd-",
+      "verso_treebank": 613,
+      "chave": "λιβασ",
+      "lema_base": "λιβάς/λιβάδος",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    },
+    {
+      "forma": "ὑδρηλαῖς",
+      "lema": "ὑδρηλός/-ή/-όν",
+      "sentido": "aquoso",
+      "analise": "adj., dat., pl., fem.",
+      "morfologia_fonte": "a-p---fd-",
+      "verso_treebank": 613,
+      "chave": "υδρηλοσ",
+      "lema_base": "ὑδρηλός/ὑδρηλή/ὑδρηλόν"
+    },
+    {
+      "forma": "πηγῆς",
+      "lema": "πηγός/-ή/-όν",
+      "sentido": "puro, límpido",
+      "analise": "adj., gen., sing., fem.",
+      "morfologia_fonte": "a-s---fg-",
+      "verso_treebank": 613,
+      "chave": "πηγοσ",
+      "lema_base": "πηγός/πηγή/πηγόν"
+    }
+  ],
+  "615": [
+    {
+      "forma": "παλαιᾶς",
+      "lema": "παλαιός/-ά/-όν",
+      "sentido": "antigo",
+      "analise": "adj., gen., sing., fem.",
+      "verso_treebank": 615,
+      "morfologia_fonte": "a-s---fg-",
+      "lema_base": "παλαιός/παλαιά/παλαιόν"
+    }
+  ],
+  "619": [
+    {
+      "forma": "χοαῖσι",
+      "lema": "χοή, -ῆς, ἡ",
+      "sentido": "libação",
+      "analise": "dat., pl.",
+      "verso_treebank": 619,
+      "morfologia_fonte": "n-p---fd-",
+      "lema_base": "χοή/χοῆς",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "621": [
+    {
+      "forma": "γαπότους",
+      "lema": "γάποτος/-ον",
+      "sentido": "bebido pela terra",
+      "analise": "adj., ac., pl., fem.",
+      "morfologia_fonte": "a-p---fa-",
+      "verso_treebank": 621,
+      "chave": "γαποτοσ",
+      "lema_base": "γάποτος/γάποτον"
+    }
+  ],
+  "630": [
+    {
+      "forma": "πέμψατ᾽",
+      "lema": "πέμπω",
+      "sentido": "",
+      "analise": "aor., imper., at., 2ª p.",
+      "verso_treebank": 630,
+      "morfologia_fonte": "v2pama---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "632": [
+    {
+      "forma": "θνητῶν",
+      "lema": "θνητός/-ή/-όν",
+      "sentido": "mortal",
+      "analise": "adj., gen., pl., masc.",
+      "verso_treebank": 632,
+      "morfologia_fonte": "a-p---mg-",
+      "lema_base": "θνητός/θνητή/θνητόν"
+    }
+  ],
+  "634": [
+    {
+      "forma": "ἰσοδαίμων",
+      "lema": "ἰσοδαίμων/-ον",
+      "sentido": "igual aos deuses",
+      "analise": "adj., nom., sing., masc.",
+      "morfologia_fonte": "a-s---mn-",
+      "verso_treebank": 634,
+      "chave": "ισοδαιμων",
+      "lema_base": "ἰσοδαίμων/ἰσόδαιμον"
+    }
+  ],
+  "648": [
+    {
+      "forma": "κέκευθεν",
+      "lema": "κεύθω",
+      "sentido": "ocultar",
+      "analise": "perf., ind., at., 3ª s.",
+      "morfologia_fonte": "v3sria---",
+      "verso_treebank": 648,
+      "chave": "κευθω"
+    },
+    {
+      "forma": "ἤθη",
+      "lema": "ἠθέω",
+      "sentido": "transmitir, fazer passar",
+      "analise": "imperf., ind., at., 3ª s.",
+      "morfologia_fonte": "v3siia---",
+      "verso_treebank": 648,
+      "chave": "ηθεω"
+    }
+  ],
+  "661": [
+    {
+      "forma": "τιάρας",
+      "lema": "τιάρα, -ας, ἡ",
+      "sentido": "tiara",
+      "analise": "gen., sing.",
+      "morfologia_fonte": "n-s---fg-",
+      "verso_treebank": 661,
+      "chave": "τιαρα",
+      "lema_base": "τιάρα/τιάρας",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "662": [
+    {
+      "forma": "πιφαύσκων",
+      "lema": "πιφαύσκω",
+      "sentido": "mostrar",
+      "analise": "part., pres., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sppamn-",
+      "verso_treebank": 662,
+      "chave": "πιφαυσκω"
+    }
+  ],
+  "666": [
+    {
+      "forma": "φάνηθι",
+      "lema": "φαίνω",
+      "sentido": "",
+      "analise": "aor., imper., pass., 2ª s.",
+      "verso_treebank": 666,
+      "morfologia_fonte": "v2samp---",
+      "apoio_apenas_morfologico": true
+    }
+  ],
+  "688": [
+    {
+      "forma": "εὐέξοδον",
+      "lema": "εὐέξοδος/-ον",
+      "sentido": "fácil de sair",
+      "analise": "adj., ac., sing., masc.",
+      "morfologia_fonte": "a-s---ma-",
+      "verso_treebank": 688,
+      "chave": "ευεξοδοσ",
+      "lema_base": "εὐέξοδος/εὐέξοδον"
+    }
+  ],
+  "700": [
+    {
+      "forma": "δίεμαι",
+      "lema": "δίεμαι",
+      "sentido": "temer",
+      "analise": "pres., ind., méd., 1ª s.",
+      "morfologia_fonte": "v1spie---",
+      "verso_treebank": 700,
+      "chave": "διεμαι"
+    }
+  ],
+  "706": [
+    {
+      "forma": "πήματ᾽",
+      "lema": "πῆμα, πήματος, τό",
+      "sentido": "desgraça",
+      "analise": "nom., pl.",
+      "morfologia_fonte": "n-p---nn-",
+      "verso_treebank": 706,
+      "chave": "πημα",
+      "lema_base": "πῆμα/πήματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "715": [
+    {
+      "forma": "σκηπτός",
+      "lema": "σκηπτός, -οῦ, ὁ",
+      "sentido": "raio",
+      "analise": "nom., sing.",
+      "morfologia_fonte": "n-s---mn-",
+      "verso_treebank": 715,
+      "chave": "σκηπτοσ",
+      "lema_base": "σκηπτός/σκηπτοῦ",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "720": [
+    {
+      "forma": "στρατευμάτοιν",
+      "lema": "στράτευμα, στρατεύματος, τό",
+      "sentido": "exército",
+      "analise": "gen., dual.",
+      "verso_treebank": 720,
+      "morfologia_fonte": "n-d---ng-",
+      "lema_base": "στράτευμα/στρατεύματος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "723": [
+    {
+      "forma": "ἐξέπραξεν",
+      "lema": "ἐκπράσσω",
+      "sentido": "realizar inteiramente",
+      "analise": "aor., ind., at., 3ª s.",
+      "morfologia_fonte": "v3saia---",
+      "verso_treebank": 723,
+      "chave": "εκπρασσω"
+    }
+  ],
+  "727": [
+    {
+      "forma": "ἐπιστενάζετε",
+      "lema": "ἐπιστενάζω",
+      "sentido": "lamentar",
+      "analise": "pres., ind., at., 2ª p.",
+      "morfologia_fonte": "v2ppia---",
+      "verso_treebank": 727,
+      "chave": "επιστεναζω"
+    }
+  ],
+  "730": [
+    {
+      "forma": "ἄστυ",
+      "lema": "ἄστυ, ἄστεως, τό",
+      "sentido": "cidade",
+      "analise": "nom., sing.",
+      "verso_treebank": 730,
+      "morfologia_fonte": "n-s---nn-",
+      "lema_base": "ἄστυ/ἄστεως",
+      "artigo": "τό",
+      "tipo": "nome"
+    },
+    {
+      "forma": "κενανδρίαν",
+      "lema": "κενανδρία, -ας, ἡ",
+      "sentido": "falta de homens",
+      "analise": "ac., sing.",
+      "morfologia_fonte": "n-s---fa-",
+      "verso_treebank": 730,
+      "chave": "κενανδρια",
+      "lema_base": "κενανδρία/κενανδρίας",
+      "artigo": "ἡ",
+      "tipo": "nome"
+    }
+  ],
+  "732": [
+    {
+      "forma": "ἔρρει",
+      "lema": "ἔρρω",
+      "sentido": "perecer",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 732,
+      "chave": "ερρω"
+    }
+  ],
+  "738": [
+    {
+      "forma": "κρατεῖ",
+      "lema": "κρατέω",
+      "sentido": "prevalecer",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 738,
+      "chave": "κρατεω"
+    }
+  ],
+  "741": [
+    {
+      "forma": "ἐκτελευτήσειν",
+      "lema": "ἐκτελευτάω",
+      "sentido": "cumprir até o fim",
+      "analise": "inf., fut., at.",
+      "morfologia_fonte": "v--fna---",
+      "verso_treebank": 741,
+      "chave": "εκτελευταω"
+    }
+  ],
+  "748": [
+    {
+      "forma": "περιβαλὼν",
+      "lema": "περιβάλλω",
+      "sentido": "envolver",
+      "analise": "part., aor., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sapamn-",
+      "verso_treebank": 748,
+      "chave": "περιβαλλω"
+    }
+  ],
+  "756": [
+    {
+      "forma": "αἰχμάζειν",
+      "lema": "αἰχμάζω",
+      "sentido": "brandir a lança",
+      "analise": "inf., pres., at.",
+      "morfologia_fonte": "v--pna---",
+      "verso_treebank": 756,
+      "chave": "αιχμαζω"
+    }
+  ],
+  "761": [
+    {
+      "forma": "πεσόν",
+      "lema": "πίπτω",
+      "sentido": "cair",
+      "analise": "part., aor., at., nom., sing., neut.",
+      "verso_treebank": 761,
+      "morfologia_fonte": "v-sapann-"
+    }
+  ],
+  "769": [
+    {
+      "forma": "ἔθηκε",
+      "lema": "τίθημι",
+      "sentido": "pôr, estabelecer",
+      "analise": "aor., ind., at., 3ª s.",
+      "verso_treebank": 769,
+      "morfologia_fonte": "v3saia---"
+    }
+  ],
+  "779": [
+    {
+      "forma": "ἔκυρσα",
+      "lema": "κυρέω",
+      "sentido": "encontrar, alcançar",
+      "analise": "aor., ind., at., 1ª s.",
+      "morfologia_fonte": "v1saia---",
+      "verso_treebank": 779,
+      "chave": "κυρεω"
+    },
+    {
+      "forma": "ἤθελον",
+      "lema": "ἐθέλω",
+      "sentido": "querer",
+      "analise": "imperf., ind., at., 3ª p.",
+      "verso_treebank": 779,
+      "morfologia_fonte": "v3piia---"
+    }
+  ],
+  "805": [
+    {
+      "forma": "μίμνουσι",
+      "lema": "μίμνω",
+      "sentido": "permanecer",
+      "analise": "pres., ind., at., 3ª p.",
+      "morfologia_fonte": "v3ppia---",
+      "verso_treebank": 805,
+      "chave": "μιμνω"
+    }
+  ],
+  "807": [
+    {
+      "forma": "ἐπαμμένει",
+      "lema": "ἐπαμμένω",
+      "sentido": "aguardar",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 807,
+      "chave": "επαμμενω"
+    }
+  ],
+  "809": [
+    {
+      "forma": "βρέτη",
+      "lema": "βρέτας, βρέτεος, τό",
+      "sentido": "imagem de culto",
+      "analise": "ac., pl.",
+      "morfologia_fonte": "n-p---na-",
+      "verso_treebank": 809,
+      "chave": "βρετασ",
+      "lema_base": "βρέτας/βρέτεος",
+      "artigo": "τό",
+      "tipo": "nome"
+    }
+  ],
+  "811": [
+    {
+      "forma": "ἄιστοι",
+      "lema": "ἄιστος/-ον",
+      "sentido": "aniquilado, invisível",
+      "analise": "adj., nom., pl., masc.",
+      "morfologia_fonte": "a-p---mn-",
+      "verso_treebank": 811,
+      "chave": "αιστοσ",
+      "lema_base": "ἄιστος/ἄιστον"
+    }
+  ],
+  "816": [
+    {
+      "forma": "πέλανος",
+      "lema": "πέλανος, -ου, ὁ",
+      "sentido": "oferenda líquida",
+      "analise": "nom., sing.",
+      "morfologia_fonte": "n-s---mn-",
+      "verso_treebank": 816,
+      "chave": "πελανοσ",
+      "lema_base": "πέλανος/πελάνου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "819": [
+    {
+      "forma": "σημανοῦσιν",
+      "lema": "σημαίνω",
+      "sentido": "dar sinal",
+      "analise": "fut., ind., at., 3ª p.",
+      "morfologia_fonte": "v3pfia---",
+      "verso_treebank": 819,
+      "chave": "σημαινω"
+    }
+  ],
+  "820": [
+    {
+      "forma": "θνητὸν",
+      "lema": "θνητός/-ή/-όν",
+      "sentido": "mortal",
+      "analise": "adj., nom., sing., neut.",
+      "verso_treebank": 820,
+      "morfologia_fonte": "a-s---nn-",
+      "lema_base": "θνητός/θνητή/θνητόν"
+    }
+  ],
+  "822": [
+    {
+      "forma": "ἐξαμᾷ",
+      "lema": "ἐξαμάω",
+      "sentido": "ceifar",
+      "analise": "pres., ind., at., 3ª s.",
+      "morfologia_fonte": "v3spia---",
+      "verso_treebank": 822,
+      "chave": "εξαμαω"
+    }
+  ],
+  "823": [
+    {
+      "forma": "ὁρῶντες",
+      "lema": "ὁράω",
+      "sentido": "",
+      "analise": "part., pres., at., nom., pl., masc.",
+      "verso_treebank": 823,
+      "morfologia_fonte": "v-pppamn-",
+      "apoio_apenas_morfologico": true
+    },
+    {
+      "forma": "τἀπιτίμια",
+      "lema": "τὰ ἐπιτίμια",
+      "sentido": "",
+      "analise": "",
+      "tipo": "crase"
+    }
+  ],
+  "825": [
+    {
+      "forma": "ὑπερφρονήσας",
+      "lema": "ὑπερφρονέω",
+      "sentido": "pensar com soberba",
+      "analise": "part., aor., at., nom., sing., masc.",
+      "morfologia_fonte": "v-sapamn-",
+      "verso_treebank": 825,
+      "chave": "υπερφρονεω"
+    },
+    {
+      "forma": "παρόντα",
+      "lema": "πάρειμι",
+      "sentido": "estar presente",
+      "analise": "part., pres., at., ac., sing., masc.",
+      "verso_treebank": 825,
+      "morfologia_fonte": "v-sppama-"
+    }
+  ],
+  "830": [
+    {
+      "forma": "πινύσκετ᾽",
+      "lema": "πινύσκω",
+      "sentido": "tornar sensato",
+      "analise": "pres., imper., at., 2ª p.",
+      "morfologia_fonte": "v2ppma---",
+      "verso_treebank": 830,
+      "chave": "πινυσκω"
+    }
+  ],
+  "837": [
+    {
+      "forma": "πράυνον",
+      "lema": "πραΰνω",
+      "sentido": "acalmar",
+      "analise": "aor., imper., at., 2ª s.",
+      "morfologia_fonte": "v2sama---",
+      "verso_treebank": 837,
+      "chave": "πραυνω"
+    }
+  ],
+  "849": [
+    {
+      "forma": "εἶμι",
+      "lema": "εἶμι",
+      "sentido": "ir",
+      "analise": "pres., ind., at., 1ª s.",
+      "verso_treebank": 849,
+      "morfologia_fonte": "v1spia---"
+    }
+  ],
+  "858": [
+    {
+      "forma": "εὐδοκίμους",
+      "lema": "εὐδόκιμος/-ον",
+      "sentido": "glorioso",
+      "analise": "adj., ac., pl., fem.",
+      "morfologia_fonte": "a-p---fa-",
+      "verso_treebank": 858,
+      "chave": "ευδοκιμοσ",
+      "lema_base": "εὐδόκιμος/εὐδόκιμον"
+    }
+  ],
+  "873": [
+    {
+      "forma": "ἄιον",
+      "lema": "ἀίω",
+      "sentido": "ouvir",
+      "analise": "imperf., ind., at., 3ª p.",
+      "morfologia_fonte": "v3piia---",
+      "verso_treebank": 873,
+      "chave": "αιω"
+    }
+  ],
+  "878": [
+    {
+      "forma": "πρῶν᾽",
+      "lema": "πρών, πρωνός, ὁ",
+      "sentido": "promontório",
+      "analise": "ac., sing.",
+      "verso_treebank": 878,
+      "morfologia_fonte": "n-s---ma-",
+      "lema_base": "πρών/πρωνός",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "880": [
+    {
+      "forma": "περίκλυστοι",
+      "lema": "περίκλυστος/-ον",
+      "sentido": "cercado pelo mar",
+      "analise": "adj., nom., pl., fem.",
+      "morfologia_fonte": "a-p---fn-",
+      "verso_treebank": 880,
+      "chave": "περικλυστοσ",
+      "lema_base": "περίκλυστος/περίκλυστον"
+    }
+  ],
+  "942": [
+    {
+      "forma": "δύσθροον",
+      "lema": "δύσθρους/-ουν",
+      "sentido": "de som lamentoso",
+      "analise": "adj., ac., sing., fem.",
+      "morfologia_fonte": "a-s---fa-",
+      "verso_treebank": 942,
+      "chave": "δυσθρουσ",
+      "lema_base": "δύσθρους/δύσθρουν"
+    }
+  ],
+  "965": [
+    {
+      "forma": "στυφελοῦ",
+      "lema": "στυφελός/-ή/-όν",
+      "sentido": "duro, áspero",
+      "analise": "adj., gen., sing., fem.",
+      "morfologia_fonte": "a-s---fg-",
+      "verso_treebank": 965,
+      "chave": "στυφελοσ",
+      "lema_base": "στυφελός/στυφελή/στυφελόν"
+    }
+  ],
+  "966": [
+    {
+      "forma": "θείνοντας",
+      "lema": "θείνω",
+      "sentido": "golpear",
+      "analise": "part., pres., at., ac., pl., masc.",
+      "morfologia_fonte": "v-pppama-",
+      "verso_treebank": 966,
+      "chave": "θεινω"
+    }
+  ],
+  "984": [
+    {
+      "forma": "ἔλιπες",
+      "lema": "λείπω",
+      "sentido": "deixar, ficar atrás",
+      "analise": "aor., ind., at., 2ª s.",
+      "verso_treebank": 984,
+      "morfologia_fonte": "v2saia---"
+    }
+  ],
+  "1002": [
+    {
+      "forma": "ἀγρέται",
+      "lema": "ἀγρέτης, -ου, ὁ",
+      "sentido": "caçador, captor",
+      "analise": "nom., pl.",
+      "morfologia_fonte": "n-p---mn-",
+      "verso_treebank": 1002,
+      "chave": "αγρετησ",
+      "lema_base": "ἀγρέτης/ἀγρέτου",
+      "artigo": "ὁ",
+      "tipo": "nome"
+    }
+  ],
+  "1038": [
+    {
+      "forma": "δίαινε",
+      "lema": "διαίνω",
+      "sentido": "molhar de lágrimas",
+      "analise": "pres., imper., at., 2ª s.",
+      "morfologia_fonte": "v2spma---",
+      "verso_treebank": 1038,
+      "chave": "διαινω"
+    }
+  ],
+  "1040": [
+    {
+      "forma": "ἀντίδουπά",
+      "lema": "ἀντίδουπος/-ον",
+      "sentido": "que responde em eco",
+      "analise": "adj., ac. pl. neut.; uso adv.",
+      "morfologia_fonte": "a-p---nn-",
+      "verso_treebank": 1040,
+      "chave": "αντιδουποσ",
+      "lema_base": "ἀντίδουπος/ἀντίδουπον"
+    }
+  ],
+  "1046": [
+    {
+      "forma": "ἔρεσσε",
+      "lema": "ἐρέσσω",
+      "sentido": "remar; golpear",
+      "analise": "pres., imper., at., 2ª s.",
+      "morfologia_fonte": "v2spma---",
+      "verso_treebank": 1046,
+      "chave": "ερεσσω"
+    }
+  ],
+  "1057": [
+    {
+      "forma": "γοεδνά",
+      "lema": "γοερός/-ά/-όν",
+      "sentido": "lamentoso",
+      "analise": "adj., ac., pl., neut.",
+      "verso_treebank": 1057,
+      "morfologia_fonte": "a-p---na-",
+      "lema_base": "γοερός/γοερά/γοερόν"
+    }
+  ],
+  "1064": [
+    {
+      "forma": "διαίνου",
+      "lema": "διαίνω",
+      "sentido": "molhar de lágrimas",
+      "analise": "pres., imper., méd./pass., 2ª s.",
+      "verso_treebank": 1064,
+      "morfologia_fonte": "v2spme---"
+    }
+  ],
+  "101": [
+    {
+      "forma": "θεόθεν",
+      "lema": "θεόθεν",
+      "sentido": "por determinação divina",
+      "analise": "adv.",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    }
+  ],
+  "109": [
+    {
+      "forma": "πολιαι-",
+      "lema": "πολιαίνω",
+      "sentido": "embranquecer",
+      "analise": "part., pres., méd./pass., gen. sing. fem.; forma dórica",
+      "revisao_felipe": true,
+      "prioridade_editorial": true,
+      "forma_exibida": "πολιαινομένας"
+    }
+  ],
+  "113": [
+    {
+      "forma": "λα-",
+      "lema": "λαοπόρος/-ον",
+      "sentido": "que transporta homens",
+      "analise": "adj., dat. pl. fem.",
+      "revisao_felipe": true,
+      "prioridade_editorial": true,
+      "forma_exibida": "λαοπόροις",
+      "lema_base": "λαοπόρος/-ον"
+    }
+  ],
+  "137": [
+    {
+      "forma": "εὐνα-",
+      "lema": "εὐνατήρ, εὐνατῆρος, ὁ",
+      "sentido": "companheiro de leito",
+      "analise": "ac. sing.",
+      "revisao_felipe": true,
+      "prioridade_editorial": true,
+      "forma_exibida": "εὐνατῆρα"
+    }
+  ],
+  "143": [
+    {
+      "forma": "θώμεθα",
+      "lema": "τίθημι",
+      "sentido": "pôr",
+      "analise": "aor., subj., méd., 1ª p.; exortação: dediquemos; φροντίδα θέσθαι: ocupar-se de",
+      "revisao_felipe": true,
+      "prioridade_editorial": true,
+      "gramatica_obrigatoria": true
+    },
+    {
+      "forma": "χρεία",
+      "lema": "χρεία, -ας, ἡ",
+      "sentido": "necessidade",
+      "analise": "nom. sing.",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    },
+    {
+      "forma": "προσήκει",
+      "lema": "προσήκω",
+      "sentido": "incumbir, caber",
+      "analise": "pres., ind., at., 3ª s.; χρεία προσήκει: é necessário",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    }
+  ],
+  "157": [
+    {
+      "forma": "εὐνάτειρα",
+      "lema": "εὐνάτειρα, -ας, ἡ",
+      "sentido": "companheira de leito",
+      "analise": "nom. sing.",
+      "revisao_felipe": true,
+      "prioridade_editorial": true
+    }
+  ]
+}

@@ -1,0 +1,2924 @@
+{
+  "source": "G:\\Meu Drive\\bibliotheca-classica\\output\\pdf\\persas-integral_felipe.pdf",
+  "sha256": "b99559219d90602316ed6c8df82184b942d31c3b5fa928d0fc3e6d3ec4c96de5",
+  "reviewed_pages": [
+    1,
+    8
+  ],
+  "reviewed_verses": [
+    1,
+    158
+  ],
+  "annotation_count": 123,
+  "action_counts": {
+    "excluir": 16,
+    "incluir_ou_ampliar": 105,
+    "conferir_remissao_e_sentido": 1,
+    "explicar_valor_da_construcao": 1
+  },
+  "note": "Marcações registradas; este arquivo não modifica o PDF nem as notas compostas.",
+  "annotations": [
+    {
+      "id": 1,
+      "page": 1,
+      "subtype": "/Highlight",
+      "comment": "<Sentido muito básico da preposição; não precisa.>",
+      "selected_text": "ἐς+ac.=para",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          249.4117578900001,
+          444.091,
+          260.6197578900001
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 2,
+      "page": 1,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἤδη",
+      "verse_segments": [
+        {
+          "verse": 9,
+          "marked": "ἤδη",
+          "text": "καὶ πολυχρύσου στρατιᾶς ἤδη"
+        }
+      ],
+      "quads_top_left": [
+        [
+          211.644,
+          467.59375789000006,
+          233.233,
+          485.02875789000007
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 3,
+      "page": 1,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "βαΰζει",
+      "verse_segments": [
+        {
+          "verse": 13,
+          "marked": "βαΰζει",
+          "text": "ᾤχωκε, νέον δ᾽ ἄνδρα βαΰζει,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          190.662,
+          595.11575789,
+          227.58,
+          612.5507578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 4,
+      "page": 2,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "παρέχοντες",
+      "verse_segments": [
+        {
+          "verse": 20,
+          "marked": "παρέχοντες",
+          "text": "πολέμου στῖφος παρέχοντες:"
+        }
+      ],
+      "quads_top_left": [
+        [
+          323.168,
+          163.47575789000007,
+          388.2,
+          180.91075789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 5,
+      "page": 2,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "σοῦνται",
+      "verse_segments": [
+        {
+          "verse": 25,
+          "marked": "σοῦνται",
+          "text": "σοῦνται, στρατιᾶς πολλῆς ἔφοροι,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          322.8777578900001,
+          274.624,
+          340.31275789000006
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 6,
+      "page": 2,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "εὐτλήμονι",
+      "verse_segments": [
+        {
+          "verse": 28,
+          "marked": "εὐτλήμονι",
+          "text": "ψυχῆς εὐτλήμονι δόξῃ:"
+        }
+      ],
+      "quads_top_left": [
+        [
+          268.76,
+          418.51975789000005,
+          327.859,
+          435.9537578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 7,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἁβροδιαίτων",
+      "verse_segments": [
+        {
+          "verse": 41,
+          "marked": "ἁβροδιαίτων",
+          "text": "ἁβροδιαίτων δ᾽ ἕπεται Λυδῶν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          195.35575789000006,
+          137.695,
+          212.79075789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 8,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "δίρρυμά",
+      "verse_segments": [
+        {
+          "verse": 47,
+          "marked": "δίρρυμά",
+          "text": "δίρρυμά τε καὶ τρίρρυμα τέλη,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          386.6387578900001,
+          111.13,
+          404.0737578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 9,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τρίρρυμα",
+      "verse_segments": [
+        {
+          "verse": 47,
+          "marked": "τρίρρυμα",
+          "text": "δίρρυμά τε καὶ τρίρρυμα τέλη,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          150.77,
+          386.6387578900001,
+          202.543,
+          404.0737578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 10,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τέλη,",
+      "verse_segments": [
+        {
+          "verse": 47,
+          "marked": "τέλη,",
+          "text": "δίρρυμά τε καὶ τρίρρυμα τέλη,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          205.611,
+          386.6387578900001,
+          235.294,
+          404.0737578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 11,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "φοβερὰν←φοβερός/-ά/-όν(terrível);adj.,ac.,\nsing.,fem.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          423.50075789000005,
+          565.056,
+          434.7087578900001
+        ],
+        [
+          394.016,
+          435.45575789000003,
+          431.494,
+          446.66375789000006
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 12,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "ὄψιν←ὄψις,ὄψεως,ἡ(aspecto,visão);ac.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          447.41075789000007,
+          567.613,
+          458.61875789000004
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 13,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "στεῦται",
+      "verse_segments": [
+        {
+          "verse": 49,
+          "marked": "στεῦται",
+          "text": "στεῦται δ᾽ ἱεροῦ Τμώλου πελάτης"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          450.39975789000005,
+          108.057,
+          467.83475789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 14,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πελάτης",
+      "verse_segments": [
+        {
+          "verse": 49,
+          "marked": "πελάτης",
+          "text": "στεῦται δ᾽ ἱεροῦ Τμώλου πελάτης"
+        }
+      ],
+      "quads_top_left": [
+        [
+          206.413,
+          450.39975789000005,
+          253.272,
+          467.83475789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 15,
+      "page": 3,
+      "subtype": "/StrikeOut",
+      "comment": "<cortar porque já foi dado antes, e aqui a forma não é especial>",
+      "selected_text": "ὄχλον←ὄχλος,-ου,ὁ;ac.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          630.7237578900001,
+          510.928,
+          641.9317578900001
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 16,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "σύρδην,",
+      "verse_segments": [
+        {
+          "verse": 54,
+          "marked": "σύρδην,",
+          "text": "πέμπει σύρδην, ναῶν τ᾽ ἐπόχους"
+        }
+      ],
+      "quads_top_left": [
+        [
+          106.33,
+          609.8017578900001,
+          151.169,
+          627.23675789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 17,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τοξουλκῷ",
+      "verse_segments": [
+        {
+          "verse": 55,
+          "marked": "τοξουλκῷ",
+          "text": "καὶ τοξουλκῷ λήματι πιστούς:"
+        }
+      ],
+      "quads_top_left": [
+        [
+          86.8298,
+          641.6827578900001,
+          143.495,
+          659.11675789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 18,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "λήματι",
+      "verse_segments": [
+        {
+          "verse": 55,
+          "marked": "λήματι",
+          "text": "καὶ τοξουλκῷ λήματι πιστούς:"
+        }
+      ],
+      "quads_top_left": [
+        [
+          146.564,
+          641.6827578900001,
+          185.939,
+          659.11675789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 19,
+      "page": 3,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "ἔθνος←ἔθνος,-ους,τό(povo);nom.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          702.4547578900001,
+          549.063,
+          713.6627578900001
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 20,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "<básico ou já dado>",
+      "selected_text": "ἄνθος←ἄνθος,-ους,τό(flor);nom.,sing.\nαἴας←αἶα,-ας,ἡ;gen.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          48.0522,
+          136.57675789000007,
+          201.256,
+          147.78475789000004
+        ],
+        [
+          94.3945,
+          148.5317578900001,
+          201.253,
+          159.73975789000008
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 21,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πόθῳ",
+      "verse_segments": [
+        {
+          "verse": 62,
+          "marked": "πόθῳ",
+          "text": "θρέψασα πόθῳ στένεται μαλερῷ,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          282.439,
+          227.23675789000004,
+          313.467,
+          244.6717578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 22,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τοκέες",
+      "verse_segments": [
+        {
+          "verse": 63,
+          "marked": "τοκέες",
+          "text": "τοκέες τ᾽ ἄλοχοί θ᾽ ἡμερολεγδὸν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          259.11675789000003,
+          266.908,
+          276.5517578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 23,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἄλοχοί",
+      "verse_segments": [
+        {
+          "verse": 63,
+          "marked": "ἄλοχοί",
+          "text": "τοκέες τ᾽ ἄλοχοί θ᾽ ἡμερολεγδὸν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          281.654,
+          259.11675789000003,
+          320.462,
+          276.5517578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 24,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἡμερολεγδὸν",
+      "verse_segments": [
+        {
+          "verse": 63,
+          "marked": "ἡμερολεγδὸν",
+          "text": "τοκέες τ᾽ ἄλοχοί θ᾽ ἡμερολεγδὸν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          336.174,
+          259.11675789000003,
+          410.742,
+          276.5517578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 25,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τείνοντα",
+      "verse_segments": [
+        {
+          "verse": 64,
+          "marked": "τείνοντα",
+          "text": "τείνοντα χρόνον τρομέονται."
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          290.99775789,
+          279.347,
+          308.4317578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 26,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τρομέονται.",
+      "verse_segments": [
+        {
+          "verse": 64,
+          "marked": "τρομέονται.",
+          "text": "τείνοντα χρόνον τρομέονται."
+        }
+      ],
+      "quads_top_left": [
+        [
+          326.712,
+          290.99775789,
+          393.759,
+          308.4317578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 27,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πορ-",
+      "verse_segments": [
+        {
+          "verse": 68,
+          "marked": "πορ-",
+          "text": "λινοδέσμῳ σχεδίᾳ πορ-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          334.217,
+          424.18875789000003,
+          359.871,
+          441.62375789000004
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 28,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "θμὸνἀμείψας",
+      "verse_segments": [
+        {
+          "verse": 69,
+          "marked": "θμὸνἀμείψας",
+          "text": "θμὸν ἀμείψας"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          456.06875789000003,
+          307.923,
+          473.50375789000003
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 29,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πολύγομφον",
+      "verse_segments": [
+        {
+          "verse": 71,
+          "marked": "πολύγομφον",
+          "text": "πολύγομφον ὅδισμα"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          519.8297578900001,
+          301.83,
+          537.26475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 30,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ποιμα-",
+      "verse_segments": [
+        {
+          "verse": 74,
+          "marked": "ποιμα-",
+          "text": "ἐπὶ πᾶσαν χθόνα ποιμα-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          326.581,
+          621.14075789,
+          364.535,
+          638.57475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 31,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "νόριον",
+      "verse_segments": [
+        {
+          "verse": 75,
+          "marked": "νόριον",
+          "text": "νόριον θεῖον ἐλαύνει"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          653.02075789,
+          268.304,
+          670.4557578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 32,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "διχόθεν,",
+      "verse_segments": [
+        {
+          "verse": 76,
+          "marked": "διχόθεν,",
+          "text": "διχόθεν, πεζονόμον τ᾽ ἔκ"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          684.90175789,
+          276.567,
+          702.3357578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 33,
+      "page": 4,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πεζονόμον",
+      "verse_segments": [
+        {
+          "verse": 76,
+          "marked": "πεζονόμον",
+          "text": "διχόθεν, πεζονόμον τ᾽ ἔκ"
+        }
+      ],
+      "quads_top_left": [
+        [
+          279.635,
+          684.90175789,
+          340.467,
+          702.3357578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 34,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἐχυροῖσι",
+      "verse_segments": [
+        {
+          "verse": 78,
+          "marked": "ἐχυροῖσι",
+          "text": "ἐχυροῖσι πεποιθὼς"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          99.7147578900001,
+          113.446,
+          117.14975789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 35,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "γενεᾶς",
+      "verse_segments": [
+        {
+          "verse": 80,
+          "marked": "γενεᾶς",
+          "text": "σογόνου γενεᾶς ἰσόθεος φώς."
+        }
+      ],
+      "quads_top_left": [
+        [
+          116.158,
+          163.47575789000007,
+          154.225,
+          180.91075789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 36,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "κυανοῦν",
+      "verse_segments": [
+        {
+          "verse": 81,
+          "marked": "κυανοῦν",
+          "text": "κυανοῦν δ᾽ ὄμμασι λεύσσων"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          199.65475789000004,
+          114.924,
+          217.0897578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 37,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "φονίου",
+      "verse_segments": [
+        {
+          "verse": 82,
+          "marked": "φονίου",
+          "text": "φονίου δέργμα δράκοντος,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          231.53575789,
+          106.129,
+          248.9697578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 38,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "δέργμα",
+      "verse_segments": [
+        {
+          "verse": 82,
+          "marked": "δέργμα",
+          "text": "φονίου δέργμα δράκοντος,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          109.198,
+          231.53575789,
+          149.632,
+          248.9697578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 39,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "δόκιμος",
+      "verse_segments": [
+        {
+          "verse": 87,
+          "marked": "δόκιμος",
+          "text": "δόκιμος δ᾽ οὔτις ὑποστὰς"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          395.23575789000006,
+          110.24,
+          412.67075789000006
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 40,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ῥεύματι",
+      "verse_segments": [
+        {
+          "verse": 88,
+          "marked": "ῥεύματι",
+          "text": "μεγάλῳ ῥεύματι φωτῶν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          112.493,
+          427.11675789000003,
+          156.872,
+          444.55075789000006
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 41,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἐχυροῖς",
+      "verse_segments": [
+        {
+          "verse": 89,
+          "marked": "ἐχυροῖς",
+          "text": "ἐχυροῖς ἕρκεσιν εἴργειν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          458.9967578900001,
+          108.359,
+          476.43175789000003
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 42,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "λαός←λαός,-οῦ,ὁ(povo,tropa);nom.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          583.52975789,
+          556.611,
+          594.73775789
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 43,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "δολόμητιν",
+      "verse_segments": [
+        {
+          "verse": 93,
+          "marked": "δολόμητιν",
+          "text": "δολόμητιν δ᾽ ἀπάταν θεοῦ"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          590.81775789,
+          124.516,
+          608.25175789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 44,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἀπάταν",
+      "verse_segments": [
+        {
+          "verse": 93,
+          "marked": "ἀπάταν",
+          "text": "δολόμητιν δ᾽ ἀπάταν θεοῦ"
+        }
+      ],
+      "quads_top_left": [
+        [
+          139.95,
+          590.81775789,
+          181.941,
+          608.25175789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 45,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "κραιπνῷ",
+      "verse_segments": [
+        {
+          "verse": 95,
+          "marked": "κραιπνῷ",
+          "text": "τίς ὁ κραιπνῷ ποδὶ πήδη-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          94.094,
+          654.57775789,
+          143.523,
+          672.0127578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 46,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πήδη-",
+      "verse_segments": [
+        {
+          "verse": 95,
+          "marked": "πήδη-",
+          "text": "τίς ὁ κραιπνῷ ποδὶ πήδη-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          174.61,
+          654.57775789,
+          208.241,
+          672.0127578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 47,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "μα",
+      "verse_segments": [
+        {
+          "verse": 96,
+          "marked": "μα",
+          "text": "μα τόδ᾽ εὐπετῶς ἀνᾴσσων;"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          686.45875789,
+          80.0512,
+          703.89275789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 48,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "εὐπετῶς",
+      "verse_segments": [
+        {
+          "verse": 96,
+          "marked": "εὐπετῶς",
+          "text": "μα τόδ᾽ εὐπετῶς ἀνᾴσσων;"
+        }
+      ],
+      "quads_top_left": [
+        [
+          108.221,
+          686.45875789,
+          155.861,
+          703.89275789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 49,
+      "page": 5,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "παρασαίνει",
+      "verse_segments": [
+        {
+          "verse": 97,
+          "marked": "παρασαίνει",
+          "text": "φιλόφρων γὰρ παρασαίνει"
+        }
+      ],
+      "quads_top_left": [
+        [
+          151.095,
+          722.6377578900001,
+          213.91,
+          740.07275789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 50,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τόθεν",
+      "verse_segments": [
+        {
+          "verse": 99,
+          "marked": "τόθεν",
+          "text": "τόθεν οὐκ ἔστιν ὕπερθέν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          131.59575789000007,
+          262.263,
+          149.02975789000004
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 51,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ὕπερθέν",
+      "verse_segments": [
+        {
+          "verse": 99,
+          "marked": "ὕπερθέν",
+          "text": "τόθεν οὐκ ἔστιν ὕπερθέν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          321.887,
+          131.59575789000007,
+          368.769,
+          149.02975789000004
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 52,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "νιν",
+      "verse_segments": [
+        {
+          "verse": 100,
+          "marked": "νιν",
+          "text": "νιν ἄνατον ἐξαλύξαι."
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          163.47575789000007,
+          247.55,
+          180.91075789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 53,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἄνατον",
+      "verse_segments": [
+        {
+          "verse": 100,
+          "marked": "ἄνατον",
+          "text": "νιν ἄνατον ἐξαλύξαι."
+        }
+      ],
+      "quads_top_left": [
+        [
+          250.619,
+          163.47575789000007,
+          291.829,
+          180.91075789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 54,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "θεόθεν",
+      "verse_segments": [
+        {
+          "verse": 101,
+          "marked": "θεόθεν",
+          "text": "θεόθεν γὰρ κατὰ Μοῖρ᾽"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          195.35575789000006,
+          269.31,
+          212.79075789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 55,
+      "page": 6,
+      "subtype": "/StrikeOut",
+      "comment": "",
+      "selected_text": "όν←παλαιός/-ά/-όν(antigo);adj.,ac.,sing.,\nneut.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          38.0,
+          264.09875789,
+          201.254,
+          275.3067578900001
+        ],
+        [
+          182.281,
+          276.05375789000004,
+          201.26,
+          287.26175789
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 56,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πυργοδαΐκτους",
+      "verse_segments": [
+        {
+          "verse": 104,
+          "marked": "πυργοδαΐκτους",
+          "text": "πολέμους πυργοδαΐκτους"
+        }
+      ],
+      "quads_top_left": [
+        [
+          287.464,
+          290.99775789,
+          372.629,
+          308.4317578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 57,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "<Qual é o sentido? Já foi dado antes?>",
+      "selected_text": "ἱππιοχάρμας←ἱππιοχάρμης,-ου,ὁ;nom.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          25.6713,
+          339.81475789000007,
+          201.25,
+          351.02275789000004
+        ]
+      ],
+      "action": "conferir_remissao_e_sentido",
+      "status": "registrado_para_revisao",
+      "editorial_check": {
+        "previous_printed_gloss": {
+          "verse": 29,
+          "page": 2,
+          "meaning": "combatente a cavalo"
+        },
+        "current_verse": 105,
+        "problem": "A análise nominal no nominativo singular confunde dois empregos do lema.",
+        "required_revision": "adj., ac. pl. masc., concordando com κλόνους; de combate a cavalo",
+        "evidence": "fontes/estudo-lexical/lsj-target.json: ἱππιοχάρμης, II"
+      }
+    },
+    {
+      "id": 58,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "κλόνους",
+      "verse_segments": [
+        {
+          "verse": 106,
+          "marked": "κλόνους",
+          "text": "τε κλόνους"
+        }
+      ],
+      "quads_top_left": [
+        [
+          244.546,
+          354.7587578900001,
+          292.523,
+          372.19275789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 59,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἀναστάσεις.",
+      "verse_segments": [
+        {
+          "verse": 107,
+          "marked": "ἀναστάσεις.",
+          "text": "πόλεών τ᾽ ἀναστάσεις."
+        }
+      ],
+      "quads_top_left": [
+        [
+          288.602,
+          386.6387578900001,
+          355.129,
+          404.0737578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 60,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἔμαθον",
+      "verse_segments": [
+        {
+          "verse": 108,
+          "marked": "ἔμαθον",
+          "text": "ἔμαθον δ᾽ εὐρυπόροι-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          424.18875789000003,
+          271.187,
+          441.62375789000004
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 61,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "εὐρυπόροι-\nο",
+      "verse_segments": [
+        {
+          "verse": 108,
+          "marked": "εὐρυπόροι-",
+          "text": "ἔμαθον δ᾽ εὐρυπόροι-"
+        },
+        {
+          "verse": 109,
+          "marked": "ο",
+          "text": "ο θαλάσσας πολιαι-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          286.62,
+          424.18875789000003,
+          350.036,
+          441.62375789000004
+        ],
+        [
+          229.606,
+          456.06875789000003,
+          236.552,
+          473.50375789000003
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 62,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πολιαι-",
+      "verse_segments": [
+        {
+          "verse": 109,
+          "marked": "πολιαι-",
+          "text": "ο θαλάσσας πολιαι-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          297.576,
+          456.06875789000003,
+          339.284,
+          473.50375789000003
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 63,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "νομένας",
+      "verse_segments": [
+        {
+          "verse": 110,
+          "marked": "νομένας",
+          "text": "νομένας πνεύματι λάβρῳ"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          487.94975789000006,
+          276.934,
+          505.3837578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 64,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "λάβρῳ",
+      "verse_segments": [
+        {
+          "verse": 110,
+          "marked": "λάβρῳ",
+          "text": "νομένας πνεύματι λάβρῳ"
+        }
+      ],
+      "quads_top_left": [
+        [
+          334.998,
+          487.94975789000006,
+          372.878,
+          505.3837578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 65,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἄλσος,",
+      "verse_segments": [
+        {
+          "verse": 111,
+          "marked": "ἄλσος,",
+          "text": "ἐσορᾶν πόντιον ἄλσος,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          321.406,
+          519.8297578900001,
+          358.485,
+          537.26475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 66,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πίσυνοι",
+      "verse_segments": [
+        {
+          "verse": 112,
+          "marked": "πίσυνοι",
+          "text": "πίσυνοι λεπτοδόμοις πεί-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          551.7107578900001,
+          272.96,
+          569.14475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 67,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πεί-",
+      "verse_segments": [
+        {
+          "verse": 112,
+          "marked": "πεί-",
+          "text": "πίσυνοι λεπτοδόμοις πεί-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          350.342,
+          551.7107578900001,
+          372.367,
+          569.14475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 68,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "σμασι",
+      "verse_segments": [
+        {
+          "verse": 113,
+          "marked": "σμασι",
+          "text": "σμασι λα-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          583.5907578900001,
+          261.643,
+          601.02575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 69,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "λεπτοδόμοις",
+      "verse_segments": [
+        {
+          "verse": 112,
+          "marked": "λεπτοδόμοις",
+          "text": "πίσυνοι λεπτοδόμοις πεί-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          276.029,
+          551.7107578900001,
+          347.274,
+          569.14475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 70,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "λα-",
+      "verse_segments": [
+        {
+          "verse": 113,
+          "marked": "λα-",
+          "text": "σμασι λα-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          264.711,
+          583.5907578900001,
+          284.114,
+          601.02575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 71,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "οπόροις",
+      "verse_segments": [
+        {
+          "verse": 114,
+          "marked": "οπόροις",
+          "text": "οπόροις τε μαχαναῖς."
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          615.47175789,
+          274.267,
+          632.90575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 72,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "μελαγχίτων",
+      "verse_segments": [
+        {
+          "verse": 115,
+          "marked": "μελαγχίτων",
+          "text": "ταῦτά μοι μελαγχίτων"
+        }
+      ],
+      "quads_top_left": [
+        [
+          287.65,
+          653.02075789,
+          355.997,
+          670.4557578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 73,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "φρὴν←φρήν,φρενός,ἡ(mente,coração);nom.,\nsing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          27.2474,
+          689.88275789,
+          201.258,
+          701.0907578900001
+        ],
+        [
+          183.993,
+          701.83775789,
+          201.26,
+          713.04575789
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 74,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "φόβῳ←φόβος,-ου,ὁ(medo);dat.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          54.1203,
+          713.7927578900001,
+          201.256,
+          725.00075789
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 75,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἀμύσσεται",
+      "verse_segments": [
+        {
+          "verse": 116,
+          "marked": "ἀμύσσεται",
+          "text": "φρὴν ἀμύσσεται φόβῳ,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          262.777,
+          684.90175789,
+          321.165,
+          702.3357578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 76,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ὀᾶ",
+      "verse_segments": [
+        {
+          "verse": 117,
+          "marked": "ὀᾶ",
+          "text": "ὀᾶ, Περσικοῦ στρατεύματος"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          716.7817578900001,
+          243.88,
+          734.21675789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 77,
+      "page": 6,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "στρατεύματος",
+      "verse_segments": [
+        {
+          "verse": 117,
+          "marked": "στρατεύματος",
+          "text": "ὀᾶ, Περσικοῦ στρατεύματος"
+        }
+      ],
+      "quads_top_left": [
+        [
+          306.334,
+          716.7817578900001,
+          384.552,
+          734.21675789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 78,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "μὴ",
+      "verse_segments": [
+        {
+          "verse": 118,
+          "marked": "μὴ",
+          "text": "τοῦδε, μὴ πόλις πύθη-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          103.838,
+          99.7147578900001,
+          118.815,
+          117.14975789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 79,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πύθη-",
+      "verse_segments": [
+        {
+          "verse": 118,
+          "marked": "πύθη-",
+          "text": "τοῦδε, μὴ πόλις πύθη-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          156.22,
+          99.7147578900001,
+          189.761,
+          117.14975789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 80,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ται",
+      "verse_segments": [
+        {
+          "verse": 119,
+          "marked": "ται",
+          "text": "ται κένανδρον μέγ᾽ ἄστυ Σουσίδος,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          131.59575789000007,
+          82.4295,
+          149.02975789000004
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 81,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πόλισμ᾽",
+      "verse_segments": [
+        {
+          "verse": 120,
+          "marked": "πόλισμ᾽",
+          "text": "καὶ τὸ Κισσίων πόλισμ᾽"
+        }
+      ],
+      "quads_top_left": [
+        [
+          151.849,
+          169.14475789000005,
+          194.224,
+          186.5797578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 82,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ᾄσεται,",
+      "verse_segments": [
+        {
+          "verse": 121,
+          "marked": "ᾄσεται,",
+          "text": "ἀντίδουπον ᾄσεται,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          134.738,
+          201.02575789000002,
+          174.758,
+          218.4597578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 83,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "γυναικοπλη-",
+      "verse_segments": [
+        {
+          "verse": 122,
+          "marked": "γυναικοπλη-",
+          "text": "ὀᾶ, τοῦτ᾽ ἔπος γυναικοπλη-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          146.158,
+          232.90575789000002,
+          219.125,
+          250.34075789000008
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 84,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "θὴς",
+      "verse_segments": [
+        {
+          "verse": 123,
+          "marked": "θὴς",
+          "text": "θὴς ὅμιλος ἀπύων,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          264.7867578900001,
+          85.315,
+          282.2207578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 85,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ὅμιλος",
+      "verse_segments": [
+        {
+          "verse": 123,
+          "marked": "ὅμιλος",
+          "text": "θὴς ὅμιλος ἀπύων,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          88.3835,
+          264.7867578900001,
+          126.851,
+          282.2207578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 86,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "βυσσίνοις",
+      "verse_segments": [
+        {
+          "verse": 125,
+          "marked": "βυσσίνοις",
+          "text": "βυσσίνοις δ᾽ ἐν πέπλοις πέσῃ λακίς."
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          296.6667578900001,
+          120.194,
+          314.10175789000004
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 87,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "πέπλοις←πέπλος,-ου,ὁ(veste);dat.,pl.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          313.6037578900001,
+          543.94,
+          324.8117578900001
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 88,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "<Para subjuntivo e optativo, precisa ajudar com o sentido do modo/tempo do verbo, com ou sem an, por exemplo.>",
+      "selected_text": "subj.,",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          489.86,
+          325.55875789000004,
+          509.053,
+          336.76675789000006
+        ]
+      ],
+      "action": "explicar_valor_da_construcao",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 89,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἱππηλάτας",
+      "verse_segments": [
+        {
+          "verse": 126,
+          "marked": "ἱππηλάτας",
+          "text": "πᾶς γὰρ ἱππηλάτας"
+        }
+      ],
+      "quads_top_left": [
+        [
+          111.775,
+          334.21675789000005,
+          171.129,
+          351.6507578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 90,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "σμῆνος",
+      "verse_segments": [
+        {
+          "verse": 128,
+          "marked": "σμῆνος",
+          "text": "σμῆνος ὣς ἐκλέλοιπεν μελισ-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          397.9777578900001,
+          106.577,
+          415.41175789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 91,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἐκλέλοιπεν",
+      "verse_segments": [
+        {
+          "verse": 128,
+          "marked": "ἐκλέλοιπεν",
+          "text": "σμῆνος ὣς ἐκλέλοιπεν μελισ-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          128.187,
+          397.9777578900001,
+          193.018,
+          415.41175789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 92,
+      "page": 7,
+      "subtype": "/StrikeOut",
+      "comment": "",
+      "selected_text": "στρατοῦ←στρατός,-οῦ,ὁ;gen.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          394.016,
+          446.79475789,
+          532.576,
+          458.00275789000005
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 93,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἀμφίζευκτον",
+      "verse_segments": [
+        {
+          "verse": 130,
+          "marked": "ἀμφίζευκτον",
+          "text": "τὸν ἀμφίζευκτον ἐξαμείψας"
+        }
+      ],
+      "quads_top_left": [
+        [
+          87.9456,
+          461.73875789000004,
+          161.149,
+          479.17275789000007
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 94,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "λέκτρα",
+      "verse_segments": [
+        {
+          "verse": 133,
+          "marked": "λέκτρα",
+          "text": "λέκτρα δ᾽ ἀνδρῶν πόθῳ"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          563.04875789,
+          105.282,
+          580.4837578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 95,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἑκά-",
+      "verse_segments": [
+        {
+          "verse": 135,
+          "marked": "ἑκά-",
+          "text": "Περσίδες δ᾽ ἁβροπενθεῖς ἑκά-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          204.553,
+          626.80975789,
+          229.574,
+          644.2447578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 96,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "στα",
+      "verse_segments": [
+        {
+          "verse": 136,
+          "marked": "στα",
+          "text": "στα πόθῳ φιλάνορι"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          658.69075789,
+          84.9902,
+          676.1247578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 97,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "φιλάνορι",
+      "verse_segments": [
+        {
+          "verse": 136,
+          "marked": "φιλάνορι",
+          "text": "στα πόθῳ φιλάνορι"
+        }
+      ],
+      "quads_top_left": [
+        [
+          122.155,
+          658.69075789,
+          174.682,
+          676.1247578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 98,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "εὐνα-",
+      "verse_segments": [
+        {
+          "verse": 137,
+          "marked": "εὐνα-",
+          "text": "τὸν αἰχμάεντα θοῦρον εὐνα-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          194.45,
+          690.5707578900001,
+          226.513,
+          708.00575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 99,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "τῆρ᾽",
+      "verse_segments": [
+        {
+          "verse": 138,
+          "marked": "τῆρ᾽",
+          "text": "τῆρ᾽ ἀποπεμψαμένα"
+        }
+      ],
+      "quads_top_left": [
+        [
+          65.1968,
+          722.4507578900001,
+          87.9232,
+          739.88575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 100,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἀποπεμψαμένα",
+      "verse_segments": [
+        {
+          "verse": 138,
+          "marked": "ἀποπεμψαμένα",
+          "text": "τῆρ᾽ ἀποπεμψαμένα"
+        }
+      ],
+      "quads_top_left": [
+        [
+          90.9916,
+          722.4507578900001,
+          177.691,
+          739.88575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 101,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "αἰχμάεντα",
+      "verse_segments": [
+        {
+          "verse": 137,
+          "marked": "αἰχμάεντα",
+          "text": "τὸν αἰχμάεντα θοῦρον εὐνα-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          87.9456,
+          690.5707578900001,
+          146.762,
+          708.00575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 102,
+      "page": 7,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "θοῦρον",
+      "verse_segments": [
+        {
+          "verse": 137,
+          "marked": "θοῦρον",
+          "text": "τὸν αἰχμάεντα θοῦρον εὐνα-"
+        }
+      ],
+      "quads_top_left": [
+        [
+          149.83,
+          690.5707578900001,
+          191.382,
+          708.00575789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 103,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "μονόζυξ.",
+      "verse_segments": [
+        {
+          "verse": 139,
+          "marked": "μονόζυξ.",
+          "text": "λείπεται μονόζυξ."
+        }
+      ],
+      "quads_top_left": [
+        [
+          280.479,
+          99.7147578900001,
+          330.476,
+          117.14975789000005
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 104,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "στέγος",
+      "verse_segments": [
+        {
+          "verse": 141,
+          "marked": "στέγος",
+          "text": "στέγος ἀρχαῖον,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          169.14475789000005,
+          267.292,
+          186.5797578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 105,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "θώμεθα,",
+      "verse_segments": [
+        {
+          "verse": 143,
+          "marked": "θώμεθα,",
+          "text": "θώμεθα, χρεία δὲ προσήκει,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          232.90575789000002,
+          277.232,
+          250.34075789000008
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 106,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "χρεία",
+      "verse_segments": [
+        {
+          "verse": 143,
+          "marked": "χρεία",
+          "text": "θώμεθα, χρεία δὲ προσήκει,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          280.301,
+          232.90575789000002,
+          311.062,
+          250.34075789000008
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 107,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "προσήκει,",
+      "verse_segments": [
+        {
+          "verse": 143,
+          "marked": "προσήκει,",
+          "text": "θώμεθα, χρεία δὲ προσήκει,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          329.758,
+          232.90575789000002,
+          385.139,
+          250.34075789000008
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 108,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "πράσσει",
+      "verse_segments": [
+        {
+          "verse": 144,
+          "marked": "πράσσει",
+          "text": "πῶς ἄρα πράσσει Ξέρξης βασιλεὺς"
+        }
+      ],
+      "quads_top_left": [
+        [
+          279.673,
+          264.7867578900001,
+          324.063,
+          282.2207578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 109,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἄρα",
+      "verse_segments": [
+        {
+          "verse": 144,
+          "marked": "ἄρα",
+          "text": "πῶς ἄρα πράσσει Ξέρξης βασιλεὺς"
+        }
+      ],
+      "quads_top_left": [
+        [
+          255.491,
+          264.7867578900001,
+          276.605,
+          282.2207578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 110,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "δορικράνου",
+      "verse_segments": [
+        {
+          "verse": 148,
+          "marked": "δορικράνου",
+          "text": "ἢ δορικράνου"
+        }
+      ],
+      "quads_top_left": [
+        [
+          240.126,
+          392.30775789000006,
+          306.769,
+          409.74275789000006
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 111,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "κεκράτηκεν.",
+      "verse_segments": [
+        {
+          "verse": 149,
+          "marked": "κεκράτηκεν.",
+          "text": "λόγχης ἰσχὺς κεκράτηκεν."
+        }
+      ],
+      "quads_top_left": [
+        [
+          306.706,
+          424.18875789000003,
+          377.331,
+          441.62375789000004
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 112,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἥδε",
+      "verse_segments": [
+        {
+          "verse": 150,
+          "marked": "ἥδε",
+          "text": "ἀλλ᾽ ἥδε θεῶν ἴσον ὀφθαλμοῖς"
+        }
+      ],
+      "quads_top_left": [
+        [
+          257.362,
+          456.06875789000003,
+          277.371,
+          473.50375789000003
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 113,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "προσφθόγγοις",
+      "verse_segments": [
+        {
+          "verse": 153,
+          "marked": "προσφθόγγοις",
+          "text": "καὶ προσφθόγγοις δὲ χρεὼν αὐτὴν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          251.239,
+          551.7107578900001,
+          331.64,
+          569.14475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 114,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "χρεὼν",
+      "verse_segments": [
+        {
+          "verse": 153,
+          "marked": "χρεὼν",
+          "text": "καὶ προσφθόγγοις δὲ χρεὼν αὐτὴν"
+        }
+      ],
+      "quads_top_left": [
+        [
+          350.335,
+          551.7107578900001,
+          386.372,
+          569.14475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 115,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "ἄνασσα←ἄνασσα,-ης,ἡ(senhora,rainha);voc.,\nsing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          27.1423,
+          626.12175789,
+          201.258,
+          637.3297578900001
+        ],
+        [
+          183.993,
+          638.0767578900001,
+          201.26,
+          649.28475789
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 116,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ὑπερτάτη,",
+      "verse_segments": [
+        {
+          "verse": 155,
+          "marked": "ὑπερτάτη,",
+          "text": "ὦ βαθυζώνων ἄνασσα Περσίδων ὑπερτάτη,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          416.499,
+          621.14075789,
+          472.877,
+          638.57475789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 117,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "μῆτερ←μήτηρ,μητρός,ἡ;voc.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          65.3282,
+          658.0027578900001,
+          201.251,
+          669.2107578900001
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 118,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "<básico>",
+      "selected_text": "γεραιά←γεραιός/-ά/-όν(velho);adj.,voc.,\nsing.,fem.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          42.8554,
+          669.95775789,
+          201.256,
+          681.1657578900001
+        ],
+        [
+          163.779,
+          681.9127578900001,
+          201.258,
+          693.12075789
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 119,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "εὐνάτειρα",
+      "verse_segments": [
+        {
+          "verse": 157,
+          "marked": "εὐνάτειρα",
+          "text": "θεοῦ μὲν εὐνάτειρα Περσῶν, θεοῦ δὲ καὶ μήτηρ ἔφυς,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          283.089,
+          684.90175789,
+          340.223,
+          702.3357578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 120,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "ἔφυς,",
+      "verse_segments": [
+        {
+          "verse": 157,
+          "marked": "ἔφυς,",
+          "text": "θεοῦ μὲν εὐνάτειρα Περσῶν, θεοῦ δὲ καὶ μήτηρ ἔφυς,"
+        }
+      ],
+      "quads_top_left": [
+        [
+          499.151,
+          684.90175789,
+          529.9,
+          702.3357578900001
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 121,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "μεθέστηκε",
+      "verse_segments": [
+        {
+          "verse": 158,
+          "marked": "μεθέστηκε",
+          "text": "εἴ τι μὴ δαίμων παλαιὸς νῦν μεθέστηκε στρατῷ."
+        }
+      ],
+      "quads_top_left": [
+        [
+          392.845,
+          716.7817578900001,
+          452.058,
+          734.21675789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 122,
+      "page": 8,
+      "subtype": "/StrikeOut",
+      "comment": "",
+      "selected_text": "στρατῷ←στρατός,-οῦ,ὁ;dat.,sing.",
+      "verse_segments": [],
+      "quads_top_left": [
+        [
+          67.1101,
+          721.7637578900001,
+          201.252,
+          732.9707578900001
+        ]
+      ],
+      "action": "excluir",
+      "status": "registrado_para_revisao"
+    },
+    {
+      "id": 123,
+      "page": 8,
+      "subtype": "/Highlight",
+      "comment": "",
+      "selected_text": "εἴτιμὴ",
+      "verse_segments": [
+        {
+          "verse": 158,
+          "marked": "εἴτιμὴ",
+          "text": "εἴ τι μὴ δαίμων παλαιὸς νῦν μεθέστηκε στρατῷ."
+        }
+      ],
+      "quads_top_left": [
+        [
+          229.606,
+          716.7817578900001,
+          270.818,
+          734.21675789
+        ]
+      ],
+      "action": "incluir_ou_ampliar",
+      "status": "registrado_para_revisao"
+    }
+  ]
+}
